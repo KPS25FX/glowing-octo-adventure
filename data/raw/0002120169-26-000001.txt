@@ -1,0 +1,370 @@
+<SEC-DOCUMENT>0002120169-26-000001.txt : 20260921
+<SEC-HEADER>0002120169-26-000001.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921163047
+ACCESSION NUMBER:		0002120169-26-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lopes Rafael Gamboa
+		CENTRAL INDEX KEY:			0002120169
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14878
+		FILM NUMBER:		261394319
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AVENUE DOUTORA RUTH DE CARDOSO, 8501
+		STREET 2:		8TH FLOOR, PINHEIROS
+		CITY:			SAO PAULO
+		NON US STATE TERRITORY:  	SAO PAULO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			05425-070
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GERDAU S.A.
+		CENTRAL INDEX KEY:			0001073404
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES & ROLLING & FINISHING MILLS [3310]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			D5
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AV DOUTORA RUTH CARDOSO, 8,501
+		STREET 2:		8TH FLOOR
+		CITY:			SAO PAULO, SP
+		PROVINCE COUNTRY:   	D5
+		ZIP:			05425-070
+		BUSINESS PHONE:		011-55-51-3323-2703
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AV DOUTORA RUTH CARDOSO, 8,501
+		STREET 2:		8TH FLOOR
+		CITY:			SAO PAULO, SP
+		PROVINCE COUNTRY:   	D5
+		ZIP:			05425-070
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GERDAU SA
+		DATE OF NAME CHANGE:	19981112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001073404</issuerCik>
+        <issuerName>GERDAU S.A.</issuerName>
+        <issuerTradingSymbol>GGB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>GGBR</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002120169</rptOwnerCik>
+            <rptOwnerName>Lopes Rafael Gamboa</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>AVENUE DOUTORA RUTH DE CARDOSO, 8501</rptOwnerStreet1>
+            <rptOwnerStreet2>8TH FLOOR, PINHEIROS</rptOwnerStreet2>
+            <rptOwnerCity>SAO PAULO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>SAO PAULO</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>05425-070</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Executive Vice President</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Preferred shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>51800</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.09</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>83399</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.78</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2027-02-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-02-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Preferred shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3570</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3570</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.78</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2027-02-22</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-02-22</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Preferred shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25646</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25646</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.56</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2027-04-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-04-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Preferred shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5540</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5540</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.56</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2028-02-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Preferred shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4987</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4987</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.56</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2028-02-21</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Preferred shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>34356</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34356</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.04</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2029-02-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-02-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Preferred shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6683</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6683</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price is denominated in Brazilian reais and has been translated into U.S. dollars at the September 17, 2026 selling rate of R$5.1521 per US$1.00, as reported by the Central Bank of Brazil.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Rafael Gamboa Lopes</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

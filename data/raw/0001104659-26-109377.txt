@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001104659-26-109377.txt : 20260921
+<SEC-HEADER>0001104659-26-109377.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921180103
+ACCESSION NUMBER:		0001104659-26-109377
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reynolds James
+		CENTRAL INDEX KEY:			0001712536
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40206
+		FILM NUMBER:		261394875
+
+	MAIL ADDRESS:	
+		STREET 1:		29 WARNER ROAD
+		CITY:			GROSSE POINTE FARMS
+		STATE:			MI
+		ZIP:			48236
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XBP Global Holdings, Inc.
+		CENTRAL INDEX KEY:			0001839530
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				852002883
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6641 N. BELT LINE ROAD, SUITE 100
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75063
+		BUSINESS PHONE:		(844) 935-2832
+
+	MAIL ADDRESS:	
+		STREET 1:		6641 N. BELT LINE ROAD, SUITE 100
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75063
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XBP Europe Holdings, Inc.
+		DATE OF NAME CHANGE:	20231129
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CF Acquisition Corp. VIII
+		DATE OF NAME CHANGE:	20210107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2625819-4_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001839530</issuerCik>
+        <issuerName>XBP Global Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>XBP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001712536</rptOwnerCik>
+            <rptOwnerName>Reynolds James</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O XBP GLOBAL HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6641 N. BELT LINE ROAD, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>IRVING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75063</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55031</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>99102</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents Restricted Stock Units (&quot;RSUs&quot;) issued to the Reporting Person under the Company's 2024 Stock Incentive Plan, as amended. The RSUs are scheduled to vest in full on August 1, 2027.</footnote>
+        <footnote id="F2">On December 12, 2025, the Issuer's common stock reverse split 1-for-10 (the &quot;Reverse Split&quot;), resulting in a decrease of 396,644 shares in the reporting person's ownership of common stock. Includes RSUs previously granted to the Reporting Person under the Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James Reynolds</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,214 @@
+<SEC-DOCUMENT>0001294280-26-000006.txt : 20260921
+<SEC-HEADER>0001294280-26-000006.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921095353
+ACCESSION NUMBER:		0001294280-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CULP ROBERT GEORGE IV
+		CENTRAL INDEX KEY:			0001294280
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12597
+		FILM NUMBER:		261392500
+
+	MAIL ADDRESS:	
+		STREET 1:		101 SOUTH MAIN STREET
+		CITY:			HIGH POINT
+		STATE:			NC
+		ZIP:			27260
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CULP INC
+		CENTRAL INDEX KEY:			0000723603
+		STANDARD INDUSTRIAL CLASSIFICATION:	BROADWOVEN FABRIC MILLS, COTTON [2211]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				561001967
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 W. ENGLISH ROAD 5TH FLOOR
+		CITY:			HIGH POINT
+		STATE:			NC
+		ZIP:			27262
+		BUSINESS PHONE:		3368895161
+
+	MAIL ADDRESS:	
+		STREET 1:		410 W. ENGLISH ROAD 5TH FLOOR
+		CITY:			HIGH POINT
+		STATE:			NC
+		ZIP:			27262
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000723603</issuerCik>
+        <issuerName>CULP INC</issuerName>
+        <issuerTradingSymbol>CULP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001294280</rptOwnerCik>
+            <rptOwnerName>CULP ROBERT GEORGE IV</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>410 W. ENGLISH ROAD, 5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HIGH POINT</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>27262</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4874</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.78</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>133959</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>318071</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1740</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Anna S. Culp Irrevocable Trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1740</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Robert G. Culp, V Irrevocable Trust</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Estimated number of shares based on calculation from information provided by 401(k) plan administrator regarding units in the stock fund held by the reporting person.</footnote>
+        <footnote id="F2">Estimated share purchase price based on information provided by 401(k) plan administrator.</footnote>
+        <footnote id="F3">These shares are held of record by CIBC National Trust Company in a trust for the benefit of the reporting person's daughter.  The reporting person is the sole trustee of this trust, and the reporting person has sole voting, dispositive and investment power with respect to these shares.</footnote>
+        <footnote id="F4">These shares are held of record by CIBC National Trust Company in a trust for the benefit of the reporting person's son. The reporting person is the sole trustee of this trust, and the reporting person has sole voting, dispositive and investment power with respect to these shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Justin M. Grow, Attorney-In-Fact</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

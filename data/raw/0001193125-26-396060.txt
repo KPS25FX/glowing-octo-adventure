@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0001193125-26-396060.txt : 20260921
+<SEC-HEADER>0001193125-26-396060.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921070504
+ACCESSION NUMBER:		0001193125-26-396060
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SHERIFF WILLIAM M
+		CENTRAL INDEX KEY:			0001229379
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41489
+		FILM NUMBER:		261392264
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			enCore Energy Corp.
+		CENTRAL INDEX KEY:			0001500881
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS METAL ORES [1090]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE GALLERIA TOWER
+		STREET 2:		13355 NOEL RD, SUITE 1700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+		BUSINESS PHONE:		361-239-5449
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE GALLERIA TOWER
+		STREET 2:		13355 NOEL RD, SUITE 1700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Encore Energy Corp.
+		DATE OF NAME CHANGE:	20170301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WOLFPACK GOLD CORP.
+		DATE OF NAME CHANGE:	20130523
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGRIS URANIUM CORP.
+		DATE OF NAME CHANGE:	20100908
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001500881</issuerCik>
+        <issuerName>enCore Energy Corp.</issuerName>
+        <issuerTradingSymbol>EU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001229379</rptOwnerCik>
+            <rptOwnerName>SHERIFF WILLIAM M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>ONE GALLERIA TOWER,</rptOwnerStreet1>
+            <rptOwnerStreet2>13355 NOEL RD, SUITE 1700</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75240</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.81</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1662169</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.81</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a purchase price of $1.14 Canadian dollars, converted to U.S. dollars at the daily average exchange rate of $1.00 to CAD$1.4002 reported by the Bank of Canada on September 18, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert W. Hudson Jr. as attorney-in-fact for William M. Sheriff</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

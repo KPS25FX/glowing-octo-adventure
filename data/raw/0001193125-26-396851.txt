@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001193125-26-396851.txt : 20260921
+<SEC-HEADER>0001193125-26-396851.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921173146
+ACCESSION NUMBER:		0001193125-26-396851
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MYERS FRANKLIN
+		CENTRAL INDEX KEY:			0001207002
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41325
+		FILM NUMBER:		261394805
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HF SINCLAIR CORPORATION
+		STREET 2:		2323 VICTORY AVE., SUITE 1400
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75219
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HF Sinclair Corp
+		CENTRAL INDEX KEY:			0001915657
+		STANDARD INDUSTRIAL CLASSIFICATION:	PIPE LINES (NO NATURAL GAS) [4610]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				872092143
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2323 VICTORY AVENUE
+		STREET 2:		SUITE 1400
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75219
+		BUSINESS PHONE:		214-954-6696
+
+	MAIL ADDRESS:	
+		STREET 1:		2323 VICTORY AVENUE
+		STREET 2:		SUITE 1400
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hippo Parent Corp
+		DATE OF NAME CHANGE:	20220307
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001915657</issuerCik>
+        <issuerName>HF Sinclair Corp</issuerName>
+        <issuerTradingSymbol>DINO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001207002</rptOwnerCik>
+            <rptOwnerName>MYERS FRANKLIN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2323 VICTORY AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1400</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75219</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>922</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>196884</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units granted under the HF Sinclair Corporation Amended and Restated 2020 Long Term Incentive Plan. The restricted stock units vest on December 1, 2026, provided that the reporting person continues to provide services to the Issuer through such vesting date. The vested restricted stock units will be paid on May 1, 2028 in the form of the Issuer's common stock equal to the number of vested restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Harrison Morris Attorney-in-Fact for Franklin Myers</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

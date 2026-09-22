@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0001833972-26-000006.txt : 20260921
+<SEC-HEADER>0001833972-26-000006.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921161508
+ACCESSION NUMBER:		0001833972-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stash Ryan
+		CENTRAL INDEX KEY:			0001833972
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32942
+		FILM NUMBER:		261394097
+
+	MAIL ADDRESS:	
+		STREET 1:		1155 DAIRY ASHFORD ROAD
+		STREET 2:		SUITE 425
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EVOLUTION PETROLEUM CORP
+		CENTRAL INDEX KEY:			0001006655
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				411781991
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1155 DAIRY ASHFORD ROAD
+		STREET 2:		SUITE 425
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+		BUSINESS PHONE:		713-935-0122
+
+	MAIL ADDRESS:	
+		STREET 1:		1155 DAIRY ASHFORD ROAD
+		STREET 2:		SUITE 425
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATURAL GAS SYSTEMS INC/NEW
+		DATE OF NAME CHANGE:	20040817
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATURAL GAS SYSTEMS, INC.
+		DATE OF NAME CHANGE:	20040810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REALITY INTERACTIVE INC
+		DATE OF NAME CHANGE:	19960301
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-09212026_040903.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001006655</issuerCik>
+        <issuerName>EVOLUTION PETROLEUM CORP</issuerName>
+        <issuerTradingSymbol>EPM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001833972</rptOwnerCik>
+            <rptOwnerName>Stash Ryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1155 DAIRY ASHFORD ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 425</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77079</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP &amp; CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>97561</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>370974</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>48781</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-06-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>48781</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48781</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Award of Restricted Stock pursuant to Company's Amended and Restated 2016 Equity Incentive Plan, subject to vesting terms and performance goals.</footnote>
+        <footnote id="F2">The Company granted performance stock units (&quot;PSUs&quot;) pursuant to the Company's Amended and Restated 2016 Equity Incentive Plan. Each PSU represents a contingent right to receive one share of Issuer's common stock, subject to the attainment of performance goals
+and other vesting criteria. Common shares of stock will not be issued until the performance goals and other vesting criteria have been achieved.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ RYAN STASH</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

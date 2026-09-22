@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001542765-26-000001.txt : 20260921
+<SEC-HEADER>0001542765-26-000001.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921165916
+ACCESSION NUMBER:		0001542765-26-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Palmer Peter
+		CENTRAL INDEX KEY:			0001542765
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32833
+		FILM NUMBER:		261394527
+
+	MAIL ADDRESS:	
+		STREET 1:		1350 EUCLID AVE, SUITE 1600
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44115
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TransDigm Group INC
+		CENTRAL INDEX KEY:			0001260221
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT PART & AUXILIARY EQUIPMENT, NEC [3728]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				510484716
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1350 EUCLID AVENUE
+		STREET 2:		SUITE 1600
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44115
+		BUSINESS PHONE:		216 706 2960
+
+	MAIL ADDRESS:	
+		STREET 1:		1350 EUCLID AVENUE
+		STREET 2:		SUITE 1600
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TD HOLDING CORP
+		DATE OF NAME CHANGE:	20030818
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001260221</issuerCik>
+        <issuerName>TransDigm Group INC</issuerName>
+        <issuerTradingSymbol>TDG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001542765</rptOwnerCik>
+            <rptOwnerName>Palmer Peter</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>TRANSDIGM GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1350 EUCLID AVE., SUITE 1600</rptOwnerStreet2>
+            <rptOwnerCity>CLEVELAND</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44115</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>34.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1085.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4064.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Receipt of stock in lieu of payment of semi-annual director fee, based on fair market value in accordance with the Director Share Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Rachel L. Quinlan as attorney in fact for Peter Palmer</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,209 @@
+<SEC-DOCUMENT>0001339396-26-000086.txt : 20260921
+<SEC-HEADER>0001339396-26-000086.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921175520
+ACCESSION NUMBER:		0001339396-26-000086
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Global GP LLC
+		CENTRAL INDEX KEY:			0001339396
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32593
+		FILM NUMBER:		261394863
+
+	BUSINESS ADDRESS:	
+		STREET 1:		275 GROVE STREET
+		STREET 2:		SUITE 3-400
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+		BUSINESS PHONE:		(781) 784-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		275 GROVE STREET
+		STREET 2:		SUITE 3-400
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLOBAL PARTNERS LP
+		CENTRAL INDEX KEY:			0001323468
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-PETROLEUM BULK STATIONS & TERMINALS [5171]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				743140887
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		275 GROVE STREET
+		STREET 2:		SUITE 3-400
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+		BUSINESS PHONE:		(781) 894-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		275 GROVE STREET
+		STREET 2:		SUITE 3-400
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Global Partners LP
+		DATE OF NAME CHANGE:	20050411
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001323468</issuerCik>
+        <issuerName>GLOBAL PARTNERS LP</issuerName>
+        <issuerTradingSymbol>GLP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001339396</rptOwnerCik>
+            <rptOwnerName>Global GP LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GLOBAL PARTNERS LP</rptOwnerStreet1>
+            <rptOwnerStreet2>275 GROVE STREET, SUITE 3-400</rptOwnerStreet2>
+            <rptOwnerCity>NEWTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02466</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>General Partner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common units representing limited partner interests</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>51.08</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>166584</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common units representing limited partner interests</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>49.63</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>171584</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Global GP LLC is purchasing common units for the purpose of satisfying obligations pursuant to awards previously granted to directors and officers under the Global Partners LP Long-Term Incentive Plan (&quot;LTIP&quot;). The reporting person disclaims any pecuniary interest in these securities, and this report shall not be deemed an admission that the reporting person is the beneficial owner of the securities for the purpose of Section 16.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These common units were purchased in multiple transactions at prices ranging from $50.84 to $51.25, inclusive. The reporting person undertakes to provide to Global Partners LP, any security holder of Global Partners LP, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of common units purchased at each separate price within the ranges set forth in this footnote (2) to this Form 4.</footnote>
+        <footnote id="F3">The price reported in Column 4 is a weighted average price. These common units were purchased in multiple transactions at prices ranging from $49.07 to $49.93, inclusive. The reporting person undertakes to provide to Global Partners LP, any security holder of Global Partners LP, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of common units purchased at each separate price within the ranges set forth in this footnote (3) to this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Erin Powers Brennan, Attorney-in-Fact for Global GP LLC</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

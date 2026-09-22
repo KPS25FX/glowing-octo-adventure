@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001292814-26-004617.txt : 20260921
+<SEC-HEADER>0001292814-26-004617.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921162040
+ACCESSION NUMBER:		0001292814-26-004617
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			de Souza Cintia Scovine Barcelos
+		CENTRAL INDEX KEY:			0002126545
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15250
+		FILM NUMBER:		261394158
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		NUCLEO CIDADE DE DEUS, S/N
+		STREET 2:		PREDIO VERMELHO, VILA YARA
+		CITY:			OSASCO
+		NON US STATE TERRITORY:  	SAO PAULO/SP
+		PROVINCE COUNTRY:   	D5
+		ZIP:			06029900
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK BRADESCO
+		CENTRAL INDEX KEY:			0001160330
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+		LEGAL ENTITY IDENTIFIER:    	551136842778
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		CIDADE DE DEUS S/N VILA YARA
+		CITY:			SAO PAULO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			06029-900
+		BUSINESS PHONE:		551136842778
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		CIDADE DE DEUS S/N VILA YARA
+		CITY:			SAO PAULO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			06029-900
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001160330</issuerCik>
+        <issuerName>BANK BRADESCO</issuerName>
+        <issuerTradingSymbol>BBD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002126545</rptOwnerCik>
+            <rptOwnerName>de Souza Cintia Scovine Barcelos</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>NUCLEO CIDADE DE DEUS, S/N</rptOwnerStreet1>
+            <rptOwnerStreet2>PREDIO VERMELHO, VILA YARA</rptOwnerStreet2>
+            <rptOwnerCity>OSASCO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>SAO PAULO/SP</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>06029900</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Preference shares - BBDC4</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>60093</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.98</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>275197</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Cintia Scovine Barcelos de Souza</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

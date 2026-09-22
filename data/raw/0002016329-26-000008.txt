@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0002016329-26-000008.txt : 20260921
+<SEC-HEADER>0002016329-26-000008.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921113442
+ACCESSION NUMBER:		0002016329-26-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lozinski Jeffrey William
+		CENTRAL INDEX KEY:			0002016329
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56478
+		FILM NUMBER:		261392927
+
+	MAIL ADDRESS:	
+		STREET 1:		16980 W SERRANDA DRIVE
+		CITY:			LIBERTYVILLE
+		STATE:			IL
+		ZIP:			60048
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kinetic Seas Inc.
+		CENTRAL INDEX KEY:			0001945619
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				471981170
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1501 WOODFIELD ROAD
+		STREET 2:		SUITE 114E
+		CITY:			SCHAUMBURG
+		STATE:			IL
+		ZIP:			60173
+		BUSINESS PHONE:		888-901-8806
+
+	MAIL ADDRESS:	
+		STREET 1:		1501 WOODFIELD ROAD
+		STREET 2:		SUITE 114E
+		CITY:			SCHAUMBURG
+		STATE:			IL
+		ZIP:			60173
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bellatora, Inc.
+		DATE OF NAME CHANGE:	20220906
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001945619</issuerCik>
+        <issuerName>Kinetic Seas Inc.</issuerName>
+        <issuerTradingSymbol>KSEZ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002016329</rptOwnerCik>
+            <rptOwnerName>Lozinski Jeffrey William</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>16980 W SERRANDA DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LIBERTYVILLE</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60048</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>KSEZ</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-09-18</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.029</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10178000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Jeffrey Lozinski</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0001193125-26-396484.txt : 20260921
+<SEC-HEADER>0001193125-26-396484.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921135333
+ACCESSION NUMBER:		0001193125-26-396484
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HAYEK JOSEPH B
+		CENTRAL INDEX KEY:			0001429897
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08399
+		FILM NUMBER:		261393374
+
+	MAIL ADDRESS:	
+		STREET 1:		200 W. OLD WILSON BRIDGE ROAD
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43085
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WORTHINGTON ENTERPRISES, INC.
+		CENTRAL INDEX KEY:			0000108516
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES & ROLLING & FINISHING MILLS [3310]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				311189815
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 W. OLD WILSON BRIDGE ROAD
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43085
+		BUSINESS PHONE:		6144383210
+
+	MAIL ADDRESS:	
+		STREET 1:		200 W. OLD WILSON BRIDGE ROAD
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43085
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WORTHINGTON INDUSTRIES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WORTHINGTON STEEL CO
+		DATE OF NAME CHANGE:	19720123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000108516</issuerCik>
+        <issuerName>WORTHINGTON ENTERPRISES, INC.</issuerName>
+        <issuerTradingSymbol>WOR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001429897</rptOwnerCik>
+            <rptOwnerName>HAYEK JOSEPH B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>200 WEST OLD WILSON BRIDGE ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COLUMBUS</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43085</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>239125</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By IRA (Merrill-Lynch)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1683</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By IRA (Vanguard)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Acquired Under the Deferred Compensation Plan</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5.55</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>57.38</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5.55</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6222.90</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The amount reported includes additional common shares acquired pursuant to the dividend reinvestment feature of the IRA as reported in the plan statement dated June 30, 2026.</footnote>
+        <footnote id="F2">The theoretical WOR common shares (&quot;phantom stock&quot;) credited to the reporting person's account in the Worthington Industries, Inc. Amended and Restated 2005 Deferred Compensation Plan for Directors, as amended (the &quot;Plan&quot;) track WOR common shares on a one-for-one basis.</footnote>
+        <footnote id="F3">Prior to October 1, 2014, the account balances related to the phantom stock investment option could be immediately transferred to other deemed investment options under the terms of the Plan. The Plan provides that, effective October 1, 2014 and thereafter, any amount credited in a participant's account to the phantom stock fund may not be transferred to an alternative deemed investment option under the Plan until distribution from the Plan.  Distributions are made only in WOR common shares and generally commence upon leaving Worthington Enterprises, Inc. and its subsidiaries.</footnote>
+        <footnote id="F4">The amount reported includes the additional unfunded theoretical common shares (i.e., phantom stock) credited pursuant to the dividend reinvestment feature of the 2005 NQ Plan on June 29, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Patrick J. Kennedy, as attorney-in-fact for Joseph B. Hayek</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

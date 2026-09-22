@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001437749-26-030774.txt : 20260921
+<SEC-HEADER>0001437749-26-030774.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921081351
+ACCESSION NUMBER:		0001437749-26-030774
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Smith Trent N.
+		CENTRAL INDEX KEY:			0001705689
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41940
+		FILM NUMBER:		261392325
+
+	MAIL ADDRESS:	
+		STREET 1:		21 WATERWAY AVENUE, SUITE 300
+		STREET 2:		C/O AUTONOMIX MEDICAL, INC.
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Autonomix Medical, Inc.
+		CENTRAL INDEX KEY:			0001617867
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				471607810
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21 WATERWAY AVENUE, SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+		BUSINESS PHONE:		832-277-7816
+
+	MAIL ADDRESS:	
+		STREET 1:		21 WATERWAY AVENUE, SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4 - SMITH, TRENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001617867</issuerCik>
+        <issuerName>Autonomix Medical, Inc.</issuerName>
+        <issuerTradingSymbol>AMIX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705689</rptOwnerCik>
+            <rptOwnerName>Smith Trent N.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>21 WATERWAY AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77380</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15119</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock award vesting one-year from the date of issuance of September 3, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Trent Smith</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

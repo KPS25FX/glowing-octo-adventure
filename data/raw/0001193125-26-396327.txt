@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001193125-26-396327.txt : 20260921
+<SEC-HEADER>0001193125-26-396327.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921114431
+ACCESSION NUMBER:		0001193125-26-396327
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lincoln Financial Investments Corp
+		CENTRAL INDEX KEY:			0001464867
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-24066
+		FILM NUMBER:		261392960
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1300 SOUTH CLINTON STREET
+		CITY:			FORT WAYNE
+		STATE:			IN
+		ZIP:			46802
+		BUSINESS PHONE:		260-455-6918
+
+	MAIL ADDRESS:	
+		STREET 1:		1300 SOUTH CLINTON STREET
+		CITY:			FORT WAYNE
+		STATE:			IN
+		ZIP:			46802
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Lincoln Investment Advisors Corp
+		DATE OF NAME CHANGE:	20090526
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lincoln Bain Capital Total Credit Fund
+		CENTRAL INDEX KEY:			0002054992
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1301 S. HARRISON STREET
+		CITY:			FORT WAYNE
+		STATE:			IN
+		ZIP:			46802
+		BUSINESS PHONE:		(484) 583-6302
+
+	MAIL ADDRESS:	
+		STREET 1:		1301 S. HARRISON STREET
+		CITY:			FORT WAYNE
+		STATE:			IN
+		ZIP:			46802
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002054992</issuerCik>
+        <issuerName>Lincoln Bain Capital Total Credit Fund</issuerName>
+        <issuerTradingSymbol>LNBIX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001464867</rptOwnerCik>
+            <rptOwnerName>Lincoln Financial Investments Corp</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>150 N. RADNOR-CHESTER ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RADNOR</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19087</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>true</isOther>
+            <otherText>Investment Adviser</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class I shares of beneficial interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2460629.92</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.16</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27950485.42</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares are owned directly by certain series of the Lincoln Variable Insurance Products Trust (the &quot;Trust&quot;), an investment company registered with the U.S. Securities and Exchange Commission under the Investment Company Act of 1940, as amended. Lincoln Financial Investments Corporation, a registered investment adviser under the Investment Advisers Act of 1940, as amended, serves as the investmnt adviser to each such series of the Trust, and may be deemed to have beneficial ownership of the shares reported herein.</footnote>
+        <footnote id="F2">Includes shares received pursuant to the Issuer's dividend reinvestment plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Name of Reporting Person: Lincoln Financial Investments Corporation, /s/ Gordon Huellmantel, Gordon Huellmantel, Senior Vice President</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

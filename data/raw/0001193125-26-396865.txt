@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001193125-26-396865.txt : 20260921
+<SEC-HEADER>0001193125-26-396865.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921174428
+ACCESSION NUMBER:		0001193125-26-396865
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FRANK SIMON R.
+		CENTRAL INDEX KEY:			0001865532
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38084
+		FILM NUMBER:		261394832
+
+	MAIL ADDRESS:	
+		STREET 1:		307 N. DEFIANCE STREET
+		CITY:			ARCHBOLD
+		STATE:			OH
+		ZIP:			43502
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FARMERS & MERCHANTS BANCORP INC
+		CENTRAL INDEX KEY:			0000792966
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				341469491
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		307-11 N DEFIANCE ST
+		CITY:			ARCHBOLD
+		STATE:			OH
+		ZIP:			43502
+		BUSINESS PHONE:		4194462501
+
+	MAIL ADDRESS:	
+		STREET 1:		307-11 NORTH DEFIANCE ST
+		CITY:			ARCHBOLD
+		STATE:			OH
+		ZIP:			43502
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000792966</issuerCik>
+        <issuerName>FARMERS &amp; MERCHANTS BANCORP INC</issuerName>
+        <issuerTradingSymbol>FMAO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001865532</rptOwnerCik>
+            <rptOwnerName>FRANK SIMON R.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2950 WALNUT LAKE RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WEST BLOOMFIELD</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48323</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>386</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.67</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3651</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents all of this Director's compensation for July, August, &amp; September 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Melinda L. Gies// Attorney in Fact</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

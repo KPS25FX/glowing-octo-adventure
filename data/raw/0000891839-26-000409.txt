@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0000891839-26-000409.txt : 20260921
+<SEC-HEADER>0000891839-26-000409.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921163101
+ACCESSION NUMBER:		0000891839-26-000409
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20250912
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gregorio Mauro
+		CENTRAL INDEX KEY:			0001809712
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08462
+		FILM NUMBER:		261394323
+
+	MAIL ADDRESS:	
+		STREET 1:		5960 BERKSHIRE LN
+		STREET 2:		SUITE 900
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GRAHAM CORP
+		CENTRAL INDEX KEY:			0000716314
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				161194720
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 FLORENCE AVE
+		CITY:			BATAVIA
+		STATE:			NY
+		ZIP:			14020
+		BUSINESS PHONE:		5853432216
+
+	MAIL ADDRESS:	
+		STREET 1:		20 FLORENCE AVENUE
+		CITY:			BATAVIA
+		STATE:			NY
+		ZIP:			14020
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>form4a.xml
+<DESCRIPTION>AMENDED STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2025-09-12</periodOfReport>
+
+    <dateOfOriginalSubmission>2025-09-15</dateOfOriginalSubmission>
+
+    <issuer>
+        <issuerCik>0000716314</issuerCik>
+        <issuerName>GRAHAM CORP</issuerName>
+        <issuerTradingSymbol>GHM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001809712</rptOwnerCik>
+            <rptOwnerName>Gregorio Mauro</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GRAHAM CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>20 FLORENCE AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BATAVIA</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>14020</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2025-09-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>49.01</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Family Trust</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This Form 4 amendment is being filed to correct the nature of ownership that was inadvertently reported as being directly owned in the prior Form 4. The reporting person and his spouse are co-trustees of the trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christina McLeod, Attorney-in-Fact for Mauro Gregorio</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

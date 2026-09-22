@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001683168-26-007270.txt : 20260921
+<SEC-HEADER>0001683168-26-007270.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921175129
+ACCESSION NUMBER:		0001683168-26-007270
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fischer Jamie
+		CENTRAL INDEX KEY:			0002041234
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14939
+		FILM NUMBER:		261394853
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AMERICA'S CAR-MART, INC.
+		STREET 2:		1805 NORTH 2ND STREET, SUITE 401
+		CITY:			ROGERS
+		STATE:			AR
+		ZIP:			72756
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAS CARMART INC
+		CENTRAL INDEX KEY:			0000799850
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-AUTO DEALERS & GASOLINE STATIONS [5500]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				630851141
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1805 NORTH 2ND STREET
+		STREET 2:		SUITE 401
+		CITY:			ROGERS
+		STATE:			AR
+		ZIP:			72756
+		BUSINESS PHONE:		(479) 464-9944
+
+	MAIL ADDRESS:	
+		STREET 1:		1805 NORTH 2ND STREET
+		STREET 2:		SUITE 401
+		CITY:			ROGERS
+		STATE:			AR
+		ZIP:			72756
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CROWN GROUP INC /TX/
+		DATE OF NAME CHANGE:	19971022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CROWN CASINO CORP
+		DATE OF NAME CHANGE:	19931104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SKYLINK AMERICA INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000799850</issuerCik>
+        <issuerName>AMERICAS CARMART INC</issuerName>
+        <issuerTradingSymbol>CRMT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002041234</rptOwnerCik>
+            <rptOwnerName>Fischer Jamie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AMERICA'S CAR-MART, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1805 NORTH 2ND STREET, SUITE 401</rptOwnerStreet2>
+            <rptOwnerCity>ROGERS</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72756</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>380</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.78</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12226</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld by the issuer to satisfy the reporting person's tax obligation in connection with the vesting of a previously reported award of restricted stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Courtney C. Crouch, III, Pursuant to a Power of Attorney</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

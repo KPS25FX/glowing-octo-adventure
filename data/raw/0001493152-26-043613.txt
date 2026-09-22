@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001493152-26-043613.txt : 20260921
+<SEC-HEADER>0001493152-26-043613.hdr.sgml : 20260921
+<ACCEPTANCE-DATETIME>20260921190002
+ACCESSION NUMBER:		0001493152-26-043613
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260803
+FILED AS OF DATE:		20260921
+DATE AS OF CHANGE:		20260921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tkachenko Igor
+		CENTRAL INDEX KEY:			0001995513
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43042
+		FILM NUMBER:		261394985
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 N. FEDERAL HWY
+		STREET 2:		SUITE 200
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33432
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATLAS CRITICAL MINERALS Corp
+		CENTRAL INDEX KEY:			0001684688
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			1T
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BELO HORIZONTE
+		CITY:			MINAS GERAIS
+		STATE:			D5
+		ZIP:			30112-010
+		BUSINESS PHONE:		55-31-3956-1109
+
+	MAIL ADDRESS:	
+		STREET 1:		BELO HORIZONTE
+		CITY:			MINAS GERAIS
+		STATE:			D5
+		ZIP:			30112-010
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Jupiter Gold Corp
+		DATE OF NAME CHANGE:	20160914
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001684688</issuerCik>
+        <issuerName>ATLAS CRITICAL MINERALS Corp</issuerName>
+        <issuerTradingSymbol>ATCX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001995513</rptOwnerCik>
+            <rptOwnerName>Tkachenko Igor</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>RUA ANTONIO DE ALBUQUERQUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1720</rptOwnerStreet2>
+            <rptOwnerCity>BELO HORIZONTE</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>MINAS GERAIS</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>30112-010</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>VP, Corporate Strategy</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18767</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>42990</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Securities acquired by the Reporting Person pursuant to employment-related contractual obligations entered into in February 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Igor Tkachenko</signatureName>
+        <signatureDate>2026-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
