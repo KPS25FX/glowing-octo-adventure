@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001193125-26-363747.txt : 20260824
+<SEC-HEADER>0001193125-26-363747.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824170026
+ACCESSION NUMBER:		0001193125-26-363747
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260612
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Toole David D
+		CENTRAL INDEX KEY:			0001491140
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39059
+		FILM NUMBER:		261311426
+
+	MAIL ADDRESS:	
+		STREET 1:		28159 AVENUE STANFORD, SUITE 220
+		CITY:			VALENCIA
+		STATE:			CA
+		ZIP:			91355
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVITA Medical, Inc.
+		CENTRAL INDEX KEY:			0001762303
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				202578762
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		28159 AVENUE STANFORD
+		STREET 2:		SUITE 220
+		CITY:			VALENCIA
+		STATE:			CA
+		ZIP:			91355
+		BUSINESS PHONE:		661-568-1317
+
+	MAIL ADDRESS:	
+		STREET 1:		28159 AVENUE STANFORD
+		STREET 2:		SUITE 220
+		CITY:			VALENCIA
+		STATE:			CA
+		ZIP:			91355
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Avita Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20200630
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Avita Medical, Ltd.
+		DATE OF NAME CHANGE:	20181218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4/A
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-06-12</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-06-12</dateOfOriginalSubmission>
+
+    <issuer>
+        <issuerCik>0001762303</issuerCik>
+        <issuerName>AVITA Medical, Inc.</issuerName>
+        <issuerTradingSymbol>RCEL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001491140</rptOwnerCik>
+            <rptOwnerName>O'Toole David D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>28159 AVENUE STANFORD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 220 - AVITA MEDICAL</rptOwnerStreet2>
+            <rptOwnerCity>VALENCIA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91355</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.97</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>152927</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The original Form 4, filed on June 12, 2026, inadvertently used transaction code 'A' instead of transaction code 'P'. This amendment corrects the transaction code.</footnote>
+        <footnote id="F2">Includes unvested RSUs</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David O'Toole</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,262 @@
+<SEC-DOCUMENT>0001193125-26-365617.txt : 20260825
+<SEC-HEADER>0001193125-26-365617.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825201923
+ACCESSION NUMBER:		0001193125-26-365617
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stone Emma Kate
+		CENTRAL INDEX KEY:			0002115340
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09526
+		FILM NUMBER:		261317332
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		171 COLLINS STREET
+		CITY:			MELBOURNE
+		NON US STATE TERRITORY:  	VICTORIA
+		PROVINCE COUNTRY:   	C3
+		ZIP:			3000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BHP Group Ltd
+		CENTRAL INDEX KEY:			0000811809
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			C3
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		16/171 COLLINS STREET
+		STREET 2:		MELBOURNE
+		CITY:			VICTORIA AUSTRALIA
+		NON US STATE TERRITORY:  	VICTORIA
+		PROVINCE COUNTRY:   	C3
+		ZIP:			3000
+		BUSINESS PHONE:		011611300554757
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		GPO BOX 86
+		STREET 2:		MELBOURNE
+		CITY:			VICTORIA AUSTRALIA
+		NON US STATE TERRITORY:  	VICTORIA
+		PROVINCE COUNTRY:   	C3
+		ZIP:			3000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BHP BILLITON LTD
+		DATE OF NAME CHANGE:	20010629
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BHP LTD
+		DATE OF NAME CHANGE:	20010129
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROKEN HILL PROPRIETARY CO LTD
+		DATE OF NAME CHANGE:	19960116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000811809</issuerCik>
+        <issuerName>BHP Group Ltd</issuerName>
+        <issuerTradingSymbol>BHP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>BHP</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002115340</rptOwnerCik>
+            <rptOwnerName>Stone Emma Kate</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>171 COLLINS STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MELBOURNE</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>VICTORIA</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C3</rptOwnerCountry>
+            <rptOwnerZipCode>3000</rptOwnerZipCode>
+            <rptOwnerStateDescription>AUSTRALIA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Group Financial Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares, no par value per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7774</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11490</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares, no par value per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6774</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>46.57</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4716</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Conditional Awards</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7774</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares, no par value per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7774</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Conditional Award represented a contingent right to receive one BHP Group ordinary share. The Conditional Awards were granted on September 27, 2023 and vested on August 21, 2026, in accordance with the plan rules, subject to continued service through June 30, 2026.</footnote>
+        <footnote id="F2">The price was converted from A$65.18 to US$46.57 using the Reserve Bank of Australia (RBA) exchange rate on August 21, 2026 of A$1 = US$0.7145.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Anthony Sciuto, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

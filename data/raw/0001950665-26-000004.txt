@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001950665-26-000004.txt : 20260825
+<SEC-HEADER>0001950665-26-000004.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825184729
+ACCESSION NUMBER:		0001950665-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Janez Claudia
+		CENTRAL INDEX KEY:			0001950665
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-02409
+		FILM NUMBER:		261317181
+
+	MAIL ADDRESS:	
+		STREET 1:		BOSQUE DE ZAPOTES 12
+		STREET 2:		BOSQUES DE LAS LOMAS
+		CITY:			CIUDAD DE MEXICO
+		STATE:			O5
+		ZIP:			11700
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEXICO FUND INC
+		CENTRAL INDEX KEY:			0000065433
+		ORGANIZATION NAME:           	
+		EIN:				133069854
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6700 ALEXANDER BELL DRIVE, SUITE 200
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21046
+		BUSINESS PHONE:		202-261-7941
+
+	MAIL ADDRESS:	
+		STREET 1:		77 ARISTOTELES STREET 3RD FLOOR
+		CITY:			POLANCO D F
+		STATE:			O5
+		ZIP:			11560
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000065433</issuerCik>
+        <issuerName>MEXICO FUND INC</issuerName>
+        <issuerTradingSymbol>MXF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001950665</rptOwnerCik>
+            <rptOwnerName>Janez Claudia</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BOSQUE DE ZAPOTES 12</rptOwnerStreet1>
+            <rptOwnerStreet2>BOSQUES DE LAS LOMAS</rptOwnerStreet2>
+            <rptOwnerCity>CIUDAD DE MEXICO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>O5</rptOwnerCountry>
+            <rptOwnerZipCode>11700</rptOwnerZipCode>
+            <rptOwnerStateDescription>MEXICO</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>677</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>21.8385</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4118</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Claudia Janez by /s/ Philip B. Sineneng pursuant to power of attorney filed 5/19/2025</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001193125-26-365138.txt : 20260825
+<SEC-HEADER>0001193125-26-365138.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825161206
+ACCESSION NUMBER:		0001193125-26-365138
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JPMorgan Chase Bank, N.A.
+		CENTRAL INDEX KEY:			0000835271
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		ORGANIZATION NAME:           	Office of Structured Finance
+		STATE OF INCORPORATION:			X1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-21078
+		FILM NUMBER:		261315867
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 POLARIS PARKWAY
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43240
+		BUSINESS PHONE:		212-648-0466
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 POLARIS PARKWAY
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43240
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	JPMorgan Chase Bank, National Association
+		DATE OF NAME CHANGE:	20050114
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	CHASE MANHATTAN BANK /NY/
+		DATE OF NAME CHANGE:	19960911
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	CHEMICAL BANK
+		DATE OF NAME CHANGE:	19930521
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PIMCO NEW YORK MUNICIPAL INCOME FUND II
+		CENTRAL INDEX KEY:			0001170311
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-739-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001170311</issuerCik>
+        <issuerName>PIMCO NEW YORK MUNICIPAL INCOME FUND II</issuerName>
+        <issuerTradingSymbol>PNI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000835271</rptOwnerCik>
+            <rptOwnerName>JPMorgan Chase Bank, N.A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1111 POLARIS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COLUMBUS</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43240</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Remarketable Variable Rate MuniFund Term Preferred Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>149</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The 149 remarketable variable rate munifund term preferred shares reported as disposed of in Table I represent remarketable variable rate munifund term preferred shares, Series 2054-A (the &quot;RVMTP Shares&quot;) indirectly beneficially owned by JPMorgan Chase Bank, National Association (&quot;JPMCB&quot;). The RVMTP Shares were disposed of as a result of a redemption by the Issuer for a redemption price of $100,211.23288 per share (which includes a liquidation preference of $100,000.00 per share and accrued dividends of $211.23288 per share).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adrian Budischak, Authorized Signatory</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

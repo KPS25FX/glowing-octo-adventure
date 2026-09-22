@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001193125-26-362146.txt : 20260824
+<SEC-HEADER>0001193125-26-362146.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824095659
+ACCESSION NUMBER:		0001193125-26-362146
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LEE SPENCER S
+		CENTRAL INDEX KEY:			0001207134
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08351
+		FILM NUMBER:		261307038
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 CHEMED CENTER
+		STREET 2:		255 EAST FIFTH ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHEMED CORP
+		CENTRAL INDEX KEY:			0000019584
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HOME HEALTH CARE SERVICES [8082]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				310791746
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 2600
+		STREET 2:		255 E FIFTH ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+		BUSINESS PHONE:		(513)762-6690
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 2600
+		STREET 2:		255 E FIFTH STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202-4726
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROTO-ROOTER INC
+		DATE OF NAME CHANGE:	20030613
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHEMED CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000019584</issuerCik>
+        <issuerName>CHEMED CORP</issuerName>
+        <issuerTradingSymbol>CHE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001207134</rptOwnerCik>
+            <rptOwnerName>LEE SPENCER S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2500 CHEMED CENTER</rptOwnerStreet1>
+            <rptOwnerStreet2>255 EAST 5TH STREET</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>executive vice president</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Capital Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>541.04</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13912</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Spencer S. Lee</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

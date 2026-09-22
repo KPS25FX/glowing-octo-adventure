@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001784973-26-000007.txt : 20260825
+<SEC-HEADER>0001784973-26-000007.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825172555
+ACCESSION NUMBER:		0001784973-26-000007
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lynch Susan D
+		CENTRAL INDEX KEY:			0001784973
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39110
+		FILM NUMBER:		261316976
+
+	MAIL ADDRESS:	
+		STREET 1:		2424 GARDEN OF THE GODS ROAD
+		STREET 2:		SUITE 300
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80919
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ONTO INNOVATION INC.
+		CENTRAL INDEX KEY:			0000704532
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				942276314
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16 JONSPIN ROAD
+		CITY:			WILMINGTON
+		STATE:			MA
+		ZIP:			01887
+		BUSINESS PHONE:		9782536200
+
+	MAIL ADDRESS:	
+		STREET 1:		16 JONSPIN ROAD
+		CITY:			WILMINGTON
+		STATE:			MA
+		ZIP:			01887
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Onto Innovation Inc.
+		DATE OF NAME CHANGE:	20191025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NANOMETRICS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000704532</issuerCik>
+        <issuerName>ONTO INNOVATION INC.</issuerName>
+        <issuerTradingSymbol>ONTO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001784973</rptOwnerCik>
+            <rptOwnerName>Lynch Susan D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ONTO INNOVATION INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>16 JONSPIN ROAD</rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01887</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>302.3</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2684</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 22, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Eric French For: Susan Lynch</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

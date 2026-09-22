@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001225208-26-007316.txt : 20260825
+<SEC-HEADER>0001225208-26-007316.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825150418
+ACCESSION NUMBER:		0001225208-26-007316
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CALAWAY TONIT M
+		CENTRAL INDEX KEY:			0001483815
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12162
+		FILM NUMBER:		261315087
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MANHATTAN WEST, 395 9TH AVE
+		STREET 2:		58TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BORGWARNER INC
+		CENTRAL INDEX KEY:			0000908255
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				133404508
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3850 HAMLIN RD.
+		CITY:			AUBURN HILLS
+		STATE:			MI
+		ZIP:			48326
+		BUSINESS PHONE:		2487549200
+
+	MAIL ADDRESS:	
+		STREET 1:		3850 HAMLIN RD.
+		CITY:			AUBURN HILLS
+		STATE:			MI
+		ZIP:			48326
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BORG WARNER AUTOMOTIVE INC
+		DATE OF NAME CHANGE:	19930628
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000908255</issuerCik>
+        <issuerName>BORGWARNER INC</issuerName>
+        <issuerTradingSymbol>BWA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001483815</rptOwnerCik>
+            <rptOwnerName>CALAWAY TONIT M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3850 HAMLIN ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>AUBURN HILLS</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48326</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP, CAO, Gen Counsel &amp; Sec</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>22000.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>66.2576</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>73831.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price in Column 4 is a weighted average price. The actual prices received ranged from $65.86 to $66.65. The reporting person has provided to the issuer, and will provide to any security holder of the issuer, or the SEC staff, upon request, information regarding the number of shares sold at each price within the range for all transactions reported in this Form 4 utilizing an average weighted price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Miyuki P. Oshima as attorney-in-fact for Tonit M. Calaway</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

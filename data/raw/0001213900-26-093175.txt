@@ -1,0 +1,264 @@
+<SEC-DOCUMENT>0001213900-26-093175.txt : 20260824
+<SEC-HEADER>0001213900-26-093175.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824182120
+ACCESSION NUMBER:		0001213900-26-093175
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Basi Kuljit Singh
+		CENTRAL INDEX KEY:			0002102317
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43416
+		FILM NUMBER:		261311926
+
+	MAIL ADDRESS:	
+		STREET 1:		5470 KIETZKE LANE
+		STREET 2:		SUITE 300
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89511
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tactical Resources Corp.
+		CENTRAL INDEX KEY:			0002041208
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			0731
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1055 WEST GEORGIA STREET
+		STREET 2:		1500 ROYAL CENTRE
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+		BUSINESS PHONE:		1-778-588-5483
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1055 WEST GEORGIA STREET
+		STREET 2:		1500 ROYAL CENTRE
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Plum III Merger Corp.
+		DATE OF NAME CHANGE:	20241011
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002041208</issuerCik>
+        <issuerName>Tactical Resources Corp.</issuerName>
+        <issuerTradingSymbol>TREO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002102317</rptOwnerCik>
+            <rptOwnerName>Basi Kuljit Singh</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5470 KIETZKE LANE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>RENO</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89511</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>32500</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-08-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>32500</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32500</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Convertible Debenture</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.6338</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2025-01-21</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-01-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityValue>
+                    <value>14116</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityValue>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By SVK Metrix Inc.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants (via Convertible Debenture)</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.6338</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5567</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By SVK Metrix Inc.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of performance stock units (&quot;PRSUs&quot;). Each PRSU represents a contingent right to receive one common share of the Issuer (each, a &quot;Common Share&quot;) upon the earlier of (i) the achievement of certain pre-established share price targets or (ii) a change of control of the Issuer, in each case subject to the Reporting Person's continued employment with the Issuer through the applicable payment date. One-third of the PRSUs will vest upon the Issuer's price per Common Share achieving a daily volume weighted average closing sale price per share (&quot;Stock Price Level&quot;) of $50.00, one-third will vest upon the Issuer's price per Common Share achieving a $60.00 Stock Price Level, and the remaining one-third will vest upon the Issuer's price per Common Share achieving a $70.00 Stock Price Level. Any PRSUs that remain unvested as of the seventh anniversary of the grant date will be forfeited and cancelled without consideration.</footnote>
+        <footnote id="F2">Reflects the 1-for-4 reverse stock split of the Issuer's outstanding common stock effected on 08/20/2026.</footnote>
+        <footnote id="F3">The convertible debenture matures on January 21, 2027, bears interest at 10% per annum, and is convertible into units of the Issuer (each, a &quot;Unit&quot;) at any time before maturity at a conversion price of C$0.80. Each Unit consists of one Common Share and one share purchase warrant, with each warrant exercisable for one Common Share at an exercise price of C$0.80.</footnote>
+        <footnote id="F4">Each warrant becomes exercisable on the date on which the Convertible Debenture is converted into Units of the Issuer.</footnote>
+        <footnote id="F5">Each warrant expires three years following the date of conversion of the Convertible Debenture.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kuljit Singh Basi</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001193125-26-365203.txt : 20260825
+<SEC-HEADER>0001193125-26-365203.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825163009
+ACCESSION NUMBER:		0001193125-26-365203
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nugent Gary John
+		CENTRAL INDEX KEY:			0002045916
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42428
+		FILM NUMBER:		261316205
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		73 WHITEHALL PARK ROAD
+		CITY:			CHISWICK
+		NON US STATE TERRITORY:  	LONDON
+		PROVINCE COUNTRY:   	X0
+		ZIP:			W4 3NB
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TechTarget, Inc.
+		CENTRAL INDEX KEY:			0002018064
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEGRAPH & OTHER MESSAGE COMMUNICATIONS [4822]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				992218610
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		275 GROVE STREET
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+		BUSINESS PHONE:		617-431-9200
+
+	MAIL ADDRESS:	
+		STREET 1:		275 GROVE STREET
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Toro CombineCo, Inc.
+		DATE OF NAME CHANGE:	20240402
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002018064</issuerCik>
+        <issuerName>TechTarget, Inc.</issuerName>
+        <issuerTradingSymbol>TTGT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002045916</rptOwnerCik>
+            <rptOwnerName>Nugent Gary John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TECHTARGET, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>275 GROVE STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEWTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02466</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>187746</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>187746</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>187746</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive one share of the Company's Common Stock upon vesting.</footnote>
+        <footnote id="F2">The RSU grant vests in equal tranches, one-third per year on each anniversary of the grant date. Vested shares will be delivered to the Reporting Person on the applicable dates as set forth in the Reporting Person's award agreement with respect to each vesting tranche.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gary Nugent</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

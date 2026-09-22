@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001193125-26-365134.txt : 20260825
+<SEC-HEADER>0001193125-26-365134.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825161005
+ACCESSION NUMBER:		0001193125-26-365134
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CONNORS MICHAEL P
+		CENTRAL INDEX KEY:			0001249201
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11778
+		FILM NUMBER:		261315804
+
+	MAIL ADDRESS:	
+		STREET 1:		2187 ATLANTIC STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Chubb Ltd
+		CENTRAL INDEX KEY:			0000896159
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			V8
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BARENGASSE 32
+		CITY:			ZURICH
+		STATE:			V8
+		ZIP:			CH-8001
+		BUSINESS PHONE:		41 0 43 456 7600
+
+	MAIL ADDRESS:	
+		STREET 1:		BARENGASSE 32
+		CITY:			ZURICH
+		STATE:			V8
+		ZIP:			CH-8001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHUBB Ltd
+		DATE OF NAME CHANGE:	20160115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACE Ltd
+		DATE OF NAME CHANGE:	20091216
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACE LTD
+		DATE OF NAME CHANGE:	19930122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000896159</issuerCik>
+        <issuerName>Chubb Ltd</issuerName>
+        <issuerTradingSymbol>CB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001249201</rptOwnerCik>
+            <rptOwnerName>CONNORS MICHAEL P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>THE CHUBB BUILDING</rptOwnerStreet1>
+            <rptOwnerStreet2>17 WOODBOURNE AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>HAMILTON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>BERMUDA</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D0</rptOwnerCountry>
+            <rptOwnerZipCode>HM 08</rptOwnerZipCode>
+            <rptOwnerStateDescription>BERMUDA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>345.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12803</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Common Shares reported herein as being sold were sold at the same price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Samantha Froud, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

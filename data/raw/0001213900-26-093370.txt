@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001213900-26-093370.txt : 20260825
+<SEC-HEADER>0001213900-26-093370.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825112149
+ACCESSION NUMBER:		0001213900-26-093370
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cavalcanti Guilherme Perboyre
+		CENTRAL INDEX KEY:			0002117537
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42678
+		FILM NUMBER:		261313512
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		STROOMBAAN 16, 5TH FLOOR
+		CITY:			AMSTELVEEN
+		PROVINCE COUNTRY:   	P7
+		ZIP:			1181 VX
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JBS N.V.
+		CENTRAL INDEX KEY:			0001791942
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEAT PACKING PLANTS [2011]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			P7
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		STROOMBAAN 16
+		STREET 2:		5E VERDIEPING
+		CITY:			AMSTELVEEN
+		PROVINCE COUNTRY:   	P7
+		BUSINESS PHONE:		31206564700
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		STROOMBAAN 16
+		STREET 2:		5E VERDIEPING
+		CITY:			AMSTELVEEN
+		PROVINCE COUNTRY:   	P7
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JBS B.V.
+		DATE OF NAME CHANGE:	20221121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Swift Foods B.V.
+		DATE OF NAME CHANGE:	20200203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Violet Holdings B.V.
+		DATE OF NAME CHANGE:	20191022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001791942</issuerCik>
+        <issuerName>JBS N.V.</issuerName>
+        <issuerTradingSymbol>JBS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002117537</rptOwnerCik>
+            <rptOwnerName>Cavalcanti Guilherme Perboyre</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O JBS N.V.</rptOwnerStreet1>
+            <rptOwnerStreet2>STROOMBAAN 16, 5TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>AMSTELVEEN</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>P7</rptOwnerCountry>
+            <rptOwnerZipCode>1181 VX</rptOwnerZipCode>
+            <rptOwnerStateDescription>NETHERLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Global CFO and IRO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>183501</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.85</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Class A Common Shares, par value (euro)0.01 per share, of the issuer, held in the form of Brazilian Depositary Receipts (&quot;BDRs&quot;). Each BDR represents one Class A Common Share.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price per BDR of R$71.35, converted into U.S. dollars, using the selling rate as reported by the Brazilian Central Bank on August 24, 2026 of R$5.1512 to US$1.00. The BDRs were sold in multiple transactions at prices ranging from R$71.00 to R$72.05 (equivalent to US$13.78 to US$13.99, converted into U.S. dollars using the same selling rate). The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the U.S. Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <remarks>Due to the issuer's status as a foreign private issuer pursuant to Rule 3a12-3(b) under the Securities Exchange Act of 1934 (the &quot;Act&quot;), the reporting person's transactions in the issuer's equity securities are exempt from Sections 16(b) and 16(c) of the Act.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Guilherme Perboyre Cavalcanti</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

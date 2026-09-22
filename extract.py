@@ -15,7 +15,7 @@
 #             published   : Bytes → Set(Day)        days with an index, from a folder listing
 #             filings     : Bytes → Set(Filename)   Form 4s in an index, one per Accession
 #
-# I/O         fetch       : Url → Bytes             the only contact with the SEC
+# I/O         fetch       : Url → Bytes             the only contact with the SEC; retries transient failures
 #             save(f, b)  : R ↦ R ∪ {accession(f) ↦ b}   the only change to R; bytes untouched
 #
 # Chains      day ─index_url──▶ Url ─fetch─▶ Bytes ─filings───▶ Set(Filename)   which filings exist on day
@@ -40,6 +40,7 @@ Filename = str
 
 ARCHIVES: Url = "https://www.sec.gov/Archives/"
 FORM_4 = {"4", "4/A"}
+TRANSIENT = {429, 500, 502, 503, 504}  # busy or failing server: worth retrying
 
 
 # Addresses
@@ -86,11 +87,21 @@ def filings(index: Bytes) -> set[Filename]:
 
 # I/O
 
-def fetch(url: Url, user_agent: str) -> Bytes:
-    time.sleep(0.2)  # SEC limit: 10 requests per second
-    result = requests.get(url, headers={"User-Agent": user_agent}, timeout=30)
-    result.raise_for_status()
-    return result.content
+def fetch(url: Url, user_agent: str, attempts: int = 4) -> Bytes:
+    for attempt in range(attempts):
+        time.sleep(0.2 if attempt == 0 else 2 ** attempt)  # SEC limit 10/s; then back off 2, 4, 8 s
+        last = attempt == attempts - 1
+        try:
+            result = requests.get(url, headers={"User-Agent": user_agent}, timeout=30)
+        except (requests.Timeout, requests.ConnectionError):
+            if last:
+                raise
+            continue
+        if result.status_code in TRANSIENT and not last:
+            continue
+        result.raise_for_status()
+        return result.content
+    raise AssertionError("unreachable")
 
 
 def save(f: Filename, data: Bytes, raw: Path) -> None:

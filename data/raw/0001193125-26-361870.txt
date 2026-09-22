@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001193125-26-361870.txt : 20260824
+<SEC-HEADER>0001193125-26-361870.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824080822
+ACCESSION NUMBER:		0001193125-26-361870
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kovelman Harry
+		CENTRAL INDEX KEY:			0001853204
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38109
+		FILM NUMBER:		261306373
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MYOMO, INC.
+		STREET 2:		137 PORTLAND ST., 4TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MYOMO, INC.
+		CENTRAL INDEX KEY:			0001369290
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		137 PORTLAND STREET
+		STREET 2:		4TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+		BUSINESS PHONE:		617-996-9058
+
+	MAIL ADDRESS:	
+		STREET 1:		137 PORTLAND STREET
+		STREET 2:		4TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MYOMO INC
+		DATE OF NAME CHANGE:	20060718
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4/A
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-08-21</dateOfOriginalSubmission>
+
+    <issuer>
+        <issuerCik>0001369290</issuerCik>
+        <issuerName>MYOMO, INC.</issuerName>
+        <issuerTradingSymbol>MYO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001853204</rptOwnerCik>
+            <rptOwnerName>Kovelman Harry</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O MYOMO, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>45 BLUE SKY DR., SUITE 101</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Medical Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.7331</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>105733</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents weighted average sales price.  Shares sold in open market transactions in multiple lots at prices ranging from $1.72 to $1.75 per share.  Reporting party agrees to provide details of the transactions to the SEC upon request.</footnote>
+    </footnotes>
+
+    <remarks>This Form 4/A is being filed to correct the number of shares sold and the resultant amount of shares beneficially owned following the transactions.  No other amendments to the original Form 4, which was filed on August 21, 2026.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/  David A. Henry, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

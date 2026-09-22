@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001193125-26-365484.txt : 20260825
+<SEC-HEADER>0001193125-26-365484.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825181433
+ACCESSION NUMBER:		0001193125-26-365484
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260822
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tendler Craig
+		CENTRAL INDEX KEY:			0002061924
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43331
+		FILM NUMBER:		261317144
+
+	MAIL ADDRESS:	
+		STREET 1:		867 COLUMBUS DRIVE
+		CITY:			TEANECK
+		STATE:			NJ
+		ZIP:			07666
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Parabilis Medicines, Inc.
+		CENTRAL INDEX KEY:			0001657677
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				474505725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 ACORN PARK DRIVE
+		STREET 2:		6TH FLOOR
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02140
+		BUSINESS PHONE:		617-945-9510
+
+	MAIL ADDRESS:	
+		STREET 1:		30 ACORN PARK DRIVE
+		STREET 2:		6TH FLOOR
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02140
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FOG PHARMACEUTICALS, INC.
+		DATE OF NAME CHANGE:	20151105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-22</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001657677</issuerCik>
+        <issuerName>Parabilis Medicines, Inc.</issuerName>
+        <issuerTradingSymbol>PBLS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002061924</rptOwnerCik>
+            <rptOwnerName>Tendler Craig</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PARABILIS MEDICINES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 ACORN PARK DRIVE, 6TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>CAMBRIDGE</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02140</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>39.36</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20294</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20294</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20294</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares subject to this option shall vest and become exercisable in thirty-six (36) equal monthly installments commencing from August 22, 2026, subject to the Reporting Person's continued service on each such vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Teresa Jurgensen, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

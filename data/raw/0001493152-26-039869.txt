@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001493152-26-039869.txt : 20260824
+<SEC-HEADER>0001493152-26-039869.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824161524
+ACCESSION NUMBER:		0001493152-26-039869
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260723
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Corbett Eric
+		CENTRAL INDEX KEY:			0002056072
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41978
+		FILM NUMBER:		261310698
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ENTERO THERAPEUTICS, INC.
+		STREET 2:		777 YAMATO ROAD, SUITE 502
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MIXED MARTIAL ARTS GROUP LTD
+		CENTRAL INDEX KEY:			0001981519
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS BUSINESS SERVICES [7380]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			C3
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		LEVEL 12, 347 KENT STREET
+		CITY:			SYDNEY
+		NON US STATE TERRITORY:  	NSW
+		PROVINCE COUNTRY:   	C3
+		ZIP:			2000
+		BUSINESS PHONE:		61 1800 151 865
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		LEVEL 12, 347 KENT STREET
+		CITY:			SYDNEY
+		NON US STATE TERRITORY:  	NSW
+		PROVINCE COUNTRY:   	C3
+		ZIP:			2000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALTA GLOBAL GROUP LTD
+		DATE OF NAME CHANGE:	20230614
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-07-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001981519</issuerCik>
+        <issuerName>MIXED MARTIAL ARTS GROUP LTD</issuerName>
+        <issuerTradingSymbol>MMA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002056072</rptOwnerCik>
+            <rptOwnerName>Corbett Eric</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O MIXED MARTIAL ARTS GROUP LIMITED</rptOwnerStreet1>
+            <rptOwnerStreet2>LEVEL 12, 347 KENT STREET</rptOwnerStreet2>
+            <rptOwnerCity>SYDNEY</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>NSW</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C3</rptOwnerCountry>
+            <rptOwnerZipCode>2000</rptOwnerZipCode>
+            <rptOwnerStateDescription>AUSTRALIA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>650000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On July 23, 2026, the reporting person was issued 100,000 ordinary shares of Mixed Martial Arts Group Limited as compensation under an advisory/services agreement between the reporting person and the Company.</footnote>
+        <footnote id="F2">By 1001038342 Ontario Inc. The reporting person has voting and investment control of 1001038342 Ontario Inc. due to his 100% ownership of, and role as sole director of, that entity</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan Hart, by Power of Attorney</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001492597-26-000004.txt : 20260825
+<SEC-HEADER>0001492597-26-000004.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825105029
+ACCESSION NUMBER:		0001492597-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alban John
+		CENTRAL INDEX KEY:			0001492597
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22072
+		FILM NUMBER:		261313262
+
+	MAIL ADDRESS:	
+		STREET 1:		4925 GREENVILLE AVENUE
+		STREET 2:		SUITE 1310
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75206
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NXG Cushing Midstream Energy Fund
+		CENTRAL INDEX KEY:			0001400897
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4925 GREENVILLE AVENUE
+		STREET 2:		SUITE 1310
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75206
+		BUSINESS PHONE:		214-692-6334
+
+	MAIL ADDRESS:	
+		STREET 1:		4925 GREENVILLE AVENUE
+		STREET 2:		SUITE 1310
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CUSHING MLP & INFRASTRUCTURE TOTAL RETURN FUND
+		DATE OF NAME CHANGE:	20180315
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cushing MLP & Infrastructure Total Return Fund
+		DATE OF NAME CHANGE:	20180307
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cushing MLP Total Return Fund
+		DATE OF NAME CHANGE:	20070524
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001400897</issuerCik>
+        <issuerName>NXG Cushing Midstream Energy Fund</issuerName>
+        <issuerTradingSymbol>SRV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001492597</rptOwnerCik>
+            <rptOwnerName>Alban John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4925 GREENVILLE AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1310</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75206</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>45.65</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>146</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 12 shares of common stock acquired through an Automatic Dividend Reinvestment Plan (DRIP).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brad Mead</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

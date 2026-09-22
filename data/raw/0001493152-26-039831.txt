@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001493152-26-039831.txt : 20260824
+<SEC-HEADER>0001493152-26-039831.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824140143
+ACCESSION NUMBER:		0001493152-26-039831
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260814
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Richard
+		CENTRAL INDEX KEY:			0001329094
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56299
+		FILM NUMBER:		261308867
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O WARNER MUSIC GROUP CORP.
+		STREET 2:		75 ROCKEFELLER PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MDWerks, Inc.
+		CENTRAL INDEX KEY:			0001295514
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				331095411
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		411 WALNUT STREET,
+		STREET 2:		SUITE 20125
+		CITY:			GREEN COVE SPRINGS
+		STATE:			FL
+		ZIP:			32043
+		BUSINESS PHONE:		(252) 501-0019
+
+	MAIL ADDRESS:	
+		STREET 1:		411 WALNUT STREET,
+		STREET 2:		SUITE 20125
+		CITY:			GREEN COVE SPRINGS
+		STATE:			FL
+		ZIP:			32043
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MDwerks, Inc.
+		DATE OF NAME CHANGE:	20051117
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WESTERN EXPLORATION INC.
+		DATE OF NAME CHANGE:	20040625
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001295514</issuerCik>
+        <issuerName>MDWerks, Inc.</issuerName>
+        <issuerTradingSymbol>MDWK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001329094</rptOwnerCik>
+            <rptOwnerName>Blackstone Richard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>411 WALNUT STREET, SUITE 20125</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREEN COVE SPRINGS,</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32043</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>150804</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1106936</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the grant of shares of common stock issued on a quarterly basis pursuant to the Employment Agreement entered into between Reporting Person and the Issuer on December 3, 2024 and issued under the MDWerks, Inc. 2025 Equity Incentive Plan. The grant of shares was approved by the Issuer's board of directors and issued in accordance with Rule 16b-3 promulgated under the Securities Exchange Act of 1934, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Richard Blackstone</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

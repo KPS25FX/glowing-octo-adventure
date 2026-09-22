@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001856366-26-000002.txt : 20260824
+<SEC-HEADER>0001856366-26-000002.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824170012
+ACCESSION NUMBER:		0001856366-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Platzer Peter
+		CENTRAL INDEX KEY:			0001856366
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39493
+		FILM NUMBER:		261311408
+
+	MAIL ADDRESS:	
+		STREET 1:		251 RHODE ISLAND STREET
+		STREET 2:		SUITE 204
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Spire Global, Inc.
+		CENTRAL INDEX KEY:			0001816017
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				851276957
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8000 TOWERS CRESCENT DRIVE
+		STREET 2:		SUITE 1100
+		CITY:			VIENNA
+		STATE:			VA
+		BUSINESS PHONE:		(202) 301-5127
+
+	MAIL ADDRESS:	
+		STREET 1:		8000 TOWERS CRESCENT DRIVE
+		STREET 2:		SUITE 1100
+		CITY:			VIENNA
+		STATE:			VA
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NavSight Holdings, Inc.
+		DATE OF NAME CHANGE:	20200624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001816017</issuerCik>
+        <issuerName>Spire Global, Inc.</issuerName>
+        <issuerTradingSymbol>SPIR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001856366</rptOwnerCik>
+            <rptOwnerName>Platzer Peter</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>8000 TOWERS CRESCENT DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1100</rptOwnerStreet2>
+            <rptOwnerCity>VIENNA</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22182</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5100</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14.09</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1473468</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>948686</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were sold to cover taxes associated with the settlement of stock units, pursuant to an automatic sale-to-cover instruction in the applicable award agreement, which award agreement intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) was dated April 14, 2023.</footnote>
+        <footnote id="F2">Theresa Condor and Peter Platzer, as husband and wife, share beneficial ownership of the securities held by each other.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Griffin D. Foster, by Power of Attorney for Peter Plazter</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

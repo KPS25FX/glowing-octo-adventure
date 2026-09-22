@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001193125-26-365278.txt : 20260825
+<SEC-HEADER>0001193125-26-365278.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825165342
+ACCESSION NUMBER:		0001193125-26-365278
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Grande Anthony L
+		CENTRAL INDEX KEY:			0001410524
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16109
+		FILM NUMBER:		261316578
+
+	MAIL ADDRESS:	
+		STREET 1:		CORRECTIONS CORPORATION OF AMERICA
+		STREET 2:		10 BURTON HILLS BOULEVARD
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37215
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CoreCivic, Inc.
+		CENTRAL INDEX KEY:			0001070985
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				621763875
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5501 VIRGINIA WAY
+		CITY:			BRENTWOOD
+		STATE:			TN
+		ZIP:			37027
+		BUSINESS PHONE:		615-263-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		5501 VIRGINIA WAY
+		CITY:			BRENTWOOD
+		STATE:			TN
+		ZIP:			37027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CORRECTIONS CORP OF AMERICA
+		DATE OF NAME CHANGE:	20001003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRISON REALTY TRUST INC
+		DATE OF NAME CHANGE:	19990517
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRISON REALTY CORP
+		DATE OF NAME CHANGE:	19980924
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001070985</issuerCik>
+        <issuerName>CoreCivic, Inc.</issuerName>
+        <issuerTradingSymbol>CXW</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001410524</rptOwnerCik>
+            <rptOwnerName>Grande Anthony L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CORECIVIC</rptOwnerStreet1>
+            <rptOwnerStreet2>5501 VIRGINIA WAY, SUITE 110</rptOwnerStreet2>
+            <rptOwnerCity>BRENTWOOD</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, Chief Development Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7436</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>34.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>157346</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Joseph Bachmann</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

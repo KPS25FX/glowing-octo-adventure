@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001769793-26-000011.txt : 20260825
+<SEC-HEADER>0001769793-26-000011.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825080735
+ACCESSION NUMBER:		0001769793-26-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kalter Brad
+		CENTRAL INDEX KEY:			0001769793
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40234
+		FILM NUMBER:		261312430
+
+	MAIL ADDRESS:	
+		STREET 1:		20 NORTH ORANGE AVE
+		STREET 2:		SUITE 106
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32801
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PureCycle Technologies, Inc.
+		CENTRAL INDEX KEY:			0001830033
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTICS, MATERIALS, SYNTH RESINS & NONVULCAN ELASTOMERS [2821]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			X1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 NORTH ORANGE AVE
+		STREET 2:		SUITE 106
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32801
+		BUSINESS PHONE:		877-648-3565
+
+	MAIL ADDRESS:	
+		STREET 1:		20 NORTH ORANGE AVE
+		STREET 2:		SUITE 106
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Roth CH Acquisition I Co. Parent Corp.
+		DATE OF NAME CHANGE:	20201026
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001830033</issuerCik>
+        <issuerName>PureCycle Technologies, Inc.</issuerName>
+        <issuerTradingSymbol>PCT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001769793</rptOwnerCik>
+            <rptOwnerName>Kalter Brad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>20 N. ORANGE AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 106</rptOwnerStreet2>
+            <rptOwnerCity>ORLANDO</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>General Counsel, CCO &amp; Scty.</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>O</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>133327</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>170000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Brad S. Kalter and Julie F. Kalter Revocable Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On August 24, 2026, the Reporting Person transferred 50,000 shares of PCT common stock to the Brad S. Kalter and Julie F. Kalter Revocable Trust for no consideration. The Reporting Person is a trustee of the trust, and the Reporting Person and members of his immediate family are the sole beneficiaries of the trust. The reporting person remains the beneficial owner of the securities held by the trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Holly Dale as attorney-in-fact for Brad S. Kalter</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>pct-ex24_1.htm
+<DESCRIPTION>EX-24.1
+<TEXT>
+<!-- DFIN ActiveDisclosure (SM) HTML Document - http://www.dfinsolutions.com/ --><!-- Creation Date :2026-08-24T13:44:20.0370+00:00 --><!-- Copyright (c) 2026 Donnelley Financial Solutions, Inc. All Rights Reserved. -->
+<html>
+ <head>
+  <title>EX-24.1</title>
+ </head>
+ <body style="padding:8px;margin:auto!important;z-index:0;-webkit-text-size-adjust:100%;position:relative;">
+  <div style="z-index:2;min-height:1in;position:relative;"></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">POWER OF ATTORNEY</font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">KNOW ALL BY THESE PRESENTS</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">, that the undersigned reporting person, hereby constitutes and appoints each of Greg Barta and Holly Dale, signing singly and with full power of substitution and resubstitution, the undersigned's true and lawful attorney-in-fact to:</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;"> </font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">(1) execute for and on behalf of the undersigned, in the undersigned's capacity as an executive officer or director of PureCycle Technologies, Inc. (the &#34;Company&#34;), any and all reports (including any amendment thereto) of the undersigned required or considered advisable under Section 13 or Section 16 of the Securities Exchange Act of 1934 (the &#x201c;Exchange Act&#x201d;) and the rules and regulations thereunder, with respect to the equity securities of the Company, including Forms 3, 4 and 5 and Schedule 13D or 13G;</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;"> </font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">(2) do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Forms 3, 4 and 5 and Schedule 13D or 13G, including any amendments thereto, and timely file such form with the United States Securities and Exchange Commission and any stock exchange or similar authority; and</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;"> </font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">(3) take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interests of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's discretion.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;"> </font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned's responsibilities to comply with Section 13 and Section 16 of the Exchange Act.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;"> </font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5 and Schedule 13D or 13G with respect to the undersigned's holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact or until the appointed person is no longer employed by the Company.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;"> </font></p><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">IN WITNESS WHEREOF</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">, the undersigned has caused this Power of Attorney to be executed as of this August 20, 2026</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">					</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">/s/ Brad S. Kalter___</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">____________</font></p><p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:'Tahoma',sans-serif;font-kerning:none;min-width:fit-content;">					Brad S. Kalter</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

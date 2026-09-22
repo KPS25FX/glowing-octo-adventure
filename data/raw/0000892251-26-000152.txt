@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0000892251-26-000152.txt : 20260825
+<SEC-HEADER>0000892251-26-000152.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825162429
+ACCESSION NUMBER:		0000892251-26-000152
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Troendle August J.
+		CENTRAL INDEX KEY:			0001622058
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37856
+		FILM NUMBER:		261316127
+
+	MAIL ADDRESS:	
+		STREET 1:		5375 MEDPACE WAY
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45227
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Medpace Holdings, Inc.
+		CENTRAL INDEX KEY:			0001668397
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				320434904
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5375 MEDPACE WAY
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45227
+		BUSINESS PHONE:		(513) 579-9911
+
+	MAIL ADDRESS:	
+		STREET 1:		5375 MEDPACE WAY
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45227
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001668397</issuerCik>
+        <issuerName>Medpace Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>MEDP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001622058</rptOwnerCik>
+            <rptOwnerName>Troendle August J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O MEDPACE HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>5375 MEDPACE WAY</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45227</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13995</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>624.45</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>547200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1983</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>620.23</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>545217</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4733019</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Medpace Investors, LLC</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transactions reported on this Form 4 were effected pursuant to a limit order placed by the Reporting Person during an open window period.</footnote>
+        <footnote id="F2">The reported price is a weighted average price. These shares were sold in multiple transactions ranging from $620.00 to $628.685. The Reporting Person undertakes to provide full pricing information to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission upon request.</footnote>
+        <footnote id="F3">The reported price is a weighted average price. These shares were sold in multiple transactions ranging from $620.00 to $621.25. The Reporting Person undertakes to provide full pricing information to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission upon request.</footnote>
+        <footnote id="F4">The Reporting Person is the sole manager and controlling unit holder of Medpace Investors, LLC (&quot;MPI&quot;) and has sole voting and investment control with respect to the securities held by MPI. The Reporting Person may be deemed to indirectly beneficially own the securities of the Issuer held by MPI but disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Stephen P. Ewald, Attorney-in-Fact for August J. Troendle</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

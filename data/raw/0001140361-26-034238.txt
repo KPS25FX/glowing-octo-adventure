@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001140361-26-034238.txt : 20260824
+<SEC-HEADER>0001140361-26-034238.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824210009
+ACCESSION NUMBER:		0001140361-26-034238
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Venker Eric
+		CENTRAL INDEX KEY:			0001801917
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40782
+		FILM NUMBER:		261312189
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O ROIVANT SCIENCES, INC.
+		STREET 2:		7TH FLOOR, 50 BROADWAY
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+		ZIP:			SW1H 0DB
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Roivant Sciences Ltd.
+		CENTRAL INDEX KEY:			0001635088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				981173944
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		7TH FLOOR, 50 BROADWAY
+		CITY:			LONDON
+		NON US STATE TERRITORY:  	UNITED KINGDOM
+		PROVINCE COUNTRY:   	X0
+		ZIP:			SW1H 0DB
+		BUSINESS PHONE:		441-295-5950
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		7TH FLOOR, 50 BROADWAY
+		CITY:			LONDON
+		NON US STATE TERRITORY:  	UNITED KINGDOM
+		PROVINCE COUNTRY:   	X0
+		ZIP:			SW1H 0DB
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001635088</issuerCik>
+        <issuerName>Roivant Sciences Ltd.</issuerName>
+        <issuerTradingSymbol>ROIV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001801917</rptOwnerCik>
+            <rptOwnerName>Venker Eric</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ROIVANT SCIENCES LTD.</rptOwnerStreet1>
+            <rptOwnerStreet2>7TH FLOOR, 50 BROADWAY</rptOwnerStreet2>
+            <rptOwnerCity>LONDON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>X0</rptOwnerCountry>
+            <rptOwnerZipCode>SW1H 0DB</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>President &amp; Immunovant CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13909</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>36.84</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1599154</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the &quot;net settlement&quot; by the Issuer of RSUs previously granted to the reporting person in order to satisfy applicable tax withholding obligations in connection with the vesting and settlement of such RSUs.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Sam Kaplan, as Attorney-in-Fact for Eric Venker</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

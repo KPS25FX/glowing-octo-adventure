@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-365295.txt : 20260825
+<SEC-HEADER>0001193125-26-365295.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825170004
+ACCESSION NUMBER:		0001193125-26-365295
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KING A BRENT
+		CENTRAL INDEX KEY:			0001174640
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37578
+		FILM NUMBER:		261316664
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PERFORMANCE FOOD GROUP COMPANY
+		STREET 2:		12500 WEST CREEK PARKWAY
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23238
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Performance Food Group Co
+		CENTRAL INDEX KEY:			0001618673
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & GENERAL LINE [5141]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				431983182
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0627
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12500 WEST CREEK PARKWAY
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23238
+		BUSINESS PHONE:		(804) 484-7700
+
+	MAIL ADDRESS:	
+		STREET 1:		12500 WEST CREEK PARKWAY
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23238
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001618673</issuerCik>
+        <issuerName>Performance Food Group Co</issuerName>
+        <issuerTradingSymbol>PFGC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001174640</rptOwnerCik>
+            <rptOwnerName>KING A BRENT</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>12500 WEST CREEK PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RICHMOND</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23238</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1320</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>105.29</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>44216</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported in this Form 4 was effected pursuant to a Rule 10b5-1 trading plan established by the reporting person on February 20, 2026.</footnote>
+    </footnotes>
+
+    <remarks>Executive Vice President, General Counsel and Secretary</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ A. Brent King</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

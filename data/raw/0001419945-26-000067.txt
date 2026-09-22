@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001419945-26-000067.txt : 20260825
+<SEC-HEADER>0001419945-26-000067.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825092007
+ACCESSION NUMBER:		0001419945-26-000067
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hvid Kenneth
+		CENTRAL INDEX KEY:			0001976945
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33867
+		FILM NUMBER:		261312664
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 2100, BENTALL 5
+		STREET 2:		550 BURRARD STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 2K2
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEEKAY TANKERS LTD.
+		CENTRAL INDEX KEY:			0001419945
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER TRANSPORTATION [4400]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2ND FLOOR, SWAN BUILDING
+		STREET 2:		26 VICTORIA STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM12
+		BUSINESS PHONE:		(441)298-2530
+
+	MAIL ADDRESS:	
+		STREET 1:		2ND FLOOR, SWAN BUILDING
+		STREET 2:		26 VICTORIA STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM12
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Teekay Tankers Ltd.
+		DATE OF NAME CHANGE:	20071130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1787664004.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001419945</issuerCik>
+        <issuerName>TEEKAY TANKERS LTD.</issuerName>
+        <issuerTradingSymbol>TNK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001976945</rptOwnerCik>
+            <rptOwnerName>Hvid Kenneth</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>SUITE 2100, BENTALL 5</rptOwnerStreet1>
+            <rptOwnerStreet2>550 BURRARD STREET</rptOwnerStreet2>
+            <rptOwnerCity>VANCOUVER</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A1</rptOwnerCountry>
+            <rptOwnerZipCode>V6C 2K2</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRITISH COLUMBIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Dividend Equivalent Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>388.2719</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>388.2719</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2325.5984</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The DERs accrued on three outstanding RSU awards and vest proportionately with the RSUs to which they relate. DERs also accrued on previously deferred RSUs. The total number of accrued DERs is calculated as of the dividend record date by multiplying the dividend per share ($0.25) by the number of outstanding RSUs, deferred RSUs and, to the extent applicable, previously accrued DERs and then dividing the result by the fair value of the common stock on the dividend payment date. Each DER is the economic equivalent of one share.
+
+Excludes DERs that accrued on outstanding RSUs prior to June 2, 2026, which are reflected in outstanding RSUs.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kenneth Hvid</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

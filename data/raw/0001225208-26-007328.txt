@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001225208-26-007328.txt : 20260825
+<SEC-HEADER>0001225208-26-007328.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825174728
+ACCESSION NUMBER:		0001225208-26-007328
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Newsome Earl
+		CENTRAL INDEX KEY:			0001849073
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04949
+		FILM NUMBER:		261317076
+
+	MAIL ADDRESS:	
+		STREET 1:		505 HUNTMAR PARK DR
+		STREET 2:		SUITE 300
+		CITY:			HERNDON
+		STATE:			VA
+		ZIP:			20170
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CUMMINS INC
+		CENTRAL INDEX KEY:			0000026172
+		STANDARD INDUSTRIAL CLASSIFICATION:	ENGINES & TURBINES [3510]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				350257090
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 JACKSON ST
+		STREET 2:		BOX 3005 MAIL CODE 93050
+		CITY:			COLUMBUS
+		STATE:			IN
+		ZIP:			47202-3005
+		BUSINESS PHONE:		8123773842
+
+	MAIL ADDRESS:	
+		STREET 1:		BOX 3005 MAIL CODE 93050
+		STREET 2:		500
+		CITY:			COLUMBUS
+		STATE:			IN
+		ZIP:			47202-3005
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CUMMINS ENGINE CO INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000026172</issuerCik>
+        <issuerName>CUMMINS INC</issuerName>
+        <issuerTradingSymbol>CMI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001849073</rptOwnerCik>
+            <rptOwnerName>Newsome Earl</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>500 JACKSON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COLUMBUS</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>47201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>VP - Chief Information Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>698.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>572.2211</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4479.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price.  The shares were sold in multiple transactions at prices ranging from $571.99 - $572.93.  The reporting person undertakes to provide to Cummins Inc., any security holder of Cummins Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range indicated.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicole Y. Lamb-Hale, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

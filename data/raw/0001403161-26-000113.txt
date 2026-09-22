@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001403161-26-000113.txt : 20260824
+<SEC-HEADER>0001403161-26-000113.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824170542
+ACCESSION NUMBER:		0001403161-26-000113
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Taneja Rajat
+		CENTRAL INDEX KEY:			0001532601
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33977
+		FILM NUMBER:		261311484
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ELECTRONIC ARTS INC.
+		STREET 2:		209 REDWOOD SHORES PARKWAY, LEGAL DEPT.
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VISA INC.
+		CENTRAL INDEX KEY:			0001403161
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				260267673
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 8999
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94128-8999
+		BUSINESS PHONE:		650-432-3200
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 8999
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94128-8999
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Visa Inc.
+		DATE OF NAME CHANGE:	20070614
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001403161</issuerCik>
+        <issuerName>VISA INC.</issuerName>
+        <issuerTradingSymbol>V</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001532601</rptOwnerCik>
+            <rptOwnerName>Taneja Rajat</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VISA INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 8999</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94128-8999</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>PRESIDENT, TECHNOLOGY</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17927</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>370.9968</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>232112</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in column 4 is a weighted average price. These shares were disposed of in multiple transactions at prices ranging from $370.6000 - $371.4700, inclusive. The reporting person undertakes to provide to Visa Inc., any security holder of Visa Inc., or the staff of the Securities &amp; Exchange Commission, upon request, full information regarding the number of shares disposed of at each separate price within the ranges set forth in this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sue Choi, Attorney-In-Fact</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

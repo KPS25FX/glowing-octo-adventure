@@ -1,0 +1,207 @@
+<SEC-DOCUMENT>0000950103-26-012815.txt : 20260824
+<SEC-HEADER>0000950103-26-012815.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824180921
+ACCESSION NUMBER:		0000950103-26-012815
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blunden Julia
+		CENTRAL INDEX KEY:			0001918769
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41617
+		FILM NUMBER:		261311899
+
+	MAIL ADDRESS:	
+		STREET 1:		16765 EDGAR ST.
+		CITY:			PACIFIC PALISADES
+		STATE:			CA
+		ZIP:			90272
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nextpower Inc.
+		CENTRAL INDEX KEY:			0001852131
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6200 PASEO PADRE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94555
+		BUSINESS PHONE:		510-270-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		6200 PASEO PADRE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94555
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nextracker Inc.
+		DATE OF NAME CHANGE:	20221116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nextracker LLC
+		DATE OF NAME CHANGE:	20220215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nextracker Inc.
+		DATE OF NAME CHANGE:	20210318
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001852131</issuerCik>
+        <issuerName>Nextpower Inc.</issuerName>
+        <issuerTradingSymbol>NXT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001918769</rptOwnerCik>
+            <rptOwnerName>Blunden Julia</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NEXTPOWER INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6200 PASEO PADRE PARKWAY</rptOwnerStreet2>
+            <rptOwnerCity>FREMONT</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94555</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3723</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>88.08</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6434</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3692</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>84.101</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2742</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. The reported securities were sold in multiple transactions at prices ranging from $88.08 to $88.10, inclusive. The Reporting Person undertakes to provide to the issuer, any security holder of the issuer or the staff of the Securities and Exchange Commission (SEC), upon request, full information regarding the number of shares sold at each separate price within such ranges.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. The reported securities were sold in multiple transactions at prices ranging from $84.101 to $84.11, inclusive. The Reporting Person undertakes to provide to the issuer, any security holder of the issuer or the staff of the Securities and Exchange Commission (SEC), upon request, full information regarding the number of shares sold at each separate price within such ranges.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Philip Reuther, Attorney-in-Fact for Julia Blunden</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

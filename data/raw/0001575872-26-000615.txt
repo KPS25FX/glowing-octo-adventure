@@ -1,0 +1,282 @@
+<SEC-DOCUMENT>0001575872-26-000615.txt : 20260825
+<SEC-HEADER>0001575872-26-000615.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825175949
+ACCESSION NUMBER:		0001575872-26-000615
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260708
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TEJADA FRED
+		CENTRAL INDEX KEY:			0001552627
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54808
+		FILM NUMBER:		261317110
+
+	MAIL ADDRESS:	
+		STREET 1:		2 - 10340 156 ST.
+		CITY:			SURREY
+		STATE:			A1
+		ZIP:			V3R 4L8
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nu-Med Plus, Inc.
+		CENTRAL INDEX KEY:			0001543637
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				453672530
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		640 BELLE TERRE RD. 2 E
+		CITY:			PORT JEFFERSON
+		STATE:			NY
+		ZIP:			11777
+		BUSINESS PHONE:		631-403-4337
+
+	MAIL ADDRESS:	
+		STREET 1:		640 BELLE TERRE RD. 2 E
+		CITY:			PORT JEFFERSON
+		STATE:			NY
+		ZIP:			11777
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-07-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001543637</issuerCik>
+        <issuerName>Nu-Med Plus, Inc.</issuerName>
+        <issuerTradingSymbol>NUMD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001552627</rptOwnerCik>
+            <rptOwnerName>TEJADA FRED</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NU-MED PLUS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>640 BELLE TERRE BUILDING 2E</rptOwnerStreet2>
+            <rptOwnerCity>PORT JEFFERSON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A1</rptOwnerCountry>
+            <rptOwnerZipCode>11777</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRITISH COLUMBIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP and Chief Geologist</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16381250</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16381250</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series X Super Voting Preferred Stock</value>
+                <footnoteId id="F4"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series A Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-07-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F7"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>129782</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2595640</value>
+                    <footnoteId id="F9"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>129782</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to a Voting Agreement dated effective July 8, 2026, entered into among the Issuer, the Reporting Person, and certain affiliated stockholders of the Company -- The Hayde Family Revocable Trust dtd 9/21/2001 (trustee: William Hayde, the Company's CEO and a director), Keith Merrell (CFO and a director of the Company, together with his spouse as joint tenants), and Hanover International, Inc. (an entity affiliated with James Hock) (collectively, the &quot;Voting Shareholders&quot;), the Voting Shareholders agreed to vote all Issuer securities beneficially owned or controlled by them in favor of specified matters related to the transactions contemplated by a Share Exchange Agreement, and granted the Reporting Person an irrevocable proxy to vote such shares in accordance with the Voting Agreement in the event the Voting Shareholders fail to do so.</footnote>
+        <footnote id="F2">The Voting Agreement terminates upon the earliest of (i) the tenth anniversary of its execution, (ii) the date the reporting person no longer holds any Company securities, (iii) the date the applicable Voting Shareholder no longer holds any covered shares, or (iv) such earlier date as designated by the Reporting Person.</footnote>
+        <footnote id="F3">As a result of the Voting Agreement, the Reporting Person may be deemed to share voting power over, and to indirectly beneficially own, the shares held by the Voting Shareholders that are subject to the Voting Agreement. The reporting person disclaims beneficial ownership of such shares except to the extent of his pecuniary interest, if any, therein.</footnote>
+        <footnote id="F4">The Series X Preferred Stock votes 100 votes per share, voting together with the common stock (and any other generally-voting class) as a single class on all matters, except as otherwise required by law and has no conversion rights which voting rights are not subject to adjustment in connection with reverse stock splits.</footnote>
+        <footnote id="F5">Issued by the Issuer to the Reporting Person in consideration for services agreed to be rendered as an executive officer of the Issuer.</footnote>
+        <footnote id="F6">Each share of Series A Preferred Stock is convertible into 20 shares of common stock of the Issuer at the option of the holder thereof following the issuance date, which conversion ratio is not subject to adjustment in connection with reverse stock splits.</footnote>
+        <footnote id="F7">Issued to the Reporting Person pursuant to the terms of a June 29, 2026 Share Exchange Agreement  between the Issuer, Avid Gold Ltd, a private limited company formed under the laws of England and Wales (&quot;Avid Gold&quot;), and the shareholders of Avid Gold, including the Reporting Person.</footnote>
+        <footnote id="F8">The Series A Preferred Stock has no expiration date.</footnote>
+        <footnote id="F9">The Series A Preferred Stock includes a beneficial ownership limitation that prohibits a holder from converting the Series A Preferred Stock to the extent such conversion would cause the holder, together with its affiliates, to beneficially own more than 4.999% of the Issuer's outstanding common stock, calculated in accordance with Section 13(d) of the Securities Exchange Act of 1934, as amended. A holder may elect to increase or decrease this limitation, up to a maximum of 9.999%, by providing written notice to the Issuer, with any increase becoming effective on the 61st day after receipt of such notice.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Fred Tejada</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001193125-26-363956.txt : 20260824
+<SEC-HEADER>0001193125-26-363956.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824213003
+ACCESSION NUMBER:		0001193125-26-363956
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reeves William Brian Poppic
+		CENTRAL INDEX KEY:			0002057455
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41168
+		FILM NUMBER:		261312217
+
+	MAIL ADDRESS:	
+		STREET 1:		2942 NORTH 24TH STREET SUITE 115, #42035
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fold Holdings, Inc.
+		CENTRAL INDEX KEY:			0001889123
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				862170416
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2942 NORTH 24TH STREET SUITE 115, #42035
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+		BUSINESS PHONE:		8663653277
+
+	MAIL ADDRESS:	
+		STREET 1:		2942 NORTH 24TH STREET SUITE 115, #42035
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FTAC Emerald Acquisition Corp.
+		DATE OF NAME CHANGE:	20211116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Emerald ESG Acquisition Corp
+		DATE OF NAME CHANGE:	20211019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001889123</issuerCik>
+        <issuerName>Fold Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>FLD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002057455</rptOwnerCik>
+            <rptOwnerName>Reeves William Brian Poppic</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2942 NORTH 24TH ST, SUITE 115, #42035</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8911</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.476</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5460462</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10045</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.488</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5450417</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported on this Form 4 represents shares sold by Mr. Reeves to cover tax withholding obligations in connection with the vesting and settlement of restricted stock units. The sale is mandated by the Issuer's election to require the satisfaction of tax withholding obligations to be funded by a &quot;sell to cover&quot; transaction and does not represent a discretionary transaction by Mr. Reeves.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney (incorporated by reference to Exhibit 24 to the Reporting Person's Form 4 filed on February 20, 2026).</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Audrey Bartosh, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

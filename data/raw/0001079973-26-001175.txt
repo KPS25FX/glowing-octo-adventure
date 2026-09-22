@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001079973-26-001175.txt : 20260824
+<SEC-HEADER>0001079973-26-001175.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824171112
+ACCESSION NUMBER:		0001079973-26-001175
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hively Brad
+		CENTRAL INDEX KEY:			0001891124
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39248
+		FILM NUMBER:		261311536
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE ONCOLOGY INSTITUTE OF HOPE
+		STREET 2:		18000 STUDEBAKER ROAD, SUITE 800
+		CITY:			CERRITOS
+		STATE:			CA
+		ZIP:			90703
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Starling Oncology, Inc.
+		CENTRAL INDEX KEY:			0001799191
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE [8011]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				843562323
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		18000 STUDEBAKER RD
+		STREET 2:		SUITE 800
+		CITY:			CERRITOS
+		STATE:			CA
+		ZIP:			90703
+		BUSINESS PHONE:		562-735-3226
+
+	MAIL ADDRESS:	
+		STREET 1:		18000 STUDEBAKER RD
+		STREET 2:		SUITE 800
+		CITY:			CERRITOS
+		STATE:			CA
+		ZIP:			90703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Oncology Institute, Inc.
+		DATE OF NAME CHANGE:	20211115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DFP HEALTHCARE ACQUISITIONS CORP.
+		DATE OF NAME CHANGE:	20200108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001799191</issuerCik>
+        <issuerName>Starling Oncology, Inc.</issuerName>
+        <issuerTradingSymbol>STLN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001891124</rptOwnerCik>
+            <rptOwnerName>Hively Brad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O STARLING ONCOLOGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>18000 STUDEBAKER RD, SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>CERRITOS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90703</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>298853</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.5126</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>411976</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.37 to $6.75 per share. Upon request by the SEC, the Issuer or a stockholder of the Issuer, complete information regarding the number of shares sold at each price within the range will be provided.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Hueppelsheuser, Attorney-in-Fact for Brad Hively</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

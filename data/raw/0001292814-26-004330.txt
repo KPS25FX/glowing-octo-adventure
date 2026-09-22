@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001292814-26-004330.txt : 20260824
+<SEC-HEADER>0001292814-26-004330.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824173242
+ACCESSION NUMBER:		0001292814-26-004330
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dos Anjos Sylvia Maria Couto
+		CENTRAL INDEX KEY:			0002113912
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15106
+		FILM NUMBER:		261311766
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		28, HENRIQUE VALADARES AVE
+		STREET 2:		19TH FLOOR, A TOWER
+		CITY:			RIO DE JANEIRO
+		NON US STATE TERRITORY:  	RIO DE JANEIRO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			20231-030
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PETROBRAS - PETROLEO BRASILEIRO SA
+		CENTRAL INDEX KEY:			0001119639
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			D5
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AVENIDA REPUBLICA DO CHILE 65
+		CITY:			RIO DE JANERIO RJ BR
+		PROVINCE COUNTRY:   	D5
+		BUSINESS PHONE:		55-21-534-4477
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AVENIDA REPUBLICA DO CHILE 65
+		CITY:			RIO DE JANERIO RJ BR
+		PROVINCE COUNTRY:   	D5
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRAZILIAN PETROLEUM CORP
+		DATE OF NAME CHANGE:	20000717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001119639</issuerCik>
+        <issuerName>PETROBRAS - PETROLEO BRASILEIRO SA</issuerName>
+        <issuerTradingSymbol>PBR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>PETR3</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002113912</rptOwnerCik>
+            <rptOwnerName>Dos Anjos Sylvia Maria Couto</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>28, HENRIQUE VALADARES AVE</rptOwnerStreet1>
+            <rptOwnerStreet2>19TH FLOOR, A TOWER</rptOwnerStreet2>
+            <rptOwnerCity>RIO DE JANEIRO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>RIO DE JANEIRO</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>20231-030</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Upstream Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Phantom Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>9.30</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>PETR3</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>194.73</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23584.43</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Phantom shares are granted pursuant to the Petrobras Performance Award Program. The phantom shares are referenced to the PETR3 common share price and are settled in cash upon vesting. The deferred portion of the award vests in four equal annual instalments. Additional phantom shares are credited proportionally upon the payment of dividends or interest on equity by the company.</footnote>
+        <footnote id="F2">Closing price on August 21st, 2026, less the aggregate gross value of dividends with ex-dividend date on the same day. The price reported in column 2 is a convenience conversion of the 47.99 BRL per share into U.S. dollars based on the Central Bank of Brazil exchange rate of 5.1619 BRL per 1.00 USD on August 21st, 2026.</footnote>
+        <footnote id="F3">Additional phantom shares credited as a result of dividend payment by Petrobras (record date of August 21st, 2026), as provided by Petrobras Performance Award Program's rules.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sylvia Maria Couto dos Anjos</signatureName>
+        <signatureDate>2026-08-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

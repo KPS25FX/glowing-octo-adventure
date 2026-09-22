@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001193125-26-365161.txt : 20260825
+<SEC-HEADER>0001193125-26-365161.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825161730
+ACCESSION NUMBER:		0001193125-26-365161
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bovenschen Orville
+		CENTRAL INDEX KEY:			0002073267
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38783
+		FILM NUMBER:		261315993
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VILLAGE FARMS INTERNATIONAL
+		STREET 2:		90 COLONIAL CENTER PARKWAY
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Village Farms International, Inc.
+		CENTRAL INDEX KEY:			0001584549
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - CROPS [0100]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		90 COLONIAL CENTER PKWY
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+		BUSINESS PHONE:		4079361190
+
+	MAIL ADDRESS:	
+		STREET 1:		90 COLONIAL CENTER PKWY
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Agro Power Development, Inc.
+		DATE OF NAME CHANGE:	20240930
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Village Farms International, Inc.
+		DATE OF NAME CHANGE:	20130815
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001584549</issuerCik>
+        <issuerName>Village Farms International, Inc.</issuerName>
+        <issuerTradingSymbol>VFF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002073267</rptOwnerCik>
+            <rptOwnerName>Bovenschen Orville</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VILLAGE FARMS INTERNATIONAL, INC</rptOwnerStreet1>
+            <rptOwnerStreet2>90 COLONIAL CENTER PARKWAY, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>LAKE MARY</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32746</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Global President Operations</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41429</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33929</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer's common shares (the &quot;Common Shares&quot;) were granted to the Reporting Person pursuant to Issuer's Share-based Compensation Plan, as described in the Issuer's Definitive Proxy Statement filed with the Securities and Exchange Commission on April 29, 2026. The Common Shares were valued at a price of $2.57 per Common Share at the time of the grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Stephen C. Ruffini, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001213900-26-093406.txt : 20260825
+<SEC-HEADER>0001213900-26-093406.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825122841
+ACCESSION NUMBER:		0001213900-26-093406
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Limp Nascimento Rodrigo
+		CENTRAL INDEX KEY:			0002120238
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34129
+		FILM NUMBER:		261313976
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AVENIDA GRACA ARANHA, NO. 26
+		STREET 2:		CENTRO
+		CITY:			RIO DE JANEIRO
+		NON US STATE TERRITORY:  	RIO DE JANEIRO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			20030-000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AXIA Energia S.A.
+		CENTRAL INDEX KEY:			0001439124
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			D5
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AVENIDA GRACA ARANHA, 26, 19TH FLOOR
+		STREET 2:		CENTRO
+		CITY:			RIO DE JANEIRO
+		NON US STATE TERRITORY:  	RIO DE JANEIRO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			20030900
+		BUSINESS PHONE:		55 21 2514 6435
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AVENIDA GRACA ARANHA, 26, 19TH FLOOR
+		STREET 2:		CENTRO
+		CITY:			RIO DE JANEIRO
+		NON US STATE TERRITORY:  	RIO DE JANEIRO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			20030900
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRAZILIAN ELECTRIC POWER CO
+		DATE OF NAME CHANGE:	20080702
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-73889.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001439124</issuerCik>
+        <issuerName>AXIA Energia S.A.</issuerName>
+        <issuerTradingSymbol>AXIA3</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>AXIA7</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002120238</rptOwnerCik>
+            <rptOwnerName>Limp Nascimento Rodrigo</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>AVENIDA GRACA ARANHA, NO. 26</rptOwnerStreet1>
+            <rptOwnerStreet2>CENTRO</rptOwnerStreet2>
+            <rptOwnerCity>RIO DE JANEIRO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>20030-000</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks*</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class &quot;C&quot; Preferred Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>485</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.38</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>485</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7424</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to Article 11 of the Bylaws of AXIA Energia S.A. (the &quot;Company&quot;), the class &quot;C&quot; preferred shares (&quot;PNC Shares&quot;) shall be automatically converted into Common Shares, assuming such PNC Shares are not earlier mandatorily redeemed by the Company in accordance with its Bylaws, at a ratio of 1:1, as follows: 4% of the total volume of originally-issued PNC Shares, allocated proportionally among all holders, in each of the fiscal years 2026, 2027, 2028, 2029 and 2030; and all PNC Shares remaining, in fiscal year 2031. The PNC Shares reported herein were mandatorily redeemed for cash in accordance with the foregoing.</footnote>
+        <footnote id="F2">The redemption price, $53.71 Brazilian reals (&quot;BRL&quot;) per share, has been converted to U.S. dollars (&quot;USD&quot;) using the U.S. Department of the Treasury Bureau of the Fiscal Service Treasury Reporting Rates of Exchange as of June 30, 2026 (the most recently published quarterly rate at the time of filing), at a rate of 5.1740 BRL per USD (fiscaldata.treasury.gov). Brokerage commissions and other costs of execution, if any, are excluded from the reported price.</footnote>
+    </footnotes>
+
+    <remarks>*Executive Vice-President of Regulation, Institutional, Market Regulation and Corporate Relations</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Rodrigo Limp Nascimento</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

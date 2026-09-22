@@ -1,0 +1,259 @@
+<SEC-DOCUMENT>0001903596-26-000318.txt : 20260825
+<SEC-HEADER>0001903596-26-000318.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825211258
+ACCESSION NUMBER:		0001903596-26-000318
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hammer Joseph D
+		CENTRAL INDEX KEY:			0001576484
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41347
+		FILM NUMBER:		261317406
+
+	MAIL ADDRESS:	
+		STREET 1:		150 CENTRAL PARK SOUTH
+		STREET 2:		2ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Expion Energy, Inc.
+		CENTRAL INDEX KEY:			0001894954
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				812701049
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2025 SW DEERHOUND AVE
+		CITY:			REDMOND
+		STATE:			OR
+		ZIP:			97756
+		BUSINESS PHONE:		541 -797-6714
+
+	MAIL ADDRESS:	
+		STREET 1:		2025 SW DEERHOUND AVE
+		CITY:			REDMOND
+		STATE:			OR
+		ZIP:			97756
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Expion Energy Inc.
+		DATE OF NAME CHANGE:	20260824
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Expion360 Inc.
+		DATE OF NAME CHANGE:	20211119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001894954</issuerCik>
+        <issuerName>Expion Energy, Inc.</issuerName>
+        <issuerTradingSymbol>XPON</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001576484</rptOwnerCik>
+            <rptOwnerName>Hammer Joseph D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O EXPION ENERGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2025 SW DEERHOUND AVE</rptOwnerStreet2>
+            <rptOwnerCity>REDMOND</rptOwnerCity>
+            <rptOwnerState>OR</rptOwnerState>
+            <rptOwnerZipCode>97756</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Former Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>8% Convertible Debenture Due August 21, 2029</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1000</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-21</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4500</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4500000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-08-21</value>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series A-1 8% Convertible Preferred Stock</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4500</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4500</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Purchase Warrant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.25</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-21</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1058609</value>
+                    <footnoteId id="F5"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-08-21</value>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-21</value>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1058609</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1058609</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person served as the Chief Executive Officer of Expion Energy, Inc. (the &quot;Company&quot;) through the Transaction Date, and continues to serve as the Chairman of the Board of Directors of the Company.</footnote>
+        <footnote id="F2">Subject to the Company receiving shareholder approval and filing the Certificate of Designation, the 8% Convertible Debenture Due August 21, 2029 (the &quot;Convertible Debenture&quot;) will automatically convert into shares of the Company's Series A-1 8% Convertible Preferred Stock (the &quot;Preferred Conversion Shares&quot;) based on a stated value of $1,000 per share, resulting in the issuance of up to 4,500 Preferred Conversion Shares. The Preferred Conversion Shares may subsequently be converted into 1,058,609 shares of the Company's common stock, par value $0.001 per share (&quot;Common Stock&quot;), based on an initial conversion price of $4.25 per share, subject to adjustment as set forth in the Certificate of Designation. The Convertible Debenture, as well as the Preferred Conversion Shares issuable upon conversion thereof, is subject to a beneficial ownership limitation of 9.99% of the outstanding shares of Common Stock.</footnote>
+        <footnote id="F3">The maturity date of the Convertible Debenture is August 21, 2029.</footnote>
+        <footnote id="F4">The Derivative Securities are held by Five Narrow Lane LP (&quot;FNL&quot;). The Reporting Person may be deemed to beneficially own the Derivative Securities for purposes of Rule 13d-3 under the Securities Exchange Act of 1934.</footnote>
+        <footnote id="F5">The Common Stock Purchase Warrant (the &quot;Warrant&quot;) is exercisable for an aggregate of up to 1,058,609 shares of Common Stock based on an initial exercise price of $4.25 per share, subject to adjustment as set forth in the Warrant. The Warrant is subject to a beneficial ownership limitation of 9.99% of the outstanding shares of Common Stock.</footnote>
+        <footnote id="F6">The Warrant was immediately exercisable on the date of issuance and expires on the five year anniversary of the date of issuance.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Shawna Bowin, Attorney-in-Fact for Joseph D. Hammer</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

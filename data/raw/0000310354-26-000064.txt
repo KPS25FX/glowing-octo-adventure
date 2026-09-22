@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0000310354-26-000064.txt : 20260825
+<SEC-HEADER>0000310354-26-000064.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825113120
+ACCESSION NUMBER:		0000310354-26-000064
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260823
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Edwards Barbara Joanne
+		CENTRAL INDEX KEY:			0001757393
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07233
+		FILM NUMBER:		261313697
+
+	MAIL ADDRESS:	
+		STREET 1:		11 KEEWAYDIN DRIVE
+		STREET 2:		SUITE 300
+		CITY:			SALEM
+		STATE:			NH
+		ZIP:			03079
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STANDEX INTERNATIONAL CORP/DE/
+		CENTRAL INDEX KEY:			0000310354
+		STANDARD INDUSTRIAL CLASSIFICATION:	REFRIGERATION & SERVICE INDUSTRY MACHINERY [3580]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				310596149
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		23 KEEWAYDIN DRIVE
+		STREET 2:		SUITE 300
+		CITY:			SALEM
+		STATE:			NH
+		ZIP:			03079
+		BUSINESS PHONE:		603-893-9701
+
+	MAIL ADDRESS:	
+		STREET 1:		23 KEEWAYDIN DRIVE
+		STREET 2:		SUITE 300
+		CITY:			SALEM
+		STATE:			NH
+		ZIP:			03079
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000310354</issuerCik>
+        <issuerName>STANDEX INTERNATIONAL CORP/DE/</issuerName>
+        <issuerTradingSymbol>SXI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001757393</rptOwnerCik>
+            <rptOwnerName>Edwards Barbara Joanne</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>103 SMOKE RISE COURT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PEACHTREE CITY</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30269</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>143</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2029-08-23</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-08-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>143</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>143</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Contingent Purchase of Phantom Stock of the Company pursuant to the Management Stock Purchase Plan component of the 2018 Omnibus Incentive Plan vesting three years after the date of purchase in the form of Common Stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kristine L. Ouimet</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

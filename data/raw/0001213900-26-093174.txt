@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001213900-26-093174.txt : 20260824
+<SEC-HEADER>0001213900-26-093174.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824182104
+ACCESSION NUMBER:		0001213900-26-093174
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sundher Ranjeet
+		CENTRAL INDEX KEY:			0002141865
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43416
+		FILM NUMBER:		261311925
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		SUITE 1500
+		STREET 2:		1055 WEST GEORGIA STREET
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+		ZIP:			V6E 4N7
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tactical Resources Corp.
+		CENTRAL INDEX KEY:			0002041208
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			0731
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1055 WEST GEORGIA STREET
+		STREET 2:		1500 ROYAL CENTRE
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+		BUSINESS PHONE:		1-778-588-5483
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1055 WEST GEORGIA STREET
+		STREET 2:		1500 ROYAL CENTRE
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Plum III Merger Corp.
+		DATE OF NAME CHANGE:	20241011
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002041208</issuerCik>
+        <issuerName>Tactical Resources Corp.</issuerName>
+        <issuerTradingSymbol>TREO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002141865</rptOwnerCik>
+            <rptOwnerName>Sundher Ranjeet</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>SUITE 1500</rptOwnerStreet1>
+            <rptOwnerStreet2>1055 WEST GEORGIA STREET</rptOwnerStreet2>
+            <rptOwnerCity>VANCOUVER</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A1</rptOwnerCountry>
+            <rptOwnerZipCode>V6E 4N7</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRITISH COLUMBIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-08-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of performance stock units (&quot;PRSUs&quot;). Each PRSU represents a contingent right to receive one common share of the Issuer (each, a &quot;Common Share&quot;) upon the earlier of (i) the achievement of certain pre-established share price targets or (ii) a change of control of the Issuer, in each case subject to the Reporting Person's continued employment with the Issuer through the applicable payment date. One-third of the PRSUs will vest upon the Issuer's price per Common Share achieving a daily volume weighted average closing sale price per share (&quot;Stock Price Level&quot;) of $50.00, one-third will vest upon the Issuer's price per Common Share achieving a $60.00 Stock Price Level, and the remaining one-third will vest upon the Issuer's price per Common Share achieving a $70.00 Stock Price Level. Any PRSUs that remain unvested as of the seventh anniversary of the grant date will be forfeited and cancelled without consideration.</footnote>
+        <footnote id="F2">Reflects the 1-for-4 reverse stock split of the Issuer's outstanding common stock effected on 08/20/2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ranjeet Sundher</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

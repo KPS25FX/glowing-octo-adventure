@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001193125-26-363594.txt : 20260824
+<SEC-HEADER>0001193125-26-363594.hdr.sgml : 20260824
+<ACCEPTANCE-DATETIME>20260824161228
+ACCESSION NUMBER:		0001193125-26-363594
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260824
+DATE AS OF CHANGE:		20260824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Scilex Holding Co
+		CENTRAL INDEX KEY:			0001820190
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38608
+		FILM NUMBER:		261310638
+
+	BUSINESS ADDRESS:	
+		STREET 1:		960 SAN ANTONIO ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94303
+		BUSINESS PHONE:		(650) 516-4310
+
+	MAIL ADDRESS:	
+		STREET 1:		960 SAN ANTONIO ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94303
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Scilex Holding Company/DE
+		DATE OF NAME CHANGE:	20221117
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Vickers Vantage Corp. I
+		DATE OF NAME CHANGE:	20200804
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Datavault AI Inc.
+		CENTRAL INDEX KEY:			0001682149
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				301135279
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15268 NW GREENBRIER PKWY
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97006
+		BUSINESS PHONE:		408-627-4716
+
+	MAIL ADDRESS:	
+		STREET 1:		15268 NW GREENBRIER PKWY
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WISA TECHNOLOGIES, INC.
+		DATE OF NAME CHANGE:	20220311
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Summit Wireless Technologies, Inc.
+		DATE OF NAME CHANGE:	20180914
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Summit Semiconductor Inc.
+		DATE OF NAME CHANGE:	20180501
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001682149</issuerCik>
+        <issuerName>Datavault AI Inc.</issuerName>
+        <issuerTradingSymbol>DVLT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001820190</rptOwnerCik>
+            <rptOwnerName>Scilex Holding Co</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>960 SAN ANTONIO ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94303</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.3151</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>163766229</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares reported herein were transferred by Scilex Holding Company (&quot;Scilex&quot;) to Vivasor, Inc. (&quot;Vivasor&quot;) on August 20, 2026 as a drawdown under that certain promissory note (revolving line of credit) issued by Vivasor in favor of Scilex on August 8, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen Ma, Scilex Holding Company, Chief Financial Officer, Chief Operating Officer, and Secretary</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

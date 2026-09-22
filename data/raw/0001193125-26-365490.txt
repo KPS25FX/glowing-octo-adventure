@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001193125-26-365490.txt : 20260825
+<SEC-HEADER>0001193125-26-365490.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825182657
+ACCESSION NUMBER:		0001193125-26-365490
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lacey William F.
+		CENTRAL INDEX KEY:			0001857038
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39265
+		FILM NUMBER:		261317157
+
+	MAIL ADDRESS:	
+		STREET 1:		1081 WOODWARD WAY
+		CITY:			FORT COLLINS
+		STATE:			CO
+		ZIP:			80524
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Woodward, Inc.
+		CENTRAL INDEX KEY:			0000108312
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				361984010
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1081 WOODWARD WAY
+		CITY:			FORT COLLINS
+		STATE:			CO
+		ZIP:			80524
+		BUSINESS PHONE:		970-482-5811
+
+	MAIL ADDRESS:	
+		STREET 1:		1081 WOODWARD WAY
+		CITY:			FORT COLLINS
+		STATE:			CO
+		ZIP:			80524
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WOODWARD GOVERNOR CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000108312</issuerCik>
+        <issuerName>Woodward, Inc.</issuerName>
+        <issuerTradingSymbol>WWD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001857038</rptOwnerCik>
+            <rptOwnerName>Lacey William F.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1081 WOODWARD WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FORT COLLINS</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80524</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Woodward, Inc. Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2562</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>343.26</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13073</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Woodward, Inc. Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>258</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Woodward Retirement Savings Plan</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares reported as disposed of were withheld by the Issuer in order to cover withholding taxes in connection with the vesting of restricted stock units granted to the reporting person in a previous year. These shares were not issued to or sold by the reporting person.</footnote>
+        <footnote id="F2">Total includes 32 additional shares and units issued in connection with the dividend reinvestment provisions of the Issuer's RSU awards.</footnote>
+        <footnote id="F3">The information in this report regarding the number of shares held by the reporting person in the Woodward Retirement Savings Plan is based on a calculation as of August 21, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Rebecca L. Dees, by Power of Attorney</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

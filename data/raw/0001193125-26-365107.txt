@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001193125-26-365107.txt : 20260825
+<SEC-HEADER>0001193125-26-365107.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825160312
+ACCESSION NUMBER:		0001193125-26-365107
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Satchi-Fainaro Ronit
+		CENTRAL INDEX KEY:			0001742782
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16174
+		FILM NUMBER:		261315682
+
+	MAIL ADDRESS:	
+		STREET 1:		5 BASEL STREET, P.O. BOX 3190
+		CITY:			PETACH TIKVA
+		STATE:			L3
+		ZIP:			4951033
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEVA PHARMACEUTICAL INDUSTRIES LTD
+		CENTRAL INDEX KEY:			0000818686
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		TEVA PHARMACEUTICAL INDUSTRIES LIMITED
+		STREET 2:		124 DVORA HANEVI'A ST.
+		CITY:			TEL AVIV
+		PROVINCE COUNTRY:   	L3
+		BUSINESS PHONE:		972 (3) 914-8213
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		TEVA PHARMACEUTICAL INDUSTRIES LIMITED
+		STREET 2:		124 DVORA HANEVI'A ST.
+		CITY:			TEL AVIV
+		PROVINCE COUNTRY:   	L3
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000818686</issuerCik>
+        <issuerName>TEVA PHARMACEUTICAL INDUSTRIES LTD</issuerName>
+        <issuerTradingSymbol>TEVA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001742782</rptOwnerCik>
+            <rptOwnerName>Satchi-Fainaro Ronit</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TEVA PHARMACEUTICAL INDUSTRIES LTD.</rptOwnerStreet1>
+            <rptOwnerStreet2>124 DVORA HANEVI'A ST.,</rptOwnerStreet2>
+            <rptOwnerCity>TEL AVIV</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode>6944020</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>415</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>37.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>111986</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Ordinary Shares may be represented by American Depositary Shares, each of which currently represents one Ordinary Share.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Dov Bergwerk as attorney-in-fact for Ronit Satchi-Fainaro</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
