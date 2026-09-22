@@ -1,6 +1,6 @@
 # Model: extraction
 #
-# Sets        Day, Url, Bytes, Filename, Accession
+# Sets        Day, Bytes, Accession (from sets.py); Url, Filename
 #             Filename = "edgar/data/{cik}/{accession}.txt"
 #
 # State       R : Accession → Bytes                 the raw store, data/raw/{accession}.txt
@@ -9,13 +9,14 @@
 #             listing_url : Day → Url               folder(day) + "index.json"
 #             index_url   : Day → Url               folder(day) + "master.{yyyymmdd}.idx"
 #             file_url    : Filename → Url          ARCHIVES + filename
+#             raw_path    : Filename → Path         where R keeps a filing: raw/{accession}.txt
+#
+# Pure        accession   : Filename → Accession
+#             published   : Bytes → Set(Day)        days with an index, from a folder listing
+#             filings     : Bytes → Set(Filename)   Form 4s in an index, one per Accession
 #
 # I/O         fetch       : Url → Bytes             the only contact with the SEC
 #             save(f, b)  : R ↦ R ∪ {accession(f) ↦ b}   the only change to R; bytes untouched
-#
-# Pure        published   : Bytes → Set(Day)        days with an index, from a folder listing
-#             filings     : Bytes → Set(Filename)   Form 4s in an index, one per Accession
-#             accession   : Filename → Accession
 #
 # Chains      day ─index_url──▶ Url ─fetch─▶ Bytes ─filings───▶ Set(Filename)   which filings exist on day
 #             f   ─file_url───▶ Url ─fetch─▶ Bytes ─save(f, ·)─▶ R extended      store one filing
@@ -32,11 +33,10 @@ from pathlib import Path
 
 import requests
 
-Day = date
+from sets import Accession, Bytes, Day
+
 Url = str
-Bytes = bytes
 Filename = str
-Accession = str
 
 ARCHIVES: Url = "https://www.sec.gov/Archives/"
 FORM_4 = {"4", "4/A"}
@@ -61,26 +61,15 @@ def file_url(f: Filename) -> Url:
     return ARCHIVES + f
 
 
-# I/O
-
-def fetch(url: Url, user_agent: str) -> Bytes:
-    time.sleep(0.2)  # SEC limit: 10 requests per second
-    result = requests.get(url, headers={"User-Agent": user_agent}, timeout=30)
-    result.raise_for_status()
-    return result.content
-
-
 def raw_path(f: Filename, raw: Path) -> Path:
     return raw / f"{accession(f)}.txt"
 
 
-def save(f: Filename, data: Bytes, raw: Path) -> None:
-    partial = raw_path(f, raw).with_suffix(".part")  # a crash mid-write never looks saved
-    partial.write_bytes(data)
-    partial.replace(raw_path(f, raw))
-
-
 # Pure
+
+def accession(f: Filename) -> Accession:
+    return Path(f).stem
+
 
 def published(listing: Bytes) -> set[Day]:
     names = (item["name"] for item in json.loads(listing)["directory"]["item"])
@@ -95,8 +84,19 @@ def filings(index: Bytes) -> set[Filename]:
     return set({accession(f): f for cik, name, form, filed, f in rows if form in FORM_4}.values())
 
 
-def accession(f: Filename) -> Accession:
-    return Path(f).stem
+# I/O
+
+def fetch(url: Url, user_agent: str) -> Bytes:
+    time.sleep(0.2)  # SEC limit: 10 requests per second
+    result = requests.get(url, headers={"User-Agent": user_agent}, timeout=30)
+    result.raise_for_status()
+    return result.content
+
+
+def save(f: Filename, data: Bytes, raw: Path) -> None:
+    partial = raw_path(f, raw).with_suffix(".part")  # a crash mid-write never looks saved
+    partial.write_bytes(data)
+    partial.replace(raw_path(f, raw))
 
 
 # Extraction
