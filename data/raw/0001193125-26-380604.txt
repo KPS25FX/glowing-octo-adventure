@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001193125-26-380604.txt : 20260902
+<SEC-HEADER>0001193125-26-380604.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902185959
+ACCESSION NUMBER:		0001193125-26-380604
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Halligan Brian
+		CENTRAL INDEX KEY:			0001603527
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36680
+		FILM NUMBER:		261356307
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HUBSPOT
+		STREET 2:		2 CANAL PARK
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02141
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HUBSPOT INC
+		CENTRAL INDEX KEY:			0001404655
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				202632791
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 CANAL PARK
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02141
+		BUSINESS PHONE:		(888) 482-7768
+
+	MAIL ADDRESS:	
+		STREET 1:		2 CANAL PARK
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02141
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001404655</issuerCik>
+        <issuerName>HUBSPOT INC</issuerName>
+        <issuerTradingSymbol>HUBS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001603527</rptOwnerCik>
+            <rptOwnerName>Halligan Brian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HUBSPOT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2 CANAL PARK</rptOwnerStreet2>
+            <rptOwnerCity>CAMBRIDGE</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02141</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>158</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>251.11</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>354025</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>76500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld by Issuer to cover taxes associated with settlement of restricted stock units.</footnote>
+        <footnote id="F2">Shares held by Wolf Investors, LLC (the &quot;LLC&quot;). The manager of the LLC is Paul Karger, and the sole member is the Brian P. Halligan 2026 New Hampshire Trust u/a/d February 19, 2026, of which the reporting person is the settlor. The reporting person disclaims beneficial ownership of these securities except to the extent, if any, of his pecuniary interest therein, and nothing contained in this report shall be an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Melissa Peterson, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

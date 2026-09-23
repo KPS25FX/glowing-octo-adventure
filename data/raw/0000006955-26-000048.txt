@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000006955-26-000048.txt : 20260917
+<SEC-HEADER>0000006955-26-000048.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917144834
+ACCESSION NUMBER:		0000006955-26-000048
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chack Eric Theodore
+		CENTRAL INDEX KEY:			0002029073
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11288
+		FILM NUMBER:		261386394
+
+	MAIL ADDRESS:	
+		STREET 1:		648 N. PLANKINTON AVE.
+		STREET 2:		4TH FLOOR
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENERPAC TOOL GROUP CORP
+		CENTRAL INDEX KEY:			0000006955
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT [3590]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				390168610
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0831
+
+	BUSINESS ADDRESS:	
+		STREET 1:		648 N PLANKINTON AVE, 4TH FLOOR
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53203-2917
+		BUSINESS PHONE:		262-293-1500
+
+	MAIL ADDRESS:	
+		STREET 1:		648 N PLANKINTON AVE, 4TH FLOOR
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53203-2917
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACTUANT CORP
+		DATE OF NAME CHANGE:	20010110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLIED POWER INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLIED POWER INDUSTRIES INC
+		DATE OF NAME CHANGE:	19730123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000006955</issuerCik>
+        <issuerName>ENERPAC TOOL GROUP CORP</issuerName>
+        <issuerTradingSymbol>EPAC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002029073</rptOwnerCik>
+            <rptOwnerName>Chack Eric Theodore</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ENERPAC TOOL GROUP CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>648 N. PLANKINTON AVE. 4TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>MILWAUKEE</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53203</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP, Operations</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1745</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>34.59</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23984</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 526 shares acquired under the Issuer's employee stock purchase plan since January 15, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Noah Popp, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

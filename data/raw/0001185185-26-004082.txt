@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001185185-26-004082.txt : 20260917
+<SEC-HEADER>0001185185-26-004082.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917060221
+ACCESSION NUMBER:		0001185185-26-004082
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Liarakos Argie
+		CENTRAL INDEX KEY:			0002108220
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09376
+		FILM NUMBER:		261385129
+
+	MAIL ADDRESS:	
+		STREET 1:		10629 NEWBURY ST
+		CITY:			WESTCHESTER
+		STATE:			IL
+		ZIP:			60154
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INNOVATIVE FOOD HOLDINGS INC
+		CENTRAL INDEX KEY:			0000312257
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & GENERAL LINE [5141]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				201167761
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2528 S 27TH AVE
+		CITY:			BROADVIEW
+		STATE:			IL
+		ZIP:			60155
+		BUSINESS PHONE:		239-596-0204
+
+	MAIL ADDRESS:	
+		STREET 1:		2528 S 27TH AVE
+		CITY:			BROADVIEW
+		STATE:			IL
+		ZIP:			60155
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALPHA SOLARCO INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000312257</issuerCik>
+        <issuerName>INNOVATIVE FOOD HOLDINGS INC</issuerName>
+        <issuerTradingSymbol>IVFH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002108220</rptOwnerCik>
+            <rptOwnerName>Liarakos Argie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O INNOVATIVE FOOD HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2528 S 27TH AVE</rptOwnerStreet2>
+            <rptOwnerCity>BROADVIEW</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60155</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>150000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>183334</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were issued to the Reporting Person pursuant to an amended and restated employment agreement entered into by and between the Issuer and the Reporting Person, dated September 12, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Argie Liarakos</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

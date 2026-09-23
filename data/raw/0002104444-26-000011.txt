@@ -1,0 +1,115 @@
+<SEC-DOCUMENT>0002104444-26-000011.txt : 20260917
+<SEC-HEADER>0002104444-26-000011.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917112849
+ACCESSION NUMBER:		0002104444-26-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260702
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MURPHY THOMAS P.
+		CENTRAL INDEX KEY:			0002104444
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05078
+		FILM NUMBER:		261385778
+
+	MAIL ADDRESS:	
+		STREET 1:		MFS INVESTMENT MANAGEMENT
+		STREET 2:		111 HUNTINGTON AVENUE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABERDEEN GOVERNMENT MARKETS INCOME FUND
+		CENTRAL INDEX KEY:			0000811922
+		ORGANIZATION NAME:           	
+		EIN:				046565627
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1900 MARKET STREET, SUITE 200
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		18006372929
+
+	MAIL ADDRESS:	
+		STREET 1:		1900 MARKET STREET, SUITE 200
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MFS GOVERNMENT MARKETS INCOME TRUST
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-07-02</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000811922</issuerCik>
+        <issuerName>ABERDEEN GOVERNMENT MARKETS INCOME FUND</issuerName>
+        <issuerTradingSymbol>MGF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002104444</rptOwnerCik>
+            <rptOwnerName>MURPHY THOMAS P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>MFS INVESTMENT MANAGEMENT</rptOwnerStreet1>
+            <rptOwnerStreet2>111 HUNTINGTON AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02199</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Director of Advisor</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <ownerSignature>
+        <signatureName>Christopher R. Bohane</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

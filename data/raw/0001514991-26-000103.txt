@@ -1,0 +1,246 @@
+<SEC-DOCUMENT>0001514991-26-000103.txt : 20260916
+<SEC-HEADER>0001514991-26-000103.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916162054
+ACCESSION NUMBER:		0001514991-26-000103
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cohen Joseph
+		CENTRAL INDEX KEY:			0001807146
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35106
+		FILM NUMBER:		261383975
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO PENNSYLVANIA PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMC Global Media Inc.
+		CENTRAL INDEX KEY:			0001514991
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				275403694
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 PENN PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		(212) 324-8500
+
+	MAIL ADDRESS:	
+		STREET 1:		11 PENN PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMC Networks Inc.
+		DATE OF NAME CHANGE:	20110310
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001514991</issuerCik>
+        <issuerName>AMC Global Media Inc.</issuerName>
+        <issuerTradingSymbol>AMCX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001807146</rptOwnerCik>
+            <rptOwnerName>Cohen Joseph</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>11 PENN PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>AMC Global Media Inc. Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40206</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.27</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40206</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>AMC Global Media Inc. Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40206</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.27</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40206</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>AMC Global Media Inc. Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>40206</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3647</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) was granted under the AMC Global Media Inc. 2011 Amended and Restated Stock Plan for Non-Employee Directors and represents a right to receive one share of Class A Common Stock or the cash equivalent thereof. The settlement of these RSUs in cash is reported on this Form 4 as a disposition of the RSUs being settled in exchange for the acquisition of the underlying shares of Class A Common Stock, and a simultaneous disposition of the shares of Class A Common Stock to the Company for cash.</footnote>
+        <footnote id="F2">Per share value is based on the market closing price of the Class A Common Stock for September 14, 2026.</footnote>
+        <footnote id="F3">The restricted stock units are fully vested on the date of the grant and will be settled in cash or in stock on the first business day 90 days after a separation from service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Anne G. Kelly, Attorney-in-Fact for Joseph M. Cohen</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

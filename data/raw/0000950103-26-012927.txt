@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0000950103-26-012927.txt : 20260826
+<SEC-HEADER>0000950103-26-012927.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826160632
+ACCESSION NUMBER:		0000950103-26-012927
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Moreno Mejia Luis Alberto
+		CENTRAL INDEX KEY:			0001855854
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41129
+		FILM NUMBER:		261322768
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DOW INC.
+		STREET 2:		2211 H.H. DOW WAY
+		CITY:			MIDLAND
+		STATE:			MI
+		ZIP:			48674
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nu Holdings Ltd.
+		CENTRAL INDEX KEY:			0001691493
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				981302320
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		RUA CAPOTE VALENTE, 39
+		STREET 2:		PINHEIROS
+		CITY:			SAO PAULO, SP
+		STATE:			D5
+		ZIP:			05409-000
+		BUSINESS PHONE:		888-888-8888
+
+	MAIL ADDRESS:	
+		STREET 1:		RUA CAPOTE VALENTE, 39
+		STREET 2:		PINHEIROS
+		CITY:			SAO PAULO, SP
+		STATE:			D5
+		ZIP:			05409-000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001691493</issuerCik>
+        <issuerName>Nu Holdings Ltd.</issuerName>
+        <issuerTradingSymbol>NU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001855854</rptOwnerCik>
+            <rptOwnerName>Moreno Mejia Luis Alberto</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>RUA CAPOTE VALENTE, 39, PINHEIROS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAO PAULO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>05409001</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A ordinary shares (&quot;Class A Shares&quot;)</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1017</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>252541</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Figure includes 25,290 Class A Shares underlying unvested Restricted Share Units (RSUs) associated with grant(s) made prior to this current grant of RSUs. Each RSU represents a contingent right to receive one Class A Share. These RSUs are subject to the Reporting Person's continued service through the vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Beatriz Outeiro, attorney-in-fact for Luis Alberto Moreno Mejia</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001193125-26-376764.txt : 20260831
+<SEC-HEADER>0001193125-26-376764.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831161118
+ACCESSION NUMBER:		0001193125-26-376764
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Brzezinski Erin M
+		CENTRAL INDEX KEY:			0002008021
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35054
+		FILM NUMBER:		261346582
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MARATHON PETROLEUM CORPORATION
+		STREET 2:		539 SOUTH MAIN STREET
+		CITY:			FINDLAY
+		STATE:			OH
+		ZIP:			45840
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Marathon Petroleum Corp
+		CENTRAL INDEX KEY:			0001510295
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				271284632
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		539 SOUTH MAIN STREET
+		CITY:			FINDLAY
+		STATE:			OH
+		ZIP:			45840-3229
+		BUSINESS PHONE:		419-422-2121
+
+	MAIL ADDRESS:	
+		STREET 1:		539 SOUTH MAIN STREET
+		CITY:			FINDLAY
+		STATE:			OH
+		ZIP:			45840-3229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001510295</issuerCik>
+        <issuerName>Marathon Petroleum Corp</issuerName>
+        <issuerTradingSymbol>MPC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002008021</rptOwnerCik>
+            <rptOwnerName>Brzezinski Erin M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O MARATHON PETROLEUM CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>539 S. MAIN STREET</rptOwnerStreet2>
+            <rptOwnerCity>FINDLAY</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45840</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>VP and Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>570</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>362.79</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1576</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <remarks>Vice President and Controller</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Molly R. Benson, Attorney-in-Fact for Erin M. Brzezinski</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

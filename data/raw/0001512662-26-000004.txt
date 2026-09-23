@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001512662-26-000004.txt : 20260911
+<SEC-HEADER>0001512662-26-000004.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911120550
+ACCESSION NUMBER:		0001512662-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Everett Todd A.
+		CENTRAL INDEX KEY:			0001512662
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03579
+		FILM NUMBER:		261373341
+
+	MAIL ADDRESS:	
+		STREET 1:		2700 VIA FORTUNA
+		STREET 2:		SUITE 300
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78746
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PITNEY BOWES INC /DE/
+		CENTRAL INDEX KEY:			0000078814
+		STANDARD INDUSTRIAL CLASSIFICATION:	OFFICE MACHINES, NEC [3579]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				060495050
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PITNEY BOWES INC
+		STREET 2:		27 WATERVIEW DRIVE
+		CITY:			SHELTON
+		STATE:			CT
+		ZIP:			06484
+		BUSINESS PHONE:		203-922-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		27 WATERVIEW DRIVE
+		CITY:			SHELTON
+		STATE:			CT
+		ZIP:			06484
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000078814</issuerCik>
+        <issuerName>PITNEY BOWES INC /DE/</issuerName>
+        <issuerTradingSymbol>PBI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001512662</rptOwnerCik>
+            <rptOwnerName>Everett Todd A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>27 WATERVIEW DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SHELTON</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06484</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP and President of SendTech</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.895</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>86048.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock option exercises and broker-assisted sales transactions reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 11, 2026 during the Company's open window period (the &quot;Trading Plan&quot;).</footnote>
+        <footnote id="F2">The price reported here is a weighted average price. This transaction was executed in multiple transactions at prices ranging from $16.69 to $17.04, inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Elisabeth Weinberg, as attorney-in-fact for Todd A. Everett</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

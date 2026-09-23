@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001292814-26-004379.txt : 20260827
+<SEC-HEADER>0001292814-26-004379.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827170847
+ACCESSION NUMBER:		0001292814-26-004379
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gschliffner Rudolf
+		CENTRAL INDEX KEY:			0002122669
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34476
+		FILM NUMBER:		261331711
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AV PRESIDENTE JUSCELINO KUBITSCHEK, 2041
+		STREET 2:		CJ 281, BLOCO A, COND. WTORRE JK
+		CITY:			SAO PAULO
+		NON US STATE TERRITORY:  	SAO PAULO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			04543-011
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Banco Santander (Brasil) S.A.
+		CENTRAL INDEX KEY:			0001471055
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			D5
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AV. JUSCELINO KUBITSCHEK, 2235
+		STREET 2:		AV. JUSCELINO KUBITSCHEK, 2041
+		CITY:			SAO PAULO, SP
+		STATE:			D5
+		ZIP:			04543-011
+		BUSINESS PHONE:		(55 11) 3174-8589
+
+	MAIL ADDRESS:	
+		STREET 1:		AV. JUSCELINO KUBITSCHEK, 2235
+		STREET 2:		AV. JUSCELINO KUBITSCHEK, 2041
+		CITY:			SAO PAULO, SP
+		STATE:			D5
+		ZIP:			04543-011
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001471055</issuerCik>
+        <issuerName>Banco Santander (Brasil) S.A.</issuerName>
+        <issuerTradingSymbol>BSBR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002122669</rptOwnerCik>
+            <rptOwnerName>Gschliffner Rudolf</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>AV PRESIDENTE JUSCELINO KUBITSCHEK, 2041</rptOwnerStreet1>
+            <rptOwnerStreet2>CJ 281, BLOCO A, COND. WTORRE JK</rptOwnerStreet2>
+            <rptOwnerCity>SAO PAULO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>SAO PAULO</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>04543-011</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Officer w/o Specific Desig</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>UNIT - SANB11</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-08-25</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11507</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.73</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33192</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Equivalent to R$29.49 per share. Amounts presented were converted into U.S. dollars at the exchange rate of R$ 5,1484 per U.S.$1.00 as reported by Brazilian Central Bank on August 25, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rudolf Gschliffner</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

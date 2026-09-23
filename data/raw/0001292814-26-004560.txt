@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0001292814-26-004560.txt : 20260915
+<SEC-HEADER>0001292814-26-004560.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915093402
+ACCESSION NUMBER:		0001292814-26-004560
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bergman Rafael
+		CENTRAL INDEX KEY:			0002121196
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33659
+		FILM NUMBER:		261379332
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AV. BRIGADEIRO FARIA LIMA, 4100
+		CITY:			SAO PAULO
+		NON US STATE TERRITORY:  	SP
+		PROVINCE COUNTRY:   	D5
+		ZIP:			04538-132
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cosan Ltd.
+		CENTRAL INDEX KEY:			0001402902
+		STANDARD INDUSTRIAL CLASSIFICATION:	SUGAR & CONFECTIONERY PRODUCTS [2060]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AV. BRIGADEIRO FARIA LIMA, 4100
+		STREET 2:		16TH FLOOR
+		CITY:			SAO PAULO, SP
+		STATE:			D5
+		ZIP:			04538-132
+		BUSINESS PHONE:		55-11-3897-9797
+
+	MAIL ADDRESS:	
+		STREET 1:		AV. BRIGADEIRO FARIA LIMA, 4100
+		STREET 2:		16TH FLOOR
+		CITY:			SAO PAULO, SP
+		STATE:			D5
+		ZIP:			04538-132
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001402902</issuerCik>
+        <issuerName>Cosan Ltd.</issuerName>
+        <issuerTradingSymbol>CSAN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>CSAN3</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002121196</rptOwnerCik>
+            <rptOwnerName>Bergman Rafael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>AV. BRIGADEIRO FARIA LIMA, 4100</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAO PAULO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>SP</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>04538-132</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Former Chief Finance Officer</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK (BVMF: CSAN3)</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55242</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.90</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>272714</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>LONG TERM INCENTIVE (BVMF: CSAN3)</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55242</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.90</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Brazilian reais.</footnote>
+        <footnote id="F2">Right to receive shares resulting from Long-Term Incentive Programs - The Program designates eligible individuals of the Cosan Group who are granted shares, subject to continued service with the Group for a specified period (vesting), and which may also be linked to the achievement of certain performance targets. As of this date, the amount reported represents the number of shares granted to the reporting person. Such amount may increase or decrease as of the actual delivery date, depending on the level of achievement of the applicable targets and the applicable tax effects. All amounts are shown in gross terms.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rafael Bergman</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

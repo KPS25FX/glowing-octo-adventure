@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-383655.txt : 20260904
+<SEC-HEADER>0001193125-26-383655.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904160952
+ACCESSION NUMBER:		0001193125-26-383655
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SUEN JACOB
+		CENTRAL INDEX KEY:			0001705078
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37851
+		FILM NUMBER:		261362223
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAIN, INC.
+		STREET 2:		3611 VALLEY CENTRE DRIVE, SUITE 150
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92130
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAIN INC
+		CENTRAL INDEX KEY:			0001272842
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				954523882
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3611 VALLEY CENTRE DRIVE
+		STREET 2:		SUITE 150
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92130
+		BUSINESS PHONE:		(760) 579-0200
+
+	MAIL ADDRESS:	
+		STREET 1:		3611 VALLEY CENTRE DRIVE
+		STREET 2:		SUITE 150
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001272842</issuerCik>
+        <issuerName>AIRGAIN INC</issuerName>
+        <issuerTradingSymbol>AIRG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705078</rptOwnerCik>
+            <rptOwnerName>SUEN JACOB</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AIRGAIN, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3611 VALLEY CENTRE DRIVE, SUITE 150</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92130</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.20</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>279431</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this column were effected pursuant to a Rule 10b5-1 trading plan established by the reporting person on June 4, 2026.</footnote>
+        <footnote id="F2">Includes restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Elbaz, as attorney-in-fact</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

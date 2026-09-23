@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0002074050-26-000026.txt : 20260903
+<SEC-HEADER>0002074050-26-000026.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903164140
+ACCESSION NUMBER:		0002074050-26-000026
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SIMS LUKE E
+		CENTRAL INDEX KEY:			0001038238
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05807
+		FILM NUMBER:		261358961
+
+	MAIL ADDRESS:	
+		STREET 1:		225 E. MASON STREET
+		STREET 2:		SUITE 802
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EAGLE CAPITAL GROWTH FUND, INC.
+		CENTRAL INDEX KEY:			0000850027
+		ORGANIZATION NAME:           	
+		EIN:				311274796
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 EAST MASON STREET
+		STREET 2:		SUITE 802
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		414-765-1107
+
+	MAIL ADDRESS:	
+		STREET 1:		225 EAST MASON STREET
+		STREET 2:		SUITE 802
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NAIC GROWTH FUND INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BETTER INVESTING FUND INC
+		DATE OF NAME CHANGE:	19890716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000850027</issuerCik>
+        <issuerName>EAGLE CAPITAL GROWTH FUND, INC.</issuerName>
+        <issuerTradingSymbol>GRF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001038238</rptOwnerCik>
+            <rptOwnerName>SIMS LUKE E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>225 E. MASON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 802</rptOwnerStreet2>
+            <rptOwnerCity>MILWAUKEE</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2560</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.9903</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>297827</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11389</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person disclaims ownership of these securities and this report shall not be deemed an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or otherwise.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Carrie Leahy, Attorney-in-Fact by Power of Attorney</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

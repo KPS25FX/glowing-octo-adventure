@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0000899051-26-000129.txt : 20260908
+<SEC-HEADER>0000899051-26-000129.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908160814
+ACCESSION NUMBER:		0000899051-26-000129
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260906
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jeevanjee Zulfikar
+		CENTRAL INDEX KEY:			0001990362
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11840
+		FILM NUMBER:		261365130
+
+	MAIL ADDRESS:	
+		STREET 1:		3100 SANDERS ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLSTATE CORP
+		CENTRAL INDEX KEY:			0000899051
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				363871531
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3100 SANDERS ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+		BUSINESS PHONE:		8474025000
+
+	MAIL ADDRESS:	
+		STREET 1:		3100 SANDERS ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-06</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000899051</issuerCik>
+        <issuerName>ALLSTATE CORP</issuerName>
+        <issuerTradingSymbol>ALL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001990362</rptOwnerCik>
+            <rptOwnerName>Jeevanjee Zulfikar</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O THE ALLSTATE CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3100 SANDERS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>NORTHBROOK</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60062</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>1</isOther>
+            <otherText>EVP &amp; CTO - AIC</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>483</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16584</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>213</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>259.57</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16371</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares acquired upon conversion of performance stock award granted on September 6, 2023, pursuant to The Allstate Corporation 2019 Equity Incentive Plan.</footnote>
+        <footnote id="F2">Shares withheld to satisfy tax withholding obligations incident to the conversion of performance stock award.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Meghan E. Jauhar, attorney-in-fact for Zulfikar Jeevanjee</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,208 @@
+<SEC-DOCUMENT>0000816956-26-000105.txt : 20260910
+<SEC-HEADER>0000816956-26-000105.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910151348
+ACCESSION NUMBER:		0000816956-26-000105
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kelderman Kim
+		CENTRAL INDEX KEY:			0001739054
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39218
+		FILM NUMBER:		261370847
+
+	MAIL ADDRESS:	
+		STREET 1:		614 MCKINLEY PLACE NE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55413
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONMED Corp
+		CENTRAL INDEX KEY:			0000816956
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				160977505
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11311 CONCEPT BOULEVARD
+		CITY:			LARGO
+		STATE:			FL
+		ZIP:			33773
+		BUSINESS PHONE:		727-214-2974
+
+	MAIL ADDRESS:	
+		STREET 1:		11311 CONCEPT BOULEVARD
+		CITY:			LARGO
+		STATE:			FL
+		ZIP:			33773
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONMED CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000816956</issuerCik>
+        <issuerName>CONMED Corp</issuerName>
+        <issuerTradingSymbol>CNMD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001739054</rptOwnerCik>
+            <rptOwnerName>Kelderman Kim</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CONMED CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>11311 CONCEPT BOULEVARD</rptOwnerStreet2>
+            <rptOwnerCity>LARGO</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33773</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSUs (Restricted Stock Units)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-08</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2035-09-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive one share of common stock, par value $0.01 per share of CONMED Corporation (the &quot;Company&quot;) and will be subject to the terms and conditions of the Company's 2025 Long-Term Incentive Plan, with the RSUs generally vesting 100% after a one year period.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas Fistek for Kim Kelderman by Power of Attorney</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

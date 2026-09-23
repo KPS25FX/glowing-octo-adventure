@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001104659-26-101780.txt : 20260826
+<SEC-HEADER>0001104659-26-101780.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826205928
+ACCESSION NUMBER:		0001104659-26-101780
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Paes-Braga Brian
+		CENTRAL INDEX KEY:			0002122616
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43208
+		FILM NUMBER:		261324718
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1900 DOME TOWER
+		STREET 2:		333 7TH AVE SW
+		CITY:			CALGARY
+		PROVINCE COUNTRY:   	A0
+		ZIP:			T2P 2Z1
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Metals Royalty Co Inc.
+		CENTRAL INDEX KEY:			0002087398
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1900 DOME TOWER
+		STREET 2:		333 7TH AVE SW
+		CITY:			CALGARY
+		PROVINCE COUNTRY:   	A0
+		ZIP:			T2P 2Z1
+		BUSINESS PHONE:		403-984-1941
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1900 DOME TOWER
+		STREET 2:		333 7TH AVE SW
+		CITY:			CALGARY
+		PROVINCE COUNTRY:   	A0
+		ZIP:			T2P 2Z1
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2624123-1_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002087398</issuerCik>
+        <issuerName>Metals Royalty Co Inc.</issuerName>
+        <issuerTradingSymbol>TMCR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002122616</rptOwnerCik>
+            <rptOwnerName>Paes-Braga Brian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1900 DOME TOWER, 333 7TH AVE SW</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CALGARY</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A0</rptOwnerCountry>
+            <rptOwnerZipCode>T2P 2Z1</rptOwnerZipCode>
+            <rptOwnerStateDescription>ALBERTA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>8.00% Convertible Senior Secured Second Lien Notes due 2031</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>8.6625</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>867000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>950</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-08-24</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-09-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>100086</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>867000</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Donald Sewell, attorney-in-fact</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

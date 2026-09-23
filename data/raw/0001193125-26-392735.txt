@@ -1,0 +1,290 @@
+<SEC-DOCUMENT>0001193125-26-392735.txt : 20260916
+<SEC-HEADER>0001193125-26-392735.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916112405
+ACCESSION NUMBER:		0001193125-26-392735
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Three Lions Sponsor, LLC
+		CENTRAL INDEX KEY:			0002153072
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43469
+		FILM NUMBER:		261382806
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 PROSPECT STREET
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92037
+		BUSINESS PHONE:		917-822-8328
+
+	MAIL ADDRESS:	
+		STREET 1:		888 PROSPECT STREET
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92037
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Three Lions Acquisition Corp.
+		CENTRAL INDEX KEY:			0002128462
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 PROSPECT STREET
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+		BUSINESS PHONE:		917-822-8328
+
+	MAIL ADDRESS:	
+		STREET 1:		888 PROSPECT STREET
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002128462</issuerCik>
+        <issuerName>Three Lions Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>TLAC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002153072</rptOwnerCik>
+            <rptOwnerName>Three Lions Sponsor, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O THREE LIONS ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>888 PROSPECT STREET</rptOwnerStreet2>
+            <rptOwnerCity>LA JOLLA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92037</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                    <footnoteId id="F1"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3958333</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>800000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.007</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3158333</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                    <footnoteId id="F4"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2658333</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>100000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Simultaneously with the consummation of the Issuer's initial public offering, Three Lions Sponsor, LLC (the &quot;Sponsor&quot;) acquired, at a price of $10.00 per unit, 200,000 units (the &quot;Private Units&quot;) in a private placement for an aggregate purchase price of $2,000,000. Each Private Unit consists of one ordinary share, par value $0.0001 per share (&quot;Ordinary Shares&quot;) and one-half of one warrant, each whole warrant entitling the holder thereof to purchase one Ordinary Share of the Issuer at $11.50 per share, subject to adjustment as described in the final prospectus of the Issuer relating to the initial public offering (File No. 333-297177) (the &quot;Prospectus&quot;). The warrants will become exercisable 30 days after the completion of the Issuer's initial business combination and will expire on the fifth anniversary of the completion of an initial business combination, or earlier upon redemption or liquidation.</footnote>
+        <footnote id="F2">The Sponsor is the record holder of the securities reported herein. The Sponsor is managed by a board of managers, consisting of Messrs. Berke Bakay, Brett Johnson and Harry Brandler, each of whom holds one vote, and the approval of a majority of the managers is required to approve an action of the Sponsor. Under the so-called &quot;rule of three,&quot; if voting and dispositive decisions regarding an entity's securities are made by three or more individuals, and a voting or dispositive decision requires the approval of a majority of those individuals, then none of the individuals is deemed a beneficial owner of the entity's securities. Based upon the foregoing analysis, no manager of the Sponsor exercises voting or dispositive control over any of the securities held by the Sponsor, even those in which he or she directly holds a pecuniary interest. Accordingly, none of them will be deemed to have or share beneficial ownership of such shares.</footnote>
+        <footnote id="F3">The Sponsor transferred an aggregate of 800,000 Ordinary Shares to certain designees on the closing of the Issuer's initial public offering for an aggregate consideration of approximately $5,217, or approximately $0.007 per founder share.</footnote>
+        <footnote id="F4">Upon notice from EarlyBirdCapital, Inc., the underwriter of the Issuer's initial public offering, to terminate the underwriter's option to purchase additional units of the Company to cover over-allotment on September 10, 2026, the Sponsor agreed to forfeit 500,000 Ordinary Shares without consideration.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Tiange Chen, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

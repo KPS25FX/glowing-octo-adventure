@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001230724-26-000018.txt : 20260909
+<SEC-HEADER>0001230724-26-000018.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909175420
+ACCESSION NUMBER:		0001230724-26-000018
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GUGGENHIME ANDREW
+		CENTRAL INDEX KEY:			0001230724
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39323
+		FILM NUMBER:		261369142
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VAXCYTE, INC.
+		STREET 2:		825 INDUSTRIAL ROAD, STE. 300
+		CITY:			SAN CARLOS
+		STATE:			CA
+		ZIP:			94070
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vaxcyte, Inc.
+		CENTRAL INDEX KEY:			0001649094
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				464233385
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		825 INDUSTRIAL ROAD, STE. 300
+		CITY:			SAN CARLOS
+		STATE:			CA
+		ZIP:			94070
+		BUSINESS PHONE:		650-837-0111
+
+	MAIL ADDRESS:	
+		STREET 1:		825 INDUSTRIAL ROAD, STE. 300
+		CITY:			SAN CARLOS
+		STATE:			CA
+		ZIP:			94070
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SutroVax, Inc.
+		DATE OF NAME CHANGE:	20150724
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1788990858.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001649094</issuerCik>
+        <issuerName>Vaxcyte, Inc.</issuerName>
+        <issuerTradingSymbol>PCVX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001230724</rptOwnerCik>
+            <rptOwnerName>GUGGENHIME ANDREW</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VAXCYTE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>825 INDUSTRIAL ROAD, STE. 300</rptOwnerStreet2>
+            <rptOwnerCity>SAN CARLOS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94070</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>PRESIDENT AND CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7155</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>60.36</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>95316</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>61850</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares surrendered to the Issuer to cover applicable tax withholding obligations realized upon the vesting of RSUs.</footnote>
+        <footnote id="F2">Shares are held by ALG 2025 GRAT HOLDINGS LLC, of which 100% of the limited liability company interest is owned by a grantor retained annuity trust, of which the Reporting Person is the annuitant and the trustee.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Andrew Guggenhime, by /s/ Peter N. Efremenko, Attorney-In-Fact</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001104659-26-108251.txt : 20260916
+<SEC-HEADER>0001104659-26-108251.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916160605
+ACCESSION NUMBER:		0001104659-26-108251
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Larsen Todd
+		CENTRAL INDEX KEY:			0001606971
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36745
+		FILM NUMBER:		261383796
+
+	MAIL ADDRESS:	
+		STREET 1:		1271 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020-1300
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BNB PLUS CORP.
+		CENTRAL INDEX KEY:			0000744452
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				592262718
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25 HEALTH SCIENCES DRIVE
+		CITY:			STONY BROOK
+		STATE:			NY
+		BUSINESS PHONE:		631-240-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		25 HEALTH SCIENCES DRIVE
+		CITY:			STONY BROOK
+		STATE:			NY
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLIED DNA SCIENCES INC
+		DATE OF NAME CHANGE:	20021218
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROHEALTH MEDICAL TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20010504
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DCC ACQUISITION CORP
+		DATE OF NAME CHANGE:	19990211
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2625498-2_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000744452</issuerCik>
+        <issuerName>BNB PLUS CORP.</issuerName>
+        <issuerTradingSymbol>BNBX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001606971</rptOwnerCik>
+            <rptOwnerName>Larsen Todd</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>25 HEALTH SCIENCES DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>STONY BROOK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11790</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.15</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>100000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The options vest in equal monthly installments over a 6-month period, commencing one month from the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Todd Larsen</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

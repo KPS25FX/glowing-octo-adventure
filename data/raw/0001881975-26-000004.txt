@@ -1,0 +1,301 @@
+<SEC-DOCUMENT>0001881975-26-000004.txt : 20260908
+<SEC-HEADER>0001881975-26-000004.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908073528
+ACCESSION NUMBER:		0001881975-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260523
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Speth Ralf
+		CENTRAL INDEX KEY:			0001881975
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42040
+		FILM NUMBER:		261363392
+
+	MAIL ADDRESS:	
+		STREET 1:		260 MASON STREET
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCHMID Group N.V.
+		CENTRAL INDEX KEY:			0001987240
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT [3590]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			P7
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		ROBERT-BOSCH-STR. 32-36
+		CITY:			FREUDENSTADT
+		PROVINCE COUNTRY:   	2M
+		ZIP:			72250
+		BUSINESS PHONE:		44 73 84 24 7998
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		ROBERT-BOSCH-STR. 32-36
+		CITY:			FREUDENSTADT
+		PROVINCE COUNTRY:   	2M
+		ZIP:			72250
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pegasus TopCo B.V.
+		DATE OF NAME CHANGE:	20230725
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-05-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001987240</issuerCik>
+        <issuerName>SCHMID Group N.V.</issuerName>
+        <issuerTradingSymbol>SHMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001881975</rptOwnerCik>
+            <rptOwnerName>Speth Ralf</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>260 MASON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREENWICH</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06830</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16311</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.8647</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>201311</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.248</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>236311</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.05</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>269311</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Karl Reismueller as attorney in fact as for Ralf Speth</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poaspethedgar.txt
+<DESCRIPTION>POA
+<TEXT>
+POWER OF ATTORNEY
+FOR SEC FILINGS ON FORMS ID, 3, 4, 5 AND 144
+IN RESPECT OF SECURITIES OF
+SCHMID Group N.V.
+The undersigned hereby constitutes and appoints Karl Reismueller, as
+the undersigneds true and lawful attorney-in-fact and agent, with full power
+of substitution and resubstitution for the undersigned in
+the undersigneds name and stead in any and all capacities,
+to sign and file for and on the undersigneds behalf, in respect of
+any acquisition, disposition or other change in ownership of any
+securities of SCHMID Group N.V. (the "Company"), the following:
+(i) 	any Form ID to be filed with the Securities and Exchange
+Commission (the "SEC");
+(ii)	any Initial Statement of Beneficial Ownership of
+Securities on Form 3 to be filed with the SEC;
+(iii)	any Statement of Changes of Beneficial Ownership of Securities
+on Form 4 to be filed with the SEC;
+(iv)	any Annual Statement of Beneficial Ownership of Securities
+on Form 5 to be filed with the SEC;
+(v)	any Notice of Proposed Sale of Securities on Form 144 to be
+filed with the SEC; and
+(vi)	any and all agreements, certificates, receipts, or other
+documents in connection therewith.
+The undersigned hereby gives full power and authority to the
+attorney-in-fact to seek and obtain as the undersigneds representative
+and on the undersigneds behalf, information on transactions in
+the Companys securities from any third party, including brokers,
+employee benefit plan administrators and trustees, and the undersigned
+hereby authorizes any such person to release such information to the
+undersigned and approves and ratifies any such release of information.
+The undersigned hereby grants unto such attorney-in-fact and agent
+full power and authority to do and perform each and every act and
+thing requisite and necessary in connection with such matters
+and hereby ratifies and confirms all that any such attorney-in-fact
+and agent or substitute may do or cause to be done by virtue hereof.
+The undersigned acknowledges that:
+(i)	neither the Company nor such attorney-in-fact assumes
+(i) any liability for the undersigneds responsibility to comply
+with the requirement of the Securities Exchange Act of 1934, as amended
+(the "Exchange Act"), (ii) any liability of the undersigned for
+any failure to comply with such requirements or (iii) any obligation or
+liability of the undersigned for profit disgorgement under
+Section 16(b) of the Exchange Act; and
+(ii)	this Power of Attorney does not relieve the undersigned from
+responsibility for compliance with the undersigneds obligations under
+the Exchange Act, including without limitation the reporting
+requirements under Section 16 of the Exchange Act.
+This Power of Attorney shall remain in full force and effect until
+revoked by the undersigned in a signed writing delivered to such
+attorney-in-fact.
+IN WITNESS WHEREOF, the undersigned has executed this
+Power of Attorney.
+Date: Freudenstadt, 23rd March 2026	/s/Ralf Speth
+			Ralf Speth
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0001171843-26-005844.txt : 20260901
+<SEC-HEADER>0001171843-26-005844.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901181225
+ACCESSION NUMBER:		0001171843-26-005844
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nijhawan Pardeep
+		CENTRAL INDEX KEY:			0001777962
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37619
+		FILM NUMBER:		261352064
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O EDESA BIOTECH INC.
+		STREET 2:		100 SPY COURT
+		CITY:			MARKHAM
+		PROVINCE COUNTRY:   	A6
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Edesa Biotech, Inc.
+		CENTRAL INDEX KEY:			0001540159
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		100 SPY COURT
+		CITY:			MARKHAM
+		PROVINCE COUNTRY:   	A6
+		BUSINESS PHONE:		(905) 475-1234
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		100 SPY COURT
+		CITY:			MARKHAM
+		PROVINCE COUNTRY:   	A6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Stellar Biotechnologies, Inc.
+		DATE OF NAME CHANGE:	20120120
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001540159</issuerCik>
+        <issuerName>Edesa Biotech, Inc.</issuerName>
+        <issuerTradingSymbol>EDSA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001777962</rptOwnerCik>
+            <rptOwnerName>Nijhawan Pardeep</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O EDESA BIOTECH INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>100 SPY COURT</rptOwnerStreet2>
+            <rptOwnerCity>MARKHAM</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A6</rptOwnerCountry>
+            <rptOwnerZipCode>L3R 5H6</rptOwnerZipCode>
+            <rptOwnerStateDescription>ONTARIO, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5714</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>899100</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>402702</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by Pardeep Nijhawan Medicine Professional Corporation</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32609</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by The New Nijhawan Family Trust 2015</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32013</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by The Digestive Health Clinic Inc.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>53104</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by 1968160Ontario Inc.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects a grant of restricted share units, which vested in full upon grant, pursuant to the Issuer's 2019 Equity Incentive Compensation Plan.</footnote>
+        <footnote id="F2">Each of Pardeep Medicine Professional Corporation, The Digestive Health Clinic Inc. and 1968160 Ontario Inc. are wholly-owned by Reporting Person. Reporting Person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these shares in this report shall not be deemed an admission of beneficial ownership of all of the reported shares for purposes of Section 16 or for any other purpose.</footnote>
+        <footnote id="F3">Reporting Person is a co-trustee of The New Nijhawan Family Trust 2015. The Reporting Person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these shares in this report shall not be deemed an admission of beneficial ownership of all of the reported shares for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter J. Weiler, Attorney-in-Fact for Pardeep Nijhawan</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001193125-26-387811.txt : 20260910
+<SEC-HEADER>0001193125-26-387811.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910154425
+ACCESSION NUMBER:		0001193125-26-387811
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rayha Mark
+		CENTRAL INDEX KEY:			0002048528
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03671
+		FILM NUMBER:		261370951
+
+	MAIL ADDRESS:	
+		STREET 1:		11011 SUNSET HILLS ROAD
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20148
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENERAL DYNAMICS CORP
+		CENTRAL INDEX KEY:			0000040533
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHIP & BOAT BUILDING & REPAIRING [3730]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				131673581
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11011 SUNSET HILLS RD
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+		BUSINESS PHONE:		703-876-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		11011 SUNSET HILLS RD
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000040533</issuerCik>
+        <issuerName>GENERAL DYNAMICS CORP</issuerName>
+        <issuerTradingSymbol>GD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002048528</rptOwnerCik>
+            <rptOwnerName>Rayha Mark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GENERAL DYNAMICS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>11011 SUNSET HILLS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>RESTON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>20190</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>19</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>358.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10403</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2904.529</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>401(k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the withholding of shares of Common Stock under the General Dynamics Corporation equity compensation plan to satisfy tax withholding obligations in connection with the release of restricted shares.</footnote>
+        <footnote id="F2">Includes share activity under General Dynamics 401(k) plan since date of Reporting Person's last ownership report.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Nicholas R. Barnaby, by Power of Attorney</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

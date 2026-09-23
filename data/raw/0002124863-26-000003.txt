@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0002124863-26-000003.txt : 20260827
+<SEC-HEADER>0002124863-26-000003.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827141625
+ACCESSION NUMBER:		0002124863-26-000003
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260319
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McHaffa Evan S.
+		CENTRAL INDEX KEY:			0002124863
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13273
+		FILM NUMBER:		261328673
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O F&M BANK
+		STREET 2:		205 SOUTH MAIN STREET
+		CITY:			TIMBERVILLE
+		STATE:			VA
+		ZIP:			22853
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			F&M BANK CORP
+		CENTRAL INDEX KEY:			0000740806
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				541280811
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 1111
+		CITY:			TIMBERVILLE
+		STATE:			VA
+		ZIP:			22853
+		BUSINESS PHONE:		540-896-8941
+
+	MAIL ADDRESS:	
+		STREET 1:		P. O. BOX 1111
+		CITY:			TIMBERVILLE
+		STATE:			VA
+		ZIP:			22853
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-03-19</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-03-27</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000740806</issuerCik>
+        <issuerName>F&amp;M BANK CORP</issuerName>
+        <issuerTradingSymbol>fmbm</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002124863</rptOwnerCik>
+            <rptOwnerName>McHaffa Evan S.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O F&amp;M BANK</rptOwnerStreet1>
+            <rptOwnerStreet2>205 SOUTH MAIN STREET</rptOwnerStreet2>
+            <rptOwnerCity>TIMBERVILLE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22853</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP/Chief Credit Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-03-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>650</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.59</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>650</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This amendment is being filed to correct the transaction code to reflect an acquisition from the Issuer, which is exempt from Section 16(b) of the Securities Exchange Act per Rule 16b-3.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Candy F. Barkley, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

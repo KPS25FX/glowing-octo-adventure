@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001193125-26-384463.txt : 20260908
+<SEC-HEADER>0001193125-26-384463.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908084937
+ACCESSION NUMBER:		0001193125-26-384463
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			He Eric
+		CENTRAL INDEX KEY:			0002115403
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39340
+		FILM NUMBER:		261363527
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O BILIBILI INC., 17TH FLOOR BUILDING 3
+		STREET 2:		GUOZHENG CENTER NO.485, ZHENGLI ROAD
+		CITY:			SHANGHAI
+		NON US STATE TERRITORY:  	YANGPU DISTRICT
+		PROVINCE COUNTRY:   	F4
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Agora, Inc.
+		CENTRAL INDEX KEY:			0001802883
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2804 MISSION COLLEGE BLVD,
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		1-408-879-5885
+
+	MAIL ADDRESS:	
+		STREET 1:		2804 MISSION COLLEGE BLVD,
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001802883</issuerCik>
+        <issuerName>Agora, Inc.</issuerName>
+        <issuerTradingSymbol>API</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002115403</rptOwnerCik>
+            <rptOwnerName>He Eric</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>66 LANE, 411 SEC 1 NEI HU ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TAIPEI</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F5</rptOwnerCountry>
+            <rptOwnerZipCode>114</rptOwnerZipCode>
+            <rptOwnerStateDescription>TAIWAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>ADSs</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1591</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>87753</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU (Restricted Stock Unit)</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1591</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2035-11-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>ADSs</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1591</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35009</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents American Depositary Shares acquired through the vesting of Restricted Share Units (&quot;RSUs&quot;). Every one ADS represents four Class A Ordinary Shares of the Issuer.</footnote>
+        <footnote id="F2">Represents American Depositary Shares acquired through the vesting of RSUs. Every one ADS represents four Class A Ordinary Shares of the Issuer.</footnote>
+        <footnote id="F3">Each RSU represents the contingent right to receive one ADS of the Issuer upon vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Eric He</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

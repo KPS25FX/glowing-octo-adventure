@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001193125-26-395693.txt : 20260918
+<SEC-HEADER>0001193125-26-395693.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918170020
+ACCESSION NUMBER:		0001193125-26-395693
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Meates Helen T
+		CENTRAL INDEX KEY:			0001653462
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36869
+		FILM NUMBER:		261391643
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PJT PARTNERS INC.
+		STREET 2:		280 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PJT Partners Inc.
+		CENTRAL INDEX KEY:			0001626115
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				364797143
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		16TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-364-7800
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		16TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Blackstone Advisory Inc.
+		DATE OF NAME CHANGE:	20141120
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001626115</issuerCik>
+        <issuerName>PJT Partners Inc.</issuerName>
+        <issuerTradingSymbol>PJT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001653462</rptOwnerCik>
+            <rptOwnerName>Meates Helen T</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>280 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13403</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of Issuer Class A common stock.</footnote>
+        <footnote id="F2">Represents dividend equivalent rights in connection with the Issuer's dividend that accrue to the reporting person in restricted stock units that vest at the same time(s) as the underlying restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>David K.F. Gillis, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

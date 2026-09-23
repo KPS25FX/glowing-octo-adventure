@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001193125-26-380267.txt : 20260902
+<SEC-HEADER>0001193125-26-380267.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902163010
+ACCESSION NUMBER:		0001193125-26-380267
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rogozinski Kenneth
+		CENTRAL INDEX KEY:			0001787579
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41564
+		FILM NUMBER:		261355280
+
+	MAIL ADDRESS:	
+		STREET 1:		1004 FARNAM STREET, SUITE 400
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Greystone Housing Impact Investors LP
+		CENTRAL INDEX KEY:			0001059142
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				470810385
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14301 FNB PARKWAY
+		STREET 2:		SUITE 211
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68154
+		BUSINESS PHONE:		(402) 952-1235
+
+	MAIL ADDRESS:	
+		STREET 1:		14301 FNB PARKWAY
+		STREET 2:		SUITE 211
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICA FIRST MULTIFAMILY INVESTORS, L.P.
+		DATE OF NAME CHANGE:	20131113
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICA FIRST TAX EXEMPT INVESTORS LP
+		DATE OF NAME CHANGE:	19980403
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001059142</issuerCik>
+        <issuerName>Greystone Housing Impact Investors LP</issuerName>
+        <issuerTradingSymbol>GHI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001787579</rptOwnerCik>
+            <rptOwnerName>Rogozinski Kenneth</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>14301 FNB PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 211</rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Beneficial Unit Certificates</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>61164</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By IRA</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Beneficial Unit Certificates</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.24</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>170233</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Kenneth C. Rogozinski</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

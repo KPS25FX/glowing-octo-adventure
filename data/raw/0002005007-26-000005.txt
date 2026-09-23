@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0002005007-26-000005.txt : 20260828
+<SEC-HEADER>0002005007-26-000005.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828162344
+ACCESSION NUMBER:		0002005007-26-000005
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Thomas Robert David
+		CENTRAL INDEX KEY:			0002005007
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02360
+		FILM NUMBER:		261340575
+
+	MAIL ADDRESS:	
+		STREET 1:		1 NEW ORCHARD ROAD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504-1722
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERNATIONAL BUSINESS MACHINES CORP
+		CENTRAL INDEX KEY:			0000051143
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				130871985
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 NEW ORCHARD ROAD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+		BUSINESS PHONE:		9144991900
+
+	MAIL ADDRESS:	
+		STREET 1:		1 NEW ORCHARD RD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000051143</issuerCik>
+        <issuerName>INTERNATIONAL BUSINESS MACHINES CORP</issuerName>
+        <issuerTradingSymbol>IBM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002005007</rptOwnerCik>
+            <rptOwnerName>Thomas Robert David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>IBM CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE NEW ORCHARD ROAD</rptOwnerStreet2>
+            <rptOwnerCity>ARMONK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10504</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>230.3235</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>47800.35</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is weighted average price. These shares were sold in multiple transactions at prices ranging from $229.835 to $230.69, inclusive. The reporting person undertakes to provide to International Business Machines Corporation (IBM), any security holder of IBM, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote (1) to this Form 4.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>L. Mallardi on behalf of R. Thomas</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

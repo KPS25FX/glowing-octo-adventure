@@ -1,0 +1,220 @@
+<SEC-DOCUMENT>0000897069-26-001754.txt : 20260904
+<SEC-HEADER>0000897069-26-001754.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904163102
+ACCESSION NUMBER:		0000897069-26-001754
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fishman Robert P
+		CENTRAL INDEX KEY:			0001399744
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11625
+		FILM NUMBER:		261362453
+
+	MAIL ADDRESS:	
+		STREET 1:		1700 S. PATTERSON BOULEVARD
+		CITY:			DAYTON
+		STATE:			OH
+		ZIP:			45479
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PENTAIR plc
+		CENTRAL INDEX KEY:			0000077360
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIAL INDUSTRY MACHINERY (NO METALWORKING MACHINERY) [3550]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				981050812
+		STATE OF INCORPORATION:			L2
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		REGAL HOUSE, 70 LONDON ROAD
+		STREET 2:		TWICKENHAM
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			TW13QS
+		BUSINESS PHONE:		763-545-1730
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PENTAIR MANAGEMENT COMPANY
+		STREET 2:		5500 WAYZATA BLVD, SUITE 900
+		CITY:			GOLDEN VALLEY
+		STATE:			MN
+		ZIP:			55416
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PENTAIR LTD
+		DATE OF NAME CHANGE:	20121003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PENTAIR INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PENTAIR INDUSTRIES INC
+		DATE OF NAME CHANGE:	19790327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000077360</issuerCik>
+        <issuerName>PENTAIR plc</issuerName>
+        <issuerTradingSymbol>PNR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001399744</rptOwnerCik>
+            <rptOwnerName>Fishman Robert P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5500 WAYZATA BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>GOLDEN VALLEY</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55416</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Interim EVP and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>747</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>59.84</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5699</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1073</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>59.84</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7761</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares - Restricted Stock Units</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13265.7900</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares surrendered to pay taxes applicable to vesting of restricted stock units.</footnote>
+        <footnote id="F2">End-of-period holdings reflect the vesting of restricted stock units that were previously reported.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John K. Wilson, Attorney-in-Fact for Robert P. Fishman</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

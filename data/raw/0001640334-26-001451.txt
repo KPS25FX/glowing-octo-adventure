@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001640334-26-001451.txt : 20260903
+<SEC-HEADER>0001640334-26-001451.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903160528
+ACCESSION NUMBER:		0001640334-26-001451
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FRISSORA MARK P
+		CENTRAL INDEX KEY:			0001239786
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54949
+		FILM NUMBER:		261358345
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CAESARS PALACE DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89109
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIOADAPTIVES, INC.
+		CENTRAL INDEX KEY:			0001575142
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				462592228
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2620 REGATTA DRIVE
+		STREET 2:		SUITE 102
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89128
+		BUSINESS PHONE:		(702) 659-8829
+
+	MAIL ADDRESS:	
+		STREET 1:		2620 REGATTA DRIVE
+		STREET 2:		SUITE 102
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APEX 8 Inc.
+		DATE OF NAME CHANGE:	20130424
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01-05:00</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001575142</issuerCik>
+        <issuerName>BIOADAPTIVES, INC.</issuerName>
+        <issuerTradingSymbol>BDPT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001239786</rptOwnerCik>
+            <rptOwnerName>FRISSORA MARK P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BIOADAPTIVES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2620 REGATTA DRIVE, SUITE 102</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89128</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series D Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01-05:00</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35715</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2027-03-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3571500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>139640</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of Series D Convertible Preferred Stock issued as compensation for board services pursuant to that certain Board of Directors Agreement, dated February 3, 2025, between the Issuer and the Reporting Person.</footnote>
+        <footnote id="F2">The Reporting Person's shares of Series D Convertible Preferred Stock, par value $0.0001 per share, are convertible into shares of common stock, par value $0.0001 per share, at a ratio of 100 shares of common stock for each share of Series D Convertible Preferred Stock, subject to a 4.9% beneficial ownership limitation. No shares of Series D Convertible Preferred Stock may be converted until six months after the date of issuance, except in the case of liquidation, whereupon the conversion will occur immediately. Each share of Series D Convertible Preferred Stock outstanding at the time of a meeting of stockholders or a solicitation of consent is entitled to 100 votes on matters of the Issuer, without regard to the beneficial ownership limitation. The right to convert does not expire.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark P. Frissora</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

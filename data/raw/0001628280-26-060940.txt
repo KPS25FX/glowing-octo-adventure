@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001628280-26-060940.txt : 20260908
+<SEC-HEADER>0001628280-26-060940.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908170520
+ACCESSION NUMBER:		0001628280-26-060940
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Felli Martin
+		CENTRAL INDEX KEY:			0001962134
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39299
+		FILM NUMBER:		261365783
+
+	MAIL ADDRESS:	
+		STREET 1:		4 OVERLOOK POINT
+		CITY:			LINCOLNSHIRE
+		STATE:			IL
+		ZIP:			60069
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alight, Inc. / Delaware
+		CENTRAL INDEX KEY:			0001809104
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				850545098
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		320 SOUTH CANAL STREET
+		STREET 2:		50TH FLOOR, SUITE 5000
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		(224) 737-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		320 SOUTH CANAL STREET
+		STREET 2:		50TH FLOOR, SUITE 5000
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Alight Group, Inc.
+		DATE OF NAME CHANGE:	20210707
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Foley Trasimene Acquisition Corp.
+		DATE OF NAME CHANGE:	20200410
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1788901517.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001809104</issuerCik>
+        <issuerName>Alight, Inc. / Delaware</issuerName>
+        <issuerTradingSymbol>ALIT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001962134</rptOwnerCik>
+            <rptOwnerName>Felli Martin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ALIGHT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>510 LAKE COOK ROAD, SUITE 400</rptOwnerStreet2>
+            <rptOwnerCity>DEERFIELD</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60015</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Legal Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>244</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14.89</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28324</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares withheld to cover tax liability incurred upon the vesting of previously reported restricted stock units.  All of the shares reported as disposed of in this Form 4 were relinquished by the Reporting Person and cancelled by the Issuer in exchange for the Issuer's agreement to pay federal and state tax withholding obligations of the Reporting Person.</footnote>
+        <footnote id="F2">Includes restricted stock units scheduled to vest in the future.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ John A. Mikowski, Deputy General Counsel and Assistant Corporate Secretary, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

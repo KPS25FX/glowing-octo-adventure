@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001178913-26-004473.txt : 20260909
+<SEC-HEADER>0001178913-26-004473.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909170630
+ACCESSION NUMBER:		0001178913-26-004473
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Niri Sagi
+		CENTRAL INDEX KEY:			0001980194
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40504
+		FILM NUMBER:		261368862
+
+	MAIL ADDRESS:	
+		STREET 1:		YEFE NOF 20
+		CITY:			KIRYAT ONO
+		STATE:			L3
+		ZIP:			5552906
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nexxen International Ltd.
+		CENTRAL INDEX KEY:			0001849396
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+		LEGAL ENTITY IDENTIFIER:    	213800ZNSR7AIJZ2J557
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		82 YIGAL ALON STREET
+		STREET 2:		13TH FLOOR
+		CITY:			TEL AVIV
+		PROVINCE COUNTRY:   	L3
+		BUSINESS PHONE:		972-3-545-3900
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		82 YIGAL ALON STREET
+		STREET 2:		13TH FLOOR
+		CITY:			TEL AVIV
+		PROVINCE COUNTRY:   	L3
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tremor International Ltd.
+		DATE OF NAME CHANGE:	20210304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001849396</issuerCik>
+        <issuerName>Nexxen International Ltd.</issuerName>
+        <issuerTradingSymbol>NEXN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001980194</rptOwnerCik>
+            <rptOwnerName>Niri Sagi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>82 YIGAL ALON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TEL AVIV</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode>6789124</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>22822</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>149310</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Shai Shulman</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

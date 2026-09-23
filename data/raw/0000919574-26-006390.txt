@@ -1,0 +1,247 @@
+<SEC-DOCUMENT>0000919574-26-006390.txt : 20260918
+<SEC-HEADER>0000919574-26-006390.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918160454
+ACCESSION NUMBER:		0000919574-26-006390
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Balle Kim
+		CENTRAL INDEX KEY:			0002126676
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38294
+		FILM NUMBER:		261390815
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		TUBORG HAVNEVEJ 18
+		CITY:			HELLERUP
+		PROVINCE COUNTRY:   	G7
+		ZIP:			2900
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TORM plc
+		CENTRAL INDEX KEY:			0001655891
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		OFFICE 506
+		STREET 2:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8HL
+		BUSINESS PHONE:		44 203 286 6222
+
+	MAIL ADDRESS:	
+		STREET 1:		OFFICE 506
+		STREET 2:		20 ST DUNSTAN'S HILL
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC3R 8HL
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TORM Ltd
+		DATE OF NAME CHANGE:	20151125
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Anchor Admiral Ltd
+		DATE OF NAME CHANGE:	20151016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001655891</issuerCik>
+        <issuerName>TORM plc</issuerName>
+        <issuerTradingSymbol>TRMD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002126676</rptOwnerCik>
+            <rptOwnerName>Balle Kim</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TORM PLC</rptOwnerStreet1>
+            <rptOwnerStreet2>120 CANNON STREET</rptOwnerStreet2>
+            <rptOwnerCity>LONDON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>X0</rptOwnerCountry>
+            <rptOwnerZipCode>EC4N6AS</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42533</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>27.61</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>43043</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>254</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42533</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>42533</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>382700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Class A Common Shares were acquired upon vesting at a price of $27.61, or DKK 170.80.</footnote>
+        <footnote id="F2">The Restricted Stock Units (&quot;RSUs&quot;) vested on September 17, 2026 and the underlying Class A Common Shares were delivered on September 18, 2026. Each RSU represented the right to receive one Class A Common Share.</footnote>
+        <footnote id="F3">The RSUs have an exercise price of DKK 170.80 per share. Each RSU represents a contingent right to receive one Class A Common Share of the Issuer. Following settlement of 42,533 RSUs, 382,700 RSUs remained outstanding.</footnote>
+    </footnotes>
+
+    <remarks>U.S. dollar amounts are translated from Danish kroner at the applicable exchange rates on the respective transaction dates.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kim Balle</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

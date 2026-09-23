@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001978586-26-000006.txt : 20260914
+<SEC-HEADER>0001978586-26-000006.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914130512
+ACCESSION NUMBER:		0001978586-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lauro Emanuele
+		CENTRAL INDEX KEY:			0001978586
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34677
+		FILM NUMBER:		261376696
+
+	MAIL ADDRESS:	
+		STREET 1:		99 BOULEVARD DU JARDIN EXOTIQUE
+		STREET 2:		L'EXOTIQUE
+		CITY:			MONACO
+		STATE:			O9
+		ZIP:			98000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Scorpio Tankers Inc.
+		CENTRAL INDEX KEY:			0001483934
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		L'EXOTIQUE 99 BOULEVARD JARDIN EXOTIQUE
+		CITY:			MONACO
+		STATE:			O9
+		ZIP:			98000
+		BUSINESS PHONE:		212-542-1616
+
+	MAIL ADDRESS:	
+		STREET 1:		L'EXOTIQUE 99 BOULEVARD JARDIN EXOTIQUE
+		CITY:			MONACO
+		STATE:			O9
+		ZIP:			98000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001483934</issuerCik>
+        <issuerName>Scorpio Tankers Inc.</issuerName>
+        <issuerTradingSymbol>STNG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001978586</rptOwnerCik>
+            <rptOwnerName>Lauro Emanuele</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>99 BOULEVARD DU JARDIN EXOTIQUE</rptOwnerStreet1>
+            <rptOwnerStreet2>L'EXOTIQUE</rptOwnerStreet2>
+            <rptOwnerCity>MONACO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>O9</rptOwnerCountry>
+            <rptOwnerZipCode>98000</rptOwnerZipCode>
+            <rptOwnerStateDescription>MONACO</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>European Put Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>77.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-09-11</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>234637</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.975</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-10-16</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-10-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>STNG shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>234637</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>Lauro Emanuele</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

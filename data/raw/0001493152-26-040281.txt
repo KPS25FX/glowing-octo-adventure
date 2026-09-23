@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001493152-26-040281.txt : 20260826
+<SEC-HEADER>0001493152-26-040281.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826190920
+ACCESSION NUMBER:		0001493152-26-040281
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Falk Erik A
+		CENTRAL INDEX KEY:			0001566837
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00852
+		FILM NUMBER:		261324560
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KKR ASSET MANAGEMENT LLC
+		STREET 2:		555 CALIFORNIA STREET, 50TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Neostellar Capital Corp.
+		CENTRAL INDEX KEY:			0001509470
+		ORGANIZATION NAME:           	
+		EIN:				274443543
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		640 FIFTH AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		(650) 235-4769
+
+	MAIL ADDRESS:	
+		STREET 1:		640 FIFTH AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SURO CAPITAL CORP.
+		DATE OF NAME CHANGE:	20200622
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUTTER ROCK CAPITAL CORP.
+		DATE OF NAME CHANGE:	20190731
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GSV Capital Corp.
+		DATE OF NAME CHANGE:	20110531
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001509470</issuerCik>
+        <issuerName>Neostellar Capital Corp.</issuerName>
+        <issuerTradingSymbol>NSLR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001566837</rptOwnerCik>
+            <rptOwnerName>Falk Erik A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NEOSTELLAR CAPITAL CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>640 FIFTH AVENUE, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.22</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By revocable trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted-average price, rounded to the nearest hundredth. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, Neostellar Capital Corp. (the &quot;Company&quot;), or a security holder of the Company, full information regarding the number of shares purchased at each separate price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Erik Falk</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

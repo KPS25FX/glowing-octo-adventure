@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001193125-26-377500.txt : 20260901
+<SEC-HEADER>0001193125-26-377500.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901071455
+ACCESSION NUMBER:		0001193125-26-377500
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Darby Tommy
+		CENTRAL INDEX KEY:			0001719757
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32260
+		FILM NUMBER:		261348507
+
+	MAIL ADDRESS:	
+		STREET 1:		5847 SAN FELIPE
+		STREET 2:		SUITE 3300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77057
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESTLAKE CORP
+		CENTRAL INDEX KEY:			0001262823
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				760346924
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+		LEGAL ENTITY IDENTIFIER:    	GOXNEVUM0LL78B1OS344
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5444 WESTHEIMER, SUITE 101
+		CITY:			HOUSTON
+		STATE:			TX
+		BUSINESS PHONE:		713-960-9111
+
+	MAIL ADDRESS:	
+		STREET 1:		5444 WESTHEIMER, SUITE 101
+		CITY:			HOUSTON
+		STATE:			TX
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WESTLAKE CHEMICAL CORP
+		DATE OF NAME CHANGE:	20030908
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001262823</issuerCik>
+        <issuerName>WESTLAKE CORP</issuerName>
+        <issuerTradingSymbol>WLK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001719757</rptOwnerCik>
+            <rptOwnerName>Darby Tommy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5444 WESTHEIMER, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77056</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>VP and CAO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1791</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1791</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1791</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to recieve one share of the Issuer's common stock.</footnote>
+        <footnote id="F2">All of the RSUs will vest on August 31, 2029.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Tommy Darby by J. Feng POA</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

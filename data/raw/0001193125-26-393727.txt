@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001193125-26-393727.txt : 20260917
+<SEC-HEADER>0001193125-26-393727.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917070005
+ACCESSION NUMBER:		0001193125-26-393727
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Liu Xiaozhi
+		CENTRAL INDEX KEY:			0001533996
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12933
+		FILM NUMBER:		261385179
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AUTOLIV, INC.
+		STREET 2:		KLARABERGSVIADUKTEN 70, SECTION B7
+		CITY:			STOCKHOLM
+		STATE:			V7
+		ZIP:			SE-111 64
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AUTOLIV INC
+		CENTRAL INDEX KEY:			0001034670
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				510378542
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3350 AIRPORT RD
+		CITY:			OGDEN
+		STATE:			UT
+		ZIP:			84405
+		BUSINESS PHONE:		8016299800
+
+	MAIL ADDRESS:	
+		STREET 1:		BOX 70381
+		STREET 2:		SE 107 24 STOCKHOLM
+		CITY:			SWEDEN
+		STATE:			V7
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001034670</issuerCik>
+        <issuerName>AUTOLIV INC</issuerName>
+        <issuerTradingSymbol>ALV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001533996</rptOwnerCik>
+            <rptOwnerName>Liu Xiaozhi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AUTOLIV, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>KLARABERGSVIADUKTEN 70, SECTION D5</rptOwnerStreet2>
+            <rptOwnerCity>STOCKHOLM</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>V7</rptOwnerCountry>
+            <rptOwnerZipCode>SE-111 64</rptOwnerZipCode>
+            <rptOwnerStateDescription>SWEDEN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10.5907</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10.5907</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1425.1232</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each RSU represents a contingent right to receive one share of ALV common stock.</footnote>
+        <footnote id="F2">Dividend equivalent rights accrued in the form of additional RSUs. Per the award agreement, cash dividends with a record date on or after the grant date and paid on or before the vesting date yield additional RSUs subject to the same vesting schedule as the underlying RSUs.</footnote>
+        <footnote id="F3">The RSUs vest and convert to shares in one installment on the earlier of (a) the date of ALV's 2027 annual stockholder meeting, or (b) the one-year anniversary of May 7, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Brian Kelly by POA from Xiaozhi Liu</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,230 @@
+<SEC-DOCUMENT>0001683168-26-006884.txt : 20260902
+<SEC-HEADER>0001683168-26-006884.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902160102
+ACCESSION NUMBER:		0001683168-26-006884
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KELTER JEFFREY E
+		CENTRAL INDEX KEY:			0001198068
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41603
+		FILM NUMBER:		261354613
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O JACK CREEK INVESTMENT CORP.
+		STREET 2:		386 PARK AVENUE SOUTH, FL 20
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bridger Aerospace Group Holdings, Inc.
+		CENTRAL INDEX KEY:			0001941536
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		90 AVIATION LANE
+		CITY:			BELGRADE
+		STATE:			MT
+		ZIP:			59714
+		BUSINESS PHONE:		(406) 813-0079
+
+	MAIL ADDRESS:	
+		STREET 1:		90 AVIATION LANE
+		CITY:			BELGRADE
+		STATE:			MT
+		ZIP:			59714
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wildfire New PubCo, Inc.
+		DATE OF NAME CHANGE:	20220805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001941536</issuerCik>
+        <issuerName>Bridger Aerospace Group Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>BAER</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001198068</rptOwnerCik>
+            <rptOwnerName>KELTER JEFFREY E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BRIDGER AEROSPACE GROUP HLDGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>90 AVIATION LANE</rptOwnerStreet2>
+            <rptOwnerCity>BELGRADE</rptOwnerCity>
+            <rptOwnerState>MT</rptOwnerState>
+            <rptOwnerZipCode>59714</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1086273</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.0970</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>502020</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By K5 Equity Capital Holdings, LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.0944</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>827800</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F6"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Windy Point Investments LLC</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 42,498 shares which vest generally as follows: (i) 50% of the shares vest on the first date during the Earnout Period (defined below) on which the VWAP of the shares exceeds $11.50 for a period of at least 20 out of 30 consecutive trading days, and (ii) 50% of the shares vest on the first date during the Earnout Period on which the VWAP exceeds $13.00 for a period of at least 20 out of 30 consecutive trading days (shares vesting on such schedule, the &quot;Earnout Shares&quot;). The &quot;Earnout Period&quot; is the time period beginning on the date immediately following the January 24, 2023 closing of the Issuer's initial business combination (the &quot;Closing Date&quot;) and ending on and including the five year anniversary of the Closing Date. Any Earnout Shares not vested by the end of the Earnout Period shall be forfeited back to the Issuer for no consideration.</footnote>
+        <footnote id="F2">These shares were acquired by the Reporting Person in open-market transactions at prices ranging from $1.0850 to $1.1100. The price reported above reflects the weighted average price. The Reporting Person undertakes to provide the SEC, the Issuer or any security holder, upon request, full information regarding the number of shares purchased at each separate price.</footnote>
+        <footnote id="F3">Kelter Family Investments LLC (&quot;KFI&quot;) is the manager to K5 Equity Capital Holdings, LLC (the &quot;Fund&quot;). The Reporting Person is the manager of KFI. By virtue of the relationships described herein, the Reporting Person and KFI may be deemed to indirectly beneficially own the shares of the Issuer's Common Stock held by the Fund. The Reporting Person and KFI disclaim beneficial ownership of the shares of the Issuer's Common Stock held by the Fund for purposes of Rule 16a-1(a) under the Securities Exchange Act of 1934, as amended (the &quot;Act&quot;), except to the extent of their pecuniary interest therein, if any, and the filing of this report shall not be deemed an admission that the Reporting Person is the beneficial owner of the securities for purposes of Section 16 of the Act or for any other purpose.</footnote>
+        <footnote id="F4">These shares were acquired by the Reporting Person in open-market transactions at prices ranging from $1.0850 to $1.1050. The price reported above reflects the weighted average price. The Reporting Person undertakes to provide the SEC, the Issuer or any security holder, upon request, full information regarding the number of shares purchased at each separate price.</footnote>
+        <footnote id="F5">Includes 212,491 Earnout Shares.</footnote>
+        <footnote id="F6">Mr. Kelter holds shared authority to direct the voting and disposition of shares held by Windy Point Investments LLC. The Reporting Person disclaims beneficial ownership of the shares of the Issuer's Common Stock held by Windy Point Investments LLC for purposes of Rule 16a-1(a) under the Act, except to the extent of the Reporting Person's pecuniary interest therein, if any, and the filing of this report shall not be deemed an admission that the Reporting Person is the beneficial owner of the securities for purposes of Section 16 of the Act or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey E. Kelter</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

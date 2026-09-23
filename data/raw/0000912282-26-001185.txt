@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0000912282-26-001185.txt : 20260828
+<SEC-HEADER>0000912282-26-001185.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828200209
+ACCESSION NUMBER:		0000912282-26-001185
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Black Wade Newton
+		CENTRAL INDEX KEY:			0002111193
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43242
+		FILM NUMBER:		261342117
+
+	MAIL ADDRESS:	
+		STREET 1:		1401 IDAHO STREET
+		CITY:			BUTTE
+		STATE:			MT
+		ZIP:			59702
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SILVER BOW MINING CORP.
+		CENTRAL INDEX KEY:			0002067674
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1401 IDAHO STREET
+		CITY:			BUTTE
+		STATE:			MT
+		ZIP:			59702
+		BUSINESS PHONE:		(406) 718-7593
+
+	MAIL ADDRESS:	
+		STREET 1:		1401 IDAHO STREET
+		CITY:			BUTTE
+		STATE:			MT
+		ZIP:			59702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SILVER BOW MINNG CORP.
+		DATE OF NAME CHANGE:	20250509
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002067674</issuerCik>
+        <issuerName>SILVER BOW MINING CORP.</issuerName>
+        <issuerTradingSymbol>SBMT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002111193</rptOwnerCik>
+            <rptOwnerName>Black Wade Newton</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SILVER BOW MINING CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1401 IDAHO STREET</rptOwnerStreet2>
+            <rptOwnerCity>BUTTE</rptOwnerCity>
+            <rptOwnerState>MT</rptOwnerState>
+            <rptOwnerZipCode>59701</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>8.86</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Stock options vest as follows: one-third on the first anniversary of the grant date and one-third on each subsequent anniversary, subject to continued service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Wade Black</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

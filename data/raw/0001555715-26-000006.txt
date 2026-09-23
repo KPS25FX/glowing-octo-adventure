@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001555715-26-000006.txt : 20260903
+<SEC-HEADER>0001555715-26-000006.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903175714
+ACCESSION NUMBER:		0001555715-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cushing Matthew J.
+		CENTRAL INDEX KEY:			0001555715
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38960
+		FILM NUMBER:		261359507
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ACME PACKET, INC.
+		STREET 2:		100 CROSBY DRIVE
+		CITY:			BEDFORD
+		STATE:			MA
+		ZIP:			01730
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Skillsoft Corp.
+		CENTRAL INDEX KEY:			0001774675
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				834388331
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 INNOVATIVE WAY
+		STREET 2:		SUITE 2210
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+		BUSINESS PHONE:		603-821-3902
+
+	MAIL ADDRESS:	
+		STREET 1:		300 INNOVATIVE WAY
+		STREET 2:		SUITE 2210
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Churchill Capital Corp II
+		DATE OF NAME CHANGE:	20190502
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hornblower Acquisition Corp
+		DATE OF NAME CHANGE:	20190423
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-09032026_090910.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001774675</issuerCik>
+        <issuerName>Skillsoft Corp.</issuerName>
+        <issuerTradingSymbol>SKIL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001555715</rptOwnerCik>
+            <rptOwnerName>Cushing Matthew J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SKILLSOFT CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>300 INNOVATIVE WAY, SUITE 2210</rptOwnerStreet2>
+            <rptOwnerCity>NASHUA</rptOwnerCity>
+            <rptOwnerState>NH</rptOwnerState>
+            <rptOwnerZipCode>03062</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Legal Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>55000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of Class A Common Stock of the Issuer.</footnote>
+        <footnote id="F2">The restricted stock units vest in four equal annual installments beginning September 1, 2027, subject to the Reporting Person remaining continuously employed through each vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Keith Swiniarski, as attorney-in-fact for Matthew J. Cushing</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

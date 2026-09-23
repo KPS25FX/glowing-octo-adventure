@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001193125-26-388568.txt : 20260911
+<SEC-HEADER>0001193125-26-388568.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911061602
+ACCESSION NUMBER:		0001193125-26-388568
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wu Yinghui
+		CENTRAL INDEX KEY:			0002108588
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39087
+		FILM NUMBER:		261372633
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BUILDING NO. 7 WEST ZONE ZHONGGUANCUN
+		STREET 2:		SOFTWARE PARK, NO. 10 XIBEIWANG EAST RD
+		CITY:			HAIDIAN DIST
+		NON US STATE TERRITORY:  	BEIJING
+		PROVINCE COUNTRY:   	F4
+		ZIP:			100006
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Youdao, Inc.
+		CENTRAL INDEX KEY:			0001781753
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EDUCATIONAL SERVICES [8200]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		NO. 399, WANGSHANG ROAD
+		CITY:			BINJIANG DISTRICT, HANGZHOU
+		NON US STATE TERRITORY:  	ZHEJIANG
+		PROVINCE COUNTRY:   	F4
+		BUSINESS PHONE:		86 0571-8985-2163
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		NO. 399, WANGSHANG ROAD
+		CITY:			BINJIANG DISTRICT, HANGZHOU
+		NON US STATE TERRITORY:  	ZHEJIANG
+		PROVINCE COUNTRY:   	F4
+		ZIP:			310051
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001781753</issuerCik>
+        <issuerName>Youdao, Inc.</issuerName>
+        <issuerTradingSymbol>DAO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002108588</rptOwnerCik>
+            <rptOwnerName>Wu Yinghui</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BUILDING NO. 7, WEST ZONE, NO. 10 YARD</rptOwnerStreet1>
+            <rptOwnerStreet2>XIBEIWANG EAST ROAD, HAIDIAN DISTRICT</rptOwnerStreet2>
+            <rptOwnerCity>BEIJING</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F4</rptOwnerCountry>
+            <rptOwnerZipCode>100193</rptOwnerZipCode>
+            <rptOwnerStateDescription>CHINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects 6,750 RSU that vested and settled into American Depositary Shares (&quot;ADSs&quot;). This amount represents the ordinary shares underlying the ADSs acquired in connection with such vest.</footnote>
+        <footnote id="F2">The weighted average price of the shares sold (in the form of ADS) was $14.9665.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Liting Ren, as attorney in fact for Wu Yinghui</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

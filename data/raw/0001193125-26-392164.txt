@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001193125-26-392164.txt : 20260915
+<SEC-HEADER>0001193125-26-392164.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915173111
+ACCESSION NUMBER:		0001193125-26-392164
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Castillo Daniel J
+		CENTRAL INDEX KEY:			0001535412
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14989
+		FILM NUMBER:		261381860
+
+	MAIL ADDRESS:	
+		STREET 1:		225 WEST STATION SQUARE DRIVE
+		STREET 2:		SUITE 700
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219-1122
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESCO INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000929008
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRICAL APPARATUS & EQUIPMENT, WIRING SUPPLIES [5063]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				251723342
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 WEST STATION SQUARE DRIVE
+		STREET 2:		STE 700
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219
+		BUSINESS PHONE:		4124542200
+
+	MAIL ADDRESS:	
+		STREET 1:		225 WEST STATION SQUARE DRIVE
+		STREET 2:		STE 700
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CDW HOLDING CORP
+		DATE OF NAME CHANGE:	19971217
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000929008</issuerCik>
+        <issuerName>WESCO INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>WCC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001535412</rptOwnerCik>
+            <rptOwnerName>Castillo Daniel J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>225 WEST STATION SQUARE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 700</rptOwnerStreet2>
+            <rptOwnerCity>PITTSBURGH</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15219-1122</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP &amp; GM, EES</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1618.0105</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>356.32</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14687.3050</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents tax withholding on the vesting of restricted stock units (&quot;RSUs&quot;) that were granted on 09/11/2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michele Nelson, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

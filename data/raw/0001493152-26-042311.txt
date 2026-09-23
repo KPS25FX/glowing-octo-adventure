@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001493152-26-042311.txt : 20260911
+<SEC-HEADER>0001493152-26-042311.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911090404
+ACCESSION NUMBER:		0001493152-26-042311
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lee Howard Ming Wah
+		CENTRAL INDEX KEY:			0002036938
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41658
+		FILM NUMBER:		261372819
+
+	MAIL ADDRESS:	
+		STREET 1:		36 XIAOYUN ROAD
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lucas GC Ltd
+		CENTRAL INDEX KEY:			0001954694
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROOM 5A01, 4TH FLOOR, AIR CHINA BUILDING
+		STREET 2:		XIAOYUN ROAD, SANYUANQIAO, CHAOYANG,
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100027
+		BUSINESS PHONE:		(86) 18500976532
+
+	MAIL ADDRESS:	
+		STREET 1:		ROOM 5A01, 4TH FLOOR, AIR CHINA BUILDING
+		STREET 2:		XIAOYUN ROAD, SANYUANQIAO, CHAOYANG,
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001954694</issuerCik>
+        <issuerName>Lucas GC Ltd</issuerName>
+        <issuerTradingSymbol>LGCL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002036938</rptOwnerCik>
+            <rptOwnerName>Lee Howard Ming Wah</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>ROOM 1109, 11/F, TOWER A, STAR PLAZA,</rptOwnerStreet1>
+            <rptOwnerStreet2>NO. 8 WANGJING STREET, CHAOYANG DISTRICT</rptOwnerStreet2>
+            <rptOwnerCity>BEIJING</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F4</rptOwnerCountry>
+            <rptOwnerZipCode>100027</rptOwnerZipCode>
+            <rptOwnerStateDescription>CHINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B ordinary shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2360</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2360</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2360</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By HTL Lucky Holding Limited</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person acquired these 2,360 Class B ordinary shares pursuant to an award under the Lucas GC Limited Amended and Restated 2024 Equity Incentive Plan.</footnote>
+        <footnote id="F2">HTL Lucky Holding Limited, a British Virgin Islands company, which is a wholly owned subsidiary of HTL Star Holding Limited. HTL Star Holding Limited is wholly owned by Mr. Lee Ming Wah Howard.</footnote>
+        <footnote id="F3">Each Class B ordinary share is convertible into one Class A ordinary share at any time at the option of the holder thereof. The right to convert shall be exercisable by the holder of the Class B ordinary shares delivering a written notice to the Company that such holder elects to convert a specified number of Class B ordinary shares into Class A ordinary shares.</footnote>
+        <footnote id="F4">The Class B ordinary shares owned by the Reporting Person do not have an expiration date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lee Ming Wah Howard</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

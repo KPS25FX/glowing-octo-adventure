@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0000723188-26-000110.txt : 20260910
+<SEC-HEADER>0000723188-26-000110.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910155737
+ACCESSION NUMBER:		0000723188-26-000110
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Singh Savneet
+		CENTRAL INDEX KEY:			0001738659
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13695
+		FILM NUMBER:		261370985
+
+	MAIL ADDRESS:	
+		STREET 1:		120 RIVERSIDE BLVD
+		STREET 2:		PH 2K
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10069
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMMUNITY FINANCIAL SYSTEM, INC.
+		CENTRAL INDEX KEY:			0000723188
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				161213679
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 BUTTERNUT DRIVE
+		CITY:			SYRACUSE
+		STATE:			NY
+		ZIP:			13214
+		BUSINESS PHONE:		8007242262
+
+	MAIL ADDRESS:	
+		STREET 1:		333 BUTTERNUT DRIVE
+		CITY:			SYRACUSE
+		STATE:			NY
+		ZIP:			13214
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMMUNITY BANK SYSTEM, INC.
+		DATE OF NAME CHANGE:	20130806
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMMUNITY BANK NA, a subsidiary of Community Bank System Inc
+		DATE OF NAME CHANGE:	20130729
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMMUNITY BANK NA, a subsidiary of Community Bank System Inc.
+		DATE OF NAME CHANGE:	20130726
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000723188</issuerCik>
+        <issuerName>COMMUNITY FINANCIAL SYSTEM, INC.</issuerName>
+        <issuerTradingSymbol>CBU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001738659</rptOwnerCik>
+            <rptOwnerName>Singh Savneet</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O COMMUNITY FINANCIAL SYSTEM, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>333 BUTTERNUT DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>SYRACUSE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>13214</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>62.47</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>418</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Deferred Stock (Deferred Compensation)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1396.7397</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1396.7397</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Phantom Stock (Deferred Stock Units)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2501.4755</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2501.4755</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $62.41 to $62.53, inclusive. The reporting person undertakes to provide Community Financial System, Inc., any security holder of Community Financial System, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F2">Each unit of phantom stock is the economic equivalent of one share of Community Financial System, Inc. common stock. The units of phantom stock relating to the Deferred Compensation Plan for Directors (the &quot;DCP for Directors&quot;), will be settled in Community Financial System, Inc. common stock at future dates selected by the reporting person.</footnote>
+        <footnote id="F3">Includes 10.3606 and 9.7616 units of phantom stock acquired as dividend equivalents on April 10, 2026, and July 10, 2026, respectively, under the DCP for Directors.</footnote>
+        <footnote id="F4">The reporting person has received deferred stock units under the Community Financial System, Inc. 2022 Long-Term Incentive Plan, as amended (the &quot;LTIP&quot;). Each phantom stock unit which represents a deferred stock unit is the economic equivalent of one share of Community Financial System, Inc. common stock and will be settled in common stock at a predetermined date.</footnote>
+        <footnote id="F5">Includes 9.4416 and 17.4825 units of phantom stock acquired on April 10, 2026, and July 10, 2026, respectively, under the LTIP's dividend reinvestment feature.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Danielle M. Cima, pursuant to Confirming Statement executed by Savneet Singh</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

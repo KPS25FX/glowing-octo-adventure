@@ -1,0 +1,278 @@
+<SEC-DOCUMENT>0001829126-26-010034.txt : 20260911
+<SEC-HEADER>0001829126-26-010034.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911135418
+ACCESSION NUMBER:		0001829126-26-010034
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260717
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lazar David E.
+		CENTRAL INDEX KEY:			0001932843
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38937
+		FILM NUMBER:		261373746
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		44, TOWER 100, THE TOWERS
+		STREET 2:		WINSTON CHURCHILL, PAITILLA
+		CITY:			PANAMA CITY
+		PROVINCE COUNTRY:   	R1
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aterian, Inc.
+		CENTRAL INDEX KEY:			0001757715
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC HOUSEWARES & FANS [3634]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				831739858
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		350 SPRINGFIELD AVENUE
+		STREET 2:		SUITE #200
+		CITY:			SUMMIT
+		STATE:			NJ
+		ZIP:			07901
+		BUSINESS PHONE:		(347)676-1681
+
+	MAIL ADDRESS:	
+		STREET 1:		350 SPRINGFIELD AVENUE
+		STREET 2:		SUITE #200
+		CITY:			SUMMIT
+		STATE:			NJ
+		ZIP:			07901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mohawk Group Holdings, Inc.
+		DATE OF NAME CHANGE:	20181031
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-07-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001757715</issuerCik>
+        <issuerName>Aterian, Inc.</issuerName>
+        <issuerTradingSymbol>ATER</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001932843</rptOwnerCik>
+            <rptOwnerName>Lazar David E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>44, TOWER 100, THE TOWERS</rptOwnerStreet1>
+            <rptOwnerStreet2>WINSTON CHURCHILL, PAITILLA</rptOwnerStreet2>
+            <rptOwnerCity>PANAMA CITY</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>PANAMA</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>R1</rptOwnerCountry>
+            <rptOwnerZipCode>07196</rptOwnerZipCode>
+            <rptOwnerStateDescription>PANAMA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>875000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6737500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series AAA Convertible Non-Redeemable Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0148</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-07-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1750000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-07-17</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>236425000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1750000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series AA Convertible Non-Redeemable Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.2597</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>875000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-07-17</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6737500</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6737500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On July 17, 2026, the Reporting Person acquired 1,750,000 shares of Series AAA Convertible Non-Redeemable Preferred Stock at $2.00 per share (the &quot;Series AAA Preferred Shares&quot;), for an aggregate purchase price of $3,500,000, pursuant to the Securities Purchase Agreement dated April 27, 2026. Following receipt of the requisite stockholder approvals, each Series AAA Preferred Share may be converted into 135.1 shares of Common Stock (up to 236,425,000 shares in the aggregate) at a conversion price of $0.0148, for no additional consideration.</footnote>
+        <footnote id="F2">Each of the Series AAA Preferred Shares and Series AA Convertible Non-Redeemable Preferred Stock (the &quot;Series AA Preferred Shares&quot;) are perpetual and therefore have no expiration date.</footnote>
+        <footnote id="F3">Following stockholder approval on July 17, 2026, the Series AA Preferred Shares are convertible into shares of Common Stock at the option of the Reporting Person for no additional consideration. On August 4, 2026, the Reporting Person converted 6,737,500 shares of his Series AA Preferred Shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David E. Lazar</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

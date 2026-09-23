@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001193125-26-381001.txt : 20260903
+<SEC-HEADER>0001193125-26-381001.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903070015
+ACCESSION NUMBER:		0001193125-26-381001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Howald Aaron
+		CENTRAL INDEX KEY:			0002145578
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07107
+		FILM NUMBER:		261356653
+
+	MAIL ADDRESS:	
+		STREET 1:		1610 WEST END AVENUE
+		STREET 2:		SUITE 200
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LOUISIANA-PACIFIC CORP
+		CENTRAL INDEX KEY:			0000060519
+		STANDARD INDUSTRIAL CLASSIFICATION:	LUMBER & WOOD PRODUCTS (NO FURNITURE) [2400]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				930609074
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1610 WEST END AVE.
+		STREET 2:		SUITE 200
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+		BUSINESS PHONE:		6159865600
+
+	MAIL ADDRESS:	
+		STREET 1:		1610 WEST END AVE.
+		STREET 2:		SUITE 200
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LOUISIANA PACIFIC CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000060519</issuerCik>
+        <issuerName>LOUISIANA-PACIFIC CORP</issuerName>
+        <issuerTradingSymbol>LPX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002145578</rptOwnerCik>
+            <rptOwnerName>Howald Aaron</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1610 WEST END AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>NASHVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37203</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP, CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9083</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34338</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3624</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of restricted stock units granted pursuant to the Louisiana-Pacific Corporation 2022 Omnibus Stock Award Plan.  The restricted stock units vest in three equal installments beginning on the first anniversary of the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Nicole Daniel, Attorney in Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

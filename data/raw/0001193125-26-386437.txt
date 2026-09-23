@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001193125-26-386437.txt : 20260909
+<SEC-HEADER>0001193125-26-386437.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909160503
+ACCESSION NUMBER:		0001193125-26-386437
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260907
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lowitt Ian T
+		CENTRAL INDEX KEY:			0001379623
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42020
+		FILM NUMBER:		261368166
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MAREX GROUP PLC
+		STREET 2:		155 BISOPSGATE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EX2M 3TQ
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Marex Group Ltd
+		CENTRAL INDEX KEY:			0001997464
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		155 BISHOPSGATE
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+		ZIP:			EC2M 3TQ
+		BUSINESS PHONE:		44 2076 556000
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		155 BISHOPSGATE
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+		ZIP:			EC2M 3TQ
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Marex Group plc
+		DATE OF NAME CHANGE:	20231013
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001997464</issuerCik>
+        <issuerName>Marex Group Ltd</issuerName>
+        <issuerTradingSymbol>MRX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001379623</rptOwnerCik>
+            <rptOwnerName>Lowitt Ian T</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O MAREX GROUP LIMITED, 155 BISHOPSGATE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LONDON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>X0</rptOwnerCountry>
+            <rptOwnerZipCode>EC2M 3TQ</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>36587</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>78.27</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2835472</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of ordinary shares withheld to satisfy the tax withholding obligation in connection with the vesting of shares underlying the Issuer's 2022 Annual Long Term Incentive Plan.</footnote>
+        <footnote id="F2">The price reported represents the closing price of the Issuer's ordinary shares on the Nasdaq Stock Market LLC on September 4, 2026.</footnote>
+        <footnote id="F3">The number of ordinary shares reported herein includes (i) 41,256 shares underlying the Issuer's 2022 Annual Long Term Incentive Plan, and (ii) 194,411 shares underlying deferred bonus plan awards previously granted to the Reporting Person. Each award represents a contingent right to receive one (1) ordinary share of the Issuer upon vesting and settlement of the applicable award.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Scott Linsley as Attorney-in-Fact, for Ian T. Lowitt</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

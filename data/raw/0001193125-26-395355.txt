@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001193125-26-395355.txt : 20260918
+<SEC-HEADER>0001193125-26-395355.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918133033
+ACCESSION NUMBER:		0001193125-26-395355
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HANEY CECIL D
+		CENTRAL INDEX KEY:			0001769664
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03671
+		FILM NUMBER:		261390250
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GENERAL DYNAMICS CORPORATION
+		STREET 2:		11011 SUNSET HILLS ROAD
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENERAL DYNAMICS CORP
+		CENTRAL INDEX KEY:			0000040533
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHIP & BOAT BUILDING & REPAIRING [3730]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				131673581
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11011 SUNSET HILLS RD
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+		BUSINESS PHONE:		703-876-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		11011 SUNSET HILLS RD
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000040533</issuerCik>
+        <issuerName>GENERAL DYNAMICS CORP</issuerName>
+        <issuerTradingSymbol>GD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001769664</rptOwnerCik>
+            <rptOwnerName>HANEY CECIL D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GENERAL DYNAMICS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>11011 SUNSET HILLS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>RESTON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>20190</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>356.69</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3049</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects stock received in lieu of director fees in accordance with outside directors' compensation program.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Nicholas R. Barnaby, by Power of Attorney</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

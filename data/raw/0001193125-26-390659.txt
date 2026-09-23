@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001193125-26-390659.txt : 20260914
+<SEC-HEADER>0001193125-26-390659.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914163123
+ACCESSION NUMBER:		0001193125-26-390659
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NEVENS THOMAS MICHAEL
+		CENTRAL INDEX KEY:			0001251445
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27130
+		FILM NUMBER:		261377747
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BORLAND SOFTWARE CORPORATION
+		STREET 2:		20450 STEVENS CREEK BLVD, SUITE 800
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NetApp, Inc.
+		CENTRAL INDEX KEY:			0001002047
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				770307520
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0424
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3060 OLSEN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95128
+		BUSINESS PHONE:		4088226000
+
+	MAIL ADDRESS:	
+		STREET 1:		3060 OLSEN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETWORK APPLIANCE INC
+		DATE OF NAME CHANGE:	19951010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001002047</issuerCik>
+        <issuerName>NetApp, Inc.</issuerName>
+        <issuerTradingSymbol>NTAP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001251445</rptOwnerCik>
+            <rptOwnerName>NEVENS THOMAS MICHAEL</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3060 OLSEN DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95128</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5940</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>195.21</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7747</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>The Nevens Family 1997 Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price in Column 4 is a weighted average price. The prices actually received ranged from $194.75 to $195.71. The reporting person will provide to the issuer, any security holder of the issuer, or the SEC staff, upon request, information regarding the number of shares sold at each price within the range.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Colin Lloyd, Attorney-in-Fact for T. Michael Nevens</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

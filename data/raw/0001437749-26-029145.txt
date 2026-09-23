@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001437749-26-029145.txt : 20260828
+<SEC-HEADER>0001437749-26-029145.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828114336
+ACCESSION NUMBER:		0001437749-26-029145
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Meilstrup Eric J
+		CENTRAL INDEX KEY:			0001552486
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35292
+		FILM NUMBER:		261335599
+
+	MAIL ADDRESS:	
+		STREET 1:		225 DICKENS COURT
+		CITY:			LEBANON
+		STATE:			OH
+		ZIP:			45036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LCNB CORP
+		CENTRAL INDEX KEY:			0001074902
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				311626393
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 NORTH BROADWAY
+		STREET 2:		PO BOX 59
+		CITY:			LEBANON
+		STATE:			OH
+		ZIP:			45036
+		BUSINESS PHONE:		5139321414
+
+	MAIL ADDRESS:	
+		STREET 1:		2 NORTH BROADWAY
+		STREET 2:		PO BOX 59
+		CITY:			LEBANON
+		STATE:			OH
+		ZIP:			45036
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001074902</issuerCik>
+        <issuerName>LCNB CORP</issuerName>
+        <issuerTradingSymbol>LCNB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001552486</rptOwnerCik>
+            <rptOwnerName>Meilstrup Eric J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>225 DICKENS CT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LEBANON</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>LCNB Corp Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.3415</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>53878</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">371 shares purchased at $19.34
+29 shares purchased at $19.36</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric J Meilstrup by Susan J. Kelley, POA</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

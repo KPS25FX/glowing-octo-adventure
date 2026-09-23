@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0002064832-26-000312.txt : 20260904
+<SEC-HEADER>0002064832-26-000312.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904162006
+ACCESSION NUMBER:		0002064832-26-000312
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Caezza Nicholas
+		CENTRAL INDEX KEY:			0002080056
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39292
+		FILM NUMBER:		261362321
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BUTTERFLY NETWORK, INC.
+		STREET 2:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Butterfly Network, Inc.
+		CENTRAL INDEX KEY:			0001804176
+		STANDARD INDUSTRIAL CLASSIFICATION:	X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS [3844]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		781-557-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Longview Acquisition Corp.
+		DATE OF NAME CHANGE:	20200220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001804176</issuerCik>
+        <issuerName>Butterfly Network, Inc.</issuerName>
+        <issuerTradingSymbol>BFLY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002080056</rptOwnerCik>
+            <rptOwnerName>Caezza Nicholas</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BUTTERFLY NETWORK, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1600 DISTRICT AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Deputy General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1709</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.149</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>305166</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer has adopted a &quot;sell-to-cover&quot; policy to satisfy the tax withholding obligations of the Reporting Person. The sales reported on this Form 4 represent the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of restricted stock units. Such sales were automatic and not at the discretion of the Reporting Person.</footnote>
+        <footnote id="F2">Represents the weighted average sales price per share. The shares sold at prices ranging from $8.10 to $8.28 per share. Full information regarding the number of shares sold at each price shall be provided upon request to the staff of the U.S. Securities and Exchange Commission, the Issuer, or a security holder of the Issuer.</footnote>
+        <footnote id="F3">Includes 6,568 shares acquired under the Issuer's employee stock purchase plan on June 30, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nick Caezza</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

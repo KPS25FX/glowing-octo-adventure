@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-383741.txt : 20260904
+<SEC-HEADER>0001193125-26-383741.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904163525
+ACCESSION NUMBER:		0001193125-26-383741
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Everett Andrew H II
+		CENTRAL INDEX KEY:			0001728923
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37966
+		FILM NUMBER:		261362512
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SEACOR MARINE HOLDINGS INC.
+		STREET 2:		12121 WICKCHESTER LANE, SUITE 500
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEACOR Marine Holdings Inc.
+		CENTRAL INDEX KEY:			0001690334
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				472564547
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12121 WICKCHESTER LANE
+		STREET 2:		SUITE 500
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+		BUSINESS PHONE:		9858765400
+
+	MAIL ADDRESS:	
+		STREET 1:		12121 WICKCHESTER LANE
+		STREET 2:		SUITE 500
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001690334</issuerCik>
+        <issuerName>SEACOR Marine Holdings Inc.</issuerName>
+        <issuerTradingSymbol>SMHI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001728923</rptOwnerCik>
+            <rptOwnerName>Everett Andrew H II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SEACOR MARINE HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>12121 WICKCHESTER LANE, SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77079</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Sr. VP, General Counsel &amp; Secy</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4116</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>194279</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported sale of 4,116 shares occurred automatically pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 9, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew H. Everett II</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

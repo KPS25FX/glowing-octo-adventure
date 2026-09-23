@@ -1,0 +1,147 @@
+<SEC-DOCUMENT>0001193125-26-390650.txt : 20260914
+<SEC-HEADER>0001193125-26-390650.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914163007
+ACCESSION NUMBER:		0001193125-26-390650
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Weill David
+		CENTRAL INDEX KEY:			0001774270
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38891
+		FILM NUMBER:		261377706
+
+	MAIL ADDRESS:	
+		STREET 1:		200 MINUTEMAN ROAD
+		STREET 2:		SUITE 302
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TransMedics Group, Inc.
+		CENTRAL INDEX KEY:			0001756262
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 MINUTEMAN ROAD
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+		BUSINESS PHONE:		9785520900
+
+	MAIL ADDRESS:	
+		STREET 1:		200 MINUTEMAN ROAD
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001756262</issuerCik>
+        <issuerName>TransMedics Group, Inc.</issuerName>
+        <issuerTradingSymbol>TMDX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001774270</rptOwnerCik>
+            <rptOwnerName>Weill David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TRANSMEDICS GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 MINUTEMAN ROAD</rptOwnerStreet2>
+            <rptOwnerCity>ANDOVER</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01810</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1336</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>81.63</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16392</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Matthew S. Forsyth, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

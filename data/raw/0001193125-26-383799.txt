@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001193125-26-383799.txt : 20260904
+<SEC-HEADER>0001193125-26-383799.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904170003
+ACCESSION NUMBER:		0001193125-26-383799
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HERENCIA ROBERTO  R
+		CENTRAL INDEX KEY:			0001214993
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14793
+		FILM NUMBER:		261362704
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 9146
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00908
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST BANCORP /PR/
+		CENTRAL INDEX KEY:			0001057706
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				660561882
+		STATE OF INCORPORATION:			PR
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1519 PONCE DE LEON AVE
+		STREET 2:		SANTURCE
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00908-0146
+		BUSINESS PHONE:		7877298200
+
+	MAIL ADDRESS:	
+		STREET 1:		1519 PONCE DE LEON AVE
+		STREET 2:		PO BOX 9146
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00908-0146
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001057706</issuerCik>
+        <issuerName>FIRST BANCORP /PR/</issuerName>
+        <issuerTradingSymbol>FBP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001214993</rptOwnerCik>
+            <rptOwnerName>HERENCIA ROBERTO  R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>P.O. BOX 9146</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JUAN</rptOwnerCity>
+            <rptOwnerState>PR</rptOwnerState>
+            <rptOwnerZipCode>00908-0146</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>First BanCorp Common Stock, pay value $0.10 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>26350</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>28.481</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>610669</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This amount represents the weighted average sale price for the shares, which were sold in multiple transactions on September 2, 2026 at prices ranging from $28.47 to $28.50.The reporting person undertakes to provide to First BanCorp, any security holder of First BanCorp, or the staff of the Securities and Exchange Commission, upon request,fullinformation regarding the number of shares sold at each separate price within the ranges set forth in footnote (1).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adolfo Sepulveda, Esq., Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

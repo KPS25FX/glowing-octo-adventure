@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0000065984-26-000295.txt : 20260902
+<SEC-HEADER>0000065984-26-000295.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902155021
+ACCESSION NUMBER:		0000065984-26-000295
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Burbank John R
+		CENTRAL INDEX KEY:			0001734944
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11299
+		FILM NUMBER:		261354491
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ENTERGY CORPORATION LEGAL DEPT.
+		STREET 2:		639 LOYOLA AVE., 26TH FLOOR
+		CITY:			NEW ORLEANS
+		STATE:			LA
+		ZIP:			70113
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENTERGY CORP /DE/
+		CENTRAL INDEX KEY:			0000065984
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				721229752
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		639 LOYOLA AVE
+		CITY:			NEW ORLEANS
+		STATE:			LA
+		ZIP:			70113
+		BUSINESS PHONE:		504-576-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 61000
+		CITY:			NEW ORLEANS
+		STATE:			LA
+		ZIP:			70161
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENTERGY CORP /FL/
+		DATE OF NAME CHANGE:	19940329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENTERGY GSU HOLDINGS INC /DE/
+		DATE OF NAME CHANGE:	19940329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MIDDLE SOUTH UTILITIES INC
+		DATE OF NAME CHANGE:	19890521
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000065984</issuerCik>
+        <issuerName>ENTERGY CORP /DE/</issuerName>
+        <issuerTradingSymbol>ETR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001734944</rptOwnerCik>
+            <rptOwnerName>Burbank John R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ENTERGY CORPORATION LEGAL DEPARTMENT</rptOwnerStreet1>
+            <rptOwnerStreet2>639 LOYOLA AVENUE, 26TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW ORLEANS</rptOwnerCity>
+            <rptOwnerState>LA</rptOwnerState>
+            <rptOwnerZipCode>70113</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Equity Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>218</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>218</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5830</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Quarterly grant of shares of Entergy Corporation common stock granted pursuant to Entergy's Director Stock Program deferred as equity units. Each unit is the economic equivalent of one share of Entergy common stock and at the end of the deferral period selected by the reporting person, the units will be distributed in cash.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel T. Falstad by Power of Attorney from John R. Burbank</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

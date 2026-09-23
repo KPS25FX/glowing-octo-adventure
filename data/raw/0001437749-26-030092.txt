@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001437749-26-030092.txt : 20260910
+<SEC-HEADER>0001437749-26-030092.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910164804
+ACCESSION NUMBER:		0001437749-26-030092
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Matson Mark
+		CENTRAL INDEX KEY:			0001391875
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04978
+		FILM NUMBER:		261371763
+
+	MAIL ADDRESS:	
+		STREET 1:		600 S. ROCKFORD DRIVE
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85281
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOLITRON DEVICES INC
+		CENTRAL INDEX KEY:			0000091668
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				221684144
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 SANSBURYS WAY
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33411
+		BUSINESS PHONE:		561-848-4311
+
+	MAIL ADDRESS:	
+		STREET 1:		901 SANSBURYS WAY
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33411
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4 - MARK MATSON
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000091668</issuerCik>
+        <issuerName>SOLITRON DEVICES INC</issuerName>
+        <issuerTradingSymbol>SODI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001391875</rptOwnerCik>
+            <rptOwnerName>Matson Mark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SOLITRON DEVICES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>901 SANSBURYS WAY</rptOwnerStreet2>
+            <rptOwnerCity>WEST PALM BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33411</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <officerTitle>President and COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2025-08-13</value>
+                <footnoteId id="F1"/>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>28.77</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>241573</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Adoption date of referenced 10b5-1(c) plan is: 08-13-2025.</footnote>
+        <footnote id="F2">Per the terms of Mr. Matson's Employment Agreement, Effective Date August 13, 2025, Mr. Matson has the right to purchase up to 5,000 shares of Company common stock each quarter at a weighted average share price for the quarter for a period of thirty days after the end of the quarter. The weighted average share price was $28.77 for Solitron's second quarter fiscal year 2027. The share price on the exercise date was $32.50.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Matson</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

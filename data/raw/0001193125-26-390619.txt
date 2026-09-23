@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001193125-26-390619.txt : 20260914
+<SEC-HEADER>0001193125-26-390619.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914162053
+ACCESSION NUMBER:		0001193125-26-390619
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McKinney Marianne
+		CENTRAL INDEX KEY:			0001921466
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25045
+		FILM NUMBER:		261377606
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		614-334-7991
+
+	MAIL ADDRESS:	
+		STREET 1:		7000 N. HIGH STREET
+		CITY:			WORTHINGTON
+		STATE:			OH
+		ZIP:			43085
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CF BANKSHARES INC.
+		CENTRAL INDEX KEY:			0001070680
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				341877137
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O CFBANK
+		STREET 2:		4960 EAST DUBLIN GRANVILLE RD, SUITE 400
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43081
+		BUSINESS PHONE:		6143347979
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CFBANK
+		STREET 2:		4960 EAST DUBLIN GRANVILLE RD, SUITE 400
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43081
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CENTRAL FEDERAL CORP
+		DATE OF NAME CHANGE:	20030509
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GRAND CENTRAL FINANCIAL CORP
+		DATE OF NAME CHANGE:	19980918
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001070680</issuerCik>
+        <issuerName>CF BANKSHARES INC.</issuerName>
+        <issuerTradingSymbol>CFBK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001921466</rptOwnerCik>
+            <rptOwnerName>McKinney Marianne</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4960 E. DUBLIN GRANVILLE RD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE #400</rptOwnerStreet2>
+            <rptOwnerCity>COLUMBUS</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43081</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP &amp; Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock 12520L 109</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.3593</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14219</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Kevin J. Beerman for Marianne McKinney</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

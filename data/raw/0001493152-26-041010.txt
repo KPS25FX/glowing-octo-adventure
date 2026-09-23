@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001493152-26-041010.txt : 20260901
+<SEC-HEADER>0001493152-26-041010.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901160520
+ACCESSION NUMBER:		0001493152-26-041010
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Liuzza Nicholas Reyland JR
+		CENTRAL INDEX KEY:			0001264473
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40202
+		FILM NUMBER:		261350855
+
+	MAIL ADDRESS:	
+		STREET 1:		79 WAPPING ROAD
+		CITY:			PORTSMOUTH
+		STATE:			RI
+		ZIP:			02871
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	LIUZZA NICK JR
+		DATE OF NAME CHANGE:	20031001
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	LIYZZA NICK JR
+		DATE OF NAME CHANGE:	20030924
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Red Cat Holdings, Inc.
+		CENTRAL INDEX KEY:			0000748268
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				880490034
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 S WEST TEMPLE
+		STREET 2:		SUITE 5
+		CITY:			SOUTH SALT LAKE
+		STATE:			UT
+		ZIP:			84115
+		BUSINESS PHONE:		833-373-3228
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 S WEST TEMPLE
+		STREET 2:		SUITE 5
+		CITY:			SOUTH SALT LAKE
+		STATE:			UT
+		ZIP:			84115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TimefireVR Inc.
+		DATE OF NAME CHANGE:	20161121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EnergyTEK Corp.
+		DATE OF NAME CHANGE:	20140723
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROADLEAF CAPITAL PARTNERS INC
+		DATE OF NAME CHANGE:	20040928
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000748268</issuerCik>
+        <issuerName>Red Cat Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>RCAT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001264473</rptOwnerCik>
+            <rptOwnerName>Liuzza Nicholas Reyland JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O RED CAT HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2800 S WEST TEMPLE, SUITE 5</rptOwnerStreet2>
+            <rptOwnerCity>SOUTH SALT LAKE</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84115</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.50</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>424874</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $8.47 to $8.52, inclusive. The reporting person undertakes to provide Red Cat Holdings, Inc., any security holder of Red Cat Holdings, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicholas R. Liuzza, Jr.</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

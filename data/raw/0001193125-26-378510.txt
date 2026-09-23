@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001193125-26-378510.txt : 20260901
+<SEC-HEADER>0001193125-26-378510.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901163825
+ACCESSION NUMBER:		0001193125-26-378510
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Savi Luca
+		CENTRAL INDEX KEY:			0001538081
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05672
+		FILM NUMBER:		261351346
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ITT CORPORATION
+		STREET 2:		1133 WESTCHESTER AVENUE
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ITT INC.
+		CENTRAL INDEX KEY:			0000216228
+		STANDARD INDUSTRIAL CLASSIFICATION:	PUMPS & PUMPING EQUIPMENT [3561]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				811197930
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 WASHINGTON BLVD
+		STREET 2:		6TH FLOOR
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		914.641.2000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 WASHINGTON BLVD
+		STREET 2:		6TH FLOOR
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITT Inc.
+		DATE OF NAME CHANGE:	20160517
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITT Corp
+		DATE OF NAME CHANGE:	20100308
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITT CORP
+		DATE OF NAME CHANGE:	20060705
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000216228</issuerCik>
+        <issuerName>ITT INC.</issuerName>
+        <issuerTradingSymbol>ITT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001538081</rptOwnerCik>
+            <rptOwnerName>Savi Luca</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ITT INC. 100 WASHINGTON BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>6TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>STAMFORD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06902</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5019</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>199.5600</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>267373</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Tymour Okasha, Assistant Secretary, ITT Inc.; by Power of Attorney for Luca Savi</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

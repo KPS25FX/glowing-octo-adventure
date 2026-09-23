@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001193125-26-395614.txt : 20260918
+<SEC-HEADER>0001193125-26-395614.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918163015
+ACCESSION NUMBER:		0001193125-26-395614
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bromberg Matthew S
+		CENTRAL INDEX KEY:			0001680979
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43426
+		FILM NUMBER:		261391267
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O UNITY SOFTWARE INC
+		STREET 2:		116 NEW MONTGOMERY STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jersey Mike's Subs Inc.
+		CENTRAL INDEX KEY:			0002127043
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 COMMVAULT WAY S300
+		CITY:			TINTON FALLS
+		STATE:			NJ
+		ZIP:			07724
+		BUSINESS PHONE:		(732) 223-4044
+
+	MAIL ADDRESS:	
+		STREET 1:		1 COMMVAULT WAY S300
+		CITY:			TINTON FALLS
+		STATE:			NJ
+		ZIP:			07724
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002127043</issuerCik>
+        <issuerName>Jersey Mike's Subs Inc.</issuerName>
+        <issuerTradingSymbol>JMKE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001680979</rptOwnerCik>
+            <rptOwnerName>Bromberg Matthew S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O JERSEY MIKE'S SUBS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1 COMMVAULT WAY, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>TINTON FALLS</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07724</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5434</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5434</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5434</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit &quot;RSU&quot; represents a contingent right to receive one share of Issuer Class A common stock (&quot;Class A Common Stock&quot;). The RSUs will be settled in either Class A Common Stock or cash (or a combination thereof) at the Issuer's discretion.</footnote>
+        <footnote id="F2">These RSUs vest on the earlier of (i) September 17, 2027 and (ii) the Issuer's next annual meeting of stockholders following the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Erin Conway, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

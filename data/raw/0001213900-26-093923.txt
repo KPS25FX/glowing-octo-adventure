@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001213900-26-093923.txt : 20260826
+<SEC-HEADER>0001213900-26-093923.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826152255
+ACCESSION NUMBER:		0001213900-26-093923
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Calisto Isaias Jose
+		CENTRAL INDEX KEY:			0001858403
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40300
+		FILM NUMBER:		261321790
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		10 ANSON ROAD #12-14
+		CITY:			INTERNATIONAL PLAZA
+		PROVINCE COUNTRY:   	U0
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Karooooo Ltd.
+		CENTRAL INDEX KEY:			0001828102
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			U0
+		FISCAL YEAR END:			0228
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		363 SMITH STREET
+		STREET 2:		#05-303
+		CITY:			NEW BRIDGE CENTRE
+		PROVINCE COUNTRY:   	U0
+		BUSINESS PHONE:		65 6255 4151
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		363 SMITH STREET
+		STREET 2:		#05-303
+		CITY:			NEW BRIDGE CENTRE
+		PROVINCE COUNTRY:   	U0
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Karooooo Pte. Ltd.
+		DATE OF NAME CHANGE:	20201116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Karoo Pte. Ltd.
+		DATE OF NAME CHANGE:	20201013
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001828102</issuerCik>
+        <issuerName>Karooooo Ltd.</issuerName>
+        <issuerTradingSymbol>KARO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>KRO (JSE)</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001858403</rptOwnerCik>
+            <rptOwnerName>Calisto Isaias Jose</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>10 ANSON RD #12-14</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SINGAPORE</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>U0</rptOwnerCountry>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>SINGAPORE</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO &amp; Executive Chairman</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9315</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>64.3478</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17631385</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ IJ Calisto</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

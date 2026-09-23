@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001193125-26-383681.txt : 20260904
+<SEC-HEADER>0001193125-26-383681.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904161830
+ACCESSION NUMBER:		0001193125-26-383681
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jindal Piyush
+		CENTRAL INDEX KEY:			0001752056
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32936
+		FILM NUMBER:		261362311
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LIFEMD, INC.
+		STREET 2:		236 FIFTH AVENUE, SUITE 400
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HORNBECK OFFSHORE SERVICES, INC.
+		CENTRAL INDEX KEY:			0000866829
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				953409686
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		103 NORTHPARK BOULEVARD
+		STREET 2:		SUITE 300
+		CITY:			COVINGTON
+		STATE:			LA
+		ZIP:			70433
+		BUSINESS PHONE:		985-727-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		103 NORTHPARK BOULEVARD
+		STREET 2:		SUITE 300
+		CITY:			COVINGTON
+		STATE:			LA
+		ZIP:			70433
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HELIX ENERGY SOLUTIONS GROUP INC
+		DATE OF NAME CHANGE:	20060309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAL DIVE INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19960821
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000866829</issuerCik>
+        <issuerName>HORNBECK OFFSHORE SERVICES, INC.</issuerName>
+        <issuerTradingSymbol>HOS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001752056</rptOwnerCik>
+            <rptOwnerName>Jindal Piyush</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>103 NORTHPARK BOULEVARD, SUITE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COVINGTON</rptOwnerCity>
+            <rptOwnerState>LA</rptOwnerState>
+            <rptOwnerZipCode>70433</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>31553</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200778</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of 31,553 restricted stock units (&quot;RSUs&quot;), each of which represents a contingent right to receive, upon vesting, one share of common stock, par value $0.00001 per share, of the Issuer. The RSUs vest on September 1, 2029.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Beth A. LaBrosse, as Attorney-in-Fact  for Piyush Jindal</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

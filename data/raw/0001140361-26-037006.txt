@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001140361-26-037006.txt : 20260917
+<SEC-HEADER>0001140361-26-037006.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917170743
+ACCESSION NUMBER:		0001140361-26-037006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY
+		CENTRAL INDEX KEY:			0000895421
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		ORGANIZATION NAME:           	02 Finance
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-09013
+		FILM NUMBER:		261387666
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-761-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER & CO
+		DATE OF NAME CHANGE:	19980326
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	DEAN WITTER DISCOVER & CO
+		DATE OF NAME CHANGE:	19960315
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eaton Vance Senior Income Trust
+		CENTRAL INDEX KEY:			0001070732
+		ORGANIZATION NAME:           	
+		EIN:				043435040
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE POST OFFICE SQUARE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		617-482-8260
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE POST OFFICE SQUARE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EATON VANCE SENIOR INCOME TRUST
+		DATE OF NAME CHANGE:	19980919
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001070732</issuerCik>
+        <issuerName>Eaton Vance Senior Income Trust</issuerName>
+        <issuerTradingSymbol>EVF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000895421</rptOwnerCik>
+            <rptOwnerName>MORGAN STANLEY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1585 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>true</isOther>
+            <otherText>See Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Auction Preferred Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>94</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Subsidiary</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The preferred shares reported herein represent the Reporting Person's combined holdings in multiple series of auction preferred securities of the Issuer, which are treated herein as one class of securities in accordance with the Auction Rate Securities - Global Exemptive Relief no-action letter issued by the Securities and Exchange Commission on September 22, 2008. The Reporting Person is an affiliate of the Issuer's investment adviser.</footnote>
+        <footnote id="F2">The reported securities were disposed of pursuant to a mandatory redemption by the Issuer, at liquidation preference of $25,000 plus any accumulated but unpaid dividends through September 15, 2026. In this regard, the Reporting Person disposed of shares of Series A and Series B Auction Preferred Stock, which were redeemed at $25,012.175 and $25,008.161111, respectively, due to slight differences in the accrued dividends.</footnote>
+    </footnotes>
+
+    <remarks>Investment adviser affiliate and former 10% Owner</remarks>
+
+    <ownerSignature>
+        <signatureName>Morgan Stanley, By: /s/ Joseph Maehr, Authorized Signatory</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

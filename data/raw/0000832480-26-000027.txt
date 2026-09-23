@@ -1,0 +1,188 @@
+<SEC-DOCUMENT>0000832480-26-000027.txt : 20260828
+<SEC-HEADER>0000832480-26-000027.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828143248
+ACCESSION NUMBER:		0000832480-26-000027
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FIRST SOUTHERN FUNDING LLC
+		CENTRAL INDEX KEY:			0001064869
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			KY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16867
+		FILM NUMBER:		261338497
+
+	BUSINESS ADDRESS:	
+		STREET 1:		99 LANCASTER STREET
+		STREET 2:		P O BOX 328
+		CITY:			STANFORD
+		STATE:			KY
+		ZIP:			40484
+		BUSINESS PHONE:		6063653555
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	FIRST SOUTHERN FUNDING INC
+		DATE OF NAME CHANGE:	19980624
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UTG INC
+		CENTRAL INDEX KEY:			0000832480
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				202907892
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		205 NORTH DEPOT STREET
+		CITY:			STANFORD
+		STATE:			KY
+		ZIP:			40484
+		BUSINESS PHONE:		2172416300
+
+	MAIL ADDRESS:	
+		STREET 1:		205 NORTH DEPOT STREET
+		CITY:			STANFORD
+		STATE:			KY
+		ZIP:			40484
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED TRUST GROUP INC
+		DATE OF NAME CHANGE:	20001206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED TRUST INC /IL/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000832480</issuerCik>
+        <issuerName>UTG INC</issuerName>
+        <issuerTradingSymbol>UTGN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001064869</rptOwnerCik>
+            <rptOwnerName>FIRST SOUTHERN FUNDING LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>99 LANCASTER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>PO BOX 328</rptOwnerStreet2>
+            <rptOwnerCity>STANFORD</rptOwnerCity>
+            <rptOwnerState>KY</rptOwnerState>
+            <rptOwnerZipCode>40484</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>59.75</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>497615</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1201876</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By First Southern Holdings, LLC.</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person is a member of First Southern Holdings, LLC.  The reporting person disclaims beneficial ownership of the reported securities except to the extent of its pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jill Martin, Secretary &amp; Treasurer</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

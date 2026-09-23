@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001213900-26-098382.txt : 20260909
+<SEC-HEADER>0001213900-26-098382.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909160224
+ACCESSION NUMBER:		0001213900-26-098382
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Goldschmidt David J
+		CENTRAL INDEX KEY:			0002133238
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42997
+		FILM NUMBER:		261368130
+
+	MAIL ADDRESS:	
+		STREET 1:		901 N MARKET ST
+		STREET 2:		SUITE 100
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Twenty One Capital, Inc.
+		CENTRAL INDEX KEY:			0002070457
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CORPORATION SERVICE COMPANY
+		STREET 2:		211 EAST 7TH STREET, SUITE 620
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701-3218
+		BUSINESS PHONE:		206 552 9859
+
+	MAIL ADDRESS:	
+		STREET 1:		CORPORATION SERVICE COMPANY
+		STREET 2:		211 EAST 7TH STREET, SUITE 620
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701-3218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002070457</issuerCik>
+        <issuerName>Twenty One Capital, Inc.</issuerName>
+        <issuerTradingSymbol>XXI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002133238</rptOwnerCik>
+            <rptOwnerName>Goldschmidt David J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>TWENTY ONE CAPITAL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>111 CONGRESS AVENUE, SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>AUSTIN</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78701</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15205</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15205</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the annual equity award for the initial term ending at the next annual meeting of the Company, payable in the form of Class A common stock, representing approximately $91,000 at a value of $6.00 per share.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James Cong Hoan Nguyen, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

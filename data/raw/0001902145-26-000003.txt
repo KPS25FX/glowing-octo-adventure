@@ -1,0 +1,240 @@
+<SEC-DOCUMENT>0001902145-26-000003.txt : 20260826
+<SEC-HEADER>0001902145-26-000003.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826092508
+ACCESSION NUMBER:		0001902145-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nelson Joshua B
+		CENTRAL INDEX KEY:			0001902145
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-32191
+		FILM NUMBER:		261317845
+
+	MAIL ADDRESS:	
+		STREET 1:		HARBOR POINT
+		STREET 2:		1307 POINT STREET
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21231
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRICE T ROWE GROUP INC
+		CENTRAL INDEX KEY:			0001113169
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				522264646
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HARBOR POINT
+		STREET 2:		1307 POINT STREET
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21231
+		BUSINESS PHONE:		4103452000
+
+	MAIL ADDRESS:	
+		STREET 1:		HARBOR POINT
+		STREET 2:		1307 POINT STREET
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001113169</issuerCik>
+        <issuerName>PRICE T ROWE GROUP INC</issuerName>
+        <issuerTradingSymbol>TROW</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001902145</rptOwnerCik>
+            <rptOwnerName>Nelson Joshua B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1307 POINT STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BALTIMORE</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21231</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Vice President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>111.8203</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>71328.273</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3.6582</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>101.0442</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>71331.9312</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The range of prices for this transaction were $111.77 to $111.95. Will provide upon request by the commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F2">Shares acquired pursuant to the T. Rowe Price Group, Inc. Employee Stock Purchase Plan at the noted weighted-average price.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Cheryl L. Emory, Assistant Corporate Secretary, POA for Nelson, Joshua</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>jnelsonpoa.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+LIMITED POWER OF ATTORNEY
+
+
+THE UNDERSIGNED, Joshua B. Nelson, hereby constitutes and appoints, with
+full power of substitution, the Chief Executive Officer, the Chairman,
+Secretary or Assistant Secretary of the Corporation of
+T. Rowe Price Group, Inc. (the "Corporation"), the true and lawful
+attorney-in-fact of the undersigned, with full power and authority in the name
+of and for and on behalf of the undersigned to execute and file:
+1. any Form 3, Form 4 or Form 5, any amendments thereto and any other form or
+report for the purpose of reporting securities transactions to the
+Securities and Exchange Commission under Section 16 of the Securities Exchange
+Act of 1934, as amended;
+2. one or more Forms 144, or amendments to Form 144, relating to any sales
+orders, orally or electronically, of securities of the Corporation to the
+public from time to time in accordance with Rule 144 under the Securities Act
+of 1933, as amended; and
+3. any and all instruments necessary or incidental to any action listed above,
+including communications to the Securities and Exchange Commission, The Nasdaq
+Stock Market and state securities law authorities.
+This Power of Attorney is made under, and shall be governed pursuant to, the
+laws of the State of Maryland.
+
+
+Date:12/23/2021
+/s/Joshua B. Nelson
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

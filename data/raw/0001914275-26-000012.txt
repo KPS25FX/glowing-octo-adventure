@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001914275-26-000012.txt : 20260826
+<SEC-HEADER>0001914275-26-000012.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826161242
+ACCESSION NUMBER:		0001914275-26-000012
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baxter Timothy E
+		CENTRAL INDEX KEY:			0001914275
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39694
+		FILM NUMBER:		261323034
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE GRAND CENTRAL PLACE, SUITE 4600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10165
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IonQ, Inc.
+		CENTRAL INDEX KEY:			0001824920
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				852992192
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4505 CAMPUS DRIVE
+		CITY:			COLLEGE PARK
+		STATE:			MD
+		ZIP:			20740
+		BUSINESS PHONE:		(301) 298-7997
+
+	MAIL ADDRESS:	
+		STREET 1:		4505 CAMPUS DRIVE
+		CITY:			COLLEGE PARK
+		STATE:			MD
+		ZIP:			20740
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	dMY Technology Group, Inc. III
+		DATE OF NAME CHANGE:	20200915
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001824920</issuerCik>
+        <issuerName>IonQ, Inc.</issuerName>
+        <issuerTradingSymbol>IONQ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001914275</rptOwnerCik>
+            <rptOwnerName>Baxter Timothy E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4505 CAMPUS DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COLLEGE PARK</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20740</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5540</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13922</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a restricted stock unit (&quot;RSU&quot;) award. The RSUs will vest in full on the earlier of (i) the day before the date of the 2027 Annual Meeting or (ii) June 17, 2027, subject in all cases to the Reporting Person's continued service through such vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Tyler T. Rosenbaum, Assistant Secretary, by Power of Attorney</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

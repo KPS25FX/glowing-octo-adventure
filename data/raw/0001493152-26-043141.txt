@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001493152-26-043141.txt : 20260917
+<SEC-HEADER>0001493152-26-043141.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917163035
+ACCESSION NUMBER:		0001493152-26-043141
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OReilly Mary Jennifer
+		CENTRAL INDEX KEY:			0001887606
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40261
+		FILM NUMBER:		261387237
+
+	MAIL ADDRESS:	
+		STREET 1:		325 WASHINGTON AVENUE EXTENSION
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Soluna Holdings, Inc
+		CENTRAL INDEX KEY:			0000064463
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				141462255
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 WASHINGTON AVENUE EXTENSION
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+		BUSINESS PHONE:		518-218-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		325 WASHINGTON AVENUE EXTENSION
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MECHANICAL TECHNOLOGY INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000064463</issuerCik>
+        <issuerName>Soluna Holdings, Inc</issuerName>
+        <issuerTradingSymbol>SLNH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001887606</rptOwnerCik>
+            <rptOwnerName>OReilly Mary Jennifer</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SOLUNA HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>325 WASHINGTON AVENUE EXTENSION</rptOwnerStreet2>
+            <rptOwnerCity>ALBANY</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>12205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief People Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16189</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.05</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1687486</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher Gandolfo, Attorney in Fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

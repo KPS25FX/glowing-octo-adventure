@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001437749-26-030379.txt : 20260914
+<SEC-HEADER>0001437749-26-030379.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914211749
+ACCESSION NUMBER:		0001437749-26-030379
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Holdsworth Mark Keith
+		CENTRAL INDEX KEY:			0001095155
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13301
+		FILM NUMBER:		261378992
+
+	MAIL ADDRESS:	
+		STREET 1:		140 S. LAKE AVE., STE. 304
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91101
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	HOLDSWORTH MARK
+		DATE OF NAME CHANGE:	19990916
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			R F INDUSTRIES LTD
+		CENTRAL INDEX KEY:			0000740664
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC CONNECTORS [3678]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				880168936
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16868 VIA DEL CAMPO COURT, SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+		BUSINESS PHONE:		858-549-6340
+
+	MAIL ADDRESS:	
+		STREET 1:		16868 VIA DEL CAMPO COURT, SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CELLTRONICS INC
+		DATE OF NAME CHANGE:	19910204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000740664</issuerCik>
+        <issuerName>R F INDUSTRIES LTD</issuerName>
+        <issuerTradingSymbol>RFIL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001095155</rptOwnerCik>
+            <rptOwnerName>Holdsworth Mark Keith</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>16868 VIA DEL CAMPO COURT</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92127</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7850</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>125209</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>60218</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By The Holdsworth Family Living Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>710088</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By THG Securities Fund, L.P.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The restricted stock vests on the earlier of (i) one year from the date of grant, or (ii) the Issuer's next annual meeting of stockholders.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Holdsworth</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

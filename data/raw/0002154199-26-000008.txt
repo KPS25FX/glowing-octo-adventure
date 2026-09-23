@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0002154199-26-000008.txt : 20260910
+<SEC-HEADER>0002154199-26-000008.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910181032
+ACCESSION NUMBER:		0002154199-26-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Williams Eric Scott
+		CENTRAL INDEX KEY:			0002154199
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42262
+		FILM NUMBER:		261372250
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HADRON ENERGY, INC.
+		STREET 2:		1160 BATTERY ST., STE 100, UNIT 1096
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hadron Energy, Inc.
+		CENTRAL INDEX KEY:			0002023730
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				334336458
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1160 BATTERY ST.
+		STREET 2:		STE 100, UNIT 1096
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		650-395-0050
+
+	MAIL ADDRESS:	
+		STREET 1:		1160 BATTERY ST.
+		STREET 2:		STE 100, UNIT 1096
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GigCapital7 Corp.
+		DATE OF NAME CHANGE:	20240516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002023730</issuerCik>
+        <issuerName>Hadron Energy, Inc.</issuerName>
+        <issuerTradingSymbol>HDRN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002154199</rptOwnerCik>
+            <rptOwnerName>Williams Eric Scott</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1160 BATTERY ST</rptOwnerStreet1>
+            <rptOwnerStreet2>STE 100, UNIT 1096</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP of Engineering</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>750000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.88</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>750000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Subject to the Reporting Person's continued service to Hadron Energy, Inc. (the &quot;Company&quot;), twenty-five percent of the Restricted Stock Unit (&quot;RSU&quot;) shall vest on November 15, 2027, and the remaining seventy five percent of the RSU will vest in twelve equal quarterly installments on February 15, May 15, August 15, and November 15, such that the grant will be fully vested on November 15, 2030.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Eric Scott Williams</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

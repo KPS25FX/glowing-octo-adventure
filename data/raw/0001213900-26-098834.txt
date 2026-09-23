@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001213900-26-098834.txt : 20260910
+<SEC-HEADER>0001213900-26-098834.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910164859
+ACCESSION NUMBER:		0001213900-26-098834
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gishen Adam
+		CENTRAL INDEX KEY:			0001846826
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40117
+		FILM NUMBER:		261371778
+
+	MAIL ADDRESS:	
+		STREET 1:		14 WALL STREET
+		STREET 2:		20TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SunPower Inc.
+		CENTRAL INDEX KEY:			0001838987
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				932279786
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1403 N RESEARCH WAY
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84097
+		BUSINESS PHONE:		(877) 299-4943
+
+	MAIL ADDRESS:	
+		STREET 1:		1403 N RESEARCH WAY
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84097
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Complete Solaria, Inc.
+		DATE OF NAME CHANGE:	20230721
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Freedom Acquisition I Corp.
+		DATE OF NAME CHANGE:	20210105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001838987</issuerCik>
+        <issuerName>SunPower Inc.</issuerName>
+        <issuerTradingSymbol>SWPR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001846826</rptOwnerCik>
+            <rptOwnerName>Gishen Adam</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SUNPOWER INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1403 N. RESEARCH WAY</rptOwnerStreet2>
+            <rptOwnerCity>OREM</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84097</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>70000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.31</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>140655</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Penney, Attorney-in-Fact for Adam Gishen</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

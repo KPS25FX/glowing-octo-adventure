@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001193125-26-371793.txt : 20260827
+<SEC-HEADER>0001193125-26-371793.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827200003
+ACCESSION NUMBER:		0001193125-26-371793
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DEVINCENZI ROBERT THOMAS
+		CENTRAL INDEX KEY:			0001226186
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31923
+		FILM NUMBER:		261332461
+
+	MAIL ADDRESS:	
+		STREET 1:		7270 S POLO RIDGE DRIVE
+		CITY:			LITTLETON
+		STATE:			CO
+		ZIP:			80128
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNIVERSAL TECHNICAL INSTITUTE INC
+		CENTRAL INDEX KEY:			0001261654
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EDUCATIONAL SERVICES [8200]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				860226984
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4225 EAST WINDROSE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85032
+		BUSINESS PHONE:		623-445-9500
+
+	MAIL ADDRESS:	
+		STREET 1:		4225 EAST WINDROSE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85032
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001261654</issuerCik>
+        <issuerName>UNIVERSAL TECHNICAL INSTITUTE INC</issuerName>
+        <issuerTradingSymbol>UTI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001226186</rptOwnerCik>
+            <rptOwnerName>DEVINCENZI ROBERT THOMAS</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4225 E. WINDROSE DRIVE, SUITE 200</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85032</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.0001 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>21.765</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>150330</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The prices reported in Column 4 reflect a weighted average price. These shares were purchased in multiple transactions at prices ranging from $21.70 to $21.83. The reporting person undertakes to provide to the issuer or to the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the ranges set forth herein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher Kevane, Attorney-in-Fact for Robert T. DeVincenzi</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

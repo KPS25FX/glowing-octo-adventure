@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-380404.txt : 20260902
+<SEC-HEADER>0001193125-26-380404.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902165747
+ACCESSION NUMBER:		0001193125-26-380404
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Abate Kristin
+		CENTRAL INDEX KEY:			0002045943
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36167
+		FILM NUMBER:		261355728
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KARYOPHARM THERAPEUTICS INC.
+		STREET 2:		85 WELLS AVENUE
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02459
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Karyopharm Therapeutics Inc.
+		CENTRAL INDEX KEY:			0001503802
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				263931704
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		85 WELLS AVENUE
+		STREET 2:		SECOND FLOOR
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02459
+		BUSINESS PHONE:		617-658-0600
+
+	MAIL ADDRESS:	
+		STREET 1:		85 WELLS AVENUE
+		STREET 2:		SECOND FLOOR
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02459
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001503802</issuerCik>
+        <issuerName>Karyopharm Therapeutics Inc.</issuerName>
+        <issuerTradingSymbol>KPTI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002045943</rptOwnerCik>
+            <rptOwnerName>Abate Kristin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O KARYOPHARM THERAPEUTICS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>85 WELLS AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEWTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02459</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>19</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.02</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23782</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a durable automatic sale instruction plan adopted by the reporting person on May 27, 2021, and represents a broker-assisted sale of shares to satisfy the payment of withholding tax liability incurred upon the vesting of restricted stock units. The sale does not represent a discretionary trade by the reporting person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nancy Smith as Attorney-in-Fact for Kristin Abate</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

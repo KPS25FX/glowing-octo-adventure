@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001193125-26-388146.txt : 20260910
+<SEC-HEADER>0001193125-26-388146.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910174519
+ACCESSION NUMBER:		0001193125-26-388146
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pernice Michelle Patricia
+		CENTRAL INDEX KEY:			0002126413
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38787
+		FILM NUMBER:		261372181
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FAIRMOUNT FUNDS MANAGEMENT LLC
+		STREET 2:		200 BARR HARBOR DRIVE, SUITE 400
+		CITY:			WEST CONSHOHOCKEN
+		STATE:			PA
+		ZIP:			19428
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Korsana Biosciences, Inc.
+		CENTRAL INDEX KEY:			0001755237
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				831895370
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		203 CRESCENT STREET
+		STREET 2:		BLDGS. #3/3A/4, SUITE 503
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		(781) 516-2325
+
+	MAIL ADDRESS:	
+		STREET 1:		203 CRESCENT STREET
+		STREET 2:		BLDGS. #3/3A/4, SUITE 503
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cyclerion Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20181004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001755237</issuerCik>
+        <issuerName>Korsana Biosciences, Inc.</issuerName>
+        <issuerTradingSymbol>KRSA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002126413</rptOwnerCik>
+            <rptOwnerName>Pernice Michelle Patricia</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O KORSANA BIOSCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>203 CRESCENT STREET, SUITE 503</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02453</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>26.20</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>48445</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>48445</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48445</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This option represents the right to purchase 48,445 shares of the Issuer's common stock and will vest in equal monthly installments through September 9, 2029, subject to the Reporting Person's continued service to the Issuer on each such vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Vignola, as attorney-in-fact for Michelle Pernice</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

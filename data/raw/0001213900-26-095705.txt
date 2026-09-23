@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001213900-26-095705.txt : 20260831
+<SEC-HEADER>0001213900-26-095705.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831160513
+ACCESSION NUMBER:		0001213900-26-095705
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Liu Dandan
+		CENTRAL INDEX KEY:			0001766147
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38206
+		FILM NUMBER:		261346414
+
+	MAIL ADDRESS:	
+		STREET 1:		Y3132 DONGFANG XIAWEIYI
+		CITY:			YANJIAO, HEBEI PROVINCE
+		STATE:			F4
+		ZIP:			065201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TDH Holdings, Inc.
+		CENTRAL INDEX KEY:			0001684425
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE AGENTS & MANAGERS (FOR OTHERS) [6531]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BEIJING WENXIN CO., LTD., ROOM 1104
+		STREET 2:		FULL TOWER, 9 EAST THIRD RING MIDDLE RD.
+		CITY:			CHAOYANG DISTRICT, BEIJING
+		STATE:			F4
+		ZIP:			0000
+		BUSINESS PHONE:		86-187-0642-0269
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BEIJING WENXIN CO., LTD., ROOM 1104
+		STREET 2:		FULL TOWER, 9 EAST THIRD RING MIDDLE RD.
+		CITY:			CHAOYANG DISTRICT, BEIJING
+		STATE:			F4
+		ZIP:			0000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001684425</issuerCik>
+        <issuerName>TDH Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>PETZ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001766147</rptOwnerCik>
+            <rptOwnerName>Liu Dandan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BEIJING WEIXIN CO., LTD, ROOM 1104</rptOwnerStreet1>
+            <rptOwnerStreet2>FULL TOWER, EAST THIRD RING MIDDLE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>BEIJING</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>CHAOYANG DISTRICT</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F4</rptOwnerCountry>
+            <rptOwnerZipCode>100020</rptOwnerZipCode>
+            <rptOwnerStateDescription>CHINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO and Chair</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2969692</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.20</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5069389</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Dandan Liu</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

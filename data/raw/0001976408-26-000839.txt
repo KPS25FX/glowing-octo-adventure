@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001976408-26-000839.txt : 20260914
+<SEC-HEADER>0001976408-26-000839.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914091148
+ACCESSION NUMBER:		0001976408-26-000839
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chelouche Yoav
+		CENTRAL INDEX KEY:			0001978611
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24790
+		FILM NUMBER:		261376002
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		5 SHLOMO KAPLAN STREET
+		CITY:			TEL AVIV
+		PROVINCE COUNTRY:   	L3
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOWER SEMICONDUCTOR LTD
+		CENTRAL INDEX KEY:			0000928876
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		RAMAT GAVRIEL INDUSTRIAL PARK
+		STREET 2:		PO BOX 619
+		CITY:			MIGDAL HAEMEK
+		PROVINCE COUNTRY:   	L3
+		ZIP:			2310502
+		BUSINESS PHONE:		972522478856
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		RAMAT GAVRIEL INDUSTRIAL PARK
+		STREET 2:		PO BOX 619
+		CITY:			MIGDAL HAEMEK
+		PROVINCE COUNTRY:   	L3
+		ZIP:			2310502
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000928876</issuerCik>
+        <issuerName>TOWER SEMICONDUCTOR LTD</issuerName>
+        <issuerTradingSymbol>TSEM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001978611</rptOwnerCik>
+            <rptOwnerName>Chelouche Yoav</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5 SHLOMO KAPLAN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TEL AVIV</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>232</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>215.06</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33734</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price. These shares were sold in multiple transactions ranging from $215.02 to $215.12. These shares were sold on the Tel Aviv Stock Exchange in New Israeli Shekels (ILS). The exchange rate in effect on the transaction date was 3.023 ILS to $1.000 . The reporting person undertakes to provide full information regarding the number of shares sold at each separate price upon request</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Meirav Shemesh on behalf of Oppenheimer Israel, as Attorney-in-fact</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

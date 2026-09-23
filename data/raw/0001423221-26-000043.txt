@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001423221-26-000043.txt : 20260831
+<SEC-HEADER>0001423221-26-000043.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831161749
+ACCESSION NUMBER:		0001423221-26-000043
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hughes Bradley E.
+		CENTRAL INDEX KEY:			0001476457
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33913
+		FILM NUMBER:		261346716
+
+	MAIL ADDRESS:	
+		STREET 1:		2420 BRADWAY BOULEVARD
+		CITY:			BLOOMFIELD VILLAGE
+		STATE:			MI
+		ZIP:			48301
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quanex Building Products CORP
+		CENTRAL INDEX KEY:			0001423221
+		STANDARD INDUSTRIAL CLASSIFICATION:	ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS [3350]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				261561397
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		945 BUNKER HILL RD
+		STREET 2:		SUITE 900
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+		BUSINESS PHONE:		7139614600
+
+	MAIL ADDRESS:	
+		STREET 1:		945 BUNKER HILL RD
+		STREET 2:		SUITE 900
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001423221</issuerCik>
+        <issuerName>Quanex Building Products CORP</issuerName>
+        <issuerTradingSymbol>NX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001476457</rptOwnerCik>
+            <rptOwnerName>Hughes Bradley E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>945 BUNKER HILL</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77024</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1651.42</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.68</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1651.42</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19295.958</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Phantom Stock Unit is the economic equivalent of one share of common stock.    Distributions under the Deferred Compensation Plan are made in cash beginning on a specified date selected by the participant or upon the participant's death, disability, or termination of service as a director.</footnote>
+        <footnote id="F2">Units credited to the participant's account under the Deferred Compensation Plan as a result of deferral of Director Compensation.</footnote>
+        <footnote id="F3">Includes 75.485 phantom stock units credited to the participant's account as a result of automatic dividend reinvestment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul B. Cornett, Power of Attorney</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

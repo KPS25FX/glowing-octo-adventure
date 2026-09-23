@@ -1,0 +1,196 @@
+<SEC-DOCUMENT>0001193125-26-376785.txt : 20260831
+<SEC-HEADER>0001193125-26-376785.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831161451
+ACCESSION NUMBER:		0001193125-26-376785
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Minaya Jose
+		CENTRAL INDEX KEY:			0001950068
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35651
+		FILM NUMBER:		261346635
+
+	MAIL ADDRESS:	
+		STREET 1:		7 WORLD TRADE CENTER
+		STREET 2:		250 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bank of New York Mellon Corp
+		CENTRAL INDEX KEY:			0001390777
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				132614959
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+		BUSINESS PHONE:		212-495-1784
+
+	MAIL ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bank of New York Mellon CORP
+		DATE OF NAME CHANGE:	20070221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001390777</issuerCik>
+        <issuerName>Bank of New York Mellon Corp</issuerName>
+        <issuerTradingSymbol>BNY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001950068</rptOwnerCik>
+            <rptOwnerName>Minaya Jose</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>240 GREENWICH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10286</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Senior Executive VP</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2590</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>162.4486</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>181274</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>930</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>163.1691</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>180344</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Sale pursuant to Rule 10b5-1 plan adopted May 20, 2026.</footnote>
+        <footnote id="F2">Represents the weighted average price of shares sold with actual prices ranging from $161.93 to $162.925. Upon request by the SEC staff, the issuer, or any security holder of the issuer, the reporting person will provide full information regarding the number of shares sold at each separate price within the ranges set forth in footnotes (2) through (3) to this Form 4.</footnote>
+        <footnote id="F3">Represents the weighted average price of shares sold with actual prices ranging from $162.93 to $163.90.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jean Weng, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

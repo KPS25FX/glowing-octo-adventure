@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001079973-26-001255.txt : 20260914
+<SEC-HEADER>0001079973-26-001255.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914181718
+ACCESSION NUMBER:		0001079973-26-001255
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260912
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Le Maitre Yves
+		CENTRAL INDEX KEY:			0001334769
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40766
+		FILM NUMBER:		261378632
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LIGHTWAVE LOGIC, INC.
+		STREET 2:		369 INVERNESS PARKWAY, STE 350
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lightwave Logic, Inc.
+		CENTRAL INDEX KEY:			0001325964
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PLASTIC PRODUCTS [3080]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				820497368
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		369 INVERNESS PARKWAY
+		STREET 2:		SUITE 350
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		(720) 340-4949
+
+	MAIL ADDRESS:	
+		STREET 1:		369 INVERNESS PARKWAY
+		STREET 2:		SUITE 350
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THIRD-ORDER NANOTECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20070320
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THIRD-ORDER NANOTECHNOLOIES INC
+		DATE OF NAME CHANGE:	20070222
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PSI TEC HOLDINGS INC
+		DATE OF NAME CHANGE:	20050503
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001325964</issuerCik>
+        <issuerName>Lightwave Logic, Inc.</issuerName>
+        <issuerTradingSymbol>LWLG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001334769</rptOwnerCik>
+            <rptOwnerName>Le Maitre Yves</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>369 INVERNESS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 350</rptOwnerStreet2>
+            <rptOwnerCity>ENGLEWOOD</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80112</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>310750</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.23</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1900203</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld by the Issuer in connection with a net settlement of the September 12, 2026 vesting of restricted stock units. Shares were withheld for the payment of withholding taxes.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Yves LeMaitre</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

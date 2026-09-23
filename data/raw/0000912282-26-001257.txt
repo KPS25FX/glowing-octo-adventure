@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0000912282-26-001257.txt : 20260910
+<SEC-HEADER>0000912282-26-001257.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910062148
+ACCESSION NUMBER:		0000912282-26-001257
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			So Eric H. L.
+		CENTRAL INDEX KEY:			0002116526
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40673
+		FILM NUMBER:		261369578
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O CYBIN INC.
+		STREET 2:		100 KING STREET W., SUITE 5600
+		CITY:			TORONTO
+		PROVINCE COUNTRY:   	A6
+		ZIP:			M5X 1C9
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CYBIN INC.
+		CENTRAL INDEX KEY:			0001833141
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 KING STREET WEST
+		STREET 2:		SUITE 5600
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5X 1C9
+		BUSINESS PHONE:		(908) 764-8385
+
+	MAIL ADDRESS:	
+		STREET 1:		100 KING STREET WEST
+		STREET 2:		SUITE 5600
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5X 1C9
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001833141</issuerCik>
+        <issuerName>CYBIN INC.</issuerName>
+        <issuerTradingSymbol>CYBN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002116526</rptOwnerCik>
+            <rptOwnerName>So Eric H. L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CYBIN INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>100 KING STREET W., SUITE 5600</rptOwnerStreet2>
+            <rptOwnerCity>TORONTO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A6</rptOwnerCountry>
+            <rptOwnerZipCode>M5X 1C9</rptOwnerZipCode>
+            <rptOwnerStateDescription>ONTARIO, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Executive Chair</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.0890</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4365014</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>53616</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <remarks>THIS FORM 4 IS BEING FILED VOLUNTARILY BY THE REOPRTING PERSON, WHO IS NOT SUBJECT TO SECTION 16 REPORTING REQUIREMENTS.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric H. L. So</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

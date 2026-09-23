@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0001493152-26-042587.txt : 20260914
+<SEC-HEADER>0001493152-26-042587.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914163012
+ACCESSION NUMBER:		0001493152-26-042587
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NAVEH OFER
+		CENTRAL INDEX KEY:			0001582869
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41334
+		FILM NUMBER:		261377709
+
+	MAIL ADDRESS:	
+		STREET 1:		7 JABOTINSKY STREET
+		CITY:			RAMAT GAN
+		STATE:			L3
+		ZIP:			52520
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rail Vision Ltd.
+		CENTRAL INDEX KEY:			0001743905
+		STANDARD INDUSTRIAL CLASSIFICATION:	RAILROAD EQUIPMENT [3743]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 HA'TIDHAR ST.
+		STREET 2:		P.O.B 2155
+		CITY:			RA'ANANA
+		STATE:			L3
+		ZIP:			4366517
+		BUSINESS PHONE:		97299577706
+
+	MAIL ADDRESS:	
+		STREET 1:		15 HA'TIDHAR ST.
+		STREET 2:		P.O.B 2155
+		CITY:			RA'ANANA
+		STATE:			L3
+		ZIP:			4366517
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001743905</issuerCik>
+        <issuerName>Rail Vision Ltd.</issuerName>
+        <issuerTradingSymbol>RVSN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001582869</rptOwnerCik>
+            <rptOwnerName>NAVEH OFER</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O RAIL VISION LTD.</rptOwnerStreet1>
+            <rptOwnerStreet2>15 HA'TIDHAR ST.</rptOwnerStreet2>
+            <rptOwnerCity>RA'ANANA</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode>4366517</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CHIEF FINANCIAL OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.00</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31795</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Restricted Share Units</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3528</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Restricted Share Units</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5972</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 11, 2026.</footnote>
+        <footnote id="F2">This transaction was executed in multiple trades at the price of $4.00. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate transaction.</footnote>
+        <footnote id="F3">These restricted share units vest in 5 equal installments on a quarterly basis beginning on September 30, 2026, subject to the Reporting Person's continued service.</footnote>
+        <footnote id="F4">No transaction has been effected by the Reporting Person with respect to these securities, and they are being included in this Form 4 for informational purposes only.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ofer Naveh</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

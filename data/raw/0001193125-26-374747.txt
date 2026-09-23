@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0001193125-26-374747.txt : 20260828
+<SEC-HEADER>0001193125-26-374747.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828171707
+ACCESSION NUMBER:		0001193125-26-374747
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260815
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jeldi Arun
+		CENTRAL INDEX KEY:			0002050529
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39757
+		FILM NUMBER:		261341492
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ARRAYED ADDITIVE INC.
+		STREET 2:		6119 GUION ROAD
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46254
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Velo3D, Inc.
+		CENTRAL INDEX KEY:			0001825079
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIAL INDUSTRY MACHINERY, NEC [3559]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2710 LAKEVIEW CT
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+		BUSINESS PHONE:		(408) 610-3915
+
+	MAIL ADDRESS:	
+		STREET 1:		2710 LAKEVIEW CT
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JAWS Spitfire Acquisition Corp
+		DATE OF NAME CHANGE:	20200921
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Spitfire Acquisition Corp
+		DATE OF NAME CHANGE:	20200916
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001825079</issuerCik>
+        <issuerName>Velo3D, Inc.</issuerName>
+        <issuerTradingSymbol>VELO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002050529</rptOwnerCik>
+            <rptOwnerName>Jeldi Arun</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VELO3D, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2710 LAKEVIEW CT</rptOwnerStreet2>
+            <rptOwnerCity>FREMONT</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94538</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3146</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.16</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18874</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12737940</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See note</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3146</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3146</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31455</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Held by Arrayed Notes Acquisition Corp. (&quot;Arrayed&quot;), a wholly owned subsidiary of Arrayed Additive, Inc. The Reporting Person is the Chief Executive Officer and President and sole equity holder of Arrayed Additive, Inc. and is the Chief Executive Officer of Arrayed.</footnote>
+        <footnote id="F2">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive one share of the Company's common stock upon settlement for no consideration.</footnote>
+        <footnote id="F3">The RSUs shall vest 25% of the total grant on February 15, 2026, with the remaining 75% vesting in equal quarterly installments over the next three years on Feb 15, May 15, August 15, and November 15, subject to the Reporting Person's continued service to the Issuer on each vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nancy Krystal as attorney-in-fact for Arun Jeldi</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

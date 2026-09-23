@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001193125-26-374352.txt : 20260828
+<SEC-HEADER>0001193125-26-374352.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828161050
+ACCESSION NUMBER:		0001193125-26-374352
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vandekop Amy O'Leary
+		CENTRAL INDEX KEY:			0002146984
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39409
+		FILM NUMBER:		261340120
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KALARIS THERAPEUTICS, INC.
+		STREET 2:		400 CONNELL DRIVE, SUITE 5500
+		CITY:			BERKELEY HEIGHTS
+		STATE:			NJ
+		ZIP:			07922
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kalaris Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001754068
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				831971007
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 CONNELL DRIVE
+		STREET 2:		SUITE 5500
+		CITY:			BERKELEY HEIGHTS
+		STATE:			NJ
+		ZIP:			07922
+		BUSINESS PHONE:		650-249-2727
+
+	MAIL ADDRESS:	
+		STREET 1:		400 CONNELL DRIVE
+		STREET 2:		SUITE 5500
+		CITY:			BERKELEY HEIGHTS
+		STATE:			NJ
+		ZIP:			07922
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Allovir, Inc.
+		DATE OF NAME CHANGE:	20190521
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ViraCyte, Inc.
+		DATE OF NAME CHANGE:	20180924
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001754068</issuerCik>
+        <issuerName>Kalaris Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>KLRS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002146984</rptOwnerCik>
+            <rptOwnerName>Vandekop Amy O'Leary</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O KALARIS THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>400 CONNELL DRIVE, SUITE 5500</rptOwnerStreet2>
+            <rptOwnerCity>BERKELEY HEIGHTS</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07922</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>VP, Corporate Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.10</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option was granted on August 27, 2026. The shares underlying the option are scheduled to vest over four years, with 25% of the shares underlying the option vesting on August 1, 2027 and the remainder vesting in equal monthly installments thereafter, subject to continuous service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Amy O'Leary Vandekop</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

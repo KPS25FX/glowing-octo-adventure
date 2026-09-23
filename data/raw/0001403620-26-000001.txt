@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001403620-26-000001.txt : 20260903
+<SEC-HEADER>0001403620-26-000001.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903090904
+ACCESSION NUMBER:		0001403620-26-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Coape-Arnold Douglas Harold
+		CENTRAL INDEX KEY:			0001403620
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11104
+		FILM NUMBER:		261356830
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 POST ROAD
+		CITY:			SCARSDALE
+		STATE:			NY
+		ZIP:			10583
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NOBLE ROMANS INC
+		CENTRAL INDEX KEY:			0000709005
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				351281154
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE VIRGINIA AVE
+		STREET 2:		STE 800
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46204
+		BUSINESS PHONE:		3176343377
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE VIRGINIA AVENUE
+		STREET 2:		SUITE 800
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000709005</issuerCik>
+        <issuerName>NOBLE ROMANS INC</issuerName>
+        <issuerTradingSymbol>NROM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001403620</rptOwnerCik>
+            <rptOwnerName>Coape-Arnold Douglas Harold</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1000 POST ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SCARSDALE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10583</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Noble Roman's Inc. Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-08-27</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5556</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.683</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>320000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Douglas H. Coape-Arnold</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

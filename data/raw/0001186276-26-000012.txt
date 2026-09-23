@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001186276-26-000012.txt : 20260901
+<SEC-HEADER>0001186276-26-000012.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901083119
+ACCESSION NUMBER:		0001186276-26-000012
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			COLE MICHAEL R
+		CENTRAL INDEX KEY:			0001186276
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22684
+		FILM NUMBER:		261348581
+
+	MAIL ADDRESS:	
+		STREET 1:		2801 EAST BELTLINE, N.E.
+		CITY:			GRAND RAPIDS
+		STATE:			MI
+		ZIP:			49525
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UFP INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000912767
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAWMILLS, PLANNING MILLS, GENERAL [2421]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				381465835
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2801 EAST BELTLINE NE
+		CITY:			GRAND RAPIDS
+		STATE:			MI
+		ZIP:			49525
+		BUSINESS PHONE:		6163646161
+
+	MAIL ADDRESS:	
+		STREET 1:		2801 EAST BELTLINE NE
+		CITY:			GRAND RAPIDS
+		STATE:			MI
+		ZIP:			49505
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNIVERSAL FOREST PRODUCTS INC
+		DATE OF NAME CHANGE:	19930929
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000912767</issuerCik>
+        <issuerName>UFP INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>UFPI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001186276</rptOwnerCik>
+            <rptOwnerName>COLE MICHAEL R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2801 EAST BELTLINE, N.E.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GRAND RAPIDS</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>49525</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>84.52</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>17</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32619</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1 for 1</footnote>
+        <footnote id="F2">The phantom stock units were accrued under the Company's Deferred Compensation Plan and are payable in shares of the Company's common stock until the reporting person's death, disability, or retirement.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Katherine L. Karel</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

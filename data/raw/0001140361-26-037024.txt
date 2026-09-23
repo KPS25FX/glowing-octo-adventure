@@ -1,0 +1,533 @@
+<SEC-DOCUMENT>0001140361-26-037024.txt : 20260917
+<SEC-HEADER>0001140361-26-037024.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917191740
+ACCESSION NUMBER:		0001140361-26-037024
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Control Empresarial de Capitales S.A. de C.V.
+		CENTRAL INDEX KEY:			0001273693
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			O5
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38497
+		FILM NUMBER:		261388104
+
+	BUSINESS ADDRESS:	
+		STREET 1:		INSURGENTES SUR #3500, PB
+		STREET 2:		COL. PENA POBRE, DELEGACION TLALPAN, CP
+		CITY:			MEXICO DF
+		STATE:			O5
+		ZIP:			14060
+		BUSINESS PHONE:		525556254961
+
+	MAIL ADDRESS:	
+		STREET 1:		INSURGENTES SUR #3500, PB
+		STREET 2:		COL. PENA POBRE, DELEGACION TLALPAN, CP
+		CITY:			MEXICO DF
+		STATE:			O5
+		ZIP:			14060
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Inversora Carso, S.A. de C.V.
+		DATE OF NAME CHANGE:	20170801
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	INMOBILIARIA CARSO S A DE C V
+		DATE OF NAME CHANGE:	20031217
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TALOS ENERGY INC.
+		CENTRAL INDEX KEY:			0001724965
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				823532642
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 CLAY STREET
+		STREET 2:		SUITE 3300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		713-328-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		333 CLAY STREET
+		STREET 2:		SUITE 3300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAILFISH ENERGY HOLDINGS Corp
+		DATE OF NAME CHANGE:	20171211
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001724965</issuerCik>
+        <issuerName>TALOS ENERGY INC.</issuerName>
+        <issuerTradingSymbol>TALO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001273693</rptOwnerCik>
+            <rptOwnerName>Control Empresarial de Capitales S.A. de C.V.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>PASEO DE LAS PALMAS 781, PISO 3</rptOwnerStreet1>
+            <rptOwnerStreet2>LOMAS DE CHAPULTEPEC</rptOwnerStreet2>
+            <rptOwnerCity>CIUDAD DE MEXICO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>O5</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>O5</rptOwnerCountry>
+            <rptOwnerZipCode>11000</rptOwnerZipCode>
+            <rptOwnerStateDescription>MEXICO</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>true</isOther>
+            <otherText>Add'l Rep. Persons-see Ex.99-1</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares (as defined in Exhibit 99.1 hereto)</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1311000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.5177</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39149036</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares (as defined in Exhibit 99.1 hereto)</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>70000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.6131</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39079036</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Weighted average price. These shares were sold in multiple transactions at prices ranging from $18.49 to $18.59, inclusive. The reporting persons undertake to provide the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the shares sold at each separate price within the range set forth in this footnote (1) to this Form 4.</footnote>
+        <footnote id="F2">Weighted average price. These shares were sold in multiple transactions at prices ranging from $18.60 to $18.655, inclusive. The reporting persons undertake to provide the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the shares sold at each separate price within the range set forth in this footnote (2) to this Form 4.</footnote>
+        <footnote id="F3">See attached Exhibit 99.1 to this Form 4, which is hereby incorporated herein by reference.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ MARCO ANTONIO SLIM DOMIT, ATTORNEY-IN-FACT</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ef20082399_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge
+         Document created using Broadridge PROfile 26.3.2.5342
+         Copyright 1995 - 2026 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 9pt; text-align: left; color: rgb(0, 0, 0);">
+  <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+  <div>
+    <div style="text-align: right; color: rgb(0, 0, 0); font-size: 10pt; font-weight: bold;">Exhibit 99.1</div>
+    <div><br>
+    </div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;"><u>Name and Address of Additional Reporting Persons:</u></div>
+    <div><br>
+    </div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;">Mr. Carlos Slim Hel&#250;, Mr. Carlos Slim Domit, Mr. Marco Antonio Slim Domit, Mr. Patrick Slim Domit, Ms. Mar&#237;a Soumaya Slim Domit, Ms. Vanessa Paola Slim Domit and Ms. Johanna Monique Slim Domit
+      (collectively, the &#8220;Slim Family&#8221;), each with the following address:</div>
+    <div><br>
+    </div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;">Paseo de Las Palmas #736</div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;">Colonia Lomas de Chapultepec</div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;">11000 Ciudad de M&#233;xico, M&#233;xico</div>
+    <div><br>
+    </div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;"><u>Explanation of Responses:</u></div>
+    <div><br>
+    </div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt; font-style: italic;">Beneficial Ownership</div>
+    <div><br>
+    </div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;">As of the date of this filing, (i) Control Empresarial de Capitales S.A. de C.V. (&#8220;Control Empresarial&#8221;) owns 39,079,036 shares of Common Stock, $0.01 par value per share (the &#8220;Common Shares&#8221;) and (ii)
+      the Slim Family, which are beneficiaries of a Mexican trust that in turn owns all of the issued and outstanding voting equity securities of Control Empresarial, may be deemed to beneficially own indirectly the Common Shares beneficially owned by
+      Control Empresarial. The Common Shares beneficially owned by Control Empresarial constitute approximately 23.4% of the 166,925,818 issued and outstanding Common Shares, as reported in the Form 10-Q filed by the Issuer with the Securities and Exchange
+      Commission (&#8220;SEC&#8221;) on August 5, 2026. As a result, the Slim Family may also be deemed to beneficially own approximately 23.4% of the 166,965,468 issued and outstanding Common Shares, as reported in the Form 10-Q filed by the Issuer with the SEC on
+      August 5, 2026.</div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;"> <br>
+    </div>
+    <div class="BRPFPageBreakArea" style="clear: both; margin-top: 9pt; margin-bottom: 9pt;">
+      <div class="BRPFPageBreak" style="page-break-after: always;">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: center; color: rgb(0, 0, 0); font-size: 10pt; font-weight: bold;">Signature Page</div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 9pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);" id="z5765e747e53c4580a4424f5d7a56e995">
+
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Carlos Slim Hel&#250;</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Carlos Slim Domit</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="text-indent: -18pt; margin-left: 30.95pt; color: rgb(0, 0, 0); font-size: 10pt;">By:</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">/s/ Marco Antonio Slim Domit</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Marco Antonio Slim Domit</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Marco Antonio Slim Domit</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;"><font style="font-style: italic;">Attorney-in-Fact</font>*</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">September 17, 2026</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Patrick Slim Domit</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Mar&#237;a Soumaya Slim Domit</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Vanessa Paola Slim Domit</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Johanna Monique Slim Domit</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="text-indent: -9pt; margin-left: 9pt; color: rgb(0, 0, 0); font-size: 10pt;">CONTROL EMPRESARIAL DE CAPITALES S.A. DE C.V.</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top; border-bottom: #000000 2px solid;">&#160;</td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">By: V&#237;ctor Manuel Gutierrez Lopez</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 63.63%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">Title: Attorney-in-Fact</div>
+          </td>
+          <td style="width: 0.83%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 7.2%; vertical-align: top; border-left: #000000 2px solid;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 28.33%; vertical-align: top;">
+            <div style="color: rgb(0, 0, 0); font-size: 10pt;">&#160;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="color: rgb(0, 0, 0); font-size: 10pt;"><font style="font-style: italic;">* See</font> the Powers of Attorney for the members of the Slim Family and Control Empresarial, which are filed as exhibits to the Schedule 13D/A filed by the Slim
+      Family and Control Empresarial with the SEC on March 4, 2026 in connection with their beneficial ownership of Class A Common Stock, $0.001 par value per share of PBF Energy Inc., are hereby incorporated herein by reference.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div>
+      <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

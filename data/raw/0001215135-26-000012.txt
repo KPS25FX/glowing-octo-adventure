@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001215135-26-000012.txt : 20260903
+<SEC-HEADER>0001215135-26-000012.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903140403
+ACCESSION NUMBER:		0001215135-26-000012
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HICKTON DAWNE S
+		CENTRAL INDEX KEY:			0001215135
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05318
+		FILM NUMBER:		261357827
+
+	MAIL ADDRESS:	
+		STREET 1:		6565 N MACARTHUR BLVD
+		STREET 2:		SUITE 800
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KENNAMETAL INC
+		CENTRAL INDEX KEY:			0000055242
+		STANDARD INDUSTRIAL CLASSIFICATION:	MACHINE TOOLS, METAL CUTTING TYPES [3541]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				250900168
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		525 WILLIAM PENN PLACE
+		STREET 2:		SUITE 3300
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219
+		BUSINESS PHONE:		4122488000
+
+	MAIL ADDRESS:	
+		STREET 1:		525 WILLIAM PENN PLACE
+		STREET 2:		SUITE 3300
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000055242</issuerCik>
+        <issuerName>KENNAMETAL INC</issuerName>
+        <issuerTradingSymbol>KMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001215135</rptOwnerCik>
+            <rptOwnerName>HICKTON DAWNE S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6565 N MACARTHUR BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>IRVING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75039</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Credits</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5310</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5310</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5310</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1 for 1</footnote>
+        <footnote id="F2">The stock credits become payable in common stock (i) in the event of a change of control of the company or (ii) on the date that the reporting person ceases (other than by death) to be a director (&quot;retirement&quot;), unless the reporting person has elected to receive the common stock represented by the stock credits following retirement.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Michelle R. Keating, as attorney-in-fact for Dawne S. Hickton</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

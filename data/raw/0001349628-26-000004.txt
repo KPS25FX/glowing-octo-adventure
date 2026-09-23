@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001349628-26-000004.txt : 20260901
+<SEC-HEADER>0001349628-26-000004.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901170345
+ACCESSION NUMBER:		0001349628-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fallon David Joseph
+		CENTRAL INDEX KEY:			0001349628
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10613
+		FILM NUMBER:		261351695
+
+	MAIL ADDRESS:	
+		STREET 1:		28213 VAN DYKE AVENUE
+		CITY:			WARREN
+		STATE:			MI
+		ZIP:			48093
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DYCOM INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000067215
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER, SEWER, PIPELINE, COMM AND POWER LINE CONSTRUCTION [1623]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				591277135
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 BANYAN BLVD
+		STREET 2:		SUITE 1101
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+		BUSINESS PHONE:		561-627-7171
+
+	MAIL ADDRESS:	
+		STREET 1:		300 BANYAN BLVD
+		STREET 2:		SUITE 1101
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MOBILE HOME DYNAMICS INC
+		DATE OF NAME CHANGE:	19820302
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000067215</issuerCik>
+        <issuerName>DYCOM INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>DY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001349628</rptOwnerCik>
+            <rptOwnerName>Fallon David Joseph</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>300 BANYAN BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1101</rptOwnerStreet2>
+            <rptOwnerCity>WEST PALM BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33401</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>700.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>286.92</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1043.00</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes unvested Restricted Stock Units.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>#/s/ Ryan F. Urness by POA from David J. Fallon</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

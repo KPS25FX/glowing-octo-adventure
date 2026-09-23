@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001193805-26-001256.txt : 20260918
+<SEC-HEADER>0001193805-26-001256.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918210018
+ACCESSION NUMBER:		0001193805-26-001256
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nagel Robert Thorvald
+		CENTRAL INDEX KEY:			0002113417
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36201
+		FILM NUMBER:		261392097
+
+	MAIL ADDRESS:	
+		STREET 1:		44 MONTGOMERY ST.
+		STREET 2:		40TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IMMUNIC, INC.
+		CENTRAL INDEX KEY:			0001280776
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				562358443
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1200 AVENUE OF THE AMERICAS
+		STREET 2:		SUITE 200
+		CITY:			NEW YORK
+		STATE:			X1
+		ZIP:			10036
+		BUSINESS PHONE:		(332) 255-9818
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 AVENUE OF THE AMERICAS
+		STREET 2:		SUITE 200
+		CITY:			NEW YORK
+		STATE:			X1
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VITAL THERAPIES INC
+		DATE OF NAME CHANGE:	20040219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>e665786_4-thorvald.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001280776</issuerCik>
+        <issuerName>IMMUNIC, INC.</issuerName>
+        <issuerTradingSymbol>IMUX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002113417</rptOwnerCik>
+            <rptOwnerName>Nagel Robert Thorvald</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1200 AVENUE OF THE AMERICAS, SUITE 200</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>10.12</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25370</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25370</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25370</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option vests in monthly increments over a period of one year from the grant date.</footnote>
+        <footnote id="F2">The Reporting Person is a member of BVF Partners L.P. (&quot;BVF&quot;) and is obligated to transfer the economic benefit, if any, received upon the sale of the shares issuable upon exercise of the equity grants to BVF. As such, the Reporting Person disclaims beneficial ownership of the securities reported herein for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, except to the extent of his pecuniary interest therein, if any.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ R. Thorvald Nagel</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

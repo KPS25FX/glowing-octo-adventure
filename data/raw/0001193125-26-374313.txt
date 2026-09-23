@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001193125-26-374313.txt : 20260828
+<SEC-HEADER>0001193125-26-374313.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828160504
+ACCESSION NUMBER:		0001193125-26-374313
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Warner Bryan
+		CENTRAL INDEX KEY:			0002041498
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36900
+		FILM NUMBER:		261339937
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO PENNSYLVANIA PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Madison Square Garden Sports Corp.
+		CENTRAL INDEX KEY:			0001636519
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				473373056
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO PENNSYLVANIA PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10121
+		BUSINESS PHONE:		212-465-4111
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO PENNSYLVANIA PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Madison Square Garden Sports Corp
+		DATE OF NAME CHANGE:	20200417
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Madison Square Garden Co
+		DATE OF NAME CHANGE:	20151001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MSG SPINCO, INC.
+		DATE OF NAME CHANGE:	20150313
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001636519</issuerCik>
+        <issuerName>Madison Square Garden Sports Corp.</issuerName>
+        <issuerTradingSymbol>MSGS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002041498</rptOwnerCik>
+            <rptOwnerName>Warner Bryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2 PENNSYLVANIA PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP, Head of Legal</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>625</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-09-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>625</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>625</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) is granted under the Madison Square Garden Sports Corp. 2015 Employee Stock Plan and represents a right to receive one share of Class A Common Stock or the cash equivalent thereof.</footnote>
+        <footnote id="F2">The RSUs are scheduled to vest and settle in three equal installments on September 15, 2027, September 15, 2028 and September 15, 2029.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark C. Cresitello, Attorney-in-Fact for Bryan Warner</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

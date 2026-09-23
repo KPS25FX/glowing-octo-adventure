@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0000899140-26-001064.txt : 20260915
+<SEC-HEADER>0000899140-26-001064.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915190026
+ACCESSION NUMBER:		0000899140-26-001064
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Digirolomo Enrico
+		CENTRAL INDEX KEY:			0001741413
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39375
+		FILM NUMBER:		261382052
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O COHERENT CORP.
+		STREET 2:		375 SAXONBURG BLVD.
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COHERENT CORP.
+		CENTRAL INDEX KEY:			0000820318
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				251214948
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+		BUSINESS PHONE:		724-352-4455
+
+	MAIL ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	II-VI INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000820318</issuerCik>
+        <issuerName>COHERENT CORP.</issuerName>
+        <issuerTradingSymbol>COHR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001741413</rptOwnerCik>
+            <rptOwnerName>Digirolomo Enrico</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O COHERENT CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>375 SAXONBURG BOULEVARD</rptOwnerStreet2>
+            <rptOwnerCity>SAXONBURG</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>16056</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5315</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>305.985</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11923</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1279</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10644</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reports the donation of 1,279 shares of common stock to a donor advised fund.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher M. Forrester, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

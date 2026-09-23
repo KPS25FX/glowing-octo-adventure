@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001193125-26-395552.txt : 20260918
+<SEC-HEADER>0001193125-26-395552.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918161503
+ACCESSION NUMBER:		0001193125-26-395552
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kropotova Alexandra
+		CENTRAL INDEX KEY:			0001825323
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39871
+		FILM NUMBER:		261391057
+
+	MAIL ADDRESS:	
+		STREET 1:		RIVER OAKS TOWER
+		STREET 2:		8800 HSC PARKWAY
+		CITY:			BYRAN
+		STATE:			TX
+		ZIP:			77807
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAB Biotherapeutics, Inc.
+		CENTRAL INDEX KEY:			0001833214
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				853899721
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		777 W 41ST ST
+		STREET 2:		SUITE 401
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33140
+		BUSINESS PHONE:		305-845-2813
+
+	MAIL ADDRESS:	
+		STREET 1:		777 W 41ST ST
+		STREET 2:		SUITE 401
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33140
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Big Cypress Acquisition Corp.
+		DATE OF NAME CHANGE:	20201120
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001833214</issuerCik>
+        <issuerName>SAB Biotherapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>SABS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001825323</rptOwnerCik>
+            <rptOwnerName>Kropotova Alexandra</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>777 W 41ST STREET, SUITE 401</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MIAMI BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33140</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CHIEF MEDICAL OFFICER</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>473</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41853</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of the Issuer's common stock (&quot;Common Stock&quot;) withheld to statisfy tax withholding requirements on the vesting of the Issuer's restricked stock units (&quot;RSUs&quot;).</footnote>
+        <footnote id="F2">Includes 38,402 shares of Common Stock and 3,433 shares of Common Stock which remain subject to vesting of RSUs granted under the Issuer's 2021 Equity Incentive Plan, as amended.</footnote>
+        <footnote id="F3">Each RSU represents a contingent right to receive one share of Common Stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Alexandra Kropotova</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,261 @@
+<SEC-DOCUMENT>0001794168-26-000003.txt : 20260831
+<SEC-HEADER>0001794168-26-000003.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831155603
+ACCESSION NUMBER:		0001794168-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jones Donnie O.
+		CENTRAL INDEX KEY:			0001794168
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12579
+		FILM NUMBER:		261346222
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O OGE ENERGY CORP.
+		STREET 2:		PO BOX 321
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73101
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OGE ENERGY CORP.
+		CENTRAL INDEX KEY:			0001021635
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				731481638
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		321 N HARVEY
+		STREET 2:		P.O. BOX 321
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73101-0321
+		BUSINESS PHONE:		4055533000
+
+	MAIL ADDRESS:	
+		STREET 1:		321 N HARVEY
+		STREET 2:		P.O. BOX 321
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73101-0321
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OGE ENERGY CORP
+		DATE OF NAME CHANGE:	19960827
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001021635</issuerCik>
+        <issuerName>OGE ENERGY CORP.</issuerName>
+        <issuerTradingSymbol>OGE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001794168</rptOwnerCik>
+            <rptOwnerName>Jones Donnie O.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O OGE ENERGY CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>PO BOX 321</rptOwnerStreet2>
+            <rptOwnerCity>OKLAHOMA CITY</rptOwnerCity>
+            <rptOwnerState>OK</rptOwnerState>
+            <rptOwnerZipCode>73101</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP- Utility Operations (OG&amp;E)</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock-$.01 par value per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6508.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>46.1104</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40555.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock-$.01 par value per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16356.14</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Retirement Savings</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">$46.1104. The price reported is a weighted average price. The shares were sold in multiple transactions with prices ranging from $37.95 to $46.64. The reporting person undertakes to provide to OGE Energy,
+any security holder of OGE Energy, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range noted
+herein.</footnote>
+        <footnote id="F2">The information herein is based on a Retirement Savings Plan Statement dated August 28, 2026. The Retirement Savings Plan Statement indicated the number of shares in the Common Stock Fund of the
+Retirement Savings Plan credited to the participant's account at August 28, 2026 and includes shares credited since reporting person's last table 1 filing that was exempt from reporting pursuant to Rule
+16A-3(f)(1)(i)(B).</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ William Sultemeier, By Power of Attorney</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>jones.txt
+<DESCRIPTION>POA
+<TEXT>
+POWER OF ATTORNEY
+
+
+The undersigned hereby constitutes and appoints each of
+William H. Sultemeier and Sarah R. Stafford, signing singly, the
+undersigned's true and lawful attorney-in-fact to:
+
+(1) execute for and on behalf of the undersigned, in the
+undersigned's capacity as a director and/or officer of OGE
+Energy Corp. (the 'Company'), Forms 3, 4 and 5 in
+accordance with Section 16(a) of the Securities Exchange
+Act of 1934, as amended, and the rules and regulations
+thereunder:
+
+(2) do and perform any and all acts for and on behalf of
+the undersigned which may be necessary or desirable to
+complete and execute any such Form 3, 4 or 5 and timely
+file such form with the United States Securities and
+Exchange Commission and any stock exchange or similar
+authority; and
+
+(3) take any other action of any type whatsoever in
+connection with the foregoing which, in the opinion of
+such attorney-in-fact, may be of benefit to, in the best
+interest of, or legally required by, the undersigned, it
+being understood that the documents executed by such
+attorney-in-fact on behalf of the undersigned pursuant to
+this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact
+may approve in his or her discretion.
+
+The undersigned hereby grants to each attorney-in-fact
+named above full power and authority to do and perform any and
+every act requisite, necessary or proper to be done in the
+exercise of any of the rights and powers herein granted, as
+fully as the undersigned could do it personally present, with
+full power of substitution or revocation, hereby ratifying and
+confirming all that such attorney-in-fact, or such attorney-in-
+fact's substitute or substitutes, shall lawfully do or cause to
+be done by virtue of this Power of Attorney and the rights and
+powers herein granted.  The undersigned acknowledges that the
+foregoing attorney-in-fact, in serving in such capacity at the
+request of the undersigned, are not assuming, nor is the company
+assuming, any of the undersigned's responsibilities to comply
+with Section 16 of the Securities Exchange Act of 1934, as
+amended.
+
+This Power of Attorney shall remain in full force and
+effect until the undersigned is no longer required to file Forms
+3, 4 and 5 with respect to the undersigned's holdings of, and
+transactions in, securities issued by the Company, unless
+earlier revoked by the undersigned in a signed writing delivered
+to the foregoing attorneys-in-fact.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power
+of Attorney to be executed as of this 3rd day of January 2023.
+
+
+/s/ Donnie O. Jones, Pursuant to Power of Attorney being
+filed herewith
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001193125-26-375919.txt : 20260831
+<SEC-HEADER>0001193125-26-375919.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831112916
+ACCESSION NUMBER:		0001193125-26-375919
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lamothe Timothy
+		CENTRAL INDEX KEY:			0001821512
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37536
+		FILM NUMBER:		261343957
+
+	MAIL ADDRESS:	
+		STREET 1:		26 WAKEMAN ROAD
+		CITY:			SOUTH SALEM
+		STATE:			NY
+		ZIP:			10590
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Presurance Holdings, Inc.
+		CENTRAL INDEX KEY:			0001502292
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				271298795
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 319
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+		BUSINESS PHONE:		(248) 559-0840
+
+	MAIL ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 319
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Conifer Holdings, Inc.
+		DATE OF NAME CHANGE:	20100928
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001502292</issuerCik>
+        <issuerName>Presurance Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>PRHI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001821512</rptOwnerCik>
+            <rptOwnerName>Lamothe Timothy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3001 WEST BIG BEAVER ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 319</rptOwnerStreet2>
+            <rptOwnerCity>TROY</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48084</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2478</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.5127</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Effective June 1, 2026, the Issuer effected a 1-for-7 reverse stock split of its common stock (the &quot;Reverse Stock Split&quot;). The amount of securities reported on this Form 4 has been adjusted to reflect the Reverse Stock Split.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Brian J. Roney, by Power of Attorney</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

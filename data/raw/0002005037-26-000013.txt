@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0002005037-26-000013.txt : 20260826
+<SEC-HEADER>0002005037-26-000013.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826131621
+ACCESSION NUMBER:		0002005037-26-000013
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Zagari Raffaele
+		CENTRAL INDEX KEY:			0002005037
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33869
+		FILM NUMBER:		261320522
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O STAR BULK MANAGEMENT INC
+		STREET 2:		40 AG KONSTANTINOU
+		CITY:			ATHENS
+		STATE:			J3
+		ZIP:			15124
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Star Bulk Carriers Corp.
+		CENTRAL INDEX KEY:			0001386716
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			1T
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O STAR BULK MANAGEMENT INC.
+		STREET 2:		40 AGIOU KONSTANTINOU STR, MAROUSSI
+		CITY:			ATHENS
+		PROVINCE COUNTRY:   	J3
+		ZIP:			14124
+		BUSINESS PHONE:		011-30-210-617-8400
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O STAR BULK MANAGEMENT INC.
+		STREET 2:		40 AGIOU KONSTANTINOU STR, MAROUSSI
+		CITY:			ATHENS
+		PROVINCE COUNTRY:   	J3
+		ZIP:			14124
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001386716</issuerCik>
+        <issuerName>Star Bulk Carriers Corp.</issuerName>
+        <issuerTradingSymbol>SBLK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002005037</rptOwnerCik>
+            <rptOwnerName>Zagari Raffaele</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O STAR BULK MANAGEMENT INC</rptOwnerStreet1>
+            <rptOwnerStreet2>40 AG KONSTANTINOU</rptOwnerStreet2>
+            <rptOwnerCity>ATHENS</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>J3</rptOwnerCountry>
+            <rptOwnerZipCode>15124</rptOwnerZipCode>
+            <rptOwnerStateDescription>GREECE</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common shares, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>31.2</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1903000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Corporation</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The undersigned further owns directly 27,850 common shares</footnote>
+        <footnote id="F2">These shares are held by two corporations in which the reporting person indirectly holds 100% of the economic interest and over which the reporting person has investment control</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Raffaele Zagari</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

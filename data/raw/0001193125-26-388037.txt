@@ -1,0 +1,289 @@
+<SEC-DOCUMENT>0001193125-26-388037.txt : 20260910
+<SEC-HEADER>0001193125-26-388037.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910170938
+ACCESSION NUMBER:		0001193125-26-388037
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NEVENS THOMAS MICHAEL
+		CENTRAL INDEX KEY:			0001251445
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27130
+		FILM NUMBER:		261371923
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BORLAND SOFTWARE CORPORATION
+		STREET 2:		20450 STEVENS CREEK BLVD, SUITE 800
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NetApp, Inc.
+		CENTRAL INDEX KEY:			0001002047
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				770307520
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3060 OLSEN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95128
+		BUSINESS PHONE:		4088226000
+
+	MAIL ADDRESS:	
+		STREET 1:		3060 OLSEN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETWORK APPLIANCE INC
+		DATE OF NAME CHANGE:	19951010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001002047</issuerCik>
+        <issuerName>NetApp, Inc.</issuerName>
+        <issuerTradingSymbol>NTAP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001251445</rptOwnerCik>
+            <rptOwnerName>NEVENS THOMAS MICHAEL</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3060 OLSEN DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95128</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2914</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13687</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>The Nevens Family 1997 Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2914</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2914</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1948</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1948</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1948</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units convert into common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">On September 10, 2025, the reporting person was granted 2,914 restricted stock units, which vested on September 8, 2026, the day immediately preceding the date of the 2026 Annual Meeting of Stockholders.</footnote>
+        <footnote id="F3">On September 9, 2026, the reporting person was granted 1,948 restricted stock units which vest on the day immediately preceding the date of the next Annual Meeting of Stockholders of the Company following the grant date, subject to the reporting person's continuous service on the Board through such date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Colin Lloyd, Attorney-in-Fact for T. Michael Nevens</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ntap-ex24.htm
+<DESCRIPTION>EX-24
+<TEXT>
+<!-- DFIN ActiveDisclosure (SM) HTML Document - http://www.dfinsolutions.com/ --><!-- Creation Date :2026-09-10T17:08:21.1209+00:00 --><!-- Copyright (c) 2026 Donnelley Financial Solutions, Inc. All Rights Reserved. -->
+<html>
+ <head>
+  <title>EX-24</title>
+ </head>
+ <body style="padding:8px;margin:auto!important;z-index:0;-webkit-text-size-adjust:100%;position:relative;">
+  <div style="z-index:2;min-height:1in;position:relative;"></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><h1 style="tab-size:26.66px;font-size:11pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;margin-right:3.333%;text-align:center;" id="power_of_attorney"><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid #000000;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">POWER OF ATTORNEY</font></h1><p style="text-indent:6.667%;tab-size:26.66px;font-size:11pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Know all by these presents, that the undersigned hereby constitutes and appoints each of Elizabeth O&#x2019;Callahan, Dena Acevedo, Colin Lloyd, Peter Mandel, and Mi Zhang, or any of them signing singly, and with full power of substitution or revocation, the undersigned&#x2019;s true and lawful Attorney-in-Fact (each of such persons and their substitutes being referred to herein as the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Attorney-in-Fact</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#x201d;), with full power to act for the undersigned and in the undersigned's name, place and stead, in any and all capacities, to:</font></p><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">1.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">prepare, execute in the undersigned&#x2019;s name and on the undersigned&#x2019;s behalf, and submit to the Securities and Exchange Commission (the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">SEC</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#x201d;) a Form ID, including amendments thereto, and any other documents necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required by Section 16(a) of the Securities Exchange Act of 1934 (the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Exchange Act</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#x201d;) or any rule or regulation of the SEC;</font></div></div><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">2.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">prepare, execute and submit to the SEC, and/or any national securities exchange on which NetApp, Inc. (the &#x201c;</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Company</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#x201d;) securities are listed, any and all reports (including any amendments thereto) the undersigned is required to file with the SEC under Section 16 of the Exchange Act or any rule or regulation thereunder, with respect to the any security of the Company, including Forms 3, 4 and 5;</font></div></div><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">3.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">obtain, as the undersigned's representative and on the undersigned's behalf, information regarding transactions in the Company's equity securities from any third party, including the Company and any brokers, dealers, employee benefit plan administrators and trustees, and the undersigned hereby authorizes any such third party to release any such information to the Attorney-in-Fact; and</font></div></div><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">4.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such Attorney-in-Fact, may be of benefit to, in the best interest of, or legally required by, the undersigned.</font></div></div><p style="text-indent:6.667%;tab-size:26.66px;font-size:11pt;margin-top:6pt;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">The undersigned hereby grants to each such Attorney-in-Fact full power and authority to do and perform each and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such Attorney-in-Fact, or such Attorney-in-Fact&#x2019;s substitute or substitutes, shall lawfully do or cause to be done by virtue of this Power of Attorney and the rights and powers herein granted.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> </font></p><p style="margin-left:0.4%;tab-size:26.66px;font-size:11pt;margin-top:6pt;font-family:Times New Roman;margin-bottom:0;margin-right:2.935%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	The undersigned acknowledges that:</font></p><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">1.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">This Power of Attorney authorizes, but does not require, the Attorney-in-Fact to act in his or her discretion on information provided to such Attorney-in-Fact without independent verification of </font></div></div></div>
+  <div style="z-index:2;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+  <div style="z-index:2;min-height:1in;position:relative;"></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;visibility:hidden;word-break:keep-all;display:inline-flex;justify-content:flex-start;"></font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">such information;</font></div></div><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">2.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Any documents prepared or executed by the Attorney-in-Fact on behalf of the undersigned pursuant to this Power of Attorney will be in such form and will contain such information as the Attorney-in-Fact, in his or her discretion, deems necessary or desirable;</font></div></div><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">3.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Neither the Company nor the Attorney-in-Fact assumes any liability for the undersigned's responsibility to comply with the requirements of Section 16 of the Exchange Act, any liability of the undersigned for any failure to comply with such requirements, or any liability of the undersigned for disgorgement of profits under Section 16(b) of the Exchange Act; and</font></div></div><div class="item-list-element-wrapper" style="margin-left:3.333%;tab-size:32px;display:flex;font-size:11pt;margin-top:3.95pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">4.</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">This Power of Attorney does not relieve the undersigned from responsibility for compliance with the undersigned's obligations under Section 16 of the Exchange Act, including, without limitation, the reporting requirements under Section 16 of the Exchange Act.</font></div></div><p style="margin-left:0.4%;text-indent:6.693%;tab-size:26.66px;font-size:11pt;margin-top:6pt;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">This Power of Attorney revokes all previous powers of attorney with respect to the subject matter of this Power of Attorney. This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 or 5 reports with respect to the undersigned&#x2019;s holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the Attorney-in-Fact; provided that this Power of Attorney shall be automatically revoked with respect to an Attorney-in-Fact upon the termination of such Attorney-in-Fact&#x2019;s employment with the Company.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> </font></p><p style="margin-left:0.373%;text-indent:6.896%;tab-size:26.66px;font-size:11pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;margin-right:2.954%;text-align:justify;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="margin-left:0.373%;text-indent:6.692%;tab-size:26.66px;font-size:11pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney as of May 14, 2026.</font></p><p style="margin-left:44.347%;tab-size:26.66px;font-size:11pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;margin-right:5.12%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">/s/ T. Michael Nevens	</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> </font></p><p style="margin-left:44.347%;tab-size:26.66px;font-size:11pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;margin-right:5.12%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Name: </font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">T. Michael Nevens	</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

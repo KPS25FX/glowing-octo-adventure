@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001193125-26-394331.txt : 20260917
+<SEC-HEADER>0001193125-26-394331.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917160516
+ACCESSION NUMBER:		0001193125-26-394331
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lewis Darwin
+		CENTRAL INDEX KEY:			0001698767
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35647
+		FILM NUMBER:		261386832
+
+	MAIL ADDRESS:	
+		STREET 1:		9785 S. MONROE STREET, SUITE 300
+		CITY:			SANDY
+		STATE:			UT
+		ZIP:			84070
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lifevantage Corp
+		CENTRAL INDEX KEY:			0000849146
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				900224471
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3300 TRIUMPH BLVD
+		STREET 2:		SUITE 700
+		CITY:			LEHI
+		STATE:			UT
+		ZIP:			84043
+		BUSINESS PHONE:		801-432-9000
+
+	MAIL ADDRESS:	
+		STREET 1:		3300 TRIUMPH BLVD
+		STREET 2:		SUITE 700
+		CITY:			LEHI
+		STATE:			UT
+		ZIP:			84043
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LIFELINE THERAPEUTICS, INC.
+		DATE OF NAME CHANGE:	20041019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	YAAK RIVER RESOURCES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ANDRAPLEX CORP
+		DATE OF NAME CHANGE:	19920406
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000849146</issuerCik>
+        <issuerName>Lifevantage Corp</issuerName>
+        <issuerTradingSymbol>LFVN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001698767</rptOwnerCik>
+            <rptOwnerName>Lewis Darwin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3300 TRIUMPH BLVD, SUITE 700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LEHI</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84043</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>976</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.22</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>138244</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Darwin Lewis</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

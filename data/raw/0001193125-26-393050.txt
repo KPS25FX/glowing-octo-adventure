@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001193125-26-393050.txt : 20260916
+<SEC-HEADER>0001193125-26-393050.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916160430
+ACCESSION NUMBER:		0001193125-26-393050
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LEEMPUTTE PETER G
+		CENTRAL INDEX KEY:			0001078565
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37502
+		FILM NUMBER:		261383741
+
+	MAIL ADDRESS:	
+		STREET 1:		CHICAGO TITLE CORP
+		STREET 2:		171 N CLARK ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			80601
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MasterCraft Boat Holdings, Inc.
+		CENTRAL INDEX KEY:			0001638290
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHIP & BOAT BUILDING & REPAIRING [3730]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				061571747
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 CHEROKEE COVE DRIVE
+		CITY:			VONORE
+		STATE:			TN
+		ZIP:			37885
+		BUSINESS PHONE:		(423) 884-2221
+
+	MAIL ADDRESS:	
+		STREET 1:		100 CHEROKEE COVE DRIVE
+		CITY:			VONORE
+		STATE:			TN
+		ZIP:			37885
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MCBC Holdings, Inc.
+		DATE OF NAME CHANGE:	20150331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001638290</issuerCik>
+        <issuerName>MasterCraft Boat Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>MCFT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001078565</rptOwnerCik>
+            <rptOwnerName>LEEMPUTTE PETER G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>100 CHEROKEE COVE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>VONORE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37855</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36867</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2865</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>20.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2865</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive one share of the Issuer's Common Stock.</footnote>
+        <footnote id="F2">On September 14, 2026, the reporting person was granted 2,865 RSUs, representing a pro-rated amount for the Company's six-month transition period resulting from the change in the Company's fiscal year-end. The RSUs will vest on December 31, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ W. Scott Kent, by power of attorney</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

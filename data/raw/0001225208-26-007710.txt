@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001225208-26-007710.txt : 20260909
+<SEC-HEADER>0001225208-26-007710.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909192327
+ACCESSION NUMBER:		0001225208-26-007710
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hawksworth Benjamin Scott
+		CENTRAL INDEX KEY:			0002075933
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32903
+		FILM NUMBER:		261369319
+
+	MAIL ADDRESS:	
+		STREET 1:		7001 E. BELLEVIEW AVE
+		STREET 2:		15TH FLOOR
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Western Union CO
+		CENTRAL INDEX KEY:			0001365135
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				204531180
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7001 EAST BELLEVIEW AVENUE
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+		BUSINESS PHONE:		(866) 405-5012
+
+	MAIL ADDRESS:	
+		STREET 1:		7001 EAST BELLEVIEW AVENUE
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001365135</issuerCik>
+        <issuerName>Western Union CO</issuerName>
+        <issuerTradingSymbol>WU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002075933</rptOwnerCik>
+            <rptOwnerName>Hawksworth Benjamin Scott</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>7001 EAST BELLEVIEW AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80237</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8569.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>313891.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld by the Company to satisfy tax withholding obligations of the reporting person that arose in connection with the vesting and settlement of 19,562 restricted stock units, representing the final vesting installment of the restricted stock unit award granted by the Company to the reporting person on September 8, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Lisa A. Atkins, As Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

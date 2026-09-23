@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0000320187-26-000161.txt : 20260910
+<SEC-HEADER>0000320187-26-000161.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910173249
+ACCESSION NUMBER:		0000320187-26-000161
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SWAN ROBERT HOLMES
+		CENTRAL INDEX KEY:			0001218363
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		261372134
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NIKE INC.
+		STREET 2:		ONE BOWERMAN DRIVE
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE, Inc.
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NIKE INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000320187</issuerCik>
+        <issuerName>NIKE, Inc.</issuerName>
+        <issuerTradingSymbol>NKE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001218363</rptOwnerCik>
+            <rptOwnerName>SWAN ROBERT HOLMES</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>ONE BOWERMAN DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BEAVERTON</rptOwnerCity>
+            <rptOwnerState>OR</rptOwnerState>
+            <rptOwnerZipCode>97005</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5047</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59025.387</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1580</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by Trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted shares granted on 09/08/2026 under the NIKE, Inc. Stock Incentive Plan. The restrictions lapse with respect to 100% of the shares on the earlier of the date of the next annual meeting of shareholders, or the last day of the 12th full calendar month following the date of grant.</footnote>
+        <footnote id="F2">The amount reported in Column 5 reflects a correction to the number of shares beneficially owned directly by the reporting person. Prior reports inadvertently overstated the number of shares beneficially owned directly by the reporting person by 1,096 shares due to an administrative error. This correction does not reflect any purchase, sale or other transaction by the reporting person.</footnote>
+        <footnote id="F3">These shares are held by the Swan Family Revocable Trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mary I. Hunter, attorney-in-fact for Mr. Swan</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001582473-26-000009.txt : 20260901
+<SEC-HEADER>0001582473-26-000009.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901180736
+ACCESSION NUMBER:		0001582473-26-000009
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Callicotte Lisa
+		CENTRAL INDEX KEY:			0001582473
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13928
+		FILM NUMBER:		261352043
+
+	MAIL ADDRESS:	
+		STREET 1:		7900 CALLAGHAN ROAD
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78229
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			U S GLOBAL INVESTORS INC
+		CENTRAL INDEX KEY:			0000754811
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				741598370
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7900 CALLAGHAN RD
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78229
+		BUSINESS PHONE:		2103081234
+
+	MAIL ADDRESS:	
+		STREET 1:		7900 CALLAGHAN ROAD
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78229
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED SERVICES ADVISORS INC /TX/
+		DATE OF NAME CHANGE:	19950321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000754811</issuerCik>
+        <issuerName>U S GLOBAL INVESTORS INC</issuerName>
+        <issuerTradingSymbol>GROW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001582473</rptOwnerCik>
+            <rptOwnerName>Callicotte Lisa</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>7900 CALLAGHAN ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN ANTONIO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78229</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-08-31</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>289</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.27</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39208</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock purchase under employee stock purchase plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Lisa Callicotte</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

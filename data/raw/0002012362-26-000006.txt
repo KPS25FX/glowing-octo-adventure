@@ -1,0 +1,236 @@
+<SEC-DOCUMENT>0002012362-26-000006.txt : 20260917
+<SEC-HEADER>0002012362-26-000006.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917160228
+ACCESSION NUMBER:		0002012362-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Yost Ryan D
+		CENTRAL INDEX KEY:			0002012362
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38932
+		FILM NUMBER:		261386774
+
+	MAIL ADDRESS:	
+		STREET 1:		8080 NORTON PARKWAY
+		CITY:			MENTOR
+		STATE:			OH
+		ZIP:			44060
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Amcor plc
+		CENTRAL INDEX KEY:			0001748790
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS MANUFACTURING INDUSTRIES [3990]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			Y9
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		83 TOWER ROAD NORTH
+		CITY:			WARMLEY, BRISTOL
+		STATE:			X0
+		ZIP:			BS30 8XP
+		BUSINESS PHONE:		44 117 9753200
+
+	MAIL ADDRESS:	
+		STREET 1:		83 TOWER ROAD NORTH
+		CITY:			WARMLEY, BRISTOL
+		STATE:			X0
+		ZIP:			BS30 8XP
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARCTIC JERSEY Ltd
+		DATE OF NAME CHANGE:	20180801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-09172026_080924.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001748790</issuerCik>
+        <issuerName>Amcor plc</issuerName>
+        <issuerTradingSymbol>AMCR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002012362</rptOwnerCik>
+            <rptOwnerName>Yost Ryan D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>83 TOWER ROAD NORTH</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WARMLEY, BRISTOL</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>X0</rptOwnerCountry>
+            <rptOwnerZipCode>BS30 8XP</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>42.46</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>41152</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2029-09-15</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>41152</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41152</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7065</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2027-09-15</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-09-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7065</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7065</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one ordinary share of Amcor upon vesting of the restricted stock units.</footnote>
+        <footnote id="F2">The restricted stock units vest ratably on each of the first three anniversaries of the grant date.</footnote>
+    </footnotes>
+
+    <remarks>Division President, Global Flexible Packaging Solutions</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Damien Clayton, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0000929638-26-003553.txt : 20260916
+<SEC-HEADER>0000929638-26-003553.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916160541
+ACCESSION NUMBER:		0000929638-26-003553
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GEORGE WALTER N.
+		CENTRAL INDEX KEY:			0001241671
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36729
+		FILM NUMBER:		261383789
+
+	MAIL ADDRESS:	
+		STREET 1:		4100 N. MULBERRY DRIVE, SUITE 200
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64116
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	GEORGE WALTER N
+		DATE OF NAME CHANGE:	20030613
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Freshpet, Inc.
+		CENTRAL INDEX KEY:			0001611647
+		STANDARD INDUSTRIAL CLASSIFICATION:	GRAIN MILL PRODUCTS [2040]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				201884894
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1450 US-206
+		CITY:			BEDMINSTER
+		STATE:			NJ
+		ZIP:			07921
+		BUSINESS PHONE:		201-520-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1450 US-206
+		CITY:			BEDMINSTER
+		STATE:			NJ
+		ZIP:			07921
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001611647</issuerCik>
+        <issuerName>Freshpet, Inc.</issuerName>
+        <issuerTradingSymbol>FRPT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001241671</rptOwnerCik>
+            <rptOwnerName>GEORGE WALTER N.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FRESHPET, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1450 US-206</rptOwnerStreet2>
+            <rptOwnerCity>BEDMINSTER</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07921</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>64.92</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>51746</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $64.76 to $65.06. The reporting person undertakes to provide to Freshpet, Inc., any security holders of Freshpet, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each price within the range set in this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lisa A. Alexander, as Attorney-in-Fact for the Reporting Person</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

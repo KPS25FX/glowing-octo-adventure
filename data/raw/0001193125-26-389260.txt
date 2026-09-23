@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001193125-26-389260.txt : 20260911
+<SEC-HEADER>0001193125-26-389260.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911160505
+ACCESSION NUMBER:		0001193125-26-389260
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Spath John B.
+		CENTRAL INDEX KEY:			0001999009
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38497
+		FILM NUMBER:		261374367
+
+	MAIL ADDRESS:	
+		STREET 1:		333 CLAY STREET
+		STREET 2:		SUITE 3300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TALOS ENERGY INC.
+		CENTRAL INDEX KEY:			0001724965
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				823532642
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 CLAY STREET
+		STREET 2:		SUITE 3300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		713-328-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		333 CLAY STREET
+		STREET 2:		SUITE 3300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAILFISH ENERGY HOLDINGS Corp
+		DATE OF NAME CHANGE:	20171211
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001724965</issuerCik>
+        <issuerName>TALOS ENERGY INC.</issuerName>
+        <issuerTradingSymbol>TALO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001999009</rptOwnerCik>
+            <rptOwnerName>Spath John B.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>333 CLAY STREET, SUITE 3300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77002</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5552</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.51</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>173236</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of common stock, par value $0.01 per share, of Talos Energy Inc., withheld to satisfy tax withholding obligations upon the vesting of previously granted restricted stock units under the Second Amended and Restated Talos Energy Inc. 2021 Long Term Incentive Plan.</footnote>
+    </footnotes>
+
+    <remarks>Executive Vice President and Head of Operations</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ William S. Moss III, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

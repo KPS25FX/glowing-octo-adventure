@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001225208-26-007497.txt : 20260901
+<SEC-HEADER>0001225208-26-007497.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901175313
+ACCESSION NUMBER:		0001225208-26-007497
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Angoco Vic S Jr
+		CENTRAL INDEX KEY:			0001552871
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34187
+		FILM NUMBER:		261352002
+
+	MAIL ADDRESS:	
+		STREET 1:		1411 SAND ISLAND PARKWAY
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96819
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Matson, Inc.
+		CENTRAL INDEX KEY:			0000003453
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER TRANSPORTATION [4400]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				990032630
+		STATE OF INCORPORATION:			HI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1411 SAND ISLAND PARKWAY
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96819
+		BUSINESS PHONE:		808-848-1211
+
+	MAIL ADDRESS:	
+		STREET 1:		1411 SAND ISLAND PARKWAY
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96819
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALEXANDER & BALDWIN INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000003453</issuerCik>
+        <issuerName>Matson, Inc.</issuerName>
+        <issuerTradingSymbol>MATX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001552871</rptOwnerCik>
+            <rptOwnerName>Angoco Vic S Jr</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1411 SAND ISLAND PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HONOLULU</rptOwnerCity>
+            <rptOwnerState>HI</rptOwnerState>
+            <rptOwnerZipCode>96819</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>80.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>224.3100</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12427.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents common stock withheld by the Issuer to cover tax withholding obligations arising from the vesting of a previous grant of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Vicente S. Angoco</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

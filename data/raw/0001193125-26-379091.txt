@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-379091.txt : 20260901
+<SEC-HEADER>0001193125-26-379091.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901212155
+ACCESSION NUMBER:		0001193125-26-379091
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Anderman David
+		CENTRAL INDEX KEY:			0002049598
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41759
+		FILM NUMBER:		261352492
+
+	MAIL ADDRESS:	
+		STREET 1:		5080 SPECTRUM DRIVE
+		STREET 2:		STE 250W
+		CITY:			ADDISON
+		STATE:			TX
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SURF AIR MOBILITY INC.
+		CENTRAL INDEX KEY:			0001936224
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, NONSCHEDULED [4522]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5080 SPECTRUM DRIVE
+		STREET 2:		STE 250W
+		CITY:			ADDISON
+		STATE:			TX
+		ZIP:			75001
+		BUSINESS PHONE:		310-365-3675
+
+	MAIL ADDRESS:	
+		STREET 1:		5080 SPECTRUM DRIVE
+		STREET 2:		STE 250W
+		CITY:			ADDISON
+		STATE:			TX
+		ZIP:			75001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001936224</issuerCik>
+        <issuerName>SURF AIR MOBILITY INC.</issuerName>
+        <issuerTradingSymbol>SRFM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002049598</rptOwnerCik>
+            <rptOwnerName>Anderman David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5080 SPECTRUM DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>STE 250W</rptOwnerStreet2>
+            <rptOwnerCity>ADDISON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>165829</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>189054</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents RSUs. Each RSU represents a contingent right to receive, upon vesting of the RSU, one share of the Issuer's common stock. The RSUs will vest in full on February 13, 2029, subject to the Reporting Person's continued service to the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Douglas Sugimoto (Attorney-in-Fact)</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

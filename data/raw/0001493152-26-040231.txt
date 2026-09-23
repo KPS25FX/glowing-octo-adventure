@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001493152-26-040231.txt : 20260826
+<SEC-HEADER>0001493152-26-040231.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826160511
+ACCESSION NUMBER:		0001493152-26-040231
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260603
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Walker James John
+		CENTRAL INDEX KEY:			0002021757
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42044
+		FILM NUMBER:		261322674
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NANO NUCLEAR ENERGY INC.
+		STREET 2:		10 TIMES SQUARE, 30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nano Nuclear Energy Inc.
+		CENTRAL INDEX KEY:			0001923891
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10 TIMES SQUARE
+		STREET 2:		30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+		BUSINESS PHONE:		6046875792
+
+	MAIL ADDRESS:	
+		STREET 1:		10 TIMES SQUARE
+		STREET 2:		30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4/A
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-06-03</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-06-05</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001923891</issuerCik>
+        <issuerName>Nano Nuclear Energy Inc.</issuerName>
+        <issuerTradingSymbol>NNE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002021757</rptOwnerCik>
+            <rptOwnerName>Walker James John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>10 TIMES SQUARE,</rptOwnerStreet1>
+            <rptOwnerStreet2>30TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10018</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>780000</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-06-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>200000</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300000</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of common stock issued upon exercise of certain options originally granted to the reporting person at the exercise price of $3.00 per share, which were fully vested and exercisable on June 7, 2023, with expiry on June 7, 2026. On June 3, 2026, such options were exercised.</footnote>
+        <footnote id="F2">This number does not reflect subsequent sales of the 123,688 shares of common stock reported in the Form 4 originally filed on June 5, 2026.</footnote>
+        <footnote id="F3">Represents options granted on March 13, 2025 (&quot;Grant Date&quot;) under the Issuer's 2023 Stock Option Plan #2 to purchase an aggregate of 300,000 shares of common stock, par value $0.0001 per share of the Issuer. The options shall vest and become exercisable on the Grant Date immediately. The options are valid for 10 years from the Grant Date and will expire on March 13, 2035.</footnote>
+        <footnote id="F4">This Form 4/A is being filed solely to amend the Form 4 originally filed by the reporting person on June 5, 2026 to reflect (i) the 200,000 shares of common stock acquired by such reporting person upon exercise of 200,000 options and 780,000 shares of common stock beneficially owned following such option exercise under Columns 3, 4, and 5 of Table I; and (ii) the 200,000 options exercised by such reporting person and the 300,000 options owned following such option exercise under Columns 5,7 and 9 of Table II. As of the date of this report, the reporting person holds 685,000 shares of common stock, and 300,000 options, of the Issuer, respectively.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James John Walker</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

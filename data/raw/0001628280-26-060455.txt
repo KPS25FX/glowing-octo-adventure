@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001628280-26-060455.txt : 20260903
+<SEC-HEADER>0001628280-26-060455.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903161439
+ACCESSION NUMBER:		0001628280-26-060455
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCOTT RAYMOND E
+		CENTRAL INDEX KEY:			0001193791
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12297
+		FILM NUMBER:		261358520
+
+	MAIL ADDRESS:	
+		STREET 1:		21557 TELEGRAPH ROAD
+		CITY:			SOUTHFIELD
+		STATE:			MI
+		ZIP:			48033
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PENSKE AUTOMOTIVE GROUP, INC.
+		CENTRAL INDEX KEY:			0001019849
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-AUTO DEALERS & GASOLINE STATIONS [5500]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				223086739
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2555 TELEGRAPH RD
+		CITY:			BLOOMFIELD HILLS
+		STATE:			MI
+		ZIP:			48302-0954
+		BUSINESS PHONE:		248-648-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		2555 TELEGRAPH RD
+		CITY:			BLOOMFIELD HILLS
+		STATE:			MI
+		ZIP:			48302-0954
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED AUTO GROUP INC
+		DATE OF NAME CHANGE:	19960726
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1788466476.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001019849</issuerCik>
+        <issuerName>PENSKE AUTOMOTIVE GROUP, INC.</issuerName>
+        <issuerTradingSymbol>PAG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001193791</rptOwnerCik>
+            <rptOwnerName>SCOTT RAYMOND E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2555 TELEGRAPH RD.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BLOOMFIELD HILLS</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48302</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Stock Units (Phantom Stock)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1524</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">One for one.</footnote>
+        <footnote id="F2">These units are exercisable beginning on the reporting person's separation from service to the Company's Board of Directors.</footnote>
+        <footnote id="F3">Not applicable.</footnote>
+        <footnote id="F4">Price is not relevant to this transaction.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Shane M. Spradlin, by power of attorney</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

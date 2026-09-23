@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001193125-26-369150.txt : 20260826
+<SEC-HEADER>0001193125-26-369150.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826195131
+ACCESSION NUMBER:		0001193125-26-369150
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ogawa Shoji
+		CENTRAL INDEX KEY:			0002120477
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15270
+		FILM NUMBER:		261324628
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		13-1, NIHONBASHI 1-CHOME, CHUO-KU
+		CITY:			TOKYO
+		PROVINCE COUNTRY:   	M0
+		ZIP:			103-8645
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NOMURA HOLDINGS INC
+		CENTRAL INDEX KEY:			0001163653
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			M0
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1-13-1 NIHONBASHI
+		STREET 2:		CHUO-KU
+		CITY:			TOKYO
+		PROVINCE COUNTRY:   	M0
+		ZIP:			103-8645
+		BUSINESS PHONE:		81-3-5255-1000
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1-13-1 NIHONBASHI
+		STREET 2:		CHUO-KU
+		CITY:			TOKYO
+		PROVINCE COUNTRY:   	M0
+		ZIP:			103-8645
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001163653</issuerCik>
+        <issuerName>NOMURA HOLDINGS INC</issuerName>
+        <issuerTradingSymbol>NMR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>TSE: 8604</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002120477</rptOwnerCik>
+            <rptOwnerName>Ogawa Shoji</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>13-1, NIHONBASHI 1-CHOME, CHUO-KU</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TOKYO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>JAPAN</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>M0</rptOwnerCountry>
+            <rptOwnerZipCode>103-8645</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>196.31</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.87</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>619.060</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held in officers' stock ownership plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>58840</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported price has been converted into U.S. dollars from Japanese yen using the JPY159.23 = US$1 as spot exchange rate on the Transaction Date, as reported by MUFG Bank, Ltd on August 25, 2026.</footnote>
+        <footnote id="F2">Changes in amount of securities beneficially owned also reflect transfers of 700 shares from officer's stock ownership plan account to a brokerage account in the reporting person's name on June 25, 2026, since the reporting person's filing on Form 4 on May 25, 2026; no change in the total amount of securities beneficially owned as a result of such transfers.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Takashi Futaki, as Attorney-in-fact</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

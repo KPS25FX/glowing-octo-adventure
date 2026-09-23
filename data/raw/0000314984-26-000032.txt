@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000314984-26-000032.txt : 20260826
+<SEC-HEADER>0000314984-26-000032.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826145133
+ACCESSION NUMBER:		0000314984-26-000032
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			THRIVENT FINANCIAL FOR LUTHERANS
+		CENTRAL INDEX KEY:			0000314984
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-21080
+		FILM NUMBER:		261321418
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 MARQUETTE AVENUE
+		STREET 2:		SUITE 2500
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402-3211
+		BUSINESS PHONE:		6123407215
+
+	MAIL ADDRESS:	
+		STREET 1:		901 MARQUETTE AVENUE
+		STREET 2:		SUITE 2500
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402-3211
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	AID ASSOCIATION FOR LUTHERANS
+		DATE OF NAME CHANGE:	19940803
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND
+		CENTRAL INDEX KEY:			0001171471
+		ORGANIZATION NAME:           	
+		EIN:				030426532
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2020 CALAMOS COURT
+		STREET 2:		C/O CALAMOS ADVISORS LLC
+		CITY:			NAPERVILLE
+		STATE:			IL
+		ZIP:			60563
+		BUSINESS PHONE:		6302451046
+
+	MAIL ADDRESS:	
+		STREET 1:		2020 CALAMOS COURT
+		STREET 2:		C/O CALAMOS ADVISORS LLC
+		CITY:			NAPERVILLE
+		STATE:			IL
+		ZIP:			60563
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-24</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001171471</issuerCik>
+        <issuerName>CALAMOS CONVERTIBLE OPPORTUNITIES &amp; INCOME FUND</issuerName>
+        <issuerTradingSymbol>CHI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000314984</rptOwnerCik>
+            <rptOwnerName>THRIVENT FINANCIAL FOR LUTHERANS</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>901 MARQUETTE AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 2500</rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55402-3211</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>0%</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Mandatory Redeemable Preferred Shares, Serie D</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Series D Mandatory Redeemable Preferred Shares were redeemed by the issuer at a price equal to the principal amount of $25.00 per share.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David S. Royal</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

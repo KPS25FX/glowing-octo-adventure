@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001193125-26-376945.txt : 20260831
+<SEC-HEADER>0001193125-26-376945.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831164902
+ACCESSION NUMBER:		0001193125-26-376945
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackford Quentin S.
+		CENTRAL INDEX KEY:			0001612451
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-32259
+		FILM NUMBER:		261347263
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O IRHYTHM TECHNOLOGIES, INC.
+		STREET 2:		699 8TH STREET, STE 600
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALIGN TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0001097149
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				943267295
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 NORTH SCOTTSDALE ROAD, SUITE 1300
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85288
+		BUSINESS PHONE:		408-470-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 NORTH SCOTTSDALE ROAD, SUITE 1300
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85288
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001097149</issuerCik>
+        <issuerName>ALIGN TECHNOLOGY INC</issuerName>
+        <issuerTradingSymbol>ALGN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001612451</rptOwnerCik>
+            <rptOwnerName>Blackford Quentin S.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ALIGN TECHNOLOGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>410 N. SCOTTSDALE ROAD., SUITE 1300</rptOwnerStreet2>
+            <rptOwnerCity>TEMPE</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>852688</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1376</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1376</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1376</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">100% of the RSUs granted on August 27, 2026 will become vested on the date of the next annual meeting of stockholders. Shares will be delivered to the Reporting Person on such vesting date assuming the continued service of the Reporting Person on such vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul Katawicz, Attorney-in-Fact for Quentin S. Blackford</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,194 @@
+<SEC-DOCUMENT>0001193125-26-384028.txt : 20260904
+<SEC-HEADER>0001193125-26-384028.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904210005
+ACCESSION NUMBER:		0001193125-26-384028
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Engert Oliver
+		CENTRAL INDEX KEY:			0002105870
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34045
+		FILM NUMBER:		261363171
+
+	MAIL ADDRESS:	
+		STREET 1:		2900 LAKE VISTA DRIVE, SUITE 200
+		CITY:			LEWISVILLE
+		STATE:			TX
+		ZIP:			75067
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Enovis CORP
+		CENTRAL INDEX KEY:			0001420800
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				541887631
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2900 LAKE VISTA DRIVE
+		STREET 2:		SUITE 200
+		CITY:			LEWISVILLE
+		STATE:			TX
+		ZIP:			75067
+		BUSINESS PHONE:		(302) 252-9160
+
+	MAIL ADDRESS:	
+		STREET 1:		2900 LAKE VISTA DRIVE
+		STREET 2:		SUITE 200
+		CITY:			LEWISVILLE
+		STATE:			TX
+		ZIP:			75067
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Colfax CORP
+		DATE OF NAME CHANGE:	20071210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001420800</issuerCik>
+        <issuerName>Enovis CORP</issuerName>
+        <issuerTradingSymbol>ENOV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002105870</rptOwnerCik>
+            <rptOwnerName>Engert Oliver</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ENOVIS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>2900 LAKE VISTA DRIVE, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>LEWISVILLE</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75067</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Administrative Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common stock, par value $0.001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2458</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>20.32</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>56098</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common stock, par value $0.001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5140</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.46</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>61238</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price.  These shares were acquired in multiple transactions at prices ranging from $20.145 to $20.50, inclusive.  The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the ranges set forth in footnotes (1) and (2) to this Form 4.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were acquired in multiple transactions at prices ranging from $19.33 to $19.75, inclusive.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brian P. Hanigan, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

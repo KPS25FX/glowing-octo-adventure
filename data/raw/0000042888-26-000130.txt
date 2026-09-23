@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0000042888-26-000130.txt : 20260914
+<SEC-HEADER>0000042888-26-000130.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914180632
+ACCESSION NUMBER:		0000042888-26-000130
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hedlund Steven B
+		CENTRAL INDEX KEY:			0001529684
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09249
+		FILM NUMBER:		261378602
+
+	MAIL ADDRESS:	
+		STREET 1:		22801 ST. CLAIR AVENUE
+		STREET 2:		22801 ST. CLAIR AVE.
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44117
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GRACO INC
+		CENTRAL INDEX KEY:			0000042888
+		STANDARD INDUSTRIAL CLASSIFICATION:	PUMPS & PUMPING EQUIPMENT [3561]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				410285640
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		88 11TH AVENUE NE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55413-1894
+		BUSINESS PHONE:		6126236000
+
+	MAIL ADDRESS:	
+		STREET 1:		CT CORPORATION SYSTEM, INC.
+		STREET 2:		100 SOUTH FIFTH STREET, SUITE 1075
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000042888</issuerCik>
+        <issuerName>GRACO INC</issuerName>
+        <issuerTradingSymbol>GGG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001529684</rptOwnerCik>
+            <rptOwnerName>Hedlund Steven B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>88 11TH AVENUE NE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55413</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-qualified Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>76.41</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2710</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2710</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2710</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Nonemployee director stock option granted pursuant to the Graco Inc. Amended and Restated 2019 Stock Incentive Plan in a transaction exempt under Rule 16b-3. The stock option becomes exercisable in four equal annual installments, commencing one year after the date of the grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Justina A. Roberts, attorney-in-fact for Mr. Hedlund</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

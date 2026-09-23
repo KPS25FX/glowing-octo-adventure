@@ -1,0 +1,203 @@
+<SEC-DOCUMENT>0001140361-26-035560.txt : 20260903
+<SEC-HEADER>0001140361-26-035560.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903144038
+ACCESSION NUMBER:		0001140361-26-035560
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McCormick Lauren Ann
+		CENTRAL INDEX KEY:			0002102221
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10592
+		FILM NUMBER:		261357956
+
+	MAIL ADDRESS:	
+		STREET 1:		5 SARNOWSKI DRIVE
+		CITY:			GLENVILLE
+		STATE:			NY
+		ZIP:			12118
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUSTCO BANK CORP N Y
+		CENTRAL INDEX KEY:			0000357301
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				141630287
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6 METRO PARK ROAD
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+		BUSINESS PHONE:		5183773311
+
+	MAIL ADDRESS:	
+		STREET 1:		6 METRO PARK ROAD
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000357301</issuerCik>
+        <issuerName>TRUSTCO BANK CORP N Y</issuerName>
+        <issuerTradingSymbol>TRST</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002102221</rptOwnerCik>
+            <rptOwnerName>McCormick Lauren Ann</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TRUSTCO BANK CORP NY</rptOwnerStreet1>
+            <rptOwnerStreet2>5 SARNOWSKI DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>GLENVILLE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>12302</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>VP,Treasurer, Asst. Corp. Sec.</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>436</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>57.34</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>539</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>AS UGMA CUSTODIAN FOR CHILD</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>533</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>42923</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>BY SPOUSE</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1756</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>AS TRUSTEE FOR CHILD</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Acquisition for child by custodial account established pursuant to the Uniform Gifts to Minors Act. The reporting person disclaims beneficial ownership of these shares to the extent that she does not have a pecuniary interest therein, and this report should not be deemed an admission that the reporting person is the beneficial owner of these shares for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/S/MICHAEL M. OZIMEK, BY POWER OF ATTORNEY</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

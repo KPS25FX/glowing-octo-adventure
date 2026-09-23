@@ -1,0 +1,316 @@
+<SEC-DOCUMENT>0001213900-26-095754.txt : 20260831
+<SEC-HEADER>0001213900-26-095754.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831163004
+ACCESSION NUMBER:		0001213900-26-095754
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Atkins Randall Whittaker
+		CENTRAL INDEX KEY:			0001693822
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38003
+		FILM NUMBER:		261346959
+
+	MAIL ADDRESS:	
+		STREET 1:		250 WEST MAIN STREET
+		STREET 2:		SUITE 210
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ramaco Resources, Inc.
+		CENTRAL INDEX KEY:			0001687187
+		STANDARD INDUSTRIAL CLASSIFICATION:	BITUMINOUS COAL & LIGNITE MINING [1220]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 WEST MAIN STREET
+		STREET 2:		SUITE 1800
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+		BUSINESS PHONE:		(859) 244-7455
+
+	MAIL ADDRESS:	
+		STREET 1:		250 WEST MAIN STREET
+		STREET 2:		SUITE 1800
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-73907.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001687187</issuerCik>
+        <issuerName>Ramaco Resources, Inc.</issuerName>
+        <issuerTradingSymbol>METC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001693822</rptOwnerCik>
+            <rptOwnerName>Atkins Randall Whittaker</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>250 W. MAIN STREET, SUITE 1900</rptOwnerStreet1>
+            <rptOwnerStreet2>C/O: RAMACO RESOURCES, INC.</rptOwnerStreet2>
+            <rptOwnerCity>LEXINGTON</rptOwnerCity>
+            <rptOwnerState>KY</rptOwnerState>
+            <rptOwnerZipCode>40507</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CHIEF EXECUTIVE OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>483897</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>235042</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Laura Atkins Powell Revocable Trust, dated July 28, 2026</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Orin Barton Atkins Revocable Trust, dated July 28, 2026</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Drew Whittaker Atkins Revocable Trust, dated July 28, 2026</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F5"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Brooke Fodor Cpin Revocable Trust, dated July 28, 2026</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F6"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Simone Ambrose Atkins Revocable Trust, dated July 28, 2026</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2178702</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Trustee for the Randall Whittaker Atkins Revocable Trust U/A DTD</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>544188</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Trustee for the Randall Whittaker Atkins Revocable Trust U/A DTD</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On August 27, 2026, the reporting person transferred a total of 500,000 shares to five trusts.  The reporting person is trustee of each trust and remains the beneficial owner of the securities held by each trust.  See Footnotes 2, 3, 4, 5, and 6 for more information.</footnote>
+        <footnote id="F2">On August 27, 2026, the reporting person transferred 100,000 shares of Class A common stock to the Laura Atkins Powell Revocable Trust, dated July 28, 2026, for no consideration. The reporting person is trustee of the trust and remains the beneficial owner of the securities held by the trust.</footnote>
+        <footnote id="F3">On August 27, 2026, the reporting person transferred 100,000 shares of Class A common stock to the Orin Barton Atkins Revocable Trust, dated July 28, 2026, for no consideration. The reporting person is trustee of the trust and remains the beneficial owner of the securities held by the trust.</footnote>
+        <footnote id="F4">On August 27, 2026, the reporting person transferred 100,000 shares of Class A common stock to the Drew Whittaker Atkins Revocable Trust, dated July 28, 2026, for no consideration. The reporting person is trustee of the trust and remains the beneficial owner of the securities held by the trust.</footnote>
+        <footnote id="F5">On August 27, 2026, the reporting person transferred 100,000 shares of Class A common stock to the Brooke Fodor Cpin Revocable Trust, dated July 28, 2026, for no consideration. The reporting person is trustee of the trust and remains the beneficial owner of the securities held by the trust.</footnote>
+        <footnote id="F6">On August 27, 2026, the reporting person transferred 100,000 shares of Class A common stock to the Simone Ambrose Atkins Revocable Trust, dated July 28, 2026, for no consideration. The reporting person is trustee of the trust and remains the beneficial owner of the securities held by the trust.</footnote>
+        <footnote id="F7">The reporting person is trustee of the trust and remains the beneficial owner of the securities held by the trust.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan T Adkins, Attorney in Fact</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

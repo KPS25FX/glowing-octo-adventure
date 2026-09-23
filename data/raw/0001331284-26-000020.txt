@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001331284-26-000020.txt : 20260917
+<SEC-HEADER>0001331284-26-000020.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917073317
+ACCESSION NUMBER:		0001331284-26-000020
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lind Erik
+		CENTRAL INDEX KEY:			0001331218
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32640
+		FILM NUMBER:		261385214
+
+	MAIL ADDRESS:	
+		STREET 1:		LILLEVANNSVEIEN 71D
+		CITY:			OSLO
+		STATE:			Q8
+		ZIP:			0788
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DHT Holdings, Inc.
+		CENTRAL INDEX KEY:			0001331284
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			1T
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		RICHMOND HOUSE
+		STREET 2:		12 PAR-LA-VILLE ROAD
+		CITY:			HAMILTON
+		PROVINCE COUNTRY:   	D0
+		ZIP:			HM 08
+		BUSINESS PHONE:		1 441 295 1422
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		RICHMOND HOUSE
+		STREET 2:		12 PAR-LA-VILLE ROAD
+		CITY:			HAMILTON
+		PROVINCE COUNTRY:   	D0
+		ZIP:			HM 08
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DHT Maritime, Inc.
+		DATE OF NAME CHANGE:	20080627
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Double Hull Tankers, Inc.
+		DATE OF NAME CHANGE:	20050624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001331284</issuerCik>
+        <issuerName>DHT Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>DHT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001331218</rptOwnerCik>
+            <rptOwnerName>Lind Erik</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>RICHMOND HOUSE</rptOwnerStreet1>
+            <rptOwnerStreet2>12 PAR-LA-VILLE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>HAMILTON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D0</rptOwnerCountry>
+            <rptOwnerZipCode>HM08</rptOwnerZipCode>
+            <rptOwnerStateDescription>BERMUDA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>22.46</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>132294</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was executed in multiple trades at prices ranging from $22.14 to $22.63 per share; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, DHT Holdings, Inc., or a security holder of DHT.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Charles Thornally, as attorney-in-fact for Erik Lind</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

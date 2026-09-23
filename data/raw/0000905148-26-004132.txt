@@ -1,0 +1,243 @@
+<SEC-DOCUMENT>0000905148-26-004132.txt : 20260910
+<SEC-HEADER>0000905148-26-004132.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910160849
+ACCESSION NUMBER:		0000905148-26-004132
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DUCHENE TODD M
+		CENTRAL INDEX KEY:			0001248745
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40046
+		FILM NUMBER:		261371160
+
+	MAIL ADDRESS:	
+		STREET 1:		847 GIBRALTAR DR.
+		CITY:			MILPITAS
+		STATE:			CA
+		ZIP:			95035
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Core Scientific, Inc./tx
+		CENTRAL INDEX KEY:			0001839341
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		838 WALKER ROAD
+		STREET 2:		SUITE 21-2105
+		CITY:			DOVER
+		STATE:			DE
+		ZIP:			19904
+		BUSINESS PHONE:		(425) 998-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		838 WALKER ROAD
+		STREET 2:		SUITE 21-2105
+		CITY:			DOVER
+		STATE:			DE
+		ZIP:			19904
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Power & Digital Infrastructure Acquisition Corp.
+		DATE OF NAME CHANGE:	20210106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001839341</issuerCik>
+        <issuerName>Core Scientific, Inc./tx</issuerName>
+        <issuerTradingSymbol>CORZ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001248745</rptOwnerCik>
+            <rptOwnerName>DUCHENE TODD M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CORE SCIENTIFIC, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>838 WALKER ROAD, SUITE 21-2105</rptOwnerStreet2>
+            <rptOwnerCity>DOVER</rptOwnerCity>
+            <rptOwnerState>DE</rptOwnerState>
+            <rptOwnerZipCode>19904</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.6735</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1217896</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>700000</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By GRAT</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Tranche 1 Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>6.81</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>95000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-01-23</value>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-01-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>95000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>422133</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transactions reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on December 5, 2025.</footnote>
+        <footnote id="F2">The price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $18.18 to $19.02, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within such range.</footnote>
+        <footnote id="F3">Reflects the transfer of 700,000 shares that the Reporting Person held directly to a grantor retained annuity trust of which the Reporting Person is the sole trustee on September 10, 2026, which transfer was exempt from Section 16 pursuant to Rule 16a-13 under the Securities Exchange Act of 1934, as amended.</footnote>
+        <footnote id="F4">Represents shares held by a grantor retained annuity trust of which the Reporting Person is the sole trustee.</footnote>
+        <footnote id="F5">Reflects a charitable donation.</footnote>
+        <footnote id="F6">Each whole Tranche 1 Warrant entitles the registered holder to purchase one whole share of the Issuer's common stock at an exercise price of $6.81 per share, subject to certain adjustments.</footnote>
+    </footnotes>
+
+    <remarks>Chief Legal and Administrative Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Todd DuChene</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

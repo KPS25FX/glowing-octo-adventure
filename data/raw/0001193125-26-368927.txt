@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-368927.txt : 20260826
+<SEC-HEADER>0001193125-26-368927.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826171705
+ACCESSION NUMBER:		0001193125-26-368927
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Varanakis Ann
+		CENTRAL INDEX KEY:			0001965703
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40478
+		FILM NUMBER:		261324001
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 N. SCOTTSDALE ROAD
+		STREET 2:		SUITE 6000
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85251
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LifeStance Health Group, Inc.
+		CENTRAL INDEX KEY:			0001845257
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HEALTH SERVICES [8000]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 N. SCOTTSDALE ROAD
+		STREET 2:		SUITE 2500
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85251
+		BUSINESS PHONE:		602-767-2100
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 N. SCOTTSDALE ROAD
+		STREET 2:		SUITE 2500
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85251
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001845257</issuerCik>
+        <issuerName>LifeStance Health Group, Inc.</issuerName>
+        <issuerTradingSymbol>LFST</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001965703</rptOwnerCik>
+            <rptOwnerName>Varanakis Ann</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O LIFESTANCE HEALTH GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4800 N. SCOTTSDALE ROAD, SUITE 2500</rptOwnerStreet2>
+            <rptOwnerCity>SCOTTSDALE</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85251</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief People Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8156</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.16</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>413881</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares withheld by the Issuer to satisfy tax withholding obligations in connection with the net settlement of restricted stock units (&quot;RSUs&quot;) that vested on August 24, 2026. The shares withheld represent a reduction of shares issued to the Reporting Person upon settlement of vested RSUs and do not constitute any open-market sale.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Ryan Pardo, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

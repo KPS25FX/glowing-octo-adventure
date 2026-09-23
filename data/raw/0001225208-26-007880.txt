@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001225208-26-007880.txt : 20260918
+<SEC-HEADER>0001225208-26-007880.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918132245
+ACCESSION NUMBER:		0001225208-26-007880
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Park Grace H
+		CENTRAL INDEX KEY:			0002038659
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09120
+		FILM NUMBER:		261390202
+
+	MAIL ADDRESS:	
+		STREET 1:		80 PARK PLAZA
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUBLIC SERVICE ENTERPRISE GROUP INC
+		CENTRAL INDEX KEY:			0000788784
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				222625848
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CORPORATE ACCOUNTING SERVICES
+		STREET 2:		80 PARK PLAZA, 9TH FLOOR
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102-4194
+		BUSINESS PHONE:		973-430-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		CORPORATE ACCOUNTING SERVICES
+		STREET 2:		80 PARK PLAZA, 9TH FLOOR
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102-4194
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000788784</issuerCik>
+        <issuerName>PUBLIC SERVICE ENTERPRISE GROUP INC</issuerName>
+        <issuerTradingSymbol>PEG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002038659</rptOwnerCik>
+            <rptOwnerName>Park Grace H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>80 PARK PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEWARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP and General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>136.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>70.5400</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16044.1540</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Amount includes accumulated dividend reinvestments that are exempt from Section 16.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Isabel Ryan, as Attorney-in-Fact for Grace H Park</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001193125-26-385183.txt : 20260908
+<SEC-HEADER>0001193125-26-385183.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908160103
+ACCESSION NUMBER:		0001193125-26-385183
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chow Thomas C.
+		CENTRAL INDEX KEY:			0001834012
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42509
+		FILM NUMBER:		261365000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PUBMATIC, INC.
+		STREET 2:		3 LAGOON DRIVE, SUITE 180
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Strategy Inc
+		CENTRAL INDEX KEY:			0001050446
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				510323571
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		703-848-8600
+
+	MAIL ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICROSTRATEGY Inc
+		DATE OF NAME CHANGE:	20180821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICROSTRATEGY INC
+		DATE OF NAME CHANGE:	19971126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001050446</issuerCik>
+        <issuerName>Strategy Inc</issuerName>
+        <issuerTradingSymbol>MSTR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001834012</rptOwnerCik>
+            <rptOwnerName>Chow Thomas C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O STRATEGY INC</rptOwnerStreet1>
+            <rptOwnerStreet2>1850 TOWERS CRESCENT PLAZA</rptOwnerStreet2>
+            <rptOwnerCity>TYSONS CORNER</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22182</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP &amp; General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>106</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>138.750</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Series A Perpetual Stretch Preferred Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Series A Perpetual Strike Preferred Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects 106 shares of class A common stock of Strategy Inc (&quot;Strategy&quot;) acquired under the Strategy Employee Stock Purchase Plan on August 31, 2026 and, as reported herein, subsequently disposed on September 4, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Allein Sabel, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

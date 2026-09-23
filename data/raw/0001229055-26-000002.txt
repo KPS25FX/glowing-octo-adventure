@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001229055-26-000002.txt : 20260902
+<SEC-HEADER>0001229055-26-000002.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902175033
+ACCESSION NUMBER:		0001229055-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PIERCE FREDERICK II
+		CENTRAL INDEX KEY:			0001229055
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36812
+		FILM NUMBER:		261356155
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GLYCOGENESYS INC
+		STREET 2:		31ST JAMES AVE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Decoy Therapeutics Inc.
+		CENTRAL INDEX KEY:			0001615219
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				465087339
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2450 HOLCOMBE BLVD
+		STREET 2:		SUITE J-608
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77021
+		BUSINESS PHONE:		346-772-0346
+
+	MAIL ADDRESS:	
+		STREET 1:		2450 HOLCOMBE BLVD
+		STREET 2:		SUITE J-608
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77021
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Salarius Pharmaceuticals, Inc.
+		DATE OF NAME CHANGE:	20190723
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Flex Pharma, Inc.
+		DATE OF NAME CHANGE:	20140730
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001615219</issuerCik>
+        <issuerName>Decoy Therapeutics Inc.</issuerName>
+        <issuerTradingSymbol>DCOY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001229055</rptOwnerCik>
+            <rptOwnerName>PIERCE FREDERICK II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2450 HOLCOMBE BLVD STE X</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77021</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33455</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34844</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock granted under the Decoy Therapeutics Inc. 2026 Equity Incentive Plan. 25 percent of the restricted stock vested immediately, and the remainder will vest in approximately equal monthly increments over the next 36 months.</footnote>
+        <footnote id="F2">Shares beneficially owned following the transaction have been adjusted to reflect the reverse stock split effective on March 6, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Mark Rosenblum, as Attorney -in-Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

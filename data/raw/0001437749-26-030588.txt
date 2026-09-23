@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001437749-26-030588.txt : 20260916
+<SEC-HEADER>0001437749-26-030588.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916191636
+ACCESSION NUMBER:		0001437749-26-030588
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Royal Jeffrey C
+		CENTRAL INDEX KEY:			0001720104
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38113
+		FILM NUMBER:		261384872
+
+	MAIL ADDRESS:	
+		STREET 1:		5420 NICHOLAS STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68132
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOSTON OMAHA Corp
+		CENTRAL INDEX KEY:			0001494582
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE OPERATORS (NO DEVELOPERS) & LESSORS [6510]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				270788438
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+		BUSINESS PHONE:		857-256-0079
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REO PLUS, INC.
+		DATE OF NAME CHANGE:	20100618
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001494582</issuerCik>
+        <issuerName>BOSTON OMAHA Corp</issuerName>
+        <issuerTradingSymbol>BOC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001720104</rptOwnerCik>
+            <rptOwnerName>Royal Jeffrey C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BOSTON OMAHA CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>1601 DODGE STREET, SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5252</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.71</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>74896</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock, par value $0.001 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31046</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See
+Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person was granted 5,252 shares of Class A common stock pursuant to the Boston Omaha Corporation 2022 Long-Term Incentive Plan for services as a member of the Board of Directors.</footnote>
+        <footnote id="F2">The reported shares are directly owned by Dundee BanCo, Inc.  Mr. Royal is an officer of Dundee BanCo, Inc.  Mr. Royal disclaims beneficial ownership with respect to the shares held by Dundee BanCo, Inc.  except to the extent of his pecuniary interests therein, and this report shall not be deemed an admission of beneficial ownership of these securities for Section 16 or for any other purposes.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey C. Royal</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001475597-26-000233.txt : 20260908
+<SEC-HEADER>0001475597-26-000233.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908131125
+ACCESSION NUMBER:		0001475597-26-000233
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HRT FINANCIAL LP
+		CENTRAL INDEX KEY:			0001475597
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41774
+		FILM NUMBER:		261364377
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 WORLD TRADE CENTER, 175 GREENWICH STRE
+		STREET 2:		76TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+		BUSINESS PHONE:		212 293-1444
+
+	MAIL ADDRESS:	
+		STREET 1:		3 WORLD TRADE CENTER, 175 GREENWICH STRE
+		STREET 2:		76TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	HRT FINANCIAL LLC
+		DATE OF NAME CHANGE:	20091028
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GMEX Robotics Corp
+		CENTRAL INDEX KEY:			0001928581
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3949]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		UNIT 2 & 3, NO.1A KIRBY PL
+		CITY:			BANKSTOWN NSW 2200
+		PROVINCE COUNTRY:   	C3
+		BUSINESS PHONE:		61-1300 488 866
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		UNIT 2 & 3, NO.1A KIRBY PL
+		CITY:			BANKSTOWN NSW 2200
+		PROVINCE COUNTRY:   	C3
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fitell Corp
+		DATE OF NAME CHANGE:	20220512
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001928581</issuerCik>
+        <issuerName>GMEX Robotics Corp</issuerName>
+        <issuerTradingSymbol>GMEX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001475597</rptOwnerCik>
+            <rptOwnerName>HRT FINANCIAL LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3 WORLD TRADE CENTER, 175 GREENWICH STRE</rptOwnerStreet1>
+            <rptOwnerStreet2>76TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10007</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3839</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.791</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10497</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3189</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.772</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13686</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">We will provide, upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares purchased or sold at each separate price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Adam Nunes</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

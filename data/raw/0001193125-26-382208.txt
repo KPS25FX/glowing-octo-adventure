@@ -1,0 +1,247 @@
+<SEC-DOCUMENT>0001193125-26-382208.txt : 20260903
+<SEC-HEADER>0001193125-26-382208.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903182212
+ACCESSION NUMBER:		0001193125-26-382208
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BURNETT JOSEPH
+		CENTRAL INDEX KEY:			0001721010
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34822
+		FILM NUMBER:		261359595
+
+	MAIL ADDRESS:	
+		STREET 1:		120 S. SIERRA AVENUE
+		STREET 2:		SUITE 100
+		CITY:			SOLANA BEACH
+		STATE:			CA
+		ZIP:			92075
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BURNETT JOSEPH MICHAEL
+		DATE OF NAME CHANGE:	20171026
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ClearPoint Neuro, Inc.
+		CENTRAL INDEX KEY:			0001285550
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				582394628
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 S. SIERRA AVENUE
+		STREET 2:		SUITE 100
+		CITY:			SOLANA BEACH
+		STATE:			CA
+		ZIP:			92075
+		BUSINESS PHONE:		9499006833
+
+	MAIL ADDRESS:	
+		STREET 1:		120 S. SIERRA AVENUE
+		STREET 2:		SUITE 100
+		CITY:			SOLANA BEACH
+		STATE:			CA
+		ZIP:			92075
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MRI INTERVENTIONS, INC.
+		DATE OF NAME CHANGE:	20110714
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SURGIVISION INC
+		DATE OF NAME CHANGE:	20091106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SURGI VISION INC
+		DATE OF NAME CHANGE:	20040331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001285550</issuerCik>
+        <issuerName>ClearPoint Neuro, Inc.</issuerName>
+        <issuerTradingSymbol>CLPT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001721010</rptOwnerCik>
+            <rptOwnerName>BURNETT JOSEPH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CLEARPOINT NEURO, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>120 S. SIERRA AVE., SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>SOLANA BEACH</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92075</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CEO and President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12517</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.47</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>130720</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>191388</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.47</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12517</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-08-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12517</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>61887</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. Burnett paid the exercise price for the options in cash and has held all shares received upon exercise. No shares of stock were sold in connection with this transaction.</footnote>
+        <footnote id="F2">These shares are owned directly by the Joseph M. Burnett Trust dated 10/20/2022 and indirectly by Joseph M. Burnett as trustee of the trust.</footnote>
+        <footnote id="F3">The shares subject to this option vest as follows: (i) 20% of the total shares on the first anniversary of the grant date; (ii) 40% of the total shares on the second anniversary of the grant date; and (iii) 40% of the total shares on the third anniversary of the grant date. The grant date is August 15, 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Danilo D'Alessandro, by Power of Attorney for Joseph M. Burnett</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

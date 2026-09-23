@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001280263-26-000057.txt : 20260910
+<SEC-HEADER>0001280263-26-000057.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910164748
+ACCESSION NUMBER:		0001280263-26-000057
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PAISLEY CHRISTOPHER B
+		CENTRAL INDEX KEY:			0001189229
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35667
+		FILM NUMBER:		261371755
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O EQUINIX INC.
+		STREET 2:		ONE LAGOON DRIVE
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMBARELLA INC
+		CENTRAL INDEX KEY:			0001280263
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				980459628
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3001 TASMAN DRIVE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		408-734-8888
+
+	MAIL ADDRESS:	
+		STREET 1:		3001 TASMAN DRIVE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001280263</issuerCik>
+        <issuerName>AMBARELLA INC</issuerName>
+        <issuerTradingSymbol>AMBA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001189229</rptOwnerCik>
+            <rptOwnerName>PAISLEY CHRISTOPHER B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3001 TASMAN DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SANTA CLARA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95054</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3151</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>44180</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Effective as of September 8, 2026, the Board of Directors approved an annual restricted stock unit grant of 3,151 Ordinary Shares to each independent director. The RSU grant vests as to 1/4th of the Ordinary Shares each three months following the vesting start date of September 15, 2026, so as to be 100% vested on September 15, 2027, subject to continued service with the Company.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/Michael Morehead, Attorney-in-Fact, For: Christopher Paisley</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

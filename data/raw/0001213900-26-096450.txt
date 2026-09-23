@@ -1,0 +1,273 @@
+<SEC-DOCUMENT>0001213900-26-096450.txt : 20260902
+<SEC-HEADER>0001213900-26-096450.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902080135
+ACCESSION NUMBER:		0001213900-26-096450
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260528
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cheung Kong Yiu
+		CENTRAL INDEX KEY:			0002148231
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42004
+		FILM NUMBER:		261352675
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1403, INTERCONTINENTAL RESIDENCES
+		STREET 2:		MARASI DRIVE, BUSINESS BAY
+		CITY:			DUBAI
+		PROVINCE COUNTRY:   	C0
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NewGenIvf Group Ltd
+		CENTRAL INDEX KEY:			0001981662
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISC HEALTH & ALLIED SERVICES, NEC [8090]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			D8
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13/F, PS TOWER, SUKHUMVIT 21 RD (ASOKE)
+		CITY:			BANGKOK
+		STATE:			W1
+		ZIP:			0000
+		BUSINESS PHONE:		852-2861-1666
+
+	MAIL ADDRESS:	
+		STREET 1:		1/F, PIER 2, CENTRAL
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			999077
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASPAC I Mini Acquisition Corp.
+		DATE OF NAME CHANGE:	20230614
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-05-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001981662</issuerCik>
+        <issuerName>NewGenIvf Group Ltd</issuerName>
+        <issuerTradingSymbol>NIVF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002148231</rptOwnerCik>
+            <rptOwnerName>Cheung Kong Yiu</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1403, INTERCONTINENTAL RESIDENCES</rptOwnerStreet1>
+            <rptOwnerStreet2>MARASI DRIVE, BUSINESS BAY</rptOwnerStreet2>
+            <rptOwnerCity>DUBAI</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C0</rptOwnerCountry>
+            <rptOwnerZipCode>00000</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED ARAB EMIRATES</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>222223</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>222223</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.33</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>722223</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.33</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1222223</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3722223</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Class A ordinary shares reported herein reflect Class A ordinary shares issued directly to the Reporting Person (as the &quot;Seller&quot;) pursuant to the terms of certain share purchase agreements by and among the Issuer (as the &quot;Buyer&quot;) and the Reporting Person. The share amounts reported in tranches (i) through (iii) have been adjusted to reflect a 1-for-3 reverse stock split: (i) 222,223 Class A ordinary shares (adjusted from 666,667 pre-split shares) issued under the Share Purchase Agreement dated May 28, 2026; (ii) 500,000 Class A ordinary shares (adjusted from 1,500,000 pre-split shares) issued under the Share Purchase Agreement dated June 2, 2026; (iii) 500,000 Class A ordinary shares (adjusted from 1,500,000 pre-split shares) issued under the Share Purchase Agreement dated June 18, 2026; and (iv) 2,500,000 Class A ordinary shares issued under the Share Purchase Agreement dated July 27, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cheung Kong Yiu</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

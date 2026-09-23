@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0002130205-26-000002.txt : 20260908
+<SEC-HEADER>0002130205-26-000002.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908185233
+ACCESSION NUMBER:		0002130205-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stamler David Allen
+		CENTRAL INDEX KEY:			0002130205
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49843
+		FILM NUMBER:		261366205
+
+	MAIL ADDRESS:	
+		STREET 1:		39899 BALENTINE DRIVE
+		CITY:			NEWARK
+		STATE:			CA
+		ZIP:			94560
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALTERITY THERAPEUTICS LTD
+		CENTRAL INDEX KEY:			0001131343
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			C3
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		LEVEL 3, 460 BOURKE STREET
+		CITY:			MELBOURNE
+		PROVINCE COUNTRY:   	C3
+		BUSINESS PHONE:		61 3 9349 4906
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		LEVEL 3, 460 BOURKE STREET
+		CITY:			MELBOURNE
+		PROVINCE COUNTRY:   	C3
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRANA BIOTECHNOLOGY LTD
+		DATE OF NAME CHANGE:	20010105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001131343</issuerCik>
+        <issuerName>ALTERITY THERAPEUTICS LTD</issuerName>
+        <issuerTradingSymbol>ATHE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>ATH.ASX</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002130205</rptOwnerCik>
+            <rptOwnerName>Stamler David Allen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>39899 BALENTINE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEWARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94560</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Listed option exp 31 Aug 2026</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>47620</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.5</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-04-15</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-08-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>47620</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>David Allen Stamler</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

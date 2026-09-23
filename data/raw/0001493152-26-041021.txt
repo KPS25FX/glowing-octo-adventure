@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001493152-26-041021.txt : 20260901
+<SEC-HEADER>0001493152-26-041021.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901163011
+ACCESSION NUMBER:		0001493152-26-041021
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Belizaire John
+		CENTRAL INDEX KEY:			0001891684
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40261
+		FILM NUMBER:		261351240
+
+	MAIL ADDRESS:	
+		STREET 1:		325 WASHINGTON AVENUE EXTENSION
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Soluna Holdings, Inc
+		CENTRAL INDEX KEY:			0000064463
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				141462255
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 WASHINGTON AVENUE EXTENSION
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+		BUSINESS PHONE:		518-218-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		325 WASHINGTON AVENUE EXTENSION
+		CITY:			ALBANY
+		STATE:			NY
+		ZIP:			12205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MECHANICAL TECHNOLOGY INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000064463</issuerCik>
+        <issuerName>Soluna Holdings, Inc</issuerName>
+        <issuerTradingSymbol>SLNHP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001891684</rptOwnerCik>
+            <rptOwnerName>Belizaire John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SOLUNA HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>325 WASHINGTON AVENUE EXTENSION</rptOwnerStreet2>
+            <rptOwnerCity>ALBANY</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>12205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>9.0% Series A Cumulative Perpetual Preferred Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.91</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98042</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Transaction reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on December 16, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher Gandolfo, Attorney in Fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

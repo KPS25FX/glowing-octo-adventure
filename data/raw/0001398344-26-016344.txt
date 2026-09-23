@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001398344-26-016344.txt : 20260901
+<SEC-HEADER>0001398344-26-016344.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901161644
+ACCESSION NUMBER:		0001398344-26-016344
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SELL MORITZ A
+		CENTRAL INDEX KEY:			0001053116
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05128
+		FILM NUMBER:		261351091
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ULTIMUS FUND SOLUTIONS
+		STREET 2:		225 PICTORIA DR., SUITE 450
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45246
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Total Return Securities Fund
+		CENTRAL INDEX KEY:			0000813623
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ULTIMUS FUND SOLUTIONS
+		STREET 2:		225 PICTORIA DRIVE, SUITE 450
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45246
+		BUSINESS PHONE:		631-470-2704
+
+	MAIL ADDRESS:	
+		STREET 1:		ULTIMUS FUND SOLUTIONS
+		STREET 2:		225 PICTORIA DRIVE, SUITE 450
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45246
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SWISS HELVETIA FUND, INC.
+		DATE OF NAME CHANGE:	20050712
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SWISS HELVETIA FUND INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HELVETIA FUND INC
+		DATE OF NAME CHANGE:	19900820
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>fp0100739-1_4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000813623</issuerCik>
+        <issuerName>Total Return Securities Fund</issuerName>
+        <issuerTradingSymbol>SWZ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001053116</rptOwnerCik>
+            <rptOwnerName>SELL MORITZ A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ULTIMUS FUND SOLUTIONS</rptOwnerStreet1>
+            <rptOwnerStreet2>225 PICTORIA DR., SUITE 450</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45246</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.98</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28246</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Amount includes shares acquired through the Issuer's dividend reinvestment plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephanie Darling, as Power of Attorney</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

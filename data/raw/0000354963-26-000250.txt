@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0000354963-26-000250.txt : 20260903
+<SEC-HEADER>0000354963-26-000250.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903200302
+ACCESSION NUMBER:		0000354963-26-000250
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Beckett Thomas
+		CENTRAL INDEX KEY:			0001490436
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09881
+		FILM NUMBER:		261359882
+
+	MAIL ADDRESS:	
+		STREET 1:		111 W. CONGRESS STREET
+		CITY:			CHARLES TOWN
+		STATE:			WV
+		ZIP:			25414
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SHENANDOAH TELECOMMUNICATIONS CO/VA/
+		CENTRAL INDEX KEY:			0000354963
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				541162807
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 459
+		STREET 2:		500 SHENTEL WAY
+		CITY:			EDINBURG
+		STATE:			VA
+		ZIP:			22824
+		BUSINESS PHONE:		5409844141
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 459
+		STREET 2:		500 SHENTEL WAY
+		CITY:			EDINBURG
+		STATE:			VA
+		ZIP:			22824
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000354963</issuerCik>
+        <issuerName>SHENANDOAH TELECOMMUNICATIONS CO/VA/</issuerName>
+        <issuerTradingSymbol>SHEN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001490436</rptOwnerCik>
+            <rptOwnerName>Beckett Thomas</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>PO BOX 459</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EDINBURG</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22824</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>32.3363</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.37</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30967.9472</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares received in lieu of director fees.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher E French Attorney in Fact for Thomas Beckett</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

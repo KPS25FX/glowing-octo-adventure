@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0002130246-26-000003.txt : 20260903
+<SEC-HEADER>0002130246-26-000003.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903192418
+ACCESSION NUMBER:		0002130246-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Marvin Smollar Family Trust dtd 2/13/2023
+		CENTRAL INDEX KEY:			0002130246
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19041
+		FILM NUMBER:		261359772
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16469 BRIDLEWOOD CIRCLE
+		CITY:			DELRAY BEACH
+		STATE:			FL
+		ZIP:			33445
+		BUSINESS PHONE:		000-000-0000
+
+	MAIL ADDRESS:	
+		STREET 1:		16469 BRIDLEWOOD CIRCLE
+		CITY:			DELRAY BEACH
+		STATE:			FL
+		ZIP:			33445
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QHSLab, Inc.
+		CENTRAL INDEX KEY:			0000856984
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				112655906
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 NORTHPOINT PARKWAY
+		STREET 2:		SUITE 302
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33407
+		BUSINESS PHONE:		(929) 379-6503
+
+	MAIL ADDRESS:	
+		STREET 1:		901 NORTHPOINT PARKWAY
+		STREET 2:		SUITE 302
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33407
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	USA EQUITIES CORP.
+		DATE OF NAME CHANGE:	20151119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	USA EQUITY CORP.
+		DATE OF NAME CHANGE:	20151116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN BIOGENETIC SCIENCES INC
+		DATE OF NAME CHANGE:	19940426
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000856984</issuerCik>
+        <issuerName>QHSLab, Inc.</issuerName>
+        <issuerTradingSymbol>USAQ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002130246</rptOwnerCik>
+            <rptOwnerName>Marvin Smollar Family Trust dtd 2/13/2023</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>16469 BRIDLEWOOD CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DELRAY BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33445</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-08-26</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>W</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2226280</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <remarks>The Trust held the shares solely for purposes of estate administration. On August 26, 2026, the Trust distributed all 2,226,280 shares of common stock in equal parts to The Justin B. Smollar Irrevocable Trust dtd 2/13/2023
+and the Jeremy L. Smollar Irrevocable Trust dtd 2/13/2023, pursuant to the terms of the trust instrument and applicable estate administration procedures. No consideration was paid.</remarks>
+
+    <ownerSignature>
+        <signatureName>Justin B. Smollar, Trustee on behalf of Marvin Smollar Family Trust dtd 2/13/2023</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

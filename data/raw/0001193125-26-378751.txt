@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-378751.txt : 20260901
+<SEC-HEADER>0001193125-26-378751.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901174608
+ACCESSION NUMBER:		0001193125-26-378751
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Berkovitch Eli
+		CENTRAL INDEX KEY:			0001855496
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36805
+		FILM NUMBER:		261351985
+
+	MAIL ADDRESS:	
+		STREET 1:		900 JEFFERSON AVE
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOX INC
+		CENTRAL INDEX KEY:			0001372612
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				202714444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		900 JEFFERSON AVE
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+		BUSINESS PHONE:		877-729-4269
+
+	MAIL ADDRESS:	
+		STREET 1:		900 JEFFERSON AVE
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BOX.NET INC
+		DATE OF NAME CHANGE:	20060814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001372612</issuerCik>
+        <issuerName>BOX INC</issuerName>
+        <issuerTradingSymbol>BOX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001855496</rptOwnerCik>
+            <rptOwnerName>Berkovitch Eli</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>900 JEFFERSON AVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>REDWOOD CITY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94063</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>VP Chief Acct Ofr &amp; Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3850</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.99</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>105404</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Certain of these shares are represented by restricted stock units (&quot;RSUs&quot;). Each RSU represents the Reporting Person's right to receive one share of Common Stock of the Issuer subject to the applicable vesting schedule and the Reporting Person's continuous service through each such date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David Leeb, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,233 @@
+<SEC-DOCUMENT>0000905148-26-004168.txt : 20260914
+<SEC-HEADER>0000905148-26-004168.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914161055
+ACCESSION NUMBER:		0000905148-26-004168
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MARKEL GROUP INC.
+		CENTRAL INDEX KEY:			0001096343
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40244
+		FILM NUMBER:		261377445
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4521 HIGHWOODS PARKWAY
+		CITY:			GLEN ALLEN
+		STATE:			VA
+		ZIP:			23060-6148
+		BUSINESS PHONE:		8047470136
+
+	MAIL ADDRESS:	
+		STREET 1:		4521 HIGHWOODS PKWY
+		CITY:			GLEN ALLEN
+		STATE:			VA
+		ZIP:			23060
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	MARKEL GROUP, INC.
+		DATE OF NAME CHANGE:	20230526
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	MARKEL CORP
+		DATE OF NAME CHANGE:	20000411
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	MARKEL HOLDINGS INC
+		DATE OF NAME CHANGE:	19991005
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hagerty, Inc.
+		CENTRAL INDEX KEY:			0001840776
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		121 DRIVERS EDGE
+		CITY:			TRAVERSE CITY
+		STATE:			MI
+		ZIP:			49684
+		BUSINESS PHONE:		800-922-4050
+
+	MAIL ADDRESS:	
+		STREET 1:		121 DRIVERS EDGE
+		CITY:			TRAVERSE CITY
+		STATE:			MI
+		ZIP:			49684
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aldel Financial Inc.
+		DATE OF NAME CHANGE:	20210115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001840776</issuerCik>
+        <issuerName>Hagerty, Inc.</issuerName>
+        <issuerTradingSymbol>HGTY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001096343</rptOwnerCik>
+            <rptOwnerName>MARKEL GROUP INC.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4521 HIGHWOODS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GLEN ALLEN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23060</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7836411</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10944411</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class V Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7836411</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7836411</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>67163589</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Class V Common Stock is paired with one unit of limited liability company interest of The Hagerty Group, LLC (each, an &quot;OpCo Unit&quot; and, together with each corresponding share of Class V Common Stock, a &quot;Paired Interest&quot;). Each Paired Interest has no expiration date and is exchangeable, at the option of the holder, on a one-for-one basis for a share of Class A Common Stock of the Issuer or, at the option of the Issuer, an equivalent value in cash, pursuant to the Exchange Agreement, dated as of December 2, 2021, and amended and restated as of March 23, 2022, among the Reporting Person, The Hagerty Group, LLC, Hagerty Holding Corp., and the Issuer (the &quot;Amended and Restated Exchange Agreement&quot;). Each share of Class V Common Stock has no incidents of economic ownership and has ten (10) votes per share until the earlier of (i) December 2, 2036, and (ii) transfer to a non-qualified transferee, after which it has one (1) vote per share.</footnote>
+        <footnote id="F2">In connection with an underwritten secondary offering of shares of Class A Common Stock by Hagerty Holding Corp. that closed on September 11, 2026, and pursuant to the terms of the Amended and Restated Exchange Agreement, the Reporting Person exchanged 7,836,411 Paired Interests for, at the election of the Issuer, an equal number of shares of Class A Common Stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Richard R. Grinnan, Senior Vice President, Chief Legal Officer and Secretary</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001193125-26-394792.txt : 20260917
+<SEC-HEADER>0001193125-26-394792.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917204126
+ACCESSION NUMBER:		0001193125-26-394792
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Marshall William Spencer
+		CENTRAL INDEX KEY:			0001898468
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40166
+		FILM NUMBER:		261388215
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PLANET LABS PBC
+		STREET 2:		645 HARRISON STREET, FLOOR 4
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Planet Labs PBC
+		CENTRAL INDEX KEY:			0001836833
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		645 HARRISON STREET
+		STREET 2:		FLOOR 4
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 829-3313
+
+	MAIL ADDRESS:	
+		STREET 1:		645 HARRISON STREET
+		STREET 2:		FLOOR 4
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	dMY Technology Group, Inc. IV
+		DATE OF NAME CHANGE:	20201216
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001836833</issuerCik>
+        <issuerName>Planet Labs PBC</issuerName>
+        <issuerTradingSymbol>PL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001898468</rptOwnerCik>
+            <rptOwnerName>Marshall William Spencer</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PLANET LABS PBC</rptOwnerStreet1>
+            <rptOwnerStreet2>645 HARRISON STREET, FLOOR 4</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Co-Founder and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>134642</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.02</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2568473</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">No shares were sold by the reporting person. The transaction disclosed represents shares of the issuer's Class A Common Stock withheld by the issuer in payment of the withholding tax liability incurred upon the vesting of restricted stock units (&quot;RSUs&quot;).</footnote>
+        <footnote id="F2">Includes 1,693,566 RSUs that remain to vest in equal quarterly installments on the 15th of March, June, September and December.  The RSUs represent a contingent right to receive one share of Issuer's Class A Common Stock each and have no expiration date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ LeeAnn Linck, Attorney-in-fact for: William Spencer Marshall</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

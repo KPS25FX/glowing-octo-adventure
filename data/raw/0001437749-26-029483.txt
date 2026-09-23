@@ -1,0 +1,280 @@
+<SEC-DOCUMENT>0001437749-26-029483.txt : 20260902
+<SEC-HEADER>0001437749-26-029483.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902121441
+ACCESSION NUMBER:		0001437749-26-029483
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Oliver Lawrence T.
+		CENTRAL INDEX KEY:			0001801438
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26591
+		FILM NUMBER:		261353535
+
+	MAIL ADDRESS:	
+		STREET 1:		P. O. BOX 13007
+		CITY:			ROANOKE
+		STATE:			VA
+		ZIP:			24030
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RGC RESOURCES INC
+		CENTRAL INDEX KEY:			0001069533
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION & DISTRIBUTION [4923]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				541909697
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		519 KIMBALLAVENUE N.E.
+		CITY:			ROANOKE
+		STATE:			VA
+		ZIP:			24016
+		BUSINESS PHONE:		5407774427
+
+	MAIL ADDRESS:	
+		STREET 1:		519 KIMBALL AVENUE N.E.
+		CITY:			ROANOKE
+		STATE:			VA
+		ZIP:			24016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001069533</issuerCik>
+        <issuerName>RGC RESOURCES INC</issuerName>
+        <issuerTradingSymbol>RGCO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001801438</rptOwnerCik>
+            <rptOwnerName>Oliver Lawrence T.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>P. O. BOX 13007</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ROANOKE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>24030</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Senior VP and Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9.272</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>21.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30156.187</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>27.8700</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2020-10-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-04-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>22.9300</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2021-11-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-05-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>19.9000</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2023-01-25</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-07-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>16.6200</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2024-04-18</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-10-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Purchases made with optional cash contribution pursuant to the RGC Resources, Inc. Dividend Reinvestment and Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lawrence T. Oliver</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

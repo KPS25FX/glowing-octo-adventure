@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001123292-26-001306.txt : 20260915
+<SEC-HEADER>0001123292-26-001306.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915200530
+ACCESSION NUMBER:		0001123292-26-001306
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PODLOGAR SUSAN M
+		CENTRAL INDEX KEY:			0001709959
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41002
+		FILM NUMBER:		261382128
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tevogen Inc.
+		CENTRAL INDEX KEY:			0001860871
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				981597194
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 INDEPENDENCE BOULEVARD, SUITE #210
+		CITY:			WARREN
+		STATE:			NJ
+		ZIP:			07059
+		BUSINESS PHONE:		646-807-8832
+
+	MAIL ADDRESS:	
+		STREET 1:		15 INDEPENDENCE BOULEVARD, SUITE #210
+		CITY:			WARREN
+		STATE:			NJ
+		ZIP:			07059
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tevogen Bio Holdings Inc.
+		DATE OF NAME CHANGE:	20240215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Semper Paratus Acquisition Corp
+		DATE OF NAME CHANGE:	20210505
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001860871</issuerCik>
+        <issuerName>Tevogen Inc.</issuerName>
+        <issuerTradingSymbol>TVGN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001709959</rptOwnerCik>
+            <rptOwnerName>PODLOGAR SUSAN M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TEVOGEN BIO HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>15 INDEPENDENCE BLVD, STE 410</rptOwnerStreet2>
+            <rptOwnerCity>WARREN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07059</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>123678</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of restricted stock under the Tevogen Inc. 2024 Omnibus Incentive Plan, which will vest ratably in three equal annual installments commencing on September 11, 2027, provided that the reporting person remains in service with the Issuer at such dates.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kirti Desai, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

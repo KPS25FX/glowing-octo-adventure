@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001094891-26-000286.txt : 20260918
+<SEC-HEADER>0001094891-26-000286.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918165733
+ACCESSION NUMBER:		0001094891-26-000286
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20251201
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Levesque Pamela
+		CENTRAL INDEX KEY:			0001997712
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11398
+		FILM NUMBER:		261391601
+
+	MAIL ADDRESS:	
+		STREET 1:		91 HEARTLAND BOULEVARD
+		CITY:			EDGEWOOD
+		STATE:			NY
+		ZIP:			11717
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CPI AEROSTRUCTURES INC
+		CENTRAL INDEX KEY:			0000889348
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT PART & AUXILIARY EQUIPMENT, NEC [3728]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				112520310
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200A EXECUTIVE DR
+		CITY:			EDGEWOOD
+		STATE:			NY
+		ZIP:			11717
+		BUSINESS PHONE:		5165865200
+
+	MAIL ADDRESS:	
+		STREET 1:		91 HEARTLAND BLVD
+		CITY:			EDGEWOOD
+		STATE:			NY
+		ZIP:			11717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2025-12-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000889348</issuerCik>
+        <issuerName>CPI AEROSTRUCTURES INC</issuerName>
+        <issuerTradingSymbol>CVU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001997712</rptOwnerCik>
+            <rptOwnerName>Levesque Pamela</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>91 HEARTLAND BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EDGEWOOD</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11717</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Director and former CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2025-12-01</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8125</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.5817</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>67614</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld by the Issuer to satisfy tax withholding obligations in connection with the vesting of restricted stock awards previously granted to the Reporting Person for service as Interim Chief Financial Officer. The amount reported reflects an aggregate of 8,125 shares withheld following a correction to the calculation of the applicable tax withholding.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Pamela Levesque</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

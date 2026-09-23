@@ -1,0 +1,463 @@
+<SEC-DOCUMENT>0001193125-26-380372.txt : 20260902
+<SEC-HEADER>0001193125-26-380372.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902164811
+ACCESSION NUMBER:		0001193125-26-380372
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KRATZ OWEN E
+		CENTRAL INDEX KEY:			0001041815
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32936
+		FILM NUMBER:		261355633
+
+	MAIL ADDRESS:	
+		STREET 1:		3505 W SAM HOUSTON PKWY NORTH
+		STREET 2:		SUITE 400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77043
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HORNBECK OFFSHORE SERVICES, INC.
+		CENTRAL INDEX KEY:			0000866829
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				953409686
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		103 NORTHPARK BOULEVARD
+		STREET 2:		SUITE 300
+		CITY:			COVINGTON
+		STATE:			LA
+		ZIP:			70433
+		BUSINESS PHONE:		985-727-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		103 NORTHPARK BOULEVARD
+		STREET 2:		SUITE 300
+		CITY:			COVINGTON
+		STATE:			LA
+		ZIP:			70433
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HELIX ENERGY SOLUTIONS GROUP INC
+		DATE OF NAME CHANGE:	20060309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAL DIVE INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19960821
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000866829</issuerCik>
+        <issuerName>HORNBECK OFFSHORE SERVICES, INC.</issuerName>
+        <issuerTradingSymbol>HOS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001041815</rptOwnerCik>
+            <rptOwnerName>KRATZ OWEN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3505 WEST SAM HOUSTON PKWY NORTH</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 400</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77043</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>true</isOther>
+            <otherText>See Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Share Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>262646</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>262646</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Share Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>257833</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>257833</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Share Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>488038</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>488038</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>58366</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>58366</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>128756</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>128756</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F7"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>287081</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F7"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>287081</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the terms of the Agreement and Plan of Merger, dated as of April 22, 2026, by and among Helix Energy Solutions Group, Inc. Odyssey Sub, Inc., Hercules Sub LLC and Hornbeck Offshore Services, Inc. (the &quot;Merger Agreement&quot;), each award of performance share units (a &quot;Parent PSU Award&quot;) and each award of restricted stock units (a &quot;Parent RSU Award&quot;) owned by the reporting person as of the Effective Time was canceled in exchange for an amount in cash equal to the number of shares of Parent Common Stock subject to such Parent PSU Award or Parent RSU Award multiplied by the closing price of a share of Parent Common Stock on the NYSE on the Trading Day immediately prior to the Closing Date, which was $10.30.</footnote>
+        <footnote id="F2">Each performance share unit subject to the Parent PSU Award granted on January 1, 2024 (&quot;2024 Parent PSU Award&quot;) pursuant to the Parent's 2005 Long-Term Incentive Plan (as amended, the &quot;LTIP&quot;) represented the contingent right to receive one share of Parent Common Stock subject to the terms of the LTIP and the 2024 Parent PSU Award agreement, subject to the level of achievement with respect to the applicable performance criteria. On August 31, 2026, the Compensation Committee determined that 150.0% of the 2024 Parent PSU Award was earned by the reporting person.</footnote>
+        <footnote id="F3">Each performance share unit subject to the Parent PSU Award granted on January 1, 2025 (&quot;2025 Parent PSU Award&quot;) pursuant to the LTIP represented the contingent right to receive one share of Parent Common Stock subject to the terms of the LTIP and the 2025 Parent PSU Award agreement, subject to the level of achievement with respect to the applicable performance criteria. On August 31, 2026, the Compensation Committee determined that 133.5% of the 2025 Parent PSU Award was earned by the reporting person.</footnote>
+        <footnote id="F4">Each performance share unit subject to the Parent PSU Award granted on January 1, 2026 (&quot;2026 Parent PSU Award&quot;) pursuant to the LTIP represented the contingent right to receive one share of Parent Common Stock subject to the terms of the LTIP and the 2026 Parent PSU Award agreement, subject to the level of achievement with respect to the applicable performance criteria. On August 31, 2026, the Compensation Committee determined that 170.0% of the 2026 Parent PSU Award was earned by the reporting person.</footnote>
+        <footnote id="F5">Each restricted stock unit subject to the Parent RSU Award granted on January 1, 2024 (&quot;2024 Parent RSU Award&quot;) represented the contingent right to receive one share of Parent Common Stock. Forfeiture restrictions lapsed with respect to one-third of the 2024 Parent RSU Award on January 1, 2025, forfeiture restrictions with respect to an additional one-third of the award lapsed on January 1, 2026 and, pursuant to the Merger Agreement, the remaining forfeiture restrictions with respect to the award lapsed on September 1, 2026.</footnote>
+        <footnote id="F6">Each restricted stock unit subject to the Parent RSU Award granted on January 1, 2025 (&quot;2025 Parent RSU Award&quot;) represented the contingent right to receive one share of Parent Common Stock. Forfeiture restrictions lapsed with respect to one-third of the 2025 Parent RSU Award on January 1, 2026 and, pursuant to the terms of the Merger Agreement, the remaining forfeiture restrictions with respect to the award lapsed on September 1, 2026.</footnote>
+        <footnote id="F7">Each restricted stock unit subject to the Parent RSU Award granted on January 1, 2026 (&quot;2026 Parent RSU Award&quot;) represented the contingent right to receive one share of Parent Common Stock. Pursuant to the terms of the Merger Agreement, all forfeiture restrictions with respect to the 2026 Parent RSU Award lapsed on September 1, 2026.</footnote>
+    </footnotes>
+
+    <remarks>FORMER DIRECTOR, PRESIDENT &amp; CEO
+Following the transactions contemplated by the Merger Agreement, the reporting person is no longer subject to Section 16 in connection with his transactions in the equity securities of Hornbeck Offshore Services, Inc. (formerly named Helix Energy Solutions Group, Inc.) and therefore will no longer report any such transactions on Form 4 or Form 5. Capitalized terms used herein without definition have the meanings ascribed to them in the Merger Agreement.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Owen E. Kratz</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

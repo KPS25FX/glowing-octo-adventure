@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0000950103-26-013492.txt : 20260902
+<SEC-HEADER>0000950103-26-013492.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902163422
+ACCESSION NUMBER:		0000950103-26-013492
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BOYNTON CHARLES D
+		CENTRAL INDEX KEY:			0001181212
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41617
+		FILM NUMBER:		261355415
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nextpower Inc.
+		CENTRAL INDEX KEY:			0001852131
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6200 PASEO PADRE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94555
+		BUSINESS PHONE:		510-270-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		6200 PASEO PADRE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94555
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nextracker Inc.
+		DATE OF NAME CHANGE:	20221116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nextracker LLC
+		DATE OF NAME CHANGE:	20220215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nextracker Inc.
+		DATE OF NAME CHANGE:	20210318
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001852131</issuerCik>
+        <issuerName>Nextpower Inc.</issuerName>
+        <issuerTradingSymbol>NXT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001181212</rptOwnerCik>
+            <rptOwnerName>BOYNTON CHARLES D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NEXTPOWER INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6200 PASEO PADRE PARKWAY</rptOwnerStreet2>
+            <rptOwnerCity>FREMONT</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94555</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4500</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>79.98</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>354000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported in this Form 4 was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on June 13, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Philip Reuther, as attorney-in-fact for Charles Boynton</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

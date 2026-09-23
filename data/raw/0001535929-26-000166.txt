@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0001535929-26-000166.txt : 20260828
+<SEC-HEADER>0001535929-26-000166.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828160806
+ACCESSION NUMBER:		0001535929-26-000166
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Keshavan Santhosh
+		CENTRAL INDEX KEY:			0001852193
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35897
+		FILM NUMBER:		261340036
+
+	MAIL ADDRESS:	
+		STREET 1:		230 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10169
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Voya Financial, Inc.
+		CENTRAL INDEX KEY:			0001535929
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				521222820
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+		BUSINESS PHONE:		212-309-8200
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ING U.S., Inc.
+		DATE OF NAME CHANGE:	20120709
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ING America Insurance Holdings, Inc.
+		DATE OF NAME CHANGE:	20111130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>form4a.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-08-24</dateOfOriginalSubmission>
+
+    <issuer>
+        <issuerCik>0001535929</issuerCik>
+        <issuerName>Voya Financial, Inc.</issuerName>
+        <issuerTradingSymbol>VOYA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001852193</rptOwnerCik>
+            <rptOwnerName>Keshavan Santhosh</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>200 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10166</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35587</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>37.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36929</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance-Based Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35587</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>35587</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person's original Form 4 filed on August 24, 2026, inadvertently did not contain the exercise of the options. These options executed (and stock sale reported on the Form 4 filed on August 24, 2026), were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 22, 2026. The reporting person adopted this plan to cover transactions with respect to options to purchase the Company's stock that were granted by the Company. The 36,929 shares indicated above reflect the final balance of shares following both the option exercise and the sales reflected on the original Form 4.</footnote>
+        <footnote id="F2">The options vest based on the conditions set forth in their respective agreements.</footnote>
+    </footnotes>
+
+    <remarks>Executive Vice President, Chief Technology Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Julie Watson, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0001193125-26-389330.txt : 20260911
+<SEC-HEADER>0001193125-26-389330.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911163006
+ACCESSION NUMBER:		0001193125-26-389330
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dyal Capital SLP LP
+		CENTRAL INDEX KEY:			0001863467
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39653
+		FILM NUMBER:		261374711
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1290 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10104
+		BUSINESS PHONE:		212-476-8514
+
+	MAIL ADDRESS:	
+		STREET 1:		1290 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLUE OWL CAPITAL INC.
+		CENTRAL INDEX KEY:			0001823945
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				863906032
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE, 37TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 419-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE, 37TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALTIMAR ACQUISITION CORP.
+		DATE OF NAME CHANGE:	20200909
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001823945</issuerCik>
+        <issuerName>BLUE OWL CAPITAL INC.</issuerName>
+        <issuerTradingSymbol>OWL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001863467</rptOwnerCik>
+            <rptOwnerName>Dyal Capital SLP LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>399 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>37TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class D Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>350000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>131414357</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Blue Owl Operating Group Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>350000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>350000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>131414357</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported transaction is a disposition by Dyal Capital SLP LP (&quot;Dyal SLP&quot;) to certain Dyal Partners (as defined below) for no consideration of shares of Blue Owl Capital Inc.'s (the &quot;Issuer&quot;) Class D common stock (&quot;Class D Shares&quot;) and an equal number of common units (&quot;Blue Owl Operating Group Units&quot;) of Blue Owl Capital Holdings LP, a Delaware limited partnership (&quot;Blue Owl Holdings&quot;).</footnote>
+        <footnote id="F2">Consists of Class D Shares and an equal number of Blue Owl Operating Group Units held directly by Dyal SLP on behalf of limited partners of Dyal SLP, including Michael Rees, his spouse, or one or more entities controlled by Michael Rees, Andrew Polland, his spouse or one or more entities controlled by Andrew Polland, Jennifer Brouse and certain other limited partners that are officers or directors of the Issuer (collectively, the &quot;Dyal Partners&quot;). Each of the foregoing and their affiliates expressly disclaims beneficial ownership of the securities held by Dyal SLP except to the extent of their respective pecuniary interests therein.</footnote>
+        <footnote id="F3">Each Blue Owl Operating Group Unit, upon the cancellation of an equal number of Class D Shares, may be exchanged from time to time for an equal number of the newly issued Issuer's shares of Class B common stock (&quot;Class B Shares&quot;), subject to any applicable transfer restrictions and the terms of the Third Amended and Restated Exchange Agreement, dated as of April 1, 2025, or (at the election of an exchange committee of the general partner of Blue Owl Holdings) a cash payment equal to the five-day volume weighted average price of the Issuer's Class A Shares immediately prior to the applicable exchange date. Blue Owl Operating Group Units do not expire.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Neena A. Reddy, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

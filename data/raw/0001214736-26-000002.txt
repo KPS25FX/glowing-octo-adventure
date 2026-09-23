@@ -1,0 +1,245 @@
+<SEC-DOCUMENT>0001214736-26-000002.txt : 20260914
+<SEC-HEADER>0001214736-26-000002.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914130540
+ACCESSION NUMBER:		0001214736-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LAMBRECHT COREY ALLEN
+		CENTRAL INDEX KEY:			0001214736
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41267
+		FILM NUMBER:		261376700
+
+	MAIL ADDRESS:	
+		STREET 1:		2999 NORTH 44TH STREET
+		STREET 2:		SUITE 530
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85018
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN REBEL HOLDINGS INC
+		CENTRAL INDEX KEY:			0001648087
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS FABRICATED METAL PRODUCTS [3490]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				473892903
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		218 3RD AVENUE NORTH, #400
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37201
+		BUSINESS PHONE:		833-267-3235
+
+	MAIL ADDRESS:	
+		STREET 1:		218 3RD AVENUE NORTH, #400
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CUBESCAPE INC
+		DATE OF NAME CHANGE:	20150714
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001648087</issuerCik>
+        <issuerName>AMERICAN REBEL HOLDINGS INC</issuerName>
+        <issuerTradingSymbol>AREB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001214736</rptOwnerCik>
+            <rptOwnerName>LAMBRECHT COREY ALLEN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>218 3RD AVENUE NOTRH</rptOwnerStreet1>
+            <rptOwnerStreet2>#400</rptOwnerStreet2>
+            <rptOwnerCity>NASHVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President, COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series D Convertible Preferred Stock</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.5</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2025-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-12-31</value>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>67381</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series A Convertible Preferred Stock</value>
+                <footnoteId id="F5"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.001</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.001</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-10</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                    <footnoteId id="F6"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12500000</value>
+                    <footnoteId id="F6"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48823</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Series D Convertible Preferred Stock is valued at $7.50 per share and is convertible into 5 shares of Common Stock (at an effective conversion prices of $1.50 per share).</footnote>
+        <footnote id="F2">Private sale of Series D Convertible Preferred Stock for $7,500.00.</footnote>
+        <footnote id="F3">Series D Convertible Preferred Stock issued and the common stock underlying conversion, was reserved for issued pursuant to the Issuer's Amended and Restated 2025 Stock Incentive Plan.</footnote>
+        <footnote id="F4">There is no expiration date for the Series D Convertible Preferred Stock.</footnote>
+        <footnote id="F5">Issuance of Series A Convertible Preferred Stock as part of amended employment agreement.</footnote>
+        <footnote id="F6">Each share of Series A Convertible Preferred Stock is convertible into 500 shares of common stock. Further, each share of Series A Preferred Stock is entitled to cast one thousand (1,000) votes for each share held of the Series A Preferred stock on all matters presented to the stockholders of the Company for a vote.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Corey Lambrecht</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

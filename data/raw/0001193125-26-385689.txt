@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001193125-26-385689.txt : 20260908
+<SEC-HEADER>0001193125-26-385689.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908215420
+ACCESSION NUMBER:		0001193125-26-385689
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blumer Brendan Francis
+		CENTRAL INDEX KEY:			0001955357
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42797
+		FILM NUMBER:		261366505
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O WALKERS CORPORATE LIMITED
+		STREET 2:		190 ELGIN AVENUE
+		CITY:			GEORGE TOWN, GRAND CAYMAN
+		NON US STATE TERRITORY:  	GRAND CAYMAN
+		PROVINCE COUNTRY:   	E9
+		ZIP:			KY1- 9008
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bullish
+		CENTRAL INDEX KEY:			0001872195
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		P.O. BOX 309, UGLAND HOUSE
+		CITY:			GEORGE TOWN
+		PROVINCE COUNTRY:   	E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		852-3761-9140
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		P.O. BOX 309, UGLAND HOUSE
+		CITY:			GEORGE TOWN
+		PROVINCE COUNTRY:   	E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001872195</issuerCik>
+        <issuerName>Bullish</issuerName>
+        <issuerTradingSymbol>BLSH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001955357</rptOwnerCik>
+            <rptOwnerName>Blumer Brendan Francis</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BULLISH, BUILDING A BLOCK 7 60 NEXUS WAY</rptOwnerStreet1>
+            <rptOwnerStreet2>CAMANA BAY, GEORGE TOWN</rptOwnerStreet2>
+            <rptOwnerCity>GRAND CAYMAN</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>CAYMAN ISLANDS</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>E9</rptOwnerCountry>
+            <rptOwnerZipCode>KY1-9005</rptOwnerZipCode>
+            <rptOwnerStateDescription>CAYMAN ISLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5877</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39167885</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 5,877 restricted share units (&quot;RSUs&quot;) granted to the Reporting Person pursuant to the Bullish 2025 Omnibus Incentive Plan. The RSUs vest in full on September 1, 2027.</footnote>
+    </footnotes>
+
+    <remarks>Due to the issuer's status as a foreign private issuer pursuant to Rule 3a12-3(b) under the Exchange Act, the reporting person's transactions in the issuer's equity securities are exempt from Sections 16(b) and 16(c) of the Exchange Act.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Brendan Francis Blumer</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

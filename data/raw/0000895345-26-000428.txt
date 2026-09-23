@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0000895345-26-000428.txt : 20260916
+<SEC-HEADER>0000895345-26-000428.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916163357
+ACCESSION NUMBER:		0000895345-26-000428
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McHugh Timothy
+		CENTRAL INDEX KEY:			0001786887
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42301
+		FILM NUMBER:		261384179
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 DORR STREET
+		CITY:			TOLEDO
+		STATE:			OH
+		ZIP:			43515
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FrontView REIT, Inc.
+		CENTRAL INDEX KEY:			0001988494
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				932133671
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3131 MCKINNEY AVENUE
+		STREET 2:		SUITE L10
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75204
+		BUSINESS PHONE:		(469) 906-7300
+
+	MAIL ADDRESS:	
+		STREET 1:		3131 MCKINNEY AVENUE
+		STREET 2:		SUITE L10
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001988494</issuerCik>
+        <issuerName>FrontView REIT, Inc.</issuerName>
+        <issuerTradingSymbol>FVR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001786887</rptOwnerCik>
+            <rptOwnerName>McHugh Timothy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FRONTVIEW REIT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3131 MCKINNEY AVE., SUITE L10</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75204</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>LTIP Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>705</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>OP Units</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>705</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>705</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents units of limited partnership interest designated as &quot;LTIP Units&quot; in FrontView Operating Partnership LP (the &quot;Operating Partnership&quot;) granted pursuant to the Equity Plan and the Amended and Restated Agreement of Limited Partnership of the Operating Partnership, dated as of October 3, 2024 (the &quot;Partnership Agreement&quot;). LTIP Units have no expiration date.</footnote>
+        <footnote id="F2">Each LTIP Unit may be converted at the election of the Issuer or the holder, into a common unit of limited partnership interest in the Operating Partnership (an &quot;OP Unit&quot;) only if the vesting conditions described below are met. Each OP Unit is thereafter redeemable at the election of the holder for cash equal to the then fair market value of one Share, or at the Issuer's election, one Share, subject to adjustment as set forth in the Partnership Agreement.</footnote>
+        <footnote id="F3">These LTIP Units vest in full on the first anniversary of the date of issuance  subject to continued service with the Issuer through the applicable date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen Preston as Attorney-in-Fact for Timothy McHugh</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

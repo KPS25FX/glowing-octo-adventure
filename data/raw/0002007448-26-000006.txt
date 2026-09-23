@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0002007448-26-000006.txt : 20260909
+<SEC-HEADER>0002007448-26-000006.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909160416
+ACCESSION NUMBER:		0002007448-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Clerc Alexandre
+		CENTRAL INDEX KEY:			0002007448
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40304
+		FILM NUMBER:		261368154
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FRONTIER GROUP HOLDINGS, INC.
+		STREET 2:		4545 AIRPORT WAY
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80239
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Frontier Group Holdings, Inc.
+		CENTRAL INDEX KEY:			0001670076
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				463681866
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4545 AIRPORT WAY
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80239
+		BUSINESS PHONE:		(720) 374-4490
+
+	MAIL ADDRESS:	
+		STREET 1:		4545 AIRPORT WAY
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80239
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001670076</issuerCik>
+        <issuerName>Frontier Group Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>ULCC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002007448</rptOwnerCik>
+            <rptOwnerName>Clerc Alexandre</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FRONTIER GROUP HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4545 AIRPORT WAY</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80239</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP, Customers</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3480.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.7101</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34008.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Howard Diamond, as Attorney-in-fact for Alexandre Clerc</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

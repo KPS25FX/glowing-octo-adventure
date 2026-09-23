@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001225208-26-007766.txt : 20260911
+<SEC-HEADER>0001225208-26-007766.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911160407
+ACCESSION NUMBER:		0001225208-26-007766
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Harrison Suzan F.
+		CENTRAL INDEX KEY:			0001706044
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00044
+		FILM NUMBER:		261374342
+
+	MAIL ADDRESS:	
+		STREET 1:		BEECH HILL
+		STREET 2:		CLONSKEAGH
+		CITY:			DUBLIN 4
+		STATE:			L2
+		ZIP:			D04 N2R2
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Archer-Daniels-Midland Co
+		CENTRAL INDEX KEY:			0000007084
+		STANDARD INDUSTRIAL CLASSIFICATION:	FATS & OILS [2070]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				410129150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		77 W. WACKER DR.
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+		BUSINESS PHONE:		312-634-8233
+
+	MAIL ADDRESS:	
+		STREET 1:		77 W. WACKER DR.
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARCHER DANIELS MIDLAND CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000007084</issuerCik>
+        <issuerName>Archer-Daniels-Midland Co</issuerName>
+        <issuerTradingSymbol>ADM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001706044</rptOwnerCik>
+            <rptOwnerName>Harrison Suzan F.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>77 WEST WACKER DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 4600</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0000</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>120.3700</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>120.3700</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20006.0280</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents stock units credited under the dividend equivalent reinvestment provision of the Archer-Daniels-Midland Company Stock Unit Plan for Nonemployee Directors.</footnote>
+        <footnote id="F2">Conversion or exercise price of Derivative Security is 1-for-1.</footnote>
+        <footnote id="F3">The earlier of (i) the date five years after the end of the calendar year (a) that includes the calendar quarter for which any stock unit is awarded to the participant or (b) in which such stock unit is credited to the participant as a dividend equivalent or (ii) the date the participant ceases to be a member of the Board of Directors, in each case as may be extended pursuant to the terms of the Archer-Daniels-Midland Company's Stock Unit Plan for Nonemployee Directors.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Dana Ng, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

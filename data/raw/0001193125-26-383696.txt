@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001193125-26-383696.txt : 20260904
+<SEC-HEADER>0001193125-26-383696.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904162403
+ACCESSION NUMBER:		0001193125-26-383696
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Morehouse David J
+		CENTRAL INDEX KEY:			0001635153
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12001
+		FILM NUMBER:		261362349
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ATI INC.
+		STREET 2:		2021 MCKINNEY AVENUE
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATI INC
+		CENTRAL INDEX KEY:			0001018963
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL PIPE & TUBES [3317]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				251792394
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2021 MCKINNEY AVENUE
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		4123942800
+
+	MAIL ADDRESS:	
+		STREET 1:		2021 MCKINNEY AVENUE
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEGHENY TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	19991213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEGHENY TELEDYNE INC
+		DATE OF NAME CHANGE:	19960716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001018963</issuerCik>
+        <issuerName>ATI INC</issuerName>
+        <issuerTradingSymbol>ATI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001635153</rptOwnerCik>
+            <rptOwnerName>Morehouse David J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ATI INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2021 MCKINNEY AVENUE, SUITE 1100</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.10 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2485</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>201.61</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35826</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price. The shares were sold in multiple transactions at prices ranging from $201.56 to to $201.82. The reporting person undertakes to provide to the Issuer, its security holders and the Staff of the U.S. Securities and Exchange Commission (the &quot;SEC&quot;), upon request, full information regarding the number of shares sold at each specific price within the range reported.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Amanda J. Skov, Attorney-in-Fact for David J. Morehouse</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

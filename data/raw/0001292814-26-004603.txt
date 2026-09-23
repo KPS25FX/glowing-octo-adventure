@@ -1,0 +1,223 @@
+<SEC-DOCUMENT>0001292814-26-004603.txt : 20260918
+<SEC-HEADER>0001292814-26-004603.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918202911
+ACCESSION NUMBER:		0001292814-26-004603
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260420
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Amaral Decio de Sampaio
+		CENTRAL INDEX KEY:			0002122759
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14950
+		FILM NUMBER:		261392081
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BRIGADEIRO LUIS ANTONIO AVENUE, NO. 1343
+		STREET 2:		7TH FLOOR
+		CITY:			SAO PAULO
+		NON US STATE TERRITORY:  	SP
+		PROVINCE COUNTRY:   	D5
+		ZIP:			01317 910
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ULTRAPAR HOLDINGS INC
+		CENTRAL INDEX KEY:			0001094972
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS DISTRIBUTION [4924]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AV BRIGADERIO LUIZ ANTONIO 1343
+		STREET 2:		8 ANDAR SAO PAULO
+		CITY:			SP BRAZIL 01350-900
+		STATE:			D5
+		BUSINESS PHONE:		55 11 3177-7014
+
+	MAIL ADDRESS:	
+		STREET 1:		CT CORPORATION SYSTEM
+		STREET 2:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-04-20</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-04-22</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001094972</issuerCik>
+        <issuerName>ULTRAPAR HOLDINGS INC</issuerName>
+        <issuerTradingSymbol>UGP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>UGPA3</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002122759</rptOwnerCik>
+            <rptOwnerName>Amaral Decio de Sampaio</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BRIGADEIRO LUIS ANTONIO AVENUE, NO. 1343</rptOwnerStreet1>
+            <rptOwnerStreet2>7TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>SAO PAULO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>SP</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>01317 910</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO Hidrovias</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-04-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>78824</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>206726</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-04-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>78824</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>78824</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1101127</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted share represents a contingent right to receive one common share.</footnote>
+        <footnote id="F2">Restricted shares vested on April 20, 2026.</footnote>
+        <footnote id="F3">Reported shares vested in accordance with the long-term incentive plan approved by the Company's shareholders at the 2023 Annual General Meeting.</footnote>
+        <footnote id="F4">The reporting person's Form 4, filed on April 22, 2026, did not reflect an additional 21,229 restricted shares resulting from the final performance assessment at the time of vesting on April 20, 2026. This Form 4 amendment corrects such error by increasing the total amount of restricted shares beneficially owned by the reporting person by 21,229 restricted shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Larissa Lordaro Pessoa, attorney-in-fact for Decio de Sampaio Amaral</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

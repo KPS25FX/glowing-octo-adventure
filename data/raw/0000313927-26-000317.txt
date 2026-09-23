@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0000313927-26-000317.txt : 20260916
+<SEC-HEADER>0000313927-26-000317.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916142418
+ACCESSION NUMBER:		0000313927-26-000317
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dierker Richard A
+		CENTRAL INDEX KEY:			0001661038
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10585
+		FILM NUMBER:		261383305
+
+	MAIL ADDRESS:	
+		STREET 1:		500 CHARLES EWING BLVD
+		CITY:			EWING
+		STATE:			NJ
+		ZIP:			08628
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHURCH & DWIGHT CO INC /DE/
+		CENTRAL INDEX KEY:			0000313927
+		STANDARD INDUSTRIAL CLASSIFICATION:	SOAP, DETERGENT, CLEANING PREPARATIONS, PERFUMES, COSMETICS [2840]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				134996950
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 CHARLES EWING BOULEVARD
+		CITY:			EWING
+		STATE:			NJ
+		ZIP:			08628
+		BUSINESS PHONE:		609-806-1200
+
+	MAIL ADDRESS:	
+		STREET 1:		500 CHARLES EWING BOULEVARD
+		CITY:			EWING
+		STATE:			NJ
+		ZIP:			08628
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000313927</issuerCik>
+        <issuerName>CHURCH &amp; DWIGHT CO INC /DE/</issuerName>
+        <issuerTradingSymbol>CHD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001661038</rptOwnerCik>
+            <rptOwnerName>Dierker Richard A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>PRINCETON SOUTH CORPORATE PARK</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EWING</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08628</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>45.728</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>94.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>45.728</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18198.77</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The phantom stock shares convert to common stock on a 1-for-1 basis.</footnote>
+        <footnote id="F2">The phantom stock shares were acquired under the Church &amp; Dwight Co., Inc. Deferred Compensation Plan and are to be settled in cash at such time as prescribed by the Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cristina Paradiso, attorney-in-fact for Richard A. Dierker</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

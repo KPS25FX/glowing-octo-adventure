@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0000320187-26-000174.txt : 20260917
+<SEC-HEADER>0000320187-26-000174.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917163344
+ACCESSION NUMBER:		0000320187-26-000174
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Arnault Alexandre
+		CENTRAL INDEX KEY:			0001996841
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		261387311
+
+	MAIL ADDRESS:	
+		STREET 1:		1-2 BERKELEY SQUARE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W1J 6EA
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE, Inc.
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NIKE INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000320187</issuerCik>
+        <issuerName>NIKE, Inc.</issuerName>
+        <issuerTradingSymbol>NKE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001996841</rptOwnerCik>
+            <rptOwnerName>Arnault Alexandre</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>ONE BOWERMAN DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BEAVERTON</rptOwnerCity>
+            <rptOwnerState>OR</rptOwnerState>
+            <rptOwnerZipCode>97005</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5171</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30171</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted shares granted on 09/15/2026 under the NIKE, Inc. Stock Incentive Plan. The restrictions lapse with respect to 100% of the shares on the first anniversary of the date of grant; and upon any termination of service, any shares as to which the restrictions have not expired shall be forfeited.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Carlos J. Wilson, attorney-in-fact for Mr. Arnault</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

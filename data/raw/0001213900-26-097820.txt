@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001213900-26-097820.txt : 20260908
+<SEC-HEADER>0001213900-26-097820.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908063409
+ACCESSION NUMBER:		0001213900-26-097820
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jiang Pengfei
+		CENTRAL INDEX KEY:			0002119061
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42016
+		FILM NUMBER:		261363311
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		GROUP 1, XIAOSIYUAN VILLAGE
+		STREET 2:		GANHE SUBDISTRICT OFFICE
+		CITY:			XIANTAO CITY, HEBEI PROVINCE
+		PROVINCE COUNTRY:   	F4
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Neo-Concept International Group Holdings Ltd
+		CENTRAL INDEX KEY:			0001916331
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			K3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		10/F SEAVIEW CENTRE
+		STREET 2:		139-141 HOI BUN ROAD, KOWLOON TONG
+		CITY:			HONG KONG
+		PROVINCE COUNTRY:   	K3
+		BUSINESS PHONE:		852 2798 8639
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		10/F SEAVIEW CENTRE
+		STREET 2:		139-141 HOI BUN ROAD, KOWLOON TONG
+		CITY:			HONG KONG
+		PROVINCE COUNTRY:   	K3
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001916331</issuerCik>
+        <issuerName>Neo-Concept International Group Holdings Ltd</issuerName>
+        <issuerTradingSymbol>NCI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002119061</rptOwnerCik>
+            <rptOwnerName>Jiang Pengfei</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>GROUP 1, XIAOSIYUAN VILLAGE</rptOwnerStreet1>
+            <rptOwnerStreet2>GANHE SUBDISTRICT OFFICE</rptOwnerStreet2>
+            <rptOwnerCity>XIANTAO, HEBEI PROVINCE</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>PRC</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F4</rptOwnerCountry>
+            <rptOwnerZipCode>00000</rptOwnerZipCode>
+            <rptOwnerStateDescription>CHINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>140000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0025</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>140000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Class B Ordinary Shares are convertible into Class A Ordinary Shares at the holder's option at any time on a one-to-one basis. Class A Ordinary Shares are not convertible into Class B Ordinary Shares under any circumstance.</footnote>
+        <footnote id="F2">The securities were acquired pursuant to an allotment and issuance by the Issuer at par value of US$0.0025 per share, for an aggregate subscription price of US$350, as approved by the Board of Directors and the Audit Committee (related-party transaction) on August 25, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jiang Pengfei</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

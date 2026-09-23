@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001193125-26-388717.txt : 20260911
+<SEC-HEADER>0001193125-26-388717.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911093035
+ACCESSION NUMBER:		0001193125-26-388717
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Berbee James G
+		CENTRAL INDEX KEY:			0001732234
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49965
+		FILM NUMBER:		261372885
+
+	MAIL ADDRESS:	
+		STREET 1:		133 S BLAIR STREET
+		STREET 2:		PO BOX 1231
+		CITY:			MADISON
+		STATE:			WI
+		ZIP:			53701-1231
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MGE ENERGY INC
+		CENTRAL INDEX KEY:			0001161728
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC, GAS & SANITARY SERVICES [4900]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				392040501
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		133 SOUTH BLAIR STREET
+		STREET 2:		PO BOX 1231
+		CITY:			MADISON
+		STATE:			WI
+		ZIP:			53701-1231
+		BUSINESS PHONE:		(608) 252-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		133 SOUTH BLAIR STREET
+		STREET 2:		PO BOX 1231
+		CITY:			MADISON
+		STATE:			WI
+		ZIP:			53701-1231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001161728</issuerCik>
+        <issuerName>MGE ENERGY INC</issuerName>
+        <issuerTradingSymbol>MGEE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001732234</rptOwnerCik>
+            <rptOwnerName>Berbee James G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>133 S BLAIR STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>PO BOX 1231</rptOwnerStreet2>
+            <rptOwnerCity>MADISON</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53701-1231</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>274.7418</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>77.35</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10013.0377</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes adjustments for accrued dividends pursuant to dividend reinvestment and exempt from Sec 16 under Rule 16a-11</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James G. Berbee</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

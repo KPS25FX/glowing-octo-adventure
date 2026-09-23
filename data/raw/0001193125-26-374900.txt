@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-374900.txt : 20260828
+<SEC-HEADER>0001193125-26-374900.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828183639
+ACCESSION NUMBER:		0001193125-26-374900
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Williams Gregory Hyde
+		CENTRAL INDEX KEY:			0002146338
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40429
+		FILM NUMBER:		261341903
+
+	MAIL ADDRESS:	
+		STREET 1:		2180 SAND HILL ROAD
+		STREET 2:		SUITE 300
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Paymentus Holdings, Inc.
+		CENTRAL INDEX KEY:			0001841156
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15601 DALLAS PARKWAY
+		STREET 2:		SUITE 600
+		CITY:			ADDISON
+		STATE:			TX
+		ZIP:			75001
+		BUSINESS PHONE:		(888) 440-4826
+
+	MAIL ADDRESS:	
+		STREET 1:		15601 DALLAS PARKWAY
+		STREET 2:		SUITE 600
+		CITY:			ADDISON
+		STATE:			TX
+		ZIP:			75001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001841156</issuerCik>
+        <issuerName>Paymentus Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>PAY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002146338</rptOwnerCik>
+            <rptOwnerName>Williams Gregory Hyde</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ACCEL-KKR</rptOwnerStreet1>
+            <rptOwnerStreet2>2180 SAND HILL ROAD, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>22558</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>188384</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares received in a pro rata distribution from funds affiliated with Accel-KKR. The acquisition of such shares was exempt pursuant to Rule 16a-9(a) under the Securities Exchange Act of 1934, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas C. Barnds, as Attorney-in-Fact for Gregory Hyde Williams</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

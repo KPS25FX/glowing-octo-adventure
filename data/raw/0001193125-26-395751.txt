@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0001193125-26-395751.txt : 20260918
+<SEC-HEADER>0001193125-26-395751.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918173705
+ACCESSION NUMBER:		0001193125-26-395751
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260918
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baratta Joseph
+		CENTRAL INDEX KEY:			0001574706
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33551
+		FILM NUMBER:		261391844
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVE.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Inc.
+		CENTRAL INDEX KEY:			0001393818
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		(212) 583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Blackstone Inc
+		DATE OF NAME CHANGE:	20210806
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Blackstone Group Inc
+		DATE OF NAME CHANGE:	20190628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Blackstone Group L.P.
+		DATE OF NAME CHANGE:	20070320
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001393818</issuerCik>
+        <issuerName>Blackstone Inc.</issuerName>
+        <issuerTradingSymbol>BX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001574706</rptOwnerCik>
+            <rptOwnerName>Baratta Joseph</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42246</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>123.35</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>829353</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>57754</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>124.13</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>771599</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $122.85 to $123.84, inclusive. The Reporting Person undertakes to provide, upon request by the Securities and Exchange Commission staff, the issuer or a security holder of the issuer, full information regarding the number of shares sold at each separate price for all transactions reported on this Form 4.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $123.85 to $124.72, inclusive. The Reporting Person undertakes to provide, upon request by the Securities and Exchange Commission staff, the issuer or a security holder of the issuer, full information regarding the number of shares sold at each separate price for all transactions reported on this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Victoria Portnoy as Attorney-In-Fact</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

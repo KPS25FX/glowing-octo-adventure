@@ -1,0 +1,206 @@
+<SEC-DOCUMENT>0000764180-26-000102.txt : 20260911
+<SEC-HEADER>0000764180-26-000102.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911143231
+ACCESSION NUMBER:		0000764180-26-000102
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McQUADE KATHRYN B.
+		CENTRAL INDEX KEY:			0001187182
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08940
+		FILM NUMBER:		261373962
+
+	MAIL ADDRESS:	
+		STREET 1:		6601 WEST BROAD STREET
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23230
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	MCQUADE KATHRYN B
+		DATE OF NAME CHANGE:	20020907
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALTRIA GROUP, INC.
+		CENTRAL INDEX KEY:			0000764180
+		STANDARD INDUSTRIAL CLASSIFICATION:	CIGARETTES [2111]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				133260245
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6601 WEST BROAD STREET
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23230
+		BUSINESS PHONE:		(804) 274-2200
+
+	MAIL ADDRESS:	
+		STREET 1:		6601 WEST BROAD STREET
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALTRIA GROUP INC
+		DATE OF NAME CHANGE:	20030127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PHILIP MORRIS COMPANIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1789151548.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000764180</issuerCik>
+        <issuerName>ALTRIA GROUP, INC.</issuerName>
+        <issuerTradingSymbol>MO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001187182</rptOwnerCik>
+            <rptOwnerName>McQUADE KATHRYN B.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6601 W BROAD ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RICHMOND</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23230</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>67.62</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>114929</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Phantom Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10601</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10601</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 110,345 deferred shares held in the Stock Compensation Plan for Non-Employee Directors, including an increase of 1,613 shares acquired through the reinvestment of dividends since May 14, 2026, the date of the last reportable transaction.</footnote>
+        <footnote id="F2">Phantom stock units convert to the cash value of the issuer's common stock on a 1-for-1 basis.</footnote>
+        <footnote id="F3">The participant will receive distributions of phantom stock units in cash either prior to or following termination of service as a member of the issuer's board of directors, as elected by the participant.</footnote>
+        <footnote id="F4">Share equivalents held in the Deferred Fee Plan for Non-Employee Directors. This total includes 155 share equivalents acquired through the reinvestment of dividends since May 14, 2026, the date of the last reportable transaction.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Mary C. Bigelow for Kathryn B. McQuade</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

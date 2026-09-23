@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001193125-26-380225.txt : 20260902
+<SEC-HEADER>0001193125-26-380225.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902161930
+ACCESSION NUMBER:		0001193125-26-380225
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McKee Robert Michael
+		CENTRAL INDEX KEY:			0001971122
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41732
+		FILM NUMBER:		261355071
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KODIAK GAS SERVICES, INC.
+		STREET 2:		9950 WOODLOCH FOREST DRIVE, SUITE 1900
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kodiak Gas Services, Inc.
+		CENTRAL INDEX KEY:			0001767042
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION [4922]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				833013440
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9950 WOODLOCH FOREST DRIVE, 19TH FLOOR
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+		BUSINESS PHONE:		936-539-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		9950 WOODLOCH FOREST DRIVE, 19TH FLOOR
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Frontier TopCo, Inc.
+		DATE OF NAME CHANGE:	20190206
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001767042</issuerCik>
+        <issuerName>Kodiak Gas Services, Inc.</issuerName>
+        <issuerTradingSymbol>KGS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001971122</rptOwnerCik>
+            <rptOwnerName>McKee Robert Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>9950 WOODLOCH FOREST DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1900</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77380</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>59.3144</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>292590</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16180</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By StarMac Investments, Ltd.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction is pursuant to a 10b5-1 trading plan adopted May 19, 2026. The price reported is a weighted average sale price. These shares were sold in multiple transactions at prices ranging from $57.74 per share to $60.41 per share, inclusive. The reporting person undertakes to provide to Kodiak Gas Services, Inc., any security holder of Kodiak Gas Services, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F2">These shares of common stock are held by StarMac Investments, Ltd. Mr. McKee is a manager of StarMac Management Co., LLC, the general partner of StarMac Investments, Ltd.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer LeGrand Howard, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001437749-26-030347.txt : 20260914
+<SEC-HEADER>0001437749-26-030347.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914170315
+ACCESSION NUMBER:		0001437749-26-030347
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fisch Matthew
+		CENTRAL INDEX KEY:			0001807992
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39699
+		FILM NUMBER:		261378158
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PARK PLACE
+		STREET 2:		SUITE 200
+		CITY:			DUBLIN
+		STATE:			CA
+		ZIP:			94568
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEye, Inc.
+		CENTRAL INDEX KEY:			0001818644
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				371827430
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4670 WILLOW ROAD, SUITE 125
+		CITY:			PLEASANTON
+		STATE:			CA
+		ZIP:			94588
+		BUSINESS PHONE:		925-400-4366
+
+	MAIL ADDRESS:	
+		STREET 1:		4670 WILLOW ROAD, SUITE 125
+		CITY:			PLEASANTON
+		STATE:			CA
+		ZIP:			94588
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CF Finance Acquisition Corp. III
+		DATE OF NAME CHANGE:	20200717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001818644</issuerCik>
+        <issuerName>AEye, Inc.</issuerName>
+        <issuerTradingSymbol>LIDR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001807992</rptOwnerCik>
+            <rptOwnerName>Fisch Matthew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4670 WILLOW ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 125</rptOwnerStreet2>
+            <rptOwnerCity>PLEASANTON</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94588</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7798</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.30110</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1023179</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were sold for tax purposes.</footnote>
+        <footnote id="F2">The number of shares reported excludes a fractional share (0.433 of a share) sold in the same transaction at a price of $1.3050 per share. Share amounts reported herein have been rounded to the nearest whole share.</footnote>
+        <footnote id="F3">Includes 644,792 shares underlying unvested restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Siraj Husain by power of attorney previously filed</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

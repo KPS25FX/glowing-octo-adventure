@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0001193125-26-380268.txt : 20260902
+<SEC-HEADER>0001193125-26-380268.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902163013
+ACCESSION NUMBER:		0001193125-26-380268
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Yoder Todd Wilbur
+		CENTRAL INDEX KEY:			0002064928
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41867
+		FILM NUMBER:		261355287
+
+	MAIL ADDRESS:	
+		STREET 1:		530 TECHNOLOGY DRIVE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Shimmick Corp
+		CENTRAL INDEX KEY:			0001887944
+		STANDARD INDUSTRIAL CLASSIFICATION:	HEAVY CONSTRUCTION OTHER THAN BUILDING CONST - CONTRACTORS [1600]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				843749368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		530 TECHNOLOGY DRIVE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		949.333.1500
+
+	MAIL ADDRESS:	
+		STREET 1:		530 TECHNOLOGY DRIVE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCCI National Holdings, Inc.
+		DATE OF NAME CHANGE:	20211013
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001887944</issuerCik>
+        <issuerName>Shimmick Corp</issuerName>
+        <issuerTradingSymbol>SHIM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002064928</rptOwnerCik>
+            <rptOwnerName>Yoder Todd Wilbur</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>530 TECHNOLOGY DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92618</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>113315</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per sharere</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>113315</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>234691</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">RSUs convert into common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The RSUs will vest in full and settle into shares of common stock in three equal installments on April 2, 2027, April 3, 2028 and April 2, 2029, subject to Reporting Person's continued employment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ural Yal, Power of Attorney for Todd W. Yoder</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>shim-ex24.htm
+<DESCRIPTION>EX-24
+<TEXT>
+<!-- DFIN ActiveDisclosure (SM) HTML Document - http://www.dfinsolutions.com/ --><!-- Creation Date :2026-09-02T12:31:41.6051+00:00 --><!-- Copyright (c) 2026 Donnelley Financial Solutions, Inc. All Rights Reserved. -->
+<html>
+ <head>
+  <title>EX-24</title>
+ </head>
+ <body style="padding:8px;margin:auto!important;z-index:0;-webkit-text-size-adjust:100%;position:relative;">
+  <div style="padding-top:0.13in;z-index:2;min-height:0.93in;position:relative;box-sizing:border-box;"><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;margin-left:0;margin-right:0;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><p style="margin-left:2.773%;tab-size:26.66px;font-size:12pt;margin-top:4pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">POWER OF ATTORNEY</font></p><p style="tab-size:26.66px;font-size:13pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:13pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12.5pt;margin-top:0.55pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="margin-left:2.773%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Know all by these presents, that the undersigned hereby constitutes and appoints Ural Yal, and with full power of substitution, the undersigned's true and lawful attorney-in- fact to:</font></p><div class="item-list-element-wrapper" style="display:flex;font-size:12pt;margin-right:1.065%;margin-left:8.269%;tab-size:32px;margin-top:6.05pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:3.633449978742192%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(1)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">prepare, execute in the undersigned's name and on the undersigned's behalf, and submit to the U.S. Securities and Exchange Commission (the &#34;SEC&#34;) a Form ID, including amendments thereto, and any other documents necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required by Section 16(a) of the Securities Exchange Act of 1934 or any rule or regulation of the SEC;</font></div></div><div class="item-list-element-wrapper" style="display:flex;font-size:12pt;margin-right:4.398%;margin-left:8.269%;tab-size:32px;margin-top:6.1pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:3.633449978742192%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(2)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">execute for and on behalf of the undersigned, in the undersigned's capacity as an officer and/or director of Shimmick Corporation (the &#34;Company&#34;), Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934 and the rules thereunder;</font></div></div><div class="item-list-element-wrapper" style="display:flex;font-size:12pt;margin-right:1.731%;margin-left:8.269%;tab-size:32px;margin-top:6pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:3.633449978742192%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(3)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5, complete and execute any amendment or amendments thereto, and timely file such form with the SEC and any stock exchange or similar authority; and</font></div></div><div class="item-list-element-wrapper" style="display:flex;font-size:12pt;margin-right:2.667%;margin-left:8.269%;tab-size:32px;margin-top:6pt;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:3.333%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:3.633449978742192%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(4)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's discretion.</font></div></div><p style="margin-left:2.773%;tab-size:26.66px;font-size:12pt;margin-top:5.95pt;font-family:Times New Roman;margin-bottom:0;margin-right:1.028%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">The undersigned hereby grants to such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in- fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorney-in-fact, in serving in such capacity at the request of the undersigned, is not assuming, nor is the Company assuming, any of the undersigned's responsibilities to comply with Section 16 of the Securities Exchange Act of 1934.</font></p><p style="margin-left:2.773%;tab-size:26.66px;font-size:12pt;margin-top:6pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4, and 5 with respect to the undersigned's holdings of and transactions</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;min-height:0.19in;justify-content:flex-end;position:relative;"></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+  <div style="padding-top:0.13in;z-index:2;min-height:0.93in;position:relative;box-sizing:border-box;"><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;margin-left:0;margin-right:0;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><p style="margin-left:2.773%;tab-size:26.66px;font-size:12pt;margin-top:4pt;font-family:Times New Roman;margin-bottom:0;margin-right:1.546%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorney-in-fact.</font></p><p style="margin-left:2.773%;tab-size:26.66px;font-size:8.040000000000001pt;margin-top:5.95pt;font-family:Times New Roman;margin-bottom:0;margin-right:1.546%;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 31</font><font style="color:#000000;white-space:pre-wrap;vertical-align:super;font-size:8.040000000000001pt;line-height:1.5;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">st</font><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> day of August 2026.</font><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> </font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12.5pt;margin-top:0.4pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:12.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	/s/ Todd Yoder</font></p><p style="tab-size:26.66px;font-size:3pt;margin-top:0.1pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:3pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="margin-left:2.773%;tab-size:26.66px;font-size:12pt;margin-top:4.5pt;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Todd Yoder</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;min-height:0.19in;justify-content:flex-end;position:relative;"><p style="tab-size:26.66px;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;margin-left:0;margin-right:0;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

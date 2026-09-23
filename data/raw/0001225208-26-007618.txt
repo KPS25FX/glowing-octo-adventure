@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001225208-26-007618.txt : 20260903
+<SEC-HEADER>0001225208-26-007618.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903161712
+ACCESSION NUMBER:		0001225208-26-007618
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Connor Kevin M
+		CENTRAL INDEX KEY:			0001414859
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41384
+		FILM NUMBER:		261358581
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 3005
+		CITY:			BRIDGEHAMPTON
+		STATE:			NY
+		ZIP:			11932
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hanover Bancorp, Inc. /MD
+		CENTRAL INDEX KEY:			0001828588
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				813324480
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 EAST JERICHO TURNPIKE
+		CITY:			MINEOLA
+		STATE:			NY
+		ZIP:			11501
+		BUSINESS PHONE:		516.548.8500
+
+	MAIL ADDRESS:	
+		STREET 1:		80 EAST JERICHO TURNPIKE
+		CITY:			MINEOLA
+		STATE:			NY
+		ZIP:			11501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hanover Bancorp, Inc. /NY
+		DATE OF NAME CHANGE:	20201015
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001828588</issuerCik>
+        <issuerName>Hanover Bancorp, Inc. /MD</issuerName>
+        <issuerTradingSymbol>HNVR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001414859</rptOwnerCik>
+            <rptOwnerName>O'Connor Kevin M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HANOVER BANCORP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>80 EAST JERICHO TURNPIKE</rptOwnerStreet2>
+            <rptOwnerCity>MINEOLA</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11501</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22300.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of restricted stock subject to forfeiture, vesting over a five year period, with 1/5 vesting on each of September 1, 2027, September 1, 2028, September 1, 2029, September 1, 2030, and September 1, 2031.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kevin M. O'Connor</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

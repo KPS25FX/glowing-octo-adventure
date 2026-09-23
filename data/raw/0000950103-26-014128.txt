@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0000950103-26-014128.txt : 20260917
+<SEC-HEADER>0000950103-26-014128.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917165652
+ACCESSION NUMBER:		0000950103-26-014128
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TYSOE RONALD W
+		CENTRAL INDEX KEY:			0001184472
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11399
+		FILM NUMBER:		261387564
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MACY'S, INC.
+		STREET 2:		7 WEST SEVENTH STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CINTAS CORP
+		CENTRAL INDEX KEY:			0000723254
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEN'S & BOYS' FURNISHINGS, WORK CLOTHING, AND ALLIED GARMENTS [2320]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				311188630
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6800 CINTAS BLVD
+		STREET 2:		P O BOX 625737
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45262
+		BUSINESS PHONE:		5134591200
+
+	MAIL ADDRESS:	
+		STREET 1:		6800 CINTAS BOULEVARD
+		STREET 2:		P O BOX 625737
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45262
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000723254</issuerCik>
+        <issuerName>CINTAS CORP</issuerName>
+        <issuerTradingSymbol>CTAS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184472</rptOwnerCik>
+            <rptOwnerName>TYSOE RONALD W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>P.O. BOX 625737</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45262</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>101.52</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>198.95</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>101.52</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38940.22</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reporting Person elected to defer a portion of the Reporting Person's cash retainer fees into Phantom Stock Units pursuant to the Directors' Deferred Compensation Plan (including dividend equivalents that have been credited as additional Phantom Stock Units), each unit having a value equal to one share of Cintas Corporation common stock but are not actual shares of common stock and carry no voting rights. Phantom Stock Units are payable only in cash after termination of service as a director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brock Denton as Attorney-in-Fact for Ronald W. Tysoe</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

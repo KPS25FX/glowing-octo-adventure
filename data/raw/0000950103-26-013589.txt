@@ -1,0 +1,332 @@
+<SEC-DOCUMENT>0000950103-26-013589.txt : 20260904
+<SEC-HEADER>0000950103-26-013589.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904060208
+ACCESSION NUMBER:		0000950103-26-013589
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wang Shoudong
+		CENTRAL INDEX KEY:			0001975910
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40540
+		FILM NUMBER:		261360084
+
+	MAIL ADDRESS:	
+		STREET 1:		ROOM 1704, BUILDING 2, LANE 1098
+		STREET 2:		XINZHA ROAD, JING'AN DISTRICT
+		CITY:			SHANGHAI
+		STATE:			F4
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Atour Lifestyle Holdings Ltd
+		CENTRAL INDEX KEY:			0001853717
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1ST FLOOR, WUZHONG BUILDING
+		STREET 2:		618 WUZHONG ROAD, MINHANG DISTRICT
+		CITY:			SHANGHAI
+		PROVINCE COUNTRY:   	F4
+		BUSINESS PHONE:		(86) 021-64059928
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1ST FLOOR, WUZHONG BUILDING
+		STREET 2:		618 WUZHONG ROAD, MINHANG DISTRICT
+		CITY:			SHANGHAI
+		PROVINCE COUNTRY:   	F4
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001853717</issuerCik>
+        <issuerName>Atour Lifestyle Holdings Ltd</issuerName>
+        <issuerTradingSymbol>ATAT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001975910</rptOwnerCik>
+            <rptOwnerName>Wang Shoudong</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1ST FLOOR, WUZHONG BUILDING</rptOwnerStreet1>
+            <rptOwnerStreet2>618 WUZHONG ROAD, MINHANG DISTRICT</rptOwnerStreet2>
+            <rptOwnerCity>SHANGHAI</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F4</rptOwnerCountry>
+            <rptOwnerZipCode>201103</rptOwnerZipCode>
+            <rptOwnerStateDescription>CHINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Co-chief financial officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Options (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.01</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-04</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Options (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.01</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2027-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Options (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.01</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2028-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Options (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.01</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2029-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Shoudong Wang</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

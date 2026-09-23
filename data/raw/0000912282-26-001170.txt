@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0000912282-26-001170.txt : 20260828
+<SEC-HEADER>0000912282-26-001170.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828194907
+ACCESSION NUMBER:		0000912282-26-001170
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Holloway Andrew Richard
+		CENTRAL INDEX KEY:			0002116907
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43242
+		FILM NUMBER:		261342085
+
+	MAIL ADDRESS:	
+		STREET 1:		1401 IDAHO STREET
+		CITY:			BUTTE
+		STATE:			MT
+		ZIP:			59702
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SILVER BOW MINING CORP.
+		CENTRAL INDEX KEY:			0002067674
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1401 IDAHO STREET
+		CITY:			BUTTE
+		STATE:			MT
+		ZIP:			59702
+		BUSINESS PHONE:		(406) 718-7593
+
+	MAIL ADDRESS:	
+		STREET 1:		1401 IDAHO STREET
+		CITY:			BUTTE
+		STATE:			MT
+		ZIP:			59702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SILVER BOW MINNG CORP.
+		DATE OF NAME CHANGE:	20250509
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002067674</issuerCik>
+        <issuerName>SILVER BOW MINING CORP.</issuerName>
+        <issuerTradingSymbol>SBMT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002116907</rptOwnerCik>
+            <rptOwnerName>Holloway Andrew Richard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SILVER BOW MINING CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1401 IDAHO STREET</rptOwnerStreet2>
+            <rptOwnerCity>BUTTE</rptOwnerCity>
+            <rptOwnerState>MT</rptOwnerState>
+            <rptOwnerZipCode>59701</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2821</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28617</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>8.86</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock Units, 100% of which will vest and be convertible into Common Shares upon the earliest of (i) a change in control of the Issuer; (ii) a sale of the majority of Issuer's assets; or (iii) the departure of the Reporting Person from the Board of Directors of the Issuer.</footnote>
+        <footnote id="F2">Stock options vest as follows: one-third on the first anniversary of the grant date, and one-third on each subsequent anniversary, subject to continued service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Andrew Holloway</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

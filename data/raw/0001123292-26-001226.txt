@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001123292-26-001226.txt : 20260904
+<SEC-HEADER>0001123292-26-001226.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904160327
+ACCESSION NUMBER:		0001123292-26-001226
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Last Timothy James
+		CENTRAL INDEX KEY:			0002046045
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33963
+		FILM NUMBER:		261362074
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O IRIDIUM COMMUNICATIONS INC.
+		STREET 2:		1676 INTERNATIONAL DRIVE SUITE 1100
+		CITY:			MCLEAN
+		STATE:			VA
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Iridium Communications Inc.
+		CENTRAL INDEX KEY:			0001418819
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				221344998
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1676 INTERNATIONAL DRIVE
+		STREET 2:		SUITE 1100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		703-287-7400
+
+	MAIL ADDRESS:	
+		STREET 1:		1676 INTERNATIONAL DRIVE
+		STREET 2:		SUITE 1100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GHL Acquisition Corp.
+		DATE OF NAME CHANGE:	20071119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001418819</issuerCik>
+        <issuerName>Iridium Communications Inc.</issuerName>
+        <issuerTradingSymbol>IRDM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002046045</rptOwnerCik>
+            <rptOwnerName>Last Timothy James</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O IRIDIUM COMMUNICATIONS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1676 INTERNATIONAL DRIVE, SUITE 1100</rptOwnerStreet2>
+            <rptOwnerCity>MCLEAN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Sales &amp; Marketing</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2013</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>47.36</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>89899</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This price is a weighted average price. These shares were sold in multiple transactions at prices ranging from $47.30 to $47.40, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote to this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter L. Trentman, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,313 @@
+<SEC-DOCUMENT>0001801365-26-000006.txt : 20260914
+<SEC-HEADER>0001801365-26-000006.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914211521
+ACCESSION NUMBER:		0001801365-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ben Tora Eldad
+		CENTRAL INDEX KEY:			0001801365
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-120120-01
+		FILM NUMBER:		261378986
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BE'ER GANIM 54
+		STREET 2:		PO BOX 483
+		CITY:			EVEN YEHUDA
+		PROVINCE COUNTRY:   	L3
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KIDOZ INC.
+		CENTRAL INDEX KEY:			0001318482
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING AGENCIES [7311]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		PACIFIC BUSINESS CENTRE
+		STREET 2:		701 WEST GEORGIA STREET, SUITE 1500
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+		ZIP:			V7Y 1C6
+		BUSINESS PHONE:		6046940300
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		PACIFIC BUSINESS CENTRE
+		STREET 2:		701 WEST GEORGIA STREET, SUITE 1500
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+		ZIP:			V7Y 1C6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SHOAL GAMES LTD.
+		DATE OF NAME CHANGE:	20150202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BINGO.COM LTD.
+		DATE OF NAME CHANGE:	20050222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001318482</issuerCik>
+        <issuerName>KIDOZ INC.</issuerName>
+        <issuerTradingSymbol>KDOZF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>KDOZ</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001801365</rptOwnerCik>
+            <rptOwnerName>Ben Tora Eldad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BE'ER GANIM 54</rptOwnerStreet1>
+            <rptOwnerStreet2>PO BOX 483</rptOwnerStreet2>
+            <rptOwnerCity>EVEN YEHUDA</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Strategy Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-09-11</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.102</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5222465</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.39</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2022-02-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-02-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>395000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.22</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2023-02-21</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>395000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.147</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2024-03-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-03-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>395000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.22</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2025-08-21</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-08-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>270000</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>395000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr Eldad Ben Tora acquired 2,500 shares of Kidoz Inc for US$0.102</footnote>
+        <footnote id="F2">Mr. E. Ben Tora was granted 50,000 stock options at CAD$0.50 (approximately US$0.39) on February 1, 2022. These options vest at 2% per month.</footnote>
+        <footnote id="F3">Mr. E. Ben Tora was granted 50,000 stock options at CAD$0.30 (Approximately US$0.22) on February 21, 2023. These options vest at 2% per month.</footnote>
+        <footnote id="F4">Mr. E. Ben Tora was granted 25,000 stock options at CAD$0.20 (US$0.147) on March 26, 2024. These options vest at 2 percent per month.</footnote>
+        <footnote id="F5">Mr. E. Ben Tora was granted 270,000 options of Kidoz Inc. with an exercise price of CAD$0.25 (approximately US$0.18) on August 21, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ E. Ben Tora</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

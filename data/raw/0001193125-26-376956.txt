@@ -1,0 +1,194 @@
+<SEC-DOCUMENT>0001193125-26-376956.txt : 20260831
+<SEC-HEADER>0001193125-26-376956.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831165122
+ACCESSION NUMBER:		0001193125-26-376956
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Spain Kevin
+		CENTRAL INDEX KEY:			0001586891
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40508
+		FILM NUMBER:		261347286
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O EMERGENCE CAPITAL
+		STREET 2:		PIER 5, STE 102
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Doximity, Inc.
+		CENTRAL INDEX KEY:			0001516513
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				272485512
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 THIRD STREET, SUITE 510
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(650) 549-4330
+
+	MAIL ADDRESS:	
+		STREET 1:		500 THIRD STREET, SUITE 510
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001516513</issuerCik>
+        <issuerName>Doximity, Inc.</issuerName>
+        <issuerTradingSymbol>DOCS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001586891</rptOwnerCik>
+            <rptOwnerName>Spain Kevin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O EMERGENCE CAPITAL</rptOwnerStreet1>
+            <rptOwnerStreet2>5 PIER, STE. 102</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8084</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11305</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>245946</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>387500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Emergence Capital Opportunity I, L.P.</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares represent restricted stock units (each, an &quot;RSU&quot;) granted on August 27, 2026 pursuant to the Issuer's non-employee director compensation policy, which vest in full on the earlier of (i) the first anniversary of the grant date or (ii) the Issuer's next annual meeting of stockholders, subject to the Reporting Person's continued service as a director through the applicable vesting date. Each RSU represents a contingent right to receive one share of the Issuer's Class A Common Stock.</footnote>
+        <footnote id="F2">Represents (i) 8,084 RSUs and (ii) 3,221 shares of Class A Common Stock previously issued to the Reporting Person upon vesting of RSUs. The Reporting Person, a member of Emergence Equity Partners II, L.P. (&quot;EEP II&quot;), is contractually obligated to transfer and/or remit the proceeds of any sale of shares issued upon vesting of RSUs to EEP II. As such, the Reporting Person disclaims Section 16 beneficial ownership of such shares, except to the extent, if any, of his pecuniary interest therein, and this report shall not be deemed an admission that he is the beneficial owner of such shares for Section 16 or any other purpose.</footnote>
+        <footnote id="F3">These shares are held by The Kevin Spain Family Trust Dated 11/14/22. The Reporting Person disclaims Section 16 beneficial ownership of such shares, except to the extent, if any, of his pecuniary interest therein, and this report shall not be deemed an admission that he is the beneficial owner of such shares for Section 16 or any other purpose.</footnote>
+        <footnote id="F4">These shares are held directly by Emergence Capital Opportunity I, L.P. (&quot;ECO I&quot;). The sole general partner of ECO I is Emergence Equity Partners VI, L.P. (&quot;EEP VI&quot;), and the sole general partner of EEP VI is Emergence GP Partners, LLC (&quot;EGP&quot;). The Reporting Person is a member of EEP VI. The Reporting Person disclaims Section 16 beneficial ownership of the shares held by ECO I, except to the extent, if any, of his pecuniary interest therein, and this report shall not be deemed an admission that he is the beneficial owner of such shares for Section 16 or any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kristina Landers, by Power of Attorney from Kevin Spain</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

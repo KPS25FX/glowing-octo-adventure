@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0000897069-26-001739.txt : 20260902
+<SEC-HEADER>0000897069-26-001739.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902175547
+ACCESSION NUMBER:		0000897069-26-001739
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Olson Brieane Lee
+		CENTRAL INDEX KEY:			0002151438
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33764
+		FILM NUMBER:		261356176
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 REMINGTON BLVD.
+		STREET 2:		SUITE 120
+		CITY:			BOLINGBROOK
+		STATE:			IL
+		ZIP:			60440
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ulta Beauty, Inc.
+		CENTRAL INDEX KEY:			0001403568
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				384022268
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 REMINGTON BLVD
+		STREET 2:		SUITE 120
+		CITY:			BOLINGBROOK
+		STATE:			IL
+		ZIP:			60440
+		BUSINESS PHONE:		630-410-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 REMINGTON BLVD
+		STREET 2:		SUITE 120
+		CITY:			BOLINGBROOK
+		STATE:			IL
+		ZIP:			60440
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ulta Salon, Cosmetics & Fragrance, Inc.
+		DATE OF NAME CHANGE:	20070618
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001403568</issuerCik>
+        <issuerName>Ulta Beauty, Inc.</issuerName>
+        <issuerTradingSymbol>ULTA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002151438</rptOwnerCik>
+            <rptOwnerName>Olson Brieane Lee</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1000 REMINGTON BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 120</rptOwnerStreet2>
+            <rptOwnerCity>BOLINGBROOK</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60440</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>271</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>271</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of 271 restricted stock units, vesting 100% on 6/10/2027.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rene G. Casares, as attorney-in-fact for Brieane Lee Olson</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001452310-26-000004.txt : 20260903
+<SEC-HEADER>0001452310-26-000004.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903161508
+ACCESSION NUMBER:		0001452310-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Loyd Kelly William
+		CENTRAL INDEX KEY:			0001452310
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32942
+		FILM NUMBER:		261358534
+
+	MAIL ADDRESS:	
+		STREET 1:		10000 MEMORIAL DRIVE
+		STREET 2:		SUITE 550
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EVOLUTION PETROLEUM CORP
+		CENTRAL INDEX KEY:			0001006655
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				411781991
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1155 DAIRY ASHFORD ROAD
+		STREET 2:		SUITE 425
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+		BUSINESS PHONE:		713-935-0122
+
+	MAIL ADDRESS:	
+		STREET 1:		1155 DAIRY ASHFORD ROAD
+		STREET 2:		SUITE 425
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATURAL GAS SYSTEMS INC/NEW
+		DATE OF NAME CHANGE:	20040817
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATURAL GAS SYSTEMS, INC.
+		DATE OF NAME CHANGE:	20040810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REALITY INTERACTIVE INC
+		DATE OF NAME CHANGE:	19960301
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-09032026_040901.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001006655</issuerCik>
+        <issuerName>EVOLUTION PETROLEUM CORP</issuerName>
+        <issuerTradingSymbol>EPM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001452310</rptOwnerCik>
+            <rptOwnerName>Loyd Kelly William</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1155 DAIRY ASHFORD ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 425</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77079</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>PRESIDENT &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12300</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.69</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>417228</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares surrendered to the Company to satisfy income tax withholding obligations upon the vesting of restricted stock grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ KELLY W. LOYD</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

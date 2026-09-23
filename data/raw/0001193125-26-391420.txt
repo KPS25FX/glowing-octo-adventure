@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001193125-26-391420.txt : 20260915
+<SEC-HEADER>0001193125-26-391420.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915091504
+ACCESSION NUMBER:		0001193125-26-391420
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sutherland Paul Howard
+		CENTRAL INDEX KEY:			0001552487
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27517
+		FILM NUMBER:		261379286
+
+	MAIL ADDRESS:	
+		STREET 1:		111 CASS STREET
+		CITY:			TRAVERSE
+		STATE:			MI
+		ZIP:			49684
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GAIA, INC
+		CENTRAL INDEX KEY:			0001089872
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MOTION PICTURE & VIDEO TAPE PRODUCTION [7812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				841113527
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		833 WEST BOULDER ROAD
+		STREET 2:		BLDG G
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027-2452
+		BUSINESS PHONE:		3032223330
+
+	MAIL ADDRESS:	
+		STREET 1:		833 WEST BOULDER ROAD
+		STREET 2:		BLDG G
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027-2452
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GAIAM, INC
+		DATE OF NAME CHANGE:	20080519
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GAIAM INC
+		DATE OF NAME CHANGE:	19990701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001089872</issuerCik>
+        <issuerName>GAIA, INC</issuerName>
+        <issuerTradingSymbol>GAIA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001552487</rptOwnerCik>
+            <rptOwnerName>Sutherland Paul Howard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>833 W. SOUTH BOULDER ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOUISVILLE</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.3707</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>451073</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <remarks>Purchase of 3,500 shares of class A common stock.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ned Preston Attorney-in-Fact for Paul Sutherland</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

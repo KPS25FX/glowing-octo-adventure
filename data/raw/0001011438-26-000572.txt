@@ -1,0 +1,281 @@
+<SEC-DOCUMENT>0001011438-26-000572.txt : 20260915
+<SEC-HEADER>0001011438-26-000572.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915183142
+ACCESSION NUMBER:		0001011438-26-000572
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260912
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sinha Sumant
+		CENTRAL INDEX KEY:			0001881188
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40752
+		FILM NUMBER:		261382001
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RENEW POWER, COMMERCIAL BLOCK-1 ZN 6
+		STREET 2:		GOLF COURSE ROAD, DLF CITY PHASE-V
+		CITY:			GURUGRAM, HARYANA
+		STATE:			K7
+		ZIP:			122009
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ReNew Energy Global plc
+		CENTRAL INDEX KEY:			0001848763
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			K7
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O RENEW POWER, COMMERCIAL BLOCK-1
+		STREET 2:		ZONE 6, GOLF COURSE RD, DLF CITY PHASE-V
+		CITY:			GURUGRAM-HARYANA
+		STATE:			K7
+		ZIP:			122009
+		BUSINESS PHONE:		91 99710 95748
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RENEW POWER, COMMERCIAL BLOCK-1
+		STREET 2:		ZONE 6, GOLF COURSE RD, DLF CITY PHASE-V
+		CITY:			GURUGRAM-HARYANA
+		STATE:			K7
+		ZIP:			122009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ReNew Energy Global Ltd
+		DATE OF NAME CHANGE:	20210302
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001848763</issuerCik>
+        <issuerName>ReNew Energy Global plc</issuerName>
+        <issuerTradingSymbol>RNW</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001881188</rptOwnerCik>
+            <rptOwnerName>Sinha Sumant</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O RENEW POWER, COMMERCIAL BLOCK-1 ZN 6</rptOwnerStreet1>
+            <rptOwnerStreet2>GOLF COURSE ROAD, DLF CITY PHASE-V</rptOwnerStreet2>
+            <rptOwnerCity>GURUGRAM, HARYANA</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>K7</rptOwnerCountry>
+            <rptOwnerZipCode>122009</rptOwnerZipCode>
+            <rptOwnerStateDescription>INDIA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.87</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>400000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Based Units (PBUs)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0001</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>248040</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>248040</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>248040</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Based Units (PBUs)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0001</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>22988</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>22988</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22988</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 13, 2023, the Issuer granted 1,600,000 performance stock options to Mr. Sinha. On September 13, 2026, 400,000 performance stock options vested based on the applicable performance vesting conditions being met. The remaining 400,000 performance stock options shall vest on September 13, 2027, subject to the applicable performance vesting conditions.</footnote>
+        <footnote id="F2">On September 13, 2023, the Issuer granted Mr. Sinha 238,500 PBUs the vesting of which were subject to achievement of certain Performance Metric. On September 13, 2026, 248,040 PBUs vested based on 104% of the Performance Metrics having been achieved as of the vesting date.</footnote>
+        <footnote id="F3">On September 13, 2023, the Issuer granted to Ms. Vaishali Nigam Sinha, who is Mr. Sinha's spouse, 22,104 PBUs the vesting of which were subject to achievement of certain Performance Metric. On September 12, 2026, 22,988 PBUs vested based on 104% of the Performance Metrics having been achieved as of the vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sumant Sinha</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

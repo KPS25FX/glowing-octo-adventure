@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001140361-26-035318.txt : 20260901
+<SEC-HEADER>0001140361-26-035318.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901160518
+ACCESSION NUMBER:		0001140361-26-035318
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kumar Amresh
+		CENTRAL INDEX KEY:			0001978220
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35776
+		FILM NUMBER:		261350854
+
+	MAIL ADDRESS:	
+		STREET 1:		103 CARNEGIE CENTER
+		STREET 2:		SUITE 300
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08540
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Grace Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001444192
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		103 CARNEGIE CENTER
+		STREET 2:		SUITE 300
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08540
+		BUSINESS PHONE:		609-322-1602
+
+	MAIL ADDRESS:	
+		STREET 1:		103 CARNEGIE CENTER
+		STREET 2:		SUITE 300
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08540
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Acasti Pharma Inc.
+		DATE OF NAME CHANGE:	20080828
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001444192</issuerCik>
+        <issuerName>Grace Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>GRCE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001978220</rptOwnerCik>
+            <rptOwnerName>Kumar Amresh</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GRACE THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>103 CARNEGIE CENTER, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>PRINCETON</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08540</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>VP Program Management</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.12</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35760</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-27</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>35760</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35760</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These options vest quarterly in substantially equal installments over a three-year period, subject to the Reporting Person's continuous service as of each vesting date, The first 1/12 tranche shall vest immediately upon the grant date with the remaining 11/12 vesting equally over the following 11 quarters starting on the three-month anniversary of the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert DelAversano as attorney-in-fact
+for Amresh Kumar</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

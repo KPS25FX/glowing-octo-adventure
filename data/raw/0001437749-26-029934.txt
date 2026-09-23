@@ -1,0 +1,296 @@
+<SEC-DOCUMENT>0001437749-26-029934.txt : 20260909
+<SEC-HEADER>0001437749-26-029934.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909101013
+ACCESSION NUMBER:		0001437749-26-029934
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260905
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OTT AIMEE K
+		CENTRAL INDEX KEY:			0001777049
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-52694
+		FILM NUMBER:		261367037
+
+	MAIL ADDRESS:	
+		STREET 1:		501 KNOWLES AVENUE
+		CITY:			SOUTHAMPTON
+		STATE:			PA
+		ZIP:			18966
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QUAINT OAK BANCORP, INC.
+		CENTRAL INDEX KEY:			0001391933
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED [6036]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				352293957
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		501 KNOWLES AVENUE
+		CITY:			SOUTHAMPTON
+		STATE:			PA
+		ZIP:			18966
+		BUSINESS PHONE:		215 364 4059
+
+	MAIL ADDRESS:	
+		STREET 1:		501 KNOWLES AVENUE
+		CITY:			SOUTHAMPTON
+		STATE:			PA
+		ZIP:			18966
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	QUAINT OAK BANCORP INC
+		DATE OF NAME CHANGE:	20070302
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001391933</issuerCik>
+        <issuerName>QUAINT OAK BANCORP, INC.</issuerName>
+        <issuerTradingSymbol>QNTO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001777049</rptOwnerCik>
+            <rptOwnerName>OTT AIMEE K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O QUAINT OAK BANCORP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>501 KNOWLES AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>SOUTHAMPTON</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>18966</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP and Corporate Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>82</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12403</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5385.082</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5282.8622</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By ESOP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>10.1500</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2035-09-05</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>18.0000</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>13.3000</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2023-05-09</value>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-05-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>8136</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8136</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Disposition solely to meet tax obligation for distribution from stock benefit plan.</footnote>
+        <footnote id="F2">Includes 1,200 shares granted pursuant to the Issuer's 2023 Stock Incentive Plan which reflect the unvested portion of a grant amount originally covering 1,500 shares that commenced vesting at a rate of 20% per year on September 5, 2026, and 1,800 shares granted pursuant to the Issuer's 2023 Stock Incentive Plan which reflect the unvested portion of a grant amount originally covering 4,500 shares that commenced vesting at a rate of 20% per year on May 10, 2024.</footnote>
+        <footnote id="F3">Includes shares acquired in the Issuer's 401(k) Plan since the last filed Form 4. Based on a report dated September 4, 2026.</footnote>
+        <footnote id="F4">The options are vesting at a rate of 20% per year commencing on September 5, 2026.</footnote>
+        <footnote id="F5">The options are vesting at a rate of 20% per year commencing on May 10, 2024.</footnote>
+        <footnote id="F6">The options vested at a rate of 20% per year commencing May 9, 2019 and were fully vested as of May 9, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Aimee K. Ott</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

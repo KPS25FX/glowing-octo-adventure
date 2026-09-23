@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001193125-26-371803.txt : 20260827
+<SEC-HEADER>0001193125-26-371803.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827201500
+ACCESSION NUMBER:		0001193125-26-371803
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nicholson Ryan
+		CENTRAL INDEX KEY:			0001767009
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32431
+		FILM NUMBER:		261332486
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DOLBY LABORATORIES INC.
+		STREET 2:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dolby Laboratories, Inc.
+		CENTRAL INDEX KEY:			0001308547
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				900199783
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0927
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		415 558 0200
+
+	MAIL ADDRESS:	
+		STREET 1:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001308547</issuerCik>
+        <issuerName>Dolby Laboratories, Inc.</issuerName>
+        <issuerTradingSymbol>DLB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001767009</rptOwnerCik>
+            <rptOwnerName>Nicholson Ryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O DOLBY LABORATORIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1275 MARKET STREET</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>VP, CAO and Corp. Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1183</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>65.2773</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34453</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares held following the reported transaction includes 19,303 shares of Class A common stock underlying restricted stock units, which are subject to forfeiture until they vest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Rodriguez as Attorney-in-Fact for Ryan Nichoson</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

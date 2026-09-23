@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0001193125-26-380415.txt : 20260902
+<SEC-HEADER>0001193125-26-380415.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902170148
+ACCESSION NUMBER:		0001193125-26-380415
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JOHNSON KIRK L.
+		CENTRAL INDEX KEY:			0001980592
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32395
+		FILM NUMBER:		261355789
+
+	MAIL ADDRESS:	
+		STREET 1:		SHIPPING & RECEIVING CENTER
+		STREET 2:		16930 PARK ROW DR.
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77084
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONOCOPHILLIPS
+		CENTRAL INDEX KEY:			0001163165
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				010562944
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		925 N. ELDRIDGE PARKWAY
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+		BUSINESS PHONE:		281-293-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		SHIPPING & RECEIVING CENTER
+		STREET 2:		16930 PARK ROW DR.
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77084
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CORVETTEPORSCHE CORP
+		DATE OF NAME CHANGE:	20011204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001163165</issuerCik>
+        <issuerName>CONOCOPHILLIPS</issuerName>
+        <issuerTradingSymbol>COP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001980592</rptOwnerCik>
+            <rptOwnerName>JOHNSON KIRK L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>16930 PARK ROW DR.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77084</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>37930</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-09-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>37930</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37930</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock units represent ConocoPhillips common stock on a 1-for-1 basis.</footnote>
+        <footnote id="F2">The stock units grant settles 5 years from date of grant, subject to earlier or partial settlement upon termination of employment due to layoff, death or disability, or a change in control.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Monica E. White, Attorney in Fact (by Power of Attorney filed herewith)</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>cop-ex24.htm
+<DESCRIPTION>EX-24
+<TEXT>
+<!-- DFIN ActiveDisclosure (SM) HTML Document - http://www.dfinsolutions.com/ --><!-- Creation Date :2026-09-02T16:59:42.8404+00:00 --><!-- Copyright (c) 2026 Donnelley Financial Solutions, Inc. All Rights Reserved. -->
+<html>
+ <head>
+  <title>EX-24</title>
+ </head>
+ <body style="padding:8px;margin:auto!important;z-index:0;-webkit-text-size-adjust:100%;position:relative;">
+  <div style="z-index:2;min-height:1in;position:relative;"></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:center;"><font style="text-transform:uppercase;color:#000000;white-space:pre-wrap;font-weight:bold;text-decoration:underline solid;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">POWER OF ATTORNEY</font></p><p style="text-indent:6.667%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">The undersigned, a person subject to ownership reporting pursuant to Section 16(a) of the Securities Exchange Act of 1934, as amended (the &#x201c;Exchange Act&#x201d;), and requirements pursuant to Rule 144 under the Securities Act of 1933, as amended (the &#x201c;Securities Act&#x201d;), in respect of the equity securities of ConocoPhillips, hereby makes, constitutes and appoints Monica E. White as my true and lawful attorney-in-fact with full power and authority:</font></p><div class="item-list-element-wrapper" style="margin-left:6.667%;tab-size:32px;display:flex;font-size:12pt;margin-top:0;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:12pt;min-width:6.667%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:7.14323979728499%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(1)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">to prepare, execute in my name and on my behalf, and file with the U.S. Securities and Exchange Commission (the &#x201c;SEC&#x201d;) any of the following forms which I may be required or permitted to file:</font></div></div><div class="item-list-element-wrapper" style="display:flex;font-size:12pt;margin-right:6.667%;margin-left:13.333%;tab-size:32px;margin-top:0;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:12pt;min-width:6.667%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:7.692662720527998%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(a)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Form ID and any other documents necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required by Section 16(a) of the Exchange Act or any rule or regulation of the SEC;</font></div></div><div class="item-list-element-wrapper" style="display:flex;font-size:12pt;margin-right:6.667%;margin-left:13.333%;tab-size:32px;margin-top:0;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:12pt;min-width:6.667%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:7.692662720527998%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(b)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Forms 3, 4 and 5 or any other reports or statements of beneficial ownership or changes of beneficial ownership necessary or appropriate under Section 16(a) of the Exchange Act; and</font></div></div><div class="item-list-element-wrapper" style="display:flex;font-size:12pt;margin-right:6.667%;margin-left:13.333%;tab-size:32px;margin-top:0;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:12pt;min-width:6.667%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:7.692662720527998%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(c)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Form 144, or any other notice of proposed sale of securities or other document necessary or appropriate under Rule 144 of the Securities Act.  </font></div></div><div class="item-list-element-wrapper" style="margin-left:6.667%;tab-size:32px;display:flex;font-size:12pt;margin-top:0;justify-content:flex-start;font-family:Times New Roman;align-items:baseline;margin-bottom:0;min-width:6.667%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:7.14323979728499%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(2)</font><div style="display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">to do and perform any and all acts for and on my behalf which may be necessary or desirable to complete and execute any such Form ID, 3, 4, 5, or 144, complete and execute any amendment or amendments thereto, and timely file such form with the SEC and any stock exchange or similar authority.</font></div></div><p style="text-indent:6.667%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">I hereby revoke any previous power of attorney I may have given to any person to make and file such reports, statements and notices with respect to the equity securities of ConocoPhillips.  This Power of Attorney shall remain in force for so long as I may be subject to reporting obligations under Section 16(a) of the Exchange Act or the requirements of Rule 144 under the Securities Act, unless earlier expressly revoked by me in writing and delivered to ConocoPhillips.  Each of my attorneys-in-fact may at their sole discretion designate one or more substitute attorneys-in-fact to act in their place.  I acknowledge that my attorneys-in-fact, in serving in this capacity at my request, are not assuming, nor is ConocoPhillips assuming, any of my responsibilities to comply with the Exchange Act, the Securities Act, or the rules and regulations thereunder.</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">[</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:italic;font-kerning:none;min-width:fit-content;">Signature page follows</font><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">]</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+  <div style="z-index:2;min-height:1in;position:relative;"></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><p style="text-indent:6.667%;tab-size:26.66px;font-size:8.040000000000001pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 12</font><font style="color:#000000;white-space:pre-wrap;vertical-align:super;font-size:8.040000000000001pt;line-height:1.5;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">th</font><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> day of May 2026.</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:40%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">/s/ KIRK L. JOHNSON	</font></p><p style="text-indent:40%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">KIRK L. JOHNSON</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">STATE OF TEXAS     	&#167;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">				&#167;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">COUNTY OF HARRIS	&#167;</font></p><p style="text-indent:6.667%;tab-size:26.66px;font-size:8.040000000000001pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">On this 12</font><font style="color:#000000;white-space:pre-wrap;vertical-align:super;font-size:8.040000000000001pt;line-height:1.5;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">th</font><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> day of May 2026, KIRK L. JOHNSON personally appeared before me and acknowledged that he executed the foregoing instrument for the purposes therein contained.</font></p><p style="text-indent:6.667%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">IN WITNESS WHEREOF, I have hereunto set my hand and official seal.</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="text-indent:40%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">/s/ Heather Dawn Scott		</font></p><p style="text-indent:40%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">Notary Public</font></p><p style="text-indent:40%;tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">My Commission Expires: May 24, 2028</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

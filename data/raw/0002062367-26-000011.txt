@@ -1,0 +1,289 @@
+<SEC-DOCUMENT>0002062367-26-000011.txt : 20260915
+<SEC-HEADER>0002062367-26-000011.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915130824
+ACCESSION NUMBER:		0002062367-26-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hill Jesse P.
+		CENTRAL INDEX KEY:			0002062367
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38493
+		FILM NUMBER:		261380102
+
+	MAIL ADDRESS:	
+		STREET 1:		2219 RIMLAND DR STE 301
+		CITY:			BELLINGHAM
+		STATE:			WA
+		ZIP:			98226
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGNT, Inc.
+		CENTRAL INDEX KEY:			0001495932
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE AGENTS & MANAGERS (FOR OTHERS) [6531]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				980681092
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2219 RIMLAND DR., SUITE 301
+		CITY:			BELLINGHAM
+		STATE:			WA
+		ZIP:			98226
+		BUSINESS PHONE:		360-685-4206
+
+	MAIL ADDRESS:	
+		STREET 1:		2219 RIMLAND DR., SUITE 301
+		CITY:			BELLINGHAM
+		STATE:			WA
+		ZIP:			98226
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	eXp World Holdings, Inc.
+		DATE OF NAME CHANGE:	20250219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXP World Holdings, Inc.
+		DATE OF NAME CHANGE:	20160509
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXP Realty International Corp
+		DATE OF NAME CHANGE:	20130909
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001495932</issuerCik>
+        <issuerName>AGNT, Inc.</issuerName>
+        <issuerTradingSymbol>AGNT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002062367</rptOwnerCik>
+            <rptOwnerName>Hill Jesse P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AGNT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2219 RIMLAND DRIVE, SUITE 301</rptOwnerStreet2>
+            <rptOwnerCity>BELLINGHAM</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98226</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1161.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10378.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>333.00</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.11</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10045.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Vesting of restricted stock units (&quot;RSUs&quot;) previously granted to the Reporting Person.</footnote>
+        <footnote id="F2">Represents shares withheld from the Reporting Person to cover tax obligations.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James Bramble, attorney-in-fact for Jesse P. Hill</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>hillpoa.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+POWER OF ATTORNEY
+The undersigned hereby constitutes and appoints James Bramble,
+of eXp World Holdings Inc., (the "Company"), signing singly, as
+the undersigned's true and lawful attorney-in-fact to:
+(1)	execute for and on behalf of the undersigned, in the undersigned's
+capacity as an officer of the Company, Forms 3, 4 and 5 in
+accordance with Section 16(a) of the Securities Exchange Act of 1934
+and the rules thereunder (the "Exchange Act"), as well as the Form
+ID to obtain and/or renew EDGAR codes for use in connection with the
+filing of Forms 3, 4 and 5 and any other related documentation;
+(2)	do and perform any and all acts for and on behalf of the
+undersigned which may be necessary or desirable to complete and
+execute any such Forms 3, 4 or 5, Form ID or other related
+documentation, complete and execute any amendment or amendments
+thereto, and timely file such forms or documentation with the United
+States Securities and Exchange Commission and any stock exchange or
+similar authority;
+(3)	take any other action of any type whatsoever in connection with
+the foregoing which, in the opinion of such attorney-in-fact, may be
+of benefit to, in the best interest of, or legally required by, the
+undersigned, it being understood that the documents executed by such
+attorney-in-fact on behalf of the undersigned pursuant to this Power
+of Attorney shall be in such form and shall contain such terms and
+conditions as such attorney-in-fact may approve in such attorney-in-
+fact's discretion; and
+(4)	in connection with the preparation and filing of Forms 3, 4 and 5,
+seek or obtain, as the undersigned's attorney-in-fact and on the
+undersigned's behalf, information regarding transactions in the
+Company's securities from any third party, including brokers,
+employee benefit plan administrators and trustees, and the
+undersigned hereby authorizes any such person to release any such
+information to such attorney-in-fact and approves and ratifies any
+such release of information.
+The undersigned hereby grants to each such attorney-in-fact full
+power and authority to do and perform any and every act and thing
+whatsoever requisite, necessary, or proper to be done in connection
+with the exercise of any of the rights and powers herein granted,
+as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or
+revocation, hereby ratifying and confirming all that such attorney-
+in-fact, or such attorney-in-fact's substitute or substitutes,
+shall lawfully do or cause to be done by virtue of this Power of
+Attorney and the rights and powers herein granted. The undersigned
+acknowledges that the foregoing attorneys-in-fact, in serving in
+such capacity at the request of the undersigned, are not assuming,
+nor is the Company assuming, any of the undersigned's
+responsibilities to comply with Section 16 of the Exchange Act.
+This Power of Attorney shall remain in full force and effect until
+the undersigned is no longer required to file Forms 3, 4, and 5
+with respect to the undersigned's holdings of and transactions in
+securities issued by the Company, unless earlier revoked by the
+undersigned in a signed writing delivered to the foregoing
+attorneys-in-fact.
+This Power of Attorney does not relieve the undersigned from
+responsibility for compliance with the undersigned's obligations
+under the Exchange Act, including, without limitation, the reporting
+requirements under Section 16 of the Exchange Act. Additionally,
+although pursuant to this Power of Attorney the Company will use
+commercially reasonable best efforts to timely and accurately file
+Section 16 reports on behalf of the undersigned, the Company does
+not represent or warrant that it will be able to in all cases timely
+and accurately file Section 16 reports on behalf of the undersigned
+due to various factors, including, but not limited to, the shorter
+deadlines mandated by the Sarbanes-Oxley Act of 2002, possible time
+zone differences between the Company and the undersigned and the
+Company's need to rely on other parties for information, including
+the undersigned and brokers of the undersigned.
+IN WITNESS WHEREOF, the undersigned has caused this Power of
+Attorney to be executed as of this 13th day of March, 2025.
+/s/Jesse Hill
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

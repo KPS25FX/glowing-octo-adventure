@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0000055135-26-000163.txt : 20260916
+<SEC-HEADER>0000055135-26-000163.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916180033
+ACCESSION NUMBER:		0000055135-26-000163
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Layden Christopher D.
+		CENTRAL INDEX KEY:			0002083780
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43052
+		FILM NUMBER:		261384730
+
+	MAIL ADDRESS:	
+		STREET 1:		999 W. BIG BEAVER ROAD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KELLY SERVICES INC
+		CENTRAL INDEX KEY:			0000055135
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HELP SUPPLY SERVICES [7363]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				381510762
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0103
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 W BIG BEAVER RD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+		BUSINESS PHONE:		2483624444
+
+	MAIL ADDRESS:	
+		STREET 1:		999 WEST BIG BEAVER RD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000055135</issuerCik>
+        <issuerName>KELLY SERVICES INC</issuerName>
+        <issuerTradingSymbol>KELYA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002083780</rptOwnerCik>
+            <rptOwnerName>Layden Christopher D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>999 W. BIG BEAVER ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TROY</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48084</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President, and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock, Par Value $1</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15998</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.45</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>366515</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares withheld by the issuer to satisfy applicable tax withholding obligations in connection with the vesting of restricted stock awards previously reported.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cynthia D. Mull, attorney-in-fact for Mr. Layden</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

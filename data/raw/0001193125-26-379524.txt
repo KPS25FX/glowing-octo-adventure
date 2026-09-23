@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-379524.txt : 20260902
+<SEC-HEADER>0001193125-26-379524.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902102150
+ACCESSION NUMBER:		0001193125-26-379524
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Holcomb John Bradley
+		CENTRAL INDEX KEY:			0002092279
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40908
+		FILM NUMBER:		261353017
+
+	MAIL ADDRESS:	
+		STREET 1:		2511 WILLOWWICK ROAD, APT 603
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MiNK Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001840229
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		149 FIFTH AVENUE
+		STREET 2:		SUITE 500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+		BUSINESS PHONE:		212-994-8250
+
+	MAIL ADDRESS:	
+		STREET 1:		149 FIFTH AVENUE
+		STREET 2:		SUITE 500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AgenTus Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20210112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001840229</issuerCik>
+        <issuerName>MiNK Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>INKT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002092279</rptOwnerCik>
+            <rptOwnerName>Holcomb John Bradley</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>149 FIFTH AVENUE, SUITE 500</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10010</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1233</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.95</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4691</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person was granted restricted stock units (&quot;RSUs&quot;), which represent a contingent right to receive one share of Common Stock for each RSU. The RSUs were received in lieu of cash retainers for board and committee compensation.  The RSUs will vest one month from the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Melissa Orilall, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

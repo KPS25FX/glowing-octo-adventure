@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0000919574-26-006389.txt : 20260918
+<SEC-HEADER>0000919574-26-006389.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918160121
+ACCESSION NUMBER:		0000919574-26-006389
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Traaholt Knut
+		CENTRAL INDEX KEY:			0002021394
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38904
+		FILM NUMBER:		261390777
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FLEX LNG LTD PAR-LA-VILLE PLACE
+		STREET 2:		14 PAR-LA-VILLE PLACE
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 09
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Flex LNG Ltd.
+		CENTRAL INDEX KEY:			0001772253
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER TRANSPORTATION [4400]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PAR-LA-VILLE PLACE
+		STREET 2:		14 PAR-LA-VILLE ROAD
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			00000
+		BUSINESS PHONE:		47 23 11 40 00
+
+	MAIL ADDRESS:	
+		STREET 1:		PAR-LA-VILLE PLACE
+		STREET 2:		14 PAR-LA-VILLE ROAD
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001772253</issuerCik>
+        <issuerName>Flex LNG Ltd.</issuerName>
+        <issuerTradingSymbol>FLNG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002021394</rptOwnerCik>
+            <rptOwnerName>Traaholt Knut</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FLEX LNG LTD</rptOwnerStreet1>
+            <rptOwnerStreet2>14 PAR-LA-VILLE PLACE</rptOwnerStreet2>
+            <rptOwnerCity>HAMILTON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D0</rptOwnerCountry>
+            <rptOwnerZipCode>HM 08</rptOwnerZipCode>
+            <rptOwnerStateDescription>BERMUDA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Synthetic options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>20.00</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20348</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-06-24</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-06-24</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Cash-settled synthetic option</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>124614</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 17, 2026, the reporting person exercised 20,348 vested synthetic options for cash settlement pursuant to the Issuer's Synthetic Option Scheme. The cash settlement value was determined based on the closing price of the Issuer's ordinary shares on the New York Stock Exchange on September 17, 2026 of $32.52 per share less the strike price of $20.00 per synthetic share option, which reflects adjustments made pursuant to the Issuer's Synthetic Option Scheme, including adjustments for dividends. No ordinary shares were issued upon exercise.</footnote>
+        <footnote id="F2">The reported exercise relates to the first tranche of synthetic options granted on June 24, 2025 under the Issuer's Synthetic Option Scheme. This tranche consisted of 20,348 synthetic options, all of which vested on June 24, 2026 and became exercisable upon vesting. The synthetic options issued pursuant to the Issuer's Synthetic Option Scheme vest over a three-year period in increments of one-third per annum with initial vesting on June 24, 2026 and subsequent vesting on June 24, 2027 and June 24, 2028.</footnote>
+        <footnote id="F3">The reported securities are cash-settled synthetic options granted under the Issuer's Synthetic Option Scheme and do not represent a right to acquire ordinary shares of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Knut Traaholt</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

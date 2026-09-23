@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001830165-26-000030.txt : 20260828
+<SEC-HEADER>0001830165-26-000030.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828100726
+ACCESSION NUMBER:		0001830165-26-000030
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Scheiwer Mark J
+		CENTRAL INDEX KEY:			0001830165
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11593
+		FILM NUMBER:		261333936
+
+	MAIL ADDRESS:	
+		STREET 1:		14111 SCOTTSLAWN ROAD
+		CITY:			MARYSVILLE
+		STATE:			OH
+		ZIP:			43041
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCOTTS MIRACLE-GRO CO
+		CENTRAL INDEX KEY:			0000825542
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				311414921
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14111 SCOTTSLAWN ROAD
+		CITY:			MARYSVILLE
+		STATE:			OH
+		ZIP:			43041
+		BUSINESS PHONE:		9376440011
+
+	MAIL ADDRESS:	
+		STREET 1:		14111 SCOTTSLAWN ROAD
+		STREET 2:		N/A
+		CITY:			MARYSVILLE
+		STATE:			OH
+		ZIP:			43041
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCOTTS COMPANY
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CDS HOLDING CORP
+		DATE OF NAME CHANGE:	19900104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1787926043.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000825542</issuerCik>
+        <issuerName>SCOTTS MIRACLE-GRO CO</issuerName>
+        <issuerTradingSymbol>SMG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001830165</rptOwnerCik>
+            <rptOwnerName>Scheiwer Mark J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O THE SCOTTS MIRACLE-GRO COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>14111 SCOTTSLAWN ROAD</rptOwnerStreet2>
+            <rptOwnerCity>MARYSVILLE</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43041</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, CFO &amp; CAO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11.983</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>62.59</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11.983</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1420.587</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of phantom stock represents the right to receive one common share of Issuer or the cash value thereof.</footnote>
+        <footnote id="F2">Shares of phantom stock are payable in cash following termination of the reporting person's employment with Issuer.  The reporting person may transfer his/her phantom stock into an alternative investment at any time.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kathy L. Uttley as attorney-in-fact for Mark J. Scheiwer</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

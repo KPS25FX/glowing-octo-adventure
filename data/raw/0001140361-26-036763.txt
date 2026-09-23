@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001140361-26-036763.txt : 20260916
+<SEC-HEADER>0001140361-26-036763.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916141820
+ACCESSION NUMBER:		0001140361-26-036763
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Moen Brent
+		CENTRAL INDEX KEY:			0001512710
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42437
+		FILM NUMBER:		261383288
+
+	MAIL ADDRESS:	
+		STREET 1:		3600 HOLLY LANE NORTH, SUITE 40
+		CITY:			PLYMOUTH
+		STATE:			MN
+		ZIP:			55447
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Anteris Technologies Global Corp.
+		CENTRAL INDEX KEY:			0002011514
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		860 BLUE GENTIAN ROAD
+		STREET 2:		SUITE 340
+		CITY:			EAGAN
+		STATE:			MN
+		ZIP:			55121
+		BUSINESS PHONE:		651-493-0606
+
+	MAIL ADDRESS:	
+		STREET 1:		860 BLUE GENTIAN ROAD
+		STREET 2:		SUITE 340
+		CITY:			EAGAN
+		STATE:			MN
+		ZIP:			55121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002011514</issuerCik>
+        <issuerName>Anteris Technologies Global Corp.</issuerName>
+        <issuerTradingSymbol>AVR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>(AVR)</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001512710</rptOwnerCik>
+            <rptOwnerName>Moen Brent</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>TOOWONG TOWER, LEVEL 3</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 302, 9 SHERWOOD ROAD</rptOwnerStreet2>
+            <rptOwnerCity>TOOWONG</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>QLD</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C3</rptOwnerCountry>
+            <rptOwnerZipCode>4066</rptOwnerZipCode>
+            <rptOwnerStateDescription>AUSTRALIA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>8.35</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>90274</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>90274</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>90274</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 11, 2026, the Reporting Person was granted 90,274 stock options, which vest in approximately equal installments on September 11, 2027, September 11, 2028 and September 11, 2029, subject to the Reporting Person's continued service through each vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brent Moen</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

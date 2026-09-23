@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001193125-26-385198.txt : 20260908
+<SEC-HEADER>0001193125-26-385198.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908161004
+ACCESSION NUMBER:		0001193125-26-385198
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Graboske Benjamin
+		CENTRAL INDEX KEY:			0002052028
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39641
+		FILM NUMBER:		261365153
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DEFINITIVE HEALTHCARE CORP.
+		STREET 2:		492 OLD CONNECTICUT PATH, SUITE 401
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01701
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Offerpad Solutions Inc.
+		CENTRAL INDEX KEY:			0001825024
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE AGENTS & MANAGERS (FOR OTHERS) [6531]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				852800538
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 S FARMER AVE
+		STREET 2:		SUITE 500
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85281
+		BUSINESS PHONE:		(844) 388-4539
+
+	MAIL ADDRESS:	
+		STREET 1:		433 S FARMER AVE
+		STREET 2:		SUITE 500
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85281
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Supernova Partners Acquisition Company, Inc.
+		DATE OF NAME CHANGE:	20200916
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001825024</issuerCik>
+        <issuerName>Offerpad Solutions Inc.</issuerName>
+        <issuerTradingSymbol>OPAD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002052028</rptOwnerCik>
+            <rptOwnerName>Graboske Benjamin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O OFFERPAD SOLUTIONS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>433 S. FARMER AVENUE, SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>TEMPE</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85281</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33820</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33820</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of restricted stock units (&quot;RSUs&quot;). Each RSU represents a contingent right to receive one share of Class A common stock of Offerpad Solutions Inc. The RSUs vest as to one-third of the underlying shares on the first three anniversaries of September 3, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam Martinez, as Attorney-In-Fact for Benjamin Graboske</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

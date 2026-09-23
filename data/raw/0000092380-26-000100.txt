@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0000092380-26-000100.txt : 20260825
+<SEC-HEADER>0000092380-26-000100.hdr.sgml : 20260825
+<ACCEPTANCE-DATETIME>20260825165907
+ACCESSION NUMBER:		0000092380-26-000100
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260821
+FILED AS OF DATE:		20260825
+DATE AS OF CHANGE:		20260825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Martinez Jimmy Ryan
+		CENTRAL INDEX KEY:			0002063874
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07259
+		FILM NUMBER:		261316646
+
+	MAIL ADDRESS:	
+		STREET 1:		2702 LOVE FIELD DRIVE
+		STREET 2:		HDQ 4GC
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75235
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHWEST AIRLINES CO
+		CENTRAL INDEX KEY:			0000092380
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				741563240
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2702 LOVE FIELD DR
+		STREET 2:		P O BOX 36611
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75235
+		BUSINESS PHONE:		2147924000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 36611
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75235-1611
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AIR SOUTHWEST CO
+		DATE OF NAME CHANGE:	19760108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1787691545.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000092380</issuerCik>
+        <issuerName>SOUTHWEST AIRLINES CO</issuerName>
+        <issuerTradingSymbol>LUV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002063874</rptOwnerCik>
+            <rptOwnerName>Martinez Jimmy Ryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2702 LOVE FIELD DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>HDQ 4GC</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75235</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Principal Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>179</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>40.38</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25244</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>942</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Retirement Savings Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Holdings reflect exempt transactions under the Issuer's Retirement Savings Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Blair Hendrix, on behalf of and as attorney-in-fact for Jimmy Ryan Martinez</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

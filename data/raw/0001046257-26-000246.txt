@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001046257-26-000246.txt : 20260901
+<SEC-HEADER>0001046257-26-000246.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901122812
+ACCESSION NUMBER:		0001046257-26-000246
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Leonard Michael J
+		CENTRAL INDEX KEY:			0002020263
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13397
+		FILM NUMBER:		261349477
+
+	MAIL ADDRESS:	
+		STREET 1:		5 WESTBROOK CORPORATE CENTER
+		CITY:			WESTCHESTER
+		STATE:			IL
+		ZIP:			60154
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ingredion Inc
+		CENTRAL INDEX KEY:			0001046257
+		STANDARD INDUSTRIAL CLASSIFICATION:	GRAIN MILL PRODUCTS [2040]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				223514823
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5 WESTBROOK CORPORATE CENTER
+		CITY:			WESTCHESTER
+		STATE:			IL
+		ZIP:			60154
+		BUSINESS PHONE:		7085512600
+
+	MAIL ADDRESS:	
+		STREET 1:		INGREDION INCORPORATED
+		STREET 2:		5 WESTBROOK CORPORATE CENTER
+		CITY:			WESTCHESTER
+		STATE:			IL
+		ZIP:			60154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CORN PRODUCTS INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19970917
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001046257</issuerCik>
+        <issuerName>Ingredion Inc</issuerName>
+        <issuerTradingSymbol>INGR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002020263</rptOwnerCik>
+            <rptOwnerName>Leonard Michael J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5 WESTBROOK CORPORATE CENTER</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WESTCHESTER</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP, CIO &amp; Head of Prot. Fort.</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33.015</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>103.46</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>33.015</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1866.963</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the aggregate number of shares of phantom stock allocated to the reporting person under the Non-Qualified Deferred Compensation Plan as of the date hereof based on the closing price of a share of the issuer's Common Stock on August 31, 2026. Each phantom stock unit represents the right to receive one share of common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Michael N. Levy, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

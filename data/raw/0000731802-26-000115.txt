@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0000731802-26-000115.txt : 20260917
+<SEC-HEADER>0000731802-26-000115.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917155200
+ACCESSION NUMBER:		0000731802-26-000115
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROBBINS J MATT
+		CENTRAL INDEX KEY:			0001693927
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10042
+		FILM NUMBER:		261386694
+
+	MAIL ADDRESS:	
+		STREET 1:		5430 LBJ FREEWAY
+		CITY:			DALLAS
+		STATE:			TX
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATMOS ENERGY CORP
+		CENTRAL INDEX KEY:			0000731802
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS DISTRIBUTION [4924]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				751743247
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1800 THREE LINCOLN CTR
+		STREET 2:		5430 LBJ FREEWAY
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+		BUSINESS PHONE:		9729349227
+
+	MAIL ADDRESS:	
+		STREET 1:		1800 THREE LINCOLN CTR
+		STREET 2:		5430 LBJ FREEWAY
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENERGAS CO
+		DATE OF NAME CHANGE:	19881024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000731802</issuerCik>
+        <issuerName>ATMOS ENERGY CORP</issuerName>
+        <issuerTradingSymbol>ATO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001693927</rptOwnerCik>
+            <rptOwnerName>ROBBINS J MATT</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5430 LBJ FREEWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>1800 III LINCOLN CENTRE</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75240</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SR VP, HUMAN RESOURCES</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1500</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25866.083</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2949.5771</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Retirement Savings Plan and Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects the gift of common stock to a charitable donor advised fund.</footnote>
+        <footnote id="F2">To update end of period holdings as of September 1, 2026, under the Atmos Energy Corporation Retirement Savings Plan and Trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Suzanne Johnson by POA</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

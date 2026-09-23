@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001072627-26-000052.txt : 20260901
+<SEC-HEADER>0001072627-26-000052.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901170304
+ACCESSION NUMBER:		0001072627-26-000052
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hansen Kent A
+		CENTRAL INDEX KEY:			0001686017
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15204
+		FILM NUMBER:		261351688
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KINGSWAY FINANCIAL SERVICES INC.
+		STREET 2:		150 PIERCE ROAD, SUITE 600
+		CITY:			ITASCA
+		STATE:			IL
+		ZIP:			60143
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KINGSWAY Corp
+		CENTRAL INDEX KEY:			0001072627
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				999999999
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10 S. RIVERSIDE PLAZA
+		STREET 2:		SUITE 1520
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		(312) 766-2144
+
+	MAIL ADDRESS:	
+		STREET 1:		10 S. RIVERSIDE PLAZA
+		STREET 2:		SUITE 1520
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KINGSWAY FINANCIAL SERVICES INC
+		DATE OF NAME CHANGE:	19981026
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001072627</issuerCik>
+        <issuerName>KINGSWAY Corp</issuerName>
+        <issuerTradingSymbol>KWY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001686017</rptOwnerCik>
+            <rptOwnerName>Hansen Kent A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>10 S. RIVERSIDE PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1520</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60606</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CFO &amp; EVP</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>149</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.45</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>136344</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares of Common Stock were acquired pursuant to the Kingsway America Inc. Employee Share Purchase Plan, as amended and restated effective May 29, 2014 (the &quot;ESPP&quot;). Pursuant to the ESPP, eligible employees may contribute an amount up to 5% of adjusted salary for each regular payroll period and, to the extent such employee has been employed by Kingsway America Inc. and its subsidiaries for 12 months, the company will make a matching contribution equal to 100% of such employee's contribution. The employee contributions and company contributions are used to purchase, as soon as administratively practicable after the date of such contributions, shares of Kingsway Corporation The shares are acquired by the administrator of the ESPP on the open market through the services of a duly registered stockbroker.</footnote>
+        <footnote id="F2">Includes 6,909 shares of restricted stock granted on December 4, 2024, and 14,568 shares of restricted stock granted on March 17, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Debra S. Rouse, attorney-in-fact for Kent A. Hansen</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

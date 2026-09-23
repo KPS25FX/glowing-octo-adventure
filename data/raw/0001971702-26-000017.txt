@@ -1,0 +1,188 @@
+<SEC-DOCUMENT>0001971702-26-000017.txt : 20260916
+<SEC-HEADER>0001971702-26-000017.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916162727
+ACCESSION NUMBER:		0001971702-26-000017
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wai Conrad
+		CENTRAL INDEX KEY:			0001971702
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39252
+		FILM NUMBER:		261384034
+
+	MAIL ADDRESS:	
+		STREET 1:		3401 MALLORY LANE
+		STREET 2:		SUITE 210
+		CITY:			FRANKLIN
+		STATE:			TN
+		ZIP:			37067
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLOVER HEALTH INVESTMENTS, CORP. /DE
+		CENTRAL INDEX KEY:			0001801170
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOSPITAL & MEDICAL SERVICE PLANS [6324]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				981515192
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 MONTGOMERY STREET
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07302
+		BUSINESS PHONE:		(201) 432-2133
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CORPORATION TRUST COMPANY
+		STREET 2:		1209 ORANGE STREET
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLOVER HEALTH INVESTMENTS, CORP.
+		DATE OF NAME CHANGE:	20210107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Social Capital Hedosophia Holdings Corp. III
+		DATE OF NAME CHANGE:	20200124
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1789590444.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001801170</issuerCik>
+        <issuerName>CLOVER HEALTH INVESTMENTS, CORP. /DE</issuerName>
+        <issuerTradingSymbol>CLOV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001971702</rptOwnerCik>
+            <rptOwnerName>Wai Conrad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CLOVER HEALTH INVESTMENTS, CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>NOT APPLICABLE</rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>DE</rptOwnerState>
+            <rptOwnerZipCode>19801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO, Counterpart Health</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.72</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1170056</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1065699</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported in this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 8, 2026. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $4.60 to $5.06, inclusive. The Reporting Person undertakes to provide to the Securities and Exchange Commission staff, the issuer, or any security holder of the issuer, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote.</footnote>
+        <footnote id="F2">Shares held in trust for the benefit of the Reporting Person's family, of which the Reporting Person is a co-trustee.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter J. Rivas as attorney-in-fact for Conrad Wai</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0000829224-26-000135.txt : 20260909
+<SEC-HEADER>0000829224-26-000135.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909185404
+ACCESSION NUMBER:		0000829224-26-000135
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BREWER BRADY
+		CENTRAL INDEX KEY:			0002018223
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20322
+		FILM NUMBER:		261369247
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARBUCKS CORP
+		CENTRAL INDEX KEY:			0000829224
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING & DRINKING PLACES [5810]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				911325671
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0928
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 34067
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98124-1067
+		BUSINESS PHONE:		2064471575
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000829224</issuerCik>
+        <issuerName>STARBUCKS CORP</issuerName>
+        <issuerTradingSymbol>SBUX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002018223</rptOwnerCik>
+            <rptOwnerName>BREWER BRADY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2401 UTAH AVENUE SOUTH</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>ceo, International</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2229</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>105.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>73148.502</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported on this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on December 3, 2025.</footnote>
+        <footnote id="F2">Includes 243 shares representing dividend equivalents on unvested time-based restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan Miner, attorney-in-fact for Brady Brewer</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

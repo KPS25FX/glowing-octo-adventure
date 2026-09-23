@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-382378.txt : 20260903
+<SEC-HEADER>0001193125-26-382378.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903200647
+ACCESSION NUMBER:		0001193125-26-382378
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Roks Edwin
+		CENTRAL INDEX KEY:			0001705520
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31285
+		FILM NUMBER:		261359891
+
+	MAIL ADDRESS:	
+		STREET 1:		4606 PINE VALLEY PLACE
+		CITY:			WESTLAKE VILLAGE, CA  91362
+		STATE:			CA
+		ZIP:			91362
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TTM TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001116942
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTED CIRCUIT BOARDS [3672]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				911033443
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 EAST SANDPOINTE
+		STREET 2:		SUITE 400
+		CITY:			SANTA ANA
+		STATE:			CA
+		ZIP:			92707
+		BUSINESS PHONE:		7143273000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 EAST SANDPOINTE
+		STREET 2:		SUITE 400
+		CITY:			SANTA ANA
+		STATE:			CA
+		ZIP:			92707
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001116942</issuerCik>
+        <issuerName>TTM TECHNOLOGIES INC</issuerName>
+        <issuerTradingSymbol>TTMI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705520</rptOwnerCik>
+            <rptOwnerName>Roks Edwin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>200 EAST SANDPOINTE, SUITE 400</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SANTA ANA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92707</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5331</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>115.3300</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59483</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld for payment of tax liability upon vesting of restricted stock units in accordance with Rule 16b-3.</footnote>
+        <footnote id="F2">Represents the closing price of the common stock of the Issuer on September 1, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel J. Weber, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

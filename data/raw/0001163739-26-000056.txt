@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001163739-26-000056.txt : 20260828
+<SEC-HEADER>0001163739-26-000056.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828171949
+ACCESSION NUMBER:		0001163739-26-000056
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tudor David J
+		CENTRAL INDEX KEY:			0001432308
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32657
+		FILM NUMBER:		261341532
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NABORS CORPORATE SERVICES, INC.
+		STREET 2:		515 W. GREENS ROAD
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77067
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NABORS INDUSTRIES LTD
+		CENTRAL INDEX KEY:			0001163739
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRILLING OIL & GAS WELLS [1381]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				980363970
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CROWN HOUSE
+		STREET 2:		4 PAR-LA-VILLE ROAD   SECOND FLOOR
+		CITY:			HAMILTON, HM08
+		STATE:			D0
+		ZIP:			0000
+		BUSINESS PHONE:		4412921510
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX HM3349
+		CITY:			HAMILTON, HMPX
+		STATE:			D0
+		ZIP:			0000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001163739</issuerCik>
+        <issuerName>NABORS INDUSTRIES LTD</issuerName>
+        <issuerTradingSymbol>NBR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001432308</rptOwnerCik>
+            <rptOwnerName>Tudor David J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NABORS CORPORATE SERVICES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>515 W. GREENS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77067</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3200</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>92.30</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5264</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale occurred in a private transaction in the open market.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark D. Andrews by Power of Attorney for David J. Tudor</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001193125-26-371358.txt : 20260827
+<SEC-HEADER>0001193125-26-371358.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827162246
+ACCESSION NUMBER:		0001193125-26-371358
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Haack Michael
+		CENTRAL INDEX KEY:			0001626900
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04714
+		FILM NUMBER:		261330807
+
+	MAIL ADDRESS:	
+		STREET 1:		5960 BERKSHIRE LN
+		STREET 2:		SUITE 900
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Champion Homes, Inc.
+		CENTRAL INDEX KEY:			0000090896
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOBILE HOMES [2451]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				351038277
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0329
+
+	BUSINESS ADDRESS:	
+		STREET 1:		755 W BIG BEAVER ROAD
+		STREET 2:		SUITE 1000
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+		BUSINESS PHONE:		248 614 8211
+
+	MAIL ADDRESS:	
+		STREET 1:		755 W BIG BEAVER ROAD
+		STREET 2:		SUITE 1000
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Skyline Champion Corp
+		DATE OF NAME CHANGE:	20180601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SKYLINE CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000090896</issuerCik>
+        <issuerName>Champion Homes, Inc.</issuerName>
+        <issuerTradingSymbol>SKY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001626900</rptOwnerCik>
+            <rptOwnerName>Haack Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CHAMPION HOMES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>755 W. BIG BEAVER ROAD, SUITE 1000</rptOwnerStreet2>
+            <rptOwnerCity>TROY</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48044</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1645</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1645</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;) granted to the Reporting Person under the Issuer's 2018 Equity Incentive Plan. Each RSU represents the contingent right to receive one share of Common Stock. Subject to the terms of the award agreement evidencing the grant of the RSUs, the RSUs vest in full on the earlier of the first anniversary of the Vesting Commencement Date or the date of the 2027 Annual Meeting of Shareholders, provided that the Reporting Person remains in continuous service with the Issuer through the vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Caren A. Ries, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

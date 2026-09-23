@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0001628280-26-059454.txt : 20260828
+<SEC-HEADER>0001628280-26-059454.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828190051
+ACCESSION NUMBER:		0001628280-26-059454
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ross Andrew D
+		CENTRAL INDEX KEY:			0001554099
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40175
+		FILM NUMBER:		261341993
+
+	MAIL ADDRESS:	
+		STREET 1:		6035 PARKLAND BOULEVARD
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Symbotic Inc.
+		CENTRAL INDEX KEY:			0001837240
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				981572401
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0926
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 RESEARCH DRIVE
+		CITY:			WILMINGTON
+		STATE:			MA
+		ZIP:			01887
+		BUSINESS PHONE:		978-284-2800
+
+	MAIL ADDRESS:	
+		STREET 1:		200 RESEARCH DRIVE
+		CITY:			WILMINGTON
+		STATE:			MA
+		ZIP:			01887
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SVF Investment Corp. 3
+		DATE OF NAME CHANGE:	20210128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SVF Investment III Corp.
+		DATE OF NAME CHANGE:	20201218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1787958048.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001837240</issuerCik>
+        <issuerName>Symbotic Inc.</issuerName>
+        <issuerTradingSymbol>SYM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001554099</rptOwnerCik>
+            <rptOwnerName>Ross Andrew D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SYMBOTIC INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 RESEARCH DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01887</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2568</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7672</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2568</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2568</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5137</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units convert into Class A common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">Each restricted stock unit represents a contingent right to receive one share of the Issuer's Class A common stock.</footnote>
+        <footnote id="F3">On August 26, 2025, the Reporting Person was granted 7,705 restricted stock units that vest as follows: 1/3 of the restricted stock units vest on each of August 26, 2026, August 26, 2027 and August 26, 2028, subject to the Reporting Person continued service with the Issuer on the applicable vesting dates.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Corey Dufresne, as Attorney-in-Fact for Andrew D. Ross</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0000897069-26-001748.txt : 20260903
+<SEC-HEADER>0000897069-26-001748.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903164610
+ACCESSION NUMBER:		0000897069-26-001748
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GARCIA KELLY E
+		CENTRAL INDEX KEY:			0001826853
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33764
+		FILM NUMBER:		261359012
+
+	MAIL ADDRESS:	
+		STREET 1:		30 FRANK LLOYD WRIGH DR
+		CITY:			ANN ARBOR
+		STATE:			MI
+		ZIP:			48105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ulta Beauty, Inc.
+		CENTRAL INDEX KEY:			0001403568
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				384022268
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 REMINGTON BLVD
+		STREET 2:		SUITE 120
+		CITY:			BOLINGBROOK
+		STATE:			IL
+		ZIP:			60440
+		BUSINESS PHONE:		630-410-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 REMINGTON BLVD
+		STREET 2:		SUITE 120
+		CITY:			BOLINGBROOK
+		STATE:			IL
+		ZIP:			60440
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ulta Salon, Cosmetics & Fragrance, Inc.
+		DATE OF NAME CHANGE:	20070618
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001403568</issuerCik>
+        <issuerName>Ulta Beauty, Inc.</issuerName>
+        <issuerTradingSymbol>ULTA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001826853</rptOwnerCik>
+            <rptOwnerName>GARCIA KELLY E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1000 REMINGTON BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 120</rptOwnerStreet2>
+            <rptOwnerCity>BOLINGBROOK</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60440</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2933</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5083</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>545.66</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3565</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3565</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3565</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of 2,933 restricted stock units, with 37.5% vesting on March 15, 2028, 37.5% vesting on March 15, 2029, and the remaining 25% vesting on September 1, 2031.</footnote>
+        <footnote id="F2">The options, representing an initial right to purchase a total of 3,565 shares, vesting 50% on March 15, 2028 and 50% on March 15, 2029.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rene G. Casares, as attorney-in-fact for Kelly E. Garcia</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

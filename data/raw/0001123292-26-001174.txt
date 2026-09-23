@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001123292-26-001174.txt : 20260826
+<SEC-HEADER>0001123292-26-001174.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826162842
+ACCESSION NUMBER:		0001123292-26-001174
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hanneman Karl L
+		CENTRAL INDEX KEY:			0001602426
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33638
+		FILM NUMBER:		261323386
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O INTERNATIONAL TOWER HILL MINES LTD.
+		STREET 2:		506 GAFFNEY ROAD, SUITE 200
+		CITY:			FAIRBANKS
+		STATE:			AK
+		ZIP:			99701
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERNATIONAL TOWER HILL MINES LTD
+		CENTRAL INDEX KEY:			0001134115
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 BURRARD STREET
+		STREET 2:		SUITE 1570
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 3L6
+		BUSINESS PHONE:		604-683-6332
+
+	MAIL ADDRESS:	
+		STREET 1:		200 BURRARD STREET
+		STREET 2:		SUITE 1570
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 3L6
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001134115</issuerCik>
+        <issuerName>INTERNATIONAL TOWER HILL MINES LTD</issuerName>
+        <issuerTradingSymbol>THM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001602426</rptOwnerCik>
+            <rptOwnerName>Hanneman Karl L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O INTERNATIONAL TOWER HILL MINES LTD.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 BURRARD ST., SUITE 1570</rptOwnerStreet2>
+            <rptOwnerCity>VANCOUVER</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>Z4</rptOwnerCountry>
+            <rptOwnerZipCode>V6C 3L6</rptOwnerZipCode>
+            <rptOwnerStateDescription>CANADA (FEDERAL LEVEL)</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>150000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.67</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>362000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.67</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>150000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-08-28</value>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>150000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The exercise price was converted from CAD 0.92 to USD 0.67, based on the August 20, 2026 exchange rate as quoted by the Bank of Canada.  The exercise price is the actual Canadian dollar amount regardless of the exchange rate on the date of exercise.</footnote>
+        <footnote id="F2">Options were granted on March 27, 2020 and vested as follows: one-third on the grant date, one-third on March 27, 2021, and one-third on March 27, 2022.</footnote>
+        <footnote id="F3">Pursuant to the International Tower Hill Mines Ltd. (the &quot;Company&quot;) 2006 Incentive Stock Option Plan, if the expiry date of an option would fall during a trading blackout period imposed on the holder of the option by the Company, the expiry date of such option shall be extended to the close of business on the tenth business day after the end of such trading blackout period. The Company's most recent trading blackout period commenced on February 26, 2026 and ended on August 14, 2026, with the result that the expiry date for the option was August 28, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Debbie Evans by Power of Attorney</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

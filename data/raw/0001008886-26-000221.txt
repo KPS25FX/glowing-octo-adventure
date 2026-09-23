@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001008886-26-000221.txt : 20260916
+<SEC-HEADER>0001008886-26-000221.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916183908
+ACCESSION NUMBER:		0001008886-26-000221
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rath Kimberly Kay
+		CENTRAL INDEX KEY:			0001417993
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31924
+		FILM NUMBER:		261384811
+
+	MAIL ADDRESS:	
+		STREET 1:		121 SOUTH 13TH STREET
+		STREET 2:		SUITE 100
+		CITY:			LINCOLN
+		STATE:			NE
+		ZIP:			68508
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NELNET INC
+		CENTRAL INDEX KEY:			0001258602
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERSONAL CREDIT INSTITUTIONS [6141]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				840748903
+		STATE OF INCORPORATION:			NE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		121 SOUTH 13TH ST
+		STREET 2:		STE 201
+		CITY:			LINCOLN
+		STATE:			NE
+		ZIP:			68508
+		BUSINESS PHONE:		402-458-2370
+
+	MAIL ADDRESS:	
+		STREET 1:		121 SOUTH 13TH ST
+		STREET 2:		STE 201
+		CITY:			LINCOLN
+		STATE:			NE
+		ZIP:			68508
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001258602</issuerCik>
+        <issuerName>NELNET INC</issuerName>
+        <issuerTradingSymbol>NNI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001417993</rptOwnerCik>
+            <rptOwnerName>Rath Kimberly Kay</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NELNET, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>121 SOUTH 13TH ST, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>LINCOLN</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68508</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>93</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>108.37</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>93</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65491</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1-for-1.</footnote>
+        <footnote id="F2">The shares of phantom stock were granted pursuant to the issuer's Directors Stock Compensation Plan. They will become payable in shares of Class A Common Stock promptly after the time of termination of the reporting person's service as a member of the issuer's Board of Directors. The shares will be payable in a lump sum promptly after the time of termination of the reporting person's service as a member of the issuer's Board, or in up to five annual installments, commencing promptly after the time of termination of the reporting person's service on the issuer's Board, as elected by the reporting person.</footnote>
+        <footnote id="F3">Includes a total of 169 shares acquired since June 17, 2026 pursuant to the dividend reinvestment feature of the issuer's Directors Stock Compensation Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicole M. Stawniak, Attorney-in-Fact for Kimberly Kay Rath</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

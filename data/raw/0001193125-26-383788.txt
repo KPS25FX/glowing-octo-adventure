@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001193125-26-383788.txt : 20260904
+<SEC-HEADER>0001193125-26-383788.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904165503
+ACCESSION NUMBER:		0001193125-26-383788
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Holland Joseph Michael
+		CENTRAL INDEX KEY:			0002035547
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39411
+		FILM NUMBER:		261362681
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VITAL FARMS, INC.
+		STREET 2:		3601 SOUTH CONGRESS AVENUE, SUITE C100
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78704
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vital Farms, Inc.
+		CENTRAL INDEX KEY:			0001579733
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				270496985
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3601 SOUTH CONGRESS AVENUE
+		STREET 2:		SUITE A100
+		CITY:			AUSTIN
+		STATE:			TX
+		BUSINESS PHONE:		(877) 455-3063
+
+	MAIL ADDRESS:	
+		STREET 1:		3601 SOUTH CONGRESS AVENUE
+		STREET 2:		SUITE A100
+		CITY:			AUSTIN
+		STATE:			TX
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001579733</issuerCik>
+        <issuerName>Vital Farms, Inc.</issuerName>
+        <issuerTradingSymbol>VITL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002035547</rptOwnerCik>
+            <rptOwnerName>Holland Joseph Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VITAL FARMS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3601 SOUTH CONGRESS AVENUE, SUITE A100</rptOwnerStreet2>
+            <rptOwnerCity>AUSTIN</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78704</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Supply Chain Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>412</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.12</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37738</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld by the Issuer to satisfy withholding tax obligation.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Francis Cullo, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

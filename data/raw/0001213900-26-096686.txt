@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001213900-26-096686.txt : 20260902
+<SEC-HEADER>0001213900-26-096686.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902160019
+ACCESSION NUMBER:		0001213900-26-096686
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			VCV Digital Solutions LLC
+		CENTRAL INDEX KEY:			0002116470
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43194
+		FILM NUMBER:		261354598
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1540 BROADWAY, STE 1010
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		(917) 558-3563
+
+	MAIL ADDRESS:	
+		STREET 1:		1540 BROADWAY, STE 1010
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIB Data Centers Inc.
+		CENTRAL INDEX KEY:			0002070542
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6221]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1540 BROADWAY, SUITE 1010
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		917-558-3563
+
+	MAIL ADDRESS:	
+		STREET 1:		1540 BROADWAY, SUITE 1010
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BlockchAIn Digital Infrastructure, Inc.
+		DATE OF NAME CHANGE:	20250528
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002070542</issuerCik>
+        <issuerName>AIB Data Centers Inc.</issuerName>
+        <issuerTradingSymbol>AIB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002116470</rptOwnerCik>
+            <rptOwnerName>VCV Digital Solutions LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AIB DATA CENTERS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1540 BROADWAY, STE 1010</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>59890</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11256134</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the terms of the Business Combination Agreement, dated as of May 27, 2025, by and among Signing Day Sports, Inc., a Delaware corporation, One Blockchain LLC, a Delaware limited liability company, BlockchAIn Digital Infrastructure, Inc., a Delaware corporation (now known as AIB Data Centers Inc.) (the &quot;Registrant&quot;), BCDI Merger Sub I Inc., a Delaware corporation and a wholly-owned subsidiary of the Registrant, and BCDI Merger Sub II LLC, a Delaware limited liability company and a wholly-owned subsidiary of the Registrant, as amended (the &quot;Business Combination Agreement&quot;), on August 31, 2026, the reporting person received 59,890 shares of common stock of the Registrant representing fractional share adjustments in connection with the Business Combination Agreement, having a market value of approximately $68,274 based on the last reported sale price of the common stock of the Registrant reported by the NYSE American LLC on the date of issuance.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>VCV Digital Solutions LLC By: /s/ Jerry Tang Name: Jerry Tang Title: Managing Member</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

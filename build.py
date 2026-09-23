@@ -3,9 +3,10 @@
 # State       R  : Accession → Bytes               the raw store (extract.py)
 #             DB : the database, a pure function of R
 #
-# Build       build(R) = derived(facts(R))
+# Build       build(R) = clusters(derived(facts(R)))
 #             facts    = for each a ∈ R: parse(a, xml(R[a])) → rows of filings, owners, lines
 #             derived  = companies and insiders, resolved from the facts (sql/derived.sql)
+#             clusters = the question: buyers and clusters (sql/clusters.sql)
 #
 # Every build starts from an empty database, so building twice gives the same tables (I4).
 
@@ -46,6 +47,7 @@ def build(raw: Path, db: Path) -> None:
         for table, rows in tables.items():  # filings first: owners and lines point at it
             insert(con, table, rows)
         con.execute((SQL / "derived.sql").read_text(encoding="utf-8"))
+        con.execute((SQL / "clusters.sql").read_text(encoding="utf-8"))
 
 
 def main() -> None:

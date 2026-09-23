@@ -1,0 +1,388 @@
+<SEC-DOCUMENT>0001213900-26-098416.txt : 20260909
+<SEC-HEADER>0001213900-26-098416.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909163033
+ACCESSION NUMBER:		0001213900-26-098416
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rodgers Thurman J
+		CENTRAL INDEX KEY:			0001183967
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40117
+		FILM NUMBER:		261368504
+
+	MAIL ADDRESS:	
+		STREET 1:		535 EASTVIEW WAY
+		CITY:			WOODSIDE
+		STATE:			CA
+		ZIP:			94062
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	RODGERS THURMAN J
+		DATE OF NAME CHANGE:	20020828
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SunPower Inc.
+		CENTRAL INDEX KEY:			0001838987
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				932279786
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1403 N RESEARCH WAY
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84097
+		BUSINESS PHONE:		(877) 299-4943
+
+	MAIL ADDRESS:	
+		STREET 1:		1403 N RESEARCH WAY
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84097
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Complete Solaria, Inc.
+		DATE OF NAME CHANGE:	20230721
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Freedom Acquisition I Corp.
+		DATE OF NAME CHANGE:	20210105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001838987</issuerCik>
+        <issuerName>SunPower Inc.</issuerName>
+        <issuerTradingSymbol>SPWR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001183967</rptOwnerCik>
+            <rptOwnerName>Rodgers Thurman J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SUNPOWER INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1403 N. RESEARCH WAY</rptOwnerStreet2>
+            <rptOwnerCity>OREM</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84097</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7870917</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.2541</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36687593</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See note</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2471485</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See note</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>485562</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See note</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>463589</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See note</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>463589</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See note</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8842</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Simple Agreement for Future Equity</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>2000000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>2000000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Equity</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7870917</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>2000000</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Simple Agreement for Future Equity</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>2000000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7870917</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>0</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On 8/24/2026, the Rodgers Massey Revocable Trust, for which the Reporting Person and his spouse serve as trustees (the &quot;Revocable Trust&quot;), purchased a simple agreement for future equity (the &quot;SAFE&quot;) in exchange for $2,000,000. The SAFE was automatically convertible at the closing of the first financing transaction completed by the Issuer following the issuance of the SAFE. At the closing of such financing transaction, the SAFE was convertible into $2,000,000 of shares, units or increment of the securities issued in such financing transaction based on the price per share, unit or increment of the securities issued and sold by the Issuer, and subject to the terms and conditions of the SAFE. The SAFE was converted into 7,870,917 shares of common stock on 9/4/2026.</footnote>
+        <footnote id="F2">On 9/4/2026, the SAFE was converted into 7,870,917 shares of the Issuer's common stock pursuant to the Securities Purchase Agreement dated 9/2/2026 between the Issuer and the Revocable Trust. Such common stock is held by the Revocable Trust, for which the Reporting Person and his spouse serve as trustees.</footnote>
+        <footnote id="F3">These shares are held by the Rodgers Family Freedom and Free Markets Charitable Trust (the &quot;Charitable Trust&quot;). The reporting person and his spouse serve as trustees of the Charitable Trust.</footnote>
+        <footnote id="F4">These shares are held by Rodgers Capital, LLC. The reporting person is the manager of Rodgers Capital, LLC.</footnote>
+        <footnote id="F5">These shares are held by the TJ Rodgers 2012 Irrevocable Trust dtd 12/26/12, for which the reporting person serves as trustee.</footnote>
+        <footnote id="F6">These shares are held by the Valeta Massey 2012 Irrevocable Trust dtd 12/26/12, for which the reporting person's spouse serves as trustee.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Penney, Attorney-in-Fact for Thurman J. Rodgers</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

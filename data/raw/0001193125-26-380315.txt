@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001193125-26-380315.txt : 20260902
+<SEC-HEADER>0001193125-26-380315.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902163604
+ACCESSION NUMBER:		0001193125-26-380315
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pfirrman Christopher Keith
+		CENTRAL INDEX KEY:			0001558741
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38047
+		FILM NUMBER:		261355457
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O UPBOUND GROUP, INC.
+		STREET 2:		5501 HEADQUARTERS DRIVE
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UPBOUND GROUP, INC.
+		CENTRAL INDEX KEY:			0000933036
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				450491516
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5501 HEADQUARTERS DRIVE
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+		BUSINESS PHONE:		972-801-1100
+
+	MAIL ADDRESS:	
+		STREET 1:		5501 HEADQUARTERS DRIVE
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RENT A CENTER INC DE
+		DATE OF NAME CHANGE:	19990112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RENTERS CHOICE INC
+		DATE OF NAME CHANGE:	19941128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000933036</issuerCik>
+        <issuerName>UPBOUND GROUP, INC.</issuerName>
+        <issuerTradingSymbol>UPBD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001558741</rptOwnerCik>
+            <rptOwnerName>Pfirrman Christopher Keith</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5501 HEADQUARTERS DR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PLANO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75024</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>PERFORMANCE STOCK UNITS</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>82755</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>82755</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>82755</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a supplemental equity award consisting of restricted stock units and performance stock units to promote retention of key executives and to incentivize share price appreciation measured against predetermined stock prices.</footnote>
+        <footnote id="F2">Represents the portion of the supplemental equity award granted as performance stock units, which are eligible to vest, if at all, based on the achievement of predetermined 20-trading-day average closing stock prices during a four-year performance period, subject to the reporting person's continued employment through the applicable vesting date. The performance stock units are divided into three tranches: 33% eligible to be earned upon a 20-trading-day average closing price of $24.18, 33% upon a 20-trading-day average closing price of $31.43, and 34% upon a 20-trading-day average closing price of $38.68. For each tranche, the vesting date is the later of the third anniversary of the grant date September 1, 2029, and the date the applicable stock price is attained.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew West, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0002039201-26-000008.txt : 20260903
+<SEC-HEADER>0002039201-26-000008.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903173005
+ACCESSION NUMBER:		0002039201-26-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Xu Kang
+		CENTRAL INDEX KEY:			0002039201
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39845
+		FILM NUMBER:		261359400
+
+	MAIL ADDRESS:	
+		STREET 1:		35 CABOT ROAD
+		CITY:			WOBURN
+		STATE:			MA
+		ZIP:			01801
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SES AI Corp
+		CENTRAL INDEX KEY:			0001819142
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		35 CABOT RD.
+		CITY:			WOBURN
+		STATE:			MA
+		ZIP:			01801
+		BUSINESS PHONE:		339-298-8750
+
+	MAIL ADDRESS:	
+		STREET 1:		35 CABOT RD.
+		CITY:			WOBURN
+		STATE:			MA
+		ZIP:			01801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ivanhoe Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20200723
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-09032026_050901.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001819142</issuerCik>
+        <issuerName>SES AI Corp</issuerName>
+        <issuerTradingSymbol>SES</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002039201</rptOwnerCik>
+            <rptOwnerName>Xu Kang</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SES AI CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>35 CABOT RD</rptOwnerStreet2>
+            <rptOwnerCity>WOBURN</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CHIEF TECHNOLOGY OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35198</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.523</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>766437</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld to cover the Reporting Person's withholding tax obligations in connection with the vesting of restricted stock units (&quot;RSUs&quot;). These shares were not sold by the Reporting Person.</footnote>
+        <footnote id="F2">Includes 458,528 shares of Class A Common Stock underlying restricted stock units, which are subject to forfeiture until they vest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kyle Pilkington, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

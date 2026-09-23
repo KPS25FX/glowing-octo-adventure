@@ -1,0 +1,289 @@
+<SEC-DOCUMENT>0001437749-26-029431.txt : 20260901
+<SEC-HEADER>0001437749-26-029431.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901164639
+ACCESSION NUMBER:		0001437749-26-029431
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ELLIS THOMAS B
+		CENTRAL INDEX KEY:			0001283774
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56238
+		FILM NUMBER:		261351472
+
+	MAIL ADDRESS:	
+		STREET 1:		867 BOYLSTON STREET, 5TH FLOOR
+		STREET 2:		#1361
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Guerrilla RF, Inc.
+		CENTRAL INDEX KEY:			0001832487
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				853837067
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2000 PISGAH CHURCH ROAD
+		CITY:			GREENSBORO
+		STATE:			NC
+		ZIP:			27455
+		BUSINESS PHONE:		3365107840
+
+	MAIL ADDRESS:	
+		STREET 1:		2000 PISGAH CHURCH ROAD
+		CITY:			GREENSBORO
+		STATE:			NC
+		ZIP:			27455
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Laffin Acquisition Corp.
+		DATE OF NAME CHANGE:	20201116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001832487</issuerCik>
+        <issuerName>Guerrilla RF, Inc.</issuerName>
+        <issuerTradingSymbol>GUER</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001283774</rptOwnerCik>
+            <rptOwnerName>ELLIS THOMAS B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>867 BOYLSTON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>5TH FLOOR #1361</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isTenPercentOwner>1</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F5"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14164</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>46456</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series A Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>327.8700</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2024-08-05</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7213115</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7213115</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes.</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Common Stock Purchase Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.0500</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2024-08-05</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-02-05</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2885246</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2885246</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes.</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F4"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>6</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14164</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>14164</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The securities do not have any expiration date.</footnote>
+        <footnote id="F2">The reported securities are directly held by NR-PRL Partners, LP, and may be deemed to be indirectly beneficially owned by NR-PRL Partners GP, LLC as the general partner of NR-PRL Partners, LP. The securities may also be deemed to be indirectly beneficially owned by the Reporting Person as a member of NR-PRL Partners GP, LLC.</footnote>
+        <footnote id="F3">The Reporting Person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and this report shall not be deemed an admission of beneficial ownership of the securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose.</footnote>
+        <footnote id="F4">The option is immediately exercisable, subject to a right of repurchase in favor of the Issuer with respect to shares issued to the Reporting Person upon exercise of the option prior to vesting. The option vests on the earlier of (i) the first anniversary of the grant date and (ii) the date of the Issuer's next annual meeting of stockholders (currently expected to be June 9, 2027), subject to the Reporting Person's continued service through such vesting date.</footnote>
+        <footnote id="F5">Pursuant to the exercise of stock options.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Charnice Suggs, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

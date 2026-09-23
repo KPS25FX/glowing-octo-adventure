@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001034957-26-000055.txt : 20260826
+<SEC-HEADER>0001034957-26-000055.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826123927
+ACCESSION NUMBER:		0001034957-26-000055
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Elsztain Fernando Adrian
+		CENTRAL INDEX KEY:			0002117577
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-29190
+		FILM NUMBER:		261320320
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		CARLOS DELLA PAOLERA 261, 9TH FLOOR
+		CITY:			BUENOS AIRES
+		PROVINCE COUNTRY:   	C1
+		ZIP:			C1001ADA
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRESUD INC
+		CENTRAL INDEX KEY:			0001034957
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				000000000
+		STATE OF INCORPORATION:			C1
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CARLOS M. DELLA PAOLERA 261
+		STREET 2:		9TH FLOOR
+		CITY:			BUENOS AIRES
+		STATE:			C1
+		ZIP:			C1C1001ADA
+		BUSINESS PHONE:		00541143237449
+
+	MAIL ADDRESS:	
+		STREET 1:		CARLOS M. DELLA PAOLERA 261
+		STREET 2:		9TH FLOOR
+		CITY:			BUENOS AIRES
+		STATE:			C1
+		ZIP:			C1C1001ADA
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001034957</issuerCik>
+        <issuerName>CRESUD INC</issuerName>
+        <issuerTradingSymbol>CRESY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002117577</rptOwnerCik>
+            <rptOwnerName>Elsztain Fernando Adrian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>CARLOS DELLA PAOLERA 261, 9TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BUENOS AIRES</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C1</rptOwnerCountry>
+            <rptOwnerZipCode>C1001ADA</rptOwnerZipCode>
+            <rptOwnerStateDescription>ARGENTINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.05</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>615736</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is the U.S. Dollar (USD) equivalent of Argentine Pesos (ARS) 1,671.06 per ordinary share. This equivalent is calculated based on an implied exchange rate of 1,587.77 ARS per 1.00 USD, resulting in a reported price of USD 1.05 per ordinary share. This implied rate is derived from the closing price of the Issuer's American Depositary Shares (ADS) on the NYSE on August 24, 2026, relative to the closing price of the underlying ordinary shares on the Bolsas y Mercados Argentinos (BYMA), adjusting for the ratio of 10 ordinary shares per 1 ADS.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Amalia Cristina Sternheim by POA for Fernando Adrian Elsztain</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

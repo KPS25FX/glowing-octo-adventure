@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0000897069-26-001776.txt : 20260914
+<SEC-HEADER>0000897069-26-001776.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914163646
+ACCESSION NUMBER:		0000897069-26-001776
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nagler Lorna
+		CENTRAL INDEX KEY:			0001411457
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33764
+		FILM NUMBER:		261377817
+
+	MAIL ADDRESS:	
+		STREET 1:		2400 XENIUM LANE NORTH
+		CITY:			PLYMOUTH
+		STATE:			MN
+		ZIP:			55441
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ulta Beauty, Inc.
+		CENTRAL INDEX KEY:			0001403568
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				384022268
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 REMINGTON BLVD
+		STREET 2:		SUITE 120
+		CITY:			BOLINGBROOK
+		STATE:			IL
+		ZIP:			60440
+		BUSINESS PHONE:		630-410-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 REMINGTON BLVD
+		STREET 2:		SUITE 120
+		CITY:			BOLINGBROOK
+		STATE:			IL
+		ZIP:			60440
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ulta Salon, Cosmetics & Fragrance, Inc.
+		DATE OF NAME CHANGE:	20070618
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001403568</issuerCik>
+        <issuerName>Ulta Beauty, Inc.</issuerName>
+        <issuerTradingSymbol>ULTA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001411457</rptOwnerCik>
+            <rptOwnerName>Nagler Lorna</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1000 REMINGTON BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 120</rptOwnerStreet2>
+            <rptOwnerCity>BOLINGBROOK</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60440</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>537.3126</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7168</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. The prices actually received ranged from $536.92 to $537.84. The reporting person has provided to the issuer, and will provide to any security holder of the issuer, or the SEC staff, upon request, information regarding the number of shares sold at each price within the range for all transactions reported in this Form 4 utilizing a weighted average price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rene G. Casares, as attorney-in-fact for Lorna Nagler</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

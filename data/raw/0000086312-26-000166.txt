@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0000086312-26-000166.txt : 20260831
+<SEC-HEADER>0000086312-26-000166.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831162028
+ACCESSION NUMBER:		0000086312-26-000166
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OLIVO MARIA
+		CENTRAL INDEX KEY:			0001224083
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10898
+		FILM NUMBER:		261346789
+
+	BUSINESS ADDRESS:	
+		STREET 1:		485 LEXINGTON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		917-778-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		THE TRAVELERS COMPANIES, INC.
+		STREET 2:		485 LEXINGTON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRAVELERS COMPANIES, INC.
+		CENTRAL INDEX KEY:			0000086312
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				410518860
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		385 WASHINGTON ST
+		CITY:			SAINT PAUL
+		STATE:			MN
+		ZIP:			55102
+		BUSINESS PHONE:		6513107911
+
+	MAIL ADDRESS:	
+		STREET 1:		485 LEXINGTON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017-2630
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ST PAUL TRAVELERS COMPANIES INC
+		DATE OF NAME CHANGE:	20040401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ST PAUL FIRE & MARINE INSURANCE CO/MD
+		DATE OF NAME CHANGE:	19990219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ST PAUL COMPANIES INC/MN/
+		DATE OF NAME CHANGE:	19990219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000086312</issuerCik>
+        <issuerName>TRAVELERS COMPANIES, INC.</issuerName>
+        <issuerTradingSymbol>TRV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001224083</rptOwnerCik>
+            <rptOwnerName>OLIVO MARIA</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>THE TRAVELERS COMPANIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>385 WASHINGTON STREET</rptOwnerStreet2>
+            <rptOwnerCity>ST. PAUL</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP, ERM &amp; Chief Risk Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>369.8575</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>118742.457</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>343.956</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>401(k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the weighted average sales price for price increments ranging from $369.81 to $369.962.  The Reporting Person undertakes to provide, upon request by the Securities and Exchange Commission staff, the Issuer or a security holder of the Issuer, full information regarding the number of shares sold at each separate price for all transactions reported on this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Wendy C. Skjerven, by power of attorney</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

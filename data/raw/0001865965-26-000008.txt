@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001865965-26-000008.txt : 20260914
+<SEC-HEADER>0001865965-26-000008.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914163809
+ACCESSION NUMBER:		0001865965-26-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Porteous William D.
+		CENTRAL INDEX KEY:			0001865965
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39113
+		FILM NUMBER:		261377835
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RRE VENTURES
+		STREET 2:		130 EAST 59TH STREET, 17TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlackSky Technology Inc.
+		CENTRAL INDEX KEY:			0001753539
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				831833760
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2411 DULLES CORNER PARK
+		STREET 2:		SUITE 300
+		CITY:			HERNDON
+		STATE:			VA
+		ZIP:			20171
+		BUSINESS PHONE:		571-267-1571
+
+	MAIL ADDRESS:	
+		STREET 1:		2411 DULLES CORNER PARK
+		STREET 2:		SUITE 300
+		CITY:			HERNDON
+		STATE:			VA
+		ZIP:			20171
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Osprey Technology Acquisition Corp.
+		DATE OF NAME CHANGE:	20190619
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Osprey Energy Acquisition Corp. II
+		DATE OF NAME CHANGE:	20180928
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Osprey Acquisition Corp. II
+		DATE OF NAME CHANGE:	20180918
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1789418286.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001753539</issuerCik>
+        <issuerName>BlackSky Technology Inc.</issuerName>
+        <issuerTradingSymbol>BKSY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001865965</rptOwnerCik>
+            <rptOwnerName>Porteous William D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSKY TECHNOLOGY INC.,</rptOwnerStreet1>
+            <rptOwnerStreet2>2411 DULLES CORNER PARK, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>HERNDON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>20171</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8733</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>87323</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>719881</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities are restricted stock units (RSUs). Each RSU represents a contingent right to receive one share of the Issuer's Class A Common Stock. The RSUs are awarded in connection with the Company's Outside Director Compensation Policy and will vest in full upon the earlier of the one-year anniversary of the award date or the date of the Issuer's next annual meeting of the stockholders, in each case subject to the Reporting Person's continued service on the Issuer's board of directors through the applicable vesting date.</footnote>
+        <footnote id="F2">These shares are held by RRE Ventures IV, L.P. (&quot;Ventures IV&quot;). The general partner of Ventures IV is RRE Ventures GP VI, LLC (&quot;GP VI&quot;). The managing members and officers of GP VI are James D. Robinson IV, Stuart J. Ellman, and William D. Porteous. Each of GP VI and Messrs. Robinson IV, Ellman, and Porteous disclaim beneficial ownership of the securities reported on this Form 4, except to the extent of its or his pecuniary interest therein, if any.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Christiana L. Lin, attorney-in-fact on behalf of William D. Porteous</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0002117905-26-000031.txt : 20260908
+<SEC-HEADER>0002117905-26-000031.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908144152
+ACCESSION NUMBER:		0002117905-26-000031
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sousa Mauad Bruno
+		CENTRAL INDEX KEY:			0002117905
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42744
+		FILM NUMBER:		261364704
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AURA TECHNICAL SERVICES INC.
+		STREET 2:		3390 MARY ST, SUITE 116
+		CITY:			COCONUT GROVE
+		STATE:			FL
+		ZIP:			33133
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aura Minerals Inc.
+		CENTRAL INDEX KEY:			0001468642
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CRAIGMUIR CHAMBERS
+		STREET 2:		BOX 71
+		CITY:			ROAD TOWN TORTOLA
+		STATE:			D8
+		ZIP:			000000
+		BUSINESS PHONE:		866-881-9982
+
+	MAIL ADDRESS:	
+		STREET 1:		CRAIGMUIR CHAMBERS
+		STREET 2:		BOX 71
+		CITY:			ROAD TOWN TORTOLA
+		STATE:			D8
+		ZIP:			000000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AURA MINERALS INC
+		DATE OF NAME CHANGE:	20090717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001468642</issuerCik>
+        <issuerName>Aura Minerals Inc.</issuerName>
+        <issuerTradingSymbol>AUGO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002117905</rptOwnerCik>
+            <rptOwnerName>Sousa Mauad Bruno</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AURA TECHNICAL SERVICES INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3390 MARY ST, SUITE 116</rptOwnerStreet2>
+            <rptOwnerCity>COCONUT GROVE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33133</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Cash-Settled Total Return Swap</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5527</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>27.8228</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common shares, no par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1842.33</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>384171</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Kapitalo Investimentos</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">BDRs are certificates representing Common Shares of the Issuer. Three BDRs represent one Common Share of the Issuer.</footnote>
+        <footnote id="F2">Kapitalo settled their position in a certain cash-settled total return swap agreement pursuant to its terms at a settlement price of $27.82 using the Banco Central do Brasil's conversion rate as of September 4, 2026.</footnote>
+    </footnotes>
+
+    <remarks>Each Reporting Person disclaims beneficial ownership in the securities reported on this Form 4 except to the extent of its pecuniary interest, if any, therein, and this report shall not be deemed to be an admission that such Reporting Person is the beneficial owner of such securities for purposes of Section 16 or for any other purpose.</remarks>
+
+    <ownerSignature>
+        <signatureName>Bruno Sousa Mauad</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

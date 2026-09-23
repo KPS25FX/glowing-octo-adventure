@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-366683.txt : 20260826
+<SEC-HEADER>0001193125-26-366683.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826132010
+ACCESSION NUMBER:		0001193125-26-366683
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260622
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gellert Edward
+		CENTRAL INDEX KEY:			0001633075
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56320
+		FILM NUMBER:		261320559
+
+	MAIL ADDRESS:	
+		STREET 1:		17 GARDINERS PATH
+		CITY:			SAG HARBOR
+		STATE:			NY
+		ZIP:			11963
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AB Commercial Real Estate Private Debt Fund, LLC
+		CENTRAL INDEX KEY:			0001876255
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				871137341
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		66 HUDSON BOULEVARD EAST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-969-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		66 HUDSON BOULEVARD EAST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4/A
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-06-22</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-06-24</dateOfOriginalSubmission>
+
+    <issuer>
+        <issuerCik>0001876255</issuerCik>
+        <issuerName>AB Commercial Real Estate Private Debt Fund, LLC</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001633075</rptOwnerCik>
+            <rptOwnerName>Gellert Edward</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ALLIANCEBERNSTEIN L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>66 HUDSON BOULEVARD EAST</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Limited Liability Company Units</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1160.143</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.2661</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7079.577</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The amendment is being filed to amend the disclosure in Table I, Columns 4 and 5 in the Form 4 previously filed on June 24, 2026 by the reporting person in order to disclose the amount of securities acquired, the price of the securities and the amount of securities beneficially owned following Mr. Gellert's $10,750.00 capital contribution that was made on July 1, 2026. When Mr. Gellert's Form 4 was initially filed on June 24, 2026, the amount of securities acquired was not calculable.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Leon Hirth, Attorney-in-fact</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001530038-26-000004.txt : 20260908
+<SEC-HEADER>0001530038-26-000004.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908150632
+ACCESSION NUMBER:		0001530038-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Keating Michelle R
+		CENTRAL INDEX KEY:			0001530038
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05318
+		FILM NUMBER:		261364804
+
+	MAIL ADDRESS:	
+		STREET 1:		525 WILLIAM PENN PLACE
+		STREET 2:		33RD FLOOR
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KENNAMETAL INC
+		CENTRAL INDEX KEY:			0000055242
+		STANDARD INDUSTRIAL CLASSIFICATION:	MACHINE TOOLS, METAL CUTTING TYPES [3541]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				250900168
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		525 WILLIAM PENN PLACE
+		STREET 2:		SUITE 3300
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219
+		BUSINESS PHONE:		4122488000
+
+	MAIL ADDRESS:	
+		STREET 1:		525 WILLIAM PENN PLACE
+		STREET 2:		SUITE 3300
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000055242</issuerCik>
+        <issuerName>KENNAMETAL INC</issuerName>
+        <issuerTradingSymbol>KMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001530038</rptOwnerCik>
+            <rptOwnerName>Keating Michelle R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>525 WILLIAM PENN PLACE</rptOwnerStreet1>
+            <rptOwnerStreet2>33RD FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PITTSBURGH</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15219</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.536</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25272.3</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $30.485 to $30.64, inclusive. The reporting person undertakes to provide to Kennametal Inc., any security holder of Kennametal Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote (1) to this Form 4</footnote>
+        <footnote id="F2">Includes 78.85 shares of common stock held in the Kennametal Inc. 401(k) Plan</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Michelle R. Keating</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

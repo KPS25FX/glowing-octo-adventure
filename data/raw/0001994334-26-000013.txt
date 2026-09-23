@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001994334-26-000013.txt : 20260910
+<SEC-HEADER>0001994334-26-000013.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910063041
+ACCESSION NUMBER:		0001994334-26-000013
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			A-6684 Ltd.
+		CENTRAL INDEX KEY:			0001994334
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09009
+		FILM NUMBER:		261369590
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MIKHA 24
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			6311130
+		BUSINESS PHONE:		972 54 633 2434
+
+	MAIL ADDRESS:	
+		STREET 1:		MIKHA 24
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			6311130
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOFUTTI BRANDS INC
+		CENTRAL INDEX KEY:			0000730349
+		STANDARD INDUSTRIAL CLASSIFICATION:	ICE CREAM & FROZEN DESSERTS [2024]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				133094658
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		105 NEWFIELD AVENUE
+		STREET 2:		SUITE H
+		CITY:			EDISON
+		STATE:			NJ
+		ZIP:			08837
+		BUSINESS PHONE:		9082722400
+
+	MAIL ADDRESS:	
+		STREET 1:		105 NEWFIELD AVE
+		STREET 2:		SUITE H
+		CITY:			EDISON
+		STATE:			NJ
+		ZIP:			08837
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TOFU TIME INC
+		DATE OF NAME CHANGE:	19860619
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000730349</issuerCik>
+        <issuerName>TOFUTTI BRANDS INC</issuerName>
+        <issuerTradingSymbol>TOFB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001994334</rptOwnerCik>
+            <rptOwnerName>A-6684 Ltd.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>MIKHA 24</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TEL AVIV</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode>6311130</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.4</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>737100</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Affiliated entities</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Mordehchai Rapaport</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

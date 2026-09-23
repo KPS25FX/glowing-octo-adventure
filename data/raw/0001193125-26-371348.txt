@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001193125-26-371348.txt : 20260827
+<SEC-HEADER>0001193125-26-371348.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827162101
+ACCESSION NUMBER:		0001193125-26-371348
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Otto Alexander
+		CENTRAL INDEX KEY:			0001462468
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42265
+		FILM NUMBER:		261330748
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KG CURA VERMOGENSVERWALTUNG G.M.B.H.
+		STREET 2:		WANDSBEKER STR. 3-7
+		CITY:			HAMBURG
+		STATE:			2M
+		ZIP:			22179
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Curbline Properties Corp.
+		CENTRAL INDEX KEY:			0002027317
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				934224532
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		320 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		216-755-5500
+
+	MAIL ADDRESS:	
+		STREET 1:		3300 ENTERPRISE PARKWAY
+		CITY:			BEACHWOOD
+		STATE:			OH
+		ZIP:			44122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002027317</issuerCik>
+        <issuerName>Curbline Properties Corp.</issuerName>
+        <issuerTradingSymbol>CURB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001462468</rptOwnerCik>
+            <rptOwnerName>Otto Alexander</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>KG CURA VERMOGENSVERWALTUNG G.M.B.H.&amp;CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>SASELER DAMM 39 A</rptOwnerStreet2>
+            <rptOwnerCity>HAMBURG</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>GERMANY</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>2M</rptOwnerCountry>
+            <rptOwnerZipCode>D-22395</rptOwnerZipCode>
+            <rptOwnerStateDescription>GERMANY</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>174293</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.12</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7057394</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>134868</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.17</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6922526</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person effected multiple same-way open market sale transactions on the same day at different prices through a sale order executed by a broker-dealer. The reporting person reported on a single line all such transactions that occurred within a one dollar price range. The reporting person hereby undertakes to provide upon request by the SEC staff, the issuer, or a shareholder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F2">Reflects the weighted average sale price. The range of prices for such transaction is between $30.00 and $30.33.</footnote>
+        <footnote id="F3">Reflects the weighted average sale price. The range of prices for such transaction is between $30.00 and $30.33.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Frederic Arndts, managing director of KG CURA Vermogensverwaltung G.m.b.H. &amp; Co., For: Alexander Otto</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

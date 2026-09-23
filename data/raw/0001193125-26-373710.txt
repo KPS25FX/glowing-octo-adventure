@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001193125-26-373710.txt : 20260828
+<SEC-HEADER>0001193125-26-373710.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828135127
+ACCESSION NUMBER:		0001193125-26-373710
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wischmeier D Patrick
+		CENTRAL INDEX KEY:			0001674063
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06747
+		FILM NUMBER:		261338078
+
+	MAIL ADDRESS:	
+		STREET 1:		600 SOUTH AIRPORT ROAD
+		CITY:			MANSFIELD
+		STATE:			OH
+		ZIP:			44903
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GORMAN RUPP CO
+		CENTRAL INDEX KEY:			0000042682
+		STANDARD INDUSTRIAL CLASSIFICATION:	PUMPS & PUMPING EQUIPMENT [3561]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				340253990
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 SOUTH AIRPORT ROAD
+		STREET 2:		P.O. BOX 1217
+		CITY:			MANSFIELD
+		STATE:			OH
+		ZIP:			44901
+		BUSINESS PHONE:		419-755-1011
+
+	MAIL ADDRESS:	
+		STREET 1:		600 SOUTH AIRPORT ROAD
+		STREET 2:		P.O. BOX 1217
+		CITY:			MANSFIELD
+		STATE:			OH
+		ZIP:			44901
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000042682</issuerCik>
+        <issuerName>GORMAN RUPP CO</issuerName>
+        <issuerTradingSymbol>GRC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001674063</rptOwnerCik>
+            <rptOwnerName>Wischmeier D Patrick</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>600 SOUTH AIRPORT ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MANSFIELD</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44903</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>VP, Information Technology</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14927</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock (401-K Plan)</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5153</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>77.62</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1409</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401-K Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>533</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Balance reflects 53 shares of common stock acquired under the Company's Employee Stock Purchase Plan between March 4, 2026 and August 26, 2026.</footnote>
+        <footnote id="F2">Balance reflects 40 shares of common stock acquired through dividend reinvestment between March 4, 2026 and August 26, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>D. Patrick Wischmeier BY:/s/Brigette A. Burnell Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

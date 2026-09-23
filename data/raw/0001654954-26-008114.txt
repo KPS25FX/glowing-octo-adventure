@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001654954-26-008114.txt : 20260903
+<SEC-HEADER>0001654954-26-008114.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903161039
+ACCESSION NUMBER:		0001654954-26-008114
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Smith Matthew I
+		CENTRAL INDEX KEY:			0002007537
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13752
+		FILM NUMBER:		261358472
+
+	MAIL ADDRESS:	
+		STREET 1:		5119 CATLETT ROAD
+		CITY:			MIDLAND
+		STATE:			VA
+		ZIP:			22728
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SMITH MIDLAND CORP
+		CENTRAL INDEX KEY:			0000924719
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONCRETE PRODUCTS, EXCEPT BLOCK & BRICK [3272]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				541727060
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 28
+		STREET 2:		P O BOX 300
+		CITY:			MIDLAND
+		STATE:			VA
+		ZIP:			22728
+		BUSINESS PHONE:		5404393266
+
+	MAIL ADDRESS:	
+		STREET 1:		RT 28
+		STREET 2:		PO BOX 300
+		CITY:			MIDLAND
+		STATE:			VA
+		ZIP:			22728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000924719</issuerCik>
+        <issuerName>SMITH MIDLAND CORP</issuerName>
+        <issuerTradingSymbol>SMID</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002007537</rptOwnerCik>
+            <rptOwnerName>Smith Matthew I</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SMITH-MIDLAND CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>5119 CATLETT ROAD</rptOwnerStreet2>
+            <rptOwnerCity>MIDLAND</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22728</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>27.15</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12205</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew I. Smith</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

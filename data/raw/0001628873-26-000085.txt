@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001628873-26-000085.txt : 20260826
+<SEC-HEADER>0001628873-26-000085.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826164727
+ACCESSION NUMBER:		0001628873-26-000085
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WINMILL & CO. INC
+		CENTRAL INDEX KEY:			0000052234
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12681
+		FILM NUMBER:		261323651
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17 OLD DREWSVILLE RD
+		CITY:			WALPOLE
+		STATE:			NH
+		ZIP:			03608
+		BUSINESS PHONE:		2127850900
+
+	MAIL ADDRESS:	
+		STREET 1:		17 OLD DREWSVILLE RD
+		CITY:			WALPOLE
+		STATE:			NH
+		ZIP:			03608
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	WINMILL & CO INC
+		DATE OF NAME CHANGE:	19990409
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BULL & BEAR GROUP INC
+		DATE OF NAME CHANGE:	19920703
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Global Self Storage, Inc.
+		CENTRAL INDEX KEY:			0001031235
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				133926714
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3814 ROUTE 44
+		CITY:			MILLBROOK
+		STATE:			NY
+		ZIP:			12545
+		BUSINESS PHONE:		2127850900
+
+	MAIL ADDRESS:	
+		STREET 1:		3814 ROUTE 44
+		CITY:			MILLBROOK
+		STATE:			NY
+		ZIP:			12545
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Self Storage Group, Inc.
+		DATE OF NAME CHANGE:	20131118
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLOBAL INCOME FUND, INC.
+		DATE OF NAME CHANGE:	20060215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLOBAL INCOME FUND INC
+		DATE OF NAME CHANGE:	19990830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001031235</issuerCik>
+        <issuerName>Global Self Storage, Inc.</issuerName>
+        <issuerTradingSymbol>SELF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000052234</rptOwnerCik>
+            <rptOwnerName>WINMILL &amp; CO. INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>17 OLD DREWSVILLE RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WALPOLE</rptOwnerCity>
+            <rptOwnerState>NH</rptOwnerState>
+            <rptOwnerZipCode>03608</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>true</isOther>
+            <otherText>See &quot;Explanation of Responses&quot;</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7547</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.6572</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>220751</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7761</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.6381</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>228512</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <remarks>The Reporting Person may be deemed to be an affiliate of the Issuer. The Winmill Family Trust owns all of the voting stock of the Reporting Person. Thomas B. Winmill, Mark C. Winmill, William Winmill, and Woodworth Winmill are trustees of the Winmill Family Trust and may be deemed to have indirect beneficial ownership of the Reporting Person's shares as a result of their status as controlling persons of the Winmill Family Trust and the Reporting Person. Each of Thomas B. Winmill, Mark C. Winmill, William Winmill, Woodworth Winmill, and the Winmill Family Trust disclaims beneficial ownership of these shares.</remarks>
+
+    <ownerSignature>
+        <signatureName>Donald Klimoski, on behalf of Winmill &amp; Co. Incorporated</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

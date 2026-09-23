@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001905960-26-000004.txt : 20260918
+<SEC-HEADER>0001905960-26-000004.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918165430
+ACCESSION NUMBER:		0001905960-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Roger Lisa
+		CENTRAL INDEX KEY:			0001905960
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41228
+		FILM NUMBER:		261391579
+
+	MAIL ADDRESS:	
+		STREET 1:		3600 WILSHIRE BOULEVARD SUITE 1720
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90010
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARFRESH FOOD GROUP INC.
+		CENTRAL INDEX KEY:			0001487197
+		STANDARD INDUSTRIAL CLASSIFICATION:	CANNED, FROZEN & PRESERVED FRUIT, VEG & FOOD SPECIALTIES [2030]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				271994359
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12100 WILSHIRE BOULEVARD,
+		STREET 2:		8TH FLOOR,
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-598-7110
+
+	MAIL ADDRESS:	
+		STREET 1:		12100 WILSHIRE BOULEVARD,
+		STREET 2:		8TH FLOOR,
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Moving Box Inc
+		DATE OF NAME CHANGE:	20100315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001487197</issuerCik>
+        <issuerName>BARFRESH FOOD GROUP INC.</issuerName>
+        <issuerTradingSymbol>BRFH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001905960</rptOwnerCik>
+            <rptOwnerName>Roger Lisa</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3600 WILSHIRE BOULEVARD SUITE 1720</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90010</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Former Chief Financial Officer</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25329</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.1</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>46414</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $1.10 to $1.14, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <remarks>The reporting person is a former officer and affiliate of the issuer. This transaction is being voluntarily reported following the reporting person's departure, and this filing shall not be deemed an admission that the reporting person remains subject to Section 16 reporting requirements.</remarks>
+
+    <ownerSignature>
+        <signatureName>Lisa Roger</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

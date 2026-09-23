@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001213900-26-099266.txt : 20260911
+<SEC-HEADER>0001213900-26-099266.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911161013
+ACCESSION NUMBER:		0001213900-26-099266
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Candou Holdings Ltd.
+		CENTRAL INDEX KEY:			0002022891
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04197
+		FILM NUMBER:		261374470
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1020-789 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C1H2
+		BUSINESS PHONE:		604-683-9641
+
+	MAIL ADDRESS:	
+		STREET 1:		1020-789 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C1H2
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED STATES LIME & MINERALS INC
+		CENTRAL INDEX KEY:			0000082020
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINING, QUARRYING OF NONMETALLIC MINERALS (NO FUELS) [1400]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				750789226
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5429 LBJ FREEWAY
+		STREET 2:		SUITE 230
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+		BUSINESS PHONE:		972-991-8400
+
+	MAIL ADDRESS:	
+		STREET 1:		5429 LBJ FREEWAY
+		STREET 2:		SUITE 230
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCOTTISH HERITABLE INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RANGAIRE CORP
+		DATE OF NAME CHANGE:	19900405
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROBERTS MANUFACTURING CO INC
+		DATE OF NAME CHANGE:	19690311
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000082020</issuerCik>
+        <issuerName>UNITED STATES LIME &amp; MINERALS INC</issuerName>
+        <issuerTradingSymbol>USLM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002022891</rptOwnerCik>
+            <rptOwnerName>Candou Holdings Ltd.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1202-570 GRANVILLE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>VANCOUVER</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A1</rptOwnerCountry>
+            <rptOwnerZipCode>V6C 3P1</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRITISH COLUMBIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>USLM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>110.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17673780</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were acquired in a private transaction.</footnote>
+        <footnote id="F2">The number of shares reported as beneficially owned herein reflects the 5-for-1 stock split that was effected by the Issuer on July 12, 2024.</footnote>
+        <footnote id="F3">Of the shares of the Issuer reported as beneficially owned herein, 20,000 shares are held by Candou Industries Ltd. (&quot;Candou Industries&quot;) in trust for the benefit of Inberdon Enterprises Ltd. (&quot;Inberdon&quot;), and the balance of the shares are held of record by Inberdon. Mr. George Doumet is the indirect beneficial owner of all such shares through his ownership of Candou Holdings Ltd., which owns 100% of the voting shares of Candou Industries, which in turn wholly owns Inberdon.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ George Doumet, Owner of Candou Holdings Ltd.</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

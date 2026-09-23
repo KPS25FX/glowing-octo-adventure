@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001193125-26-374379.txt : 20260828
+<SEC-HEADER>0001193125-26-374379.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828161542
+ACCESSION NUMBER:		0001193125-26-374379
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jones Tammi A
+		CENTRAL INDEX KEY:			0001808037
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37816
+		FILM NUMBER:		261340237
+
+	MAIL ADDRESS:	
+		STREET 1:		201 ISABELLA STREET
+		STREET 2:		SUITE 500
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15212
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alcoa Corp
+		CENTRAL INDEX KEY:			0001675149
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRIMARY PRODUCTION OF ALUMINUM [3334]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				811789115
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 ISABELLA STREET
+		STREET 2:		SUITE 500
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15212
+		BUSINESS PHONE:		412-315-2900
+
+	MAIL ADDRESS:	
+		STREET 1:		201 ISABELLA STREET
+		STREET 2:		SUITE 500
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15212
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Alcoa Upstream Corp
+		DATE OF NAME CHANGE:	20160520
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001675149</issuerCik>
+        <issuerName>Alcoa Corp</issuerName>
+        <issuerTradingSymbol>AA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001808037</rptOwnerCik>
+            <rptOwnerName>Jones Tammi A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>201 ISABELLA STREET, SUITE 500</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PITTSBURGH</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15212</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP &amp; CHRO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15628</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>50.5972</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39819</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11965</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>62</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Company 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $50.5000 - $50.7315. The reporting person undertakes to provide to Alcoa Corporation, any security holder of Alcoa Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each price within the range set forth in this footnote.</footnote>
+        <footnote id="F2">Fluctuations in 401(k) share amounts reflect the plan's unit reporting method; units represent interests in the Company's stock fund.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Megan C. Yancey, attorney-in-fact for Tammi A. Jones</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

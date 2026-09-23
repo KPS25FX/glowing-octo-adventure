@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001213900-26-094388.txt : 20260827
+<SEC-HEADER>0001213900-26-094388.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827161507
+ACCESSION NUMBER:		0001213900-26-094388
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ortiz Blanes Jacobo
+		CENTRAL INDEX KEY:			0002085915
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42888
+		FILM NUMBER:		261330436
+
+	MAIL ADDRESS:	
+		STREET 1:		600 S. TYLER ST.
+		STREET 2:		SUITE 1501
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79101
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fermi Inc.
+		CENTRAL INDEX KEY:			0002071778
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				333560468
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		620 S. TAYLOR
+		STREET 2:		SUITE 301
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79101
+		BUSINESS PHONE:		214-894-7855
+
+	MAIL ADDRESS:	
+		STREET 1:		620 S. TAYLOR
+		STREET 2:		SUITE 301
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fermi LLC
+		DATE OF NAME CHANGE:	20250605
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002071778</issuerCik>
+        <issuerName>Fermi Inc.</issuerName>
+        <issuerTradingSymbol>FRMI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002085915</rptOwnerCik>
+            <rptOwnerName>Ortiz Blanes Jacobo</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>620 S. TAYLOR ST., SUITE 301</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>AMARILLO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>79101</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7875000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>147059</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5616151</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares of common stock of the Issuer directly held by Las Brisas Financial Services LLC (&quot;Las Brisas&quot;). Mr. Ortiz is a managing member of Las Brisas and may be deemed to beneficially own common stock of the Issuer held by Las Brisas. Mr. Ortiz disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein. This report shall not be deemed an admission that Mr. Ortiz is the beneficial owner of such securities for purposes of Sections 13 or 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose.</footnote>
+        <footnote id="F2">Represents an award of restricted stock units (&quot;RSUs&quot;) of the Issuer granted to Mr. Ortiz under the Issuer's 2025 Long-Term Incentive Plan that will generally vest in one-third installments on the first, second, and third anniversaries of the date of grant, in each case subject to Mr. Ortiz' continued service relationship with the Issuer through such date.</footnote>
+        <footnote id="F3">Includes 4,347,059 shares of restricted common stock of the Issuer subject to time-based vesting conditions.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jacobo Ortiz Blanes</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

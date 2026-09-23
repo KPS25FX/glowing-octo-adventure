@@ -1,0 +1,247 @@
+<SEC-DOCUMENT>0001104659-26-104845.txt : 20260902
+<SEC-HEADER>0001104659-26-104845.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902200019
+ACCESSION NUMBER:		0001104659-26-104845
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260729
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TCW GROUP INC
+		CENTRAL INDEX KEY:			0000850401
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33301
+		FILM NUMBER:		261356407
+
+	BUSINESS ADDRESS:	
+		STREET 1:		515 SOUTH FLOWER STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+		BUSINESS PHONE:		213-244-0000
+
+	MAIL ADDRESS:	
+		STREET 1:		515 SOUTH FLOWER STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCURAY INC
+		CENTRAL INDEX KEY:			0001138723
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				208370041
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1240 DEMING WAY
+		CITY:			MADISON
+		STATE:			WI
+		ZIP:			53717
+		BUSINESS PHONE:		608-824-2800
+
+	MAIL ADDRESS:	
+		STREET 1:		1240 DEMING WAY
+		CITY:			MADISON
+		STATE:			WI
+		ZIP:			53717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2624705-2_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-07-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001138723</issuerCik>
+        <issuerName>ACCURAY INC</issuerName>
+        <issuerTradingSymbol>ARAY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000850401</rptOwnerCik>
+            <rptOwnerName>TCW GROUP INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>515 S. FLOWER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90071</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant to Purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.01</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-07-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7987743</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-07-29</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-07-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7987743</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7987743</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant to Purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.01</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-07-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>598114</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-07-29</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-07-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>598114</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>598114</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The TCW Group, Inc. (&quot;TCW&quot;) is filing this Form 4 on behalf of itself and its direct and indirect subsidiaries, which collectively constitute the TCW business unit (the &quot;TCW Business Unit&quot;) TCW Rescue Financing Fund II LP and TCW WV Financing LLC (the &quot;Holders&quot;), which both are a part of the TCW Business Unit, are the respective record holders of the warrants reported herein. As such, TCW may be deemed to have or share beneficial ownership of the shares issuable upon exercise held directly by the Holders. TCW disclaims any beneficial ownership of securities held by the Holders other than to the extent of any pecuniary interest it may have therein, directly or indirectly.</footnote>
+        <footnote id="F2">The warrants reported on this Form 4 were issued to the Holders by the Issuer on July 29, 2026 in connection with that certain Securities Purchase Agreement, dated as of July 29, 2026, by and among the Issuer and certain existing investors, including the Holders, and that certain Limited Waiver and Amendment No. 3 to Financing Agreement in respect of the Financing Agreement, dated as of June 6, 2025 (as amended, amended and restated, supplemented, revised, or otherwise modified from time to time, the &quot;Financing Agreement&quot;), by and among the Issuer, the guarantors party thereto, TCW Asset Management Company LLC, as administrative agent and collateral agent, and the other parties signatory thereto. After the issuance of the warrants reported on this Form 4, TCW owns warrants to purchase 27,527,916 shares of Common Stock of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ The TCW Group, Inc. on behalf of the TCW Business Unit, by Andrew Bowden, as Executive Vice President</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

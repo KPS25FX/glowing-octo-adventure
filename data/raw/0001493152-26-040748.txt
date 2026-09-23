@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0001493152-26-040748.txt : 20260831
+<SEC-HEADER>0001493152-26-040748.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831092111
+ACCESSION NUMBER:		0001493152-26-040748
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Donnell Kevin J
+		CENTRAL INDEX KEY:			0001776596
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41033
+		FILM NUMBER:		261342842
+
+	MAIL ADDRESS:	
+		STREET 1:		91 OAKLEIGH LANE
+		CITY:			MAITLAND
+		STATE:			FL
+		ZIP:			32751
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eightco Holdings Inc.
+		CENTRAL INDEX KEY:			0001892492
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHORT-TERM BUSINESS CREDIT INSTITUTIONS [6153]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				872755739
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 LARRY HOLMES DR.
+		STREET 2:		SUITE 313
+		CITY:			EASTON
+		STATE:			PA
+		ZIP:			18042
+		BUSINESS PHONE:		888-765-8933
+
+	MAIL ADDRESS:	
+		STREET 1:		101 LARRY HOLMES DR.
+		STREET 2:		SUITE 313
+		CITY:			EASTON
+		STATE:			PA
+		ZIP:			18042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cryptyde, Inc.
+		DATE OF NAME CHANGE:	20211105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001892492</issuerCik>
+        <issuerName>Eightco Holdings Inc.</issuerName>
+        <issuerTradingSymbol>ORBS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001776596</rptOwnerCik>
+            <rptOwnerName>O'Donnell Kevin J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O EIGHTCO HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>101 LARRY HOLMES DRIVE, SUITE 313</rptOwnerStreet2>
+            <rptOwnerCity>EASTON</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>18042</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.8077</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1296485</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.01</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-03-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2250000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted-average price. These shares were purchased on the open market in multiple transactions at prices ranging from $0.8027 to $0.8098, inclusive. The Reporting Person undertakes to provide full information regarding the number of shares purchased at each separate price within the range upon request of the staff of the Securities and Exchange Commission, the Issuer or a security holder of the Issuer.</footnote>
+        <footnote id="F2">Stock options vest in four (4) equal annual installments of 25% each, beginning on the first anniversary of the grant date, subject to the Reporting Person's continued service with the Company through each applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kevin O'Donnell</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

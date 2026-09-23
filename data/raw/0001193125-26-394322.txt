@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001193125-26-394322.txt : 20260917
+<SEC-HEADER>0001193125-26-394322.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917160526
+ACCESSION NUMBER:		0001193125-26-394322
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GRAY MICHAEL
+		CENTRAL INDEX KEY:			0001271411
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42366
+		FILM NUMBER:		261386848
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CURIS INC
+		STREET 2:		4 MAGUIRE ROAD
+		CITY:			LEXINGTON
+		STATE:			MA
+		ZIP:			02421
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Upstream Bio, Inc.
+		CENTRAL INDEX KEY:			0002022626
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		890 WINTER STREET, SUITE 200
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		781-208-2466
+
+	MAIL ADDRESS:	
+		STREET 1:		890 WINTER STREET, SUITE 200
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002022626</issuerCik>
+        <issuerName>Upstream Bio, Inc.</issuerName>
+        <issuerTradingSymbol>UPB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001271411</rptOwnerCik>
+            <rptOwnerName>GRAY MICHAEL</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>UPSTREAM BIO, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>890 WINTER STREET, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CFO and COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>853</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.49</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27942</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer has adopted a &quot;sell-to-cover&quot; policy to satisfy the tax withholding obligations of the Reporting Person. The sales reported on this Form 4 represent the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of restricted stock units. Such sales were automatic and not at the discretion of the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Allison Ambrose, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

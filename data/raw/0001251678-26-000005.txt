@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001251678-26-000005.txt : 20260831
+<SEC-HEADER>0001251678-26-000005.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831162817
+ACCESSION NUMBER:		0001251678-26-000005
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROBESON ROSE M
+		CENTRAL INDEX KEY:			0001251678
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02960
+		FILM NUMBER:		261346911
+
+	MAIL ADDRESS:	
+		STREET 1:		1700 LINCOLN STREET
+		STREET 2:		SUITE 3200
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NPK International Inc.
+		CENTRAL INDEX KEY:			0000071829
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS EQUIPMENT RENTAL & LEASING [7350]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				721123385
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9320 LAKESIDE BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		281-362-6800
+
+	MAIL ADDRESS:	
+		STREET 1:		9320 LAKESIDE BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEWPARK RESOURCES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW PARK MINING CO
+		DATE OF NAME CHANGE:	19720828
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000071829</issuerCik>
+        <issuerName>NPK International Inc.</issuerName>
+        <issuerTradingSymbol>NPKI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001251678</rptOwnerCik>
+            <rptOwnerName>ROBESON ROSE M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>9320 LAKESIDE BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77381</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.4917</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>215147</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported sale of 10,000 shares occurred automatically pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 27, 2026.</footnote>
+        <footnote id="F2">The price reported is the weighted average price. These shares were sold in multiple transactions in the open market at prices ranging from $13.11 to $13.72, inclusive. The reporting person undertakes to provide to NPK International Inc., any security holder of NPK International Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnote (2) to this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: M. Celeste Fruge For: Rose M. Robeson</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

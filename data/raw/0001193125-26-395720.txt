@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001193125-26-395720.txt : 20260918
+<SEC-HEADER>0001193125-26-395720.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918171555
+ACCESSION NUMBER:		0001193125-26-395720
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LIBERTY MUTUAL HOLDING Co INC.
+		CENTRAL INDEX KEY:			0001142872
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+		LEGAL ENTITY IDENTIFIER:    	549300GM9K6LH4B5UB57
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01751
+		FILM NUMBER:		261391746
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 BERKELEY STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6173579500
+
+	MAIL ADDRESS:	
+		STREET 1:		175 BERKELEY STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	LIBERTY MUTUAL HOLDING CO
+		DATE OF NAME CHANGE:	20010619
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			5C Lending Partners Corp.
+		CENTRAL INDEX KEY:			0001998387
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 STUYVESANT AVENUE
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+		BUSINESS PHONE:		(917) 494-0822
+
+	MAIL ADDRESS:	
+		STREET 1:		1 STUYVESANT AVENUE
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001998387</issuerCik>
+        <issuerName>5C Lending Partners Corp.</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001142872</rptOwnerCik>
+            <rptOwnerName>LIBERTY MUTUAL HOLDING Co INC.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O LIBERTY MUTUAL INSURANCE COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>175 BERKELEY STREET</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>398774</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>24.48</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4182050</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By subsidiaries</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The securities reported herein are held directly by 5C Lending Partners Structured Feeder LP (the &quot;5C Feeder&quot;) and represent the pro rata portion of the shares of common stock of the issuer (&quot;Common Stock&quot;) held by 5C Feeder that Liberty Mutual Holding Company Inc. (&quot;LMHC&quot;) may be deemed to beneficially own pursuant to (i) the Amended and Restated Limited Partnership Agreement (the &quot;LPA&quot;) of the 5C Feeder, dated December 19, 2025, entered into by Liberty Mutual Insurance Company, Peerless Insurance Company, Employers Insurance Company of Wausau, Safeco Insurance Company of America, Liberty Mutual Fire Insurance Company and The Ohio Casualty Insurance Company (collectively, the &quot;Subsidiaries&quot;) and the general partner of the 5C Feeder and (ii) the Note Purchase Agreement, dated December 19, 2025 (collectively with the LPA, the &quot;5C Feeder Documents&quot;),</footnote>
+        <footnote id="F2">(Continued from footnote 1) entered into by the Subsidiaries, the 5C Feeder, and U.S. Bank Trust Company, National Association, as collateral agent, granting the Subsidiaries certain pro rata rights with respect to the shares of common stock held by the 5C Feeder. The Subsidiaries are indirect wholly-owned subsidiaries of LMHC. Accordingly, LMHC may be deemed to have beneficial ownership over the pro rata portion of the shares of Common Stock held by the 5C Feeder. LMHC disclaims beneficial ownership in the securities reported herein except to the extent of its pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>LIBERTY MUTUAL HOLDING COMPANY, By: /s/ Patrizio Urciuoli, Executive Vice President</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

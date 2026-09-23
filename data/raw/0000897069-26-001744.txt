@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0000897069-26-001744.txt : 20260903
+<SEC-HEADER>0000897069-26-001744.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903163919
+ACCESSION NUMBER:		0000897069-26-001744
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Goldberg Frederick
+		CENTRAL INDEX KEY:			0002049742
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35898
+		FILM NUMBER:		261358935
+
+	MAIL ADDRESS:	
+		STREET 1:		96 MORTON STREET
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LINDBLAD EXPEDITIONS HOLDINGS, INC.
+		CENTRAL INDEX KEY:			0001512499
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRANSPORTATION SERVICES [4700]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				274749725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 WEST 42ND STREET
+		STREET 2:		SUITE 22 B3
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-261-9000
+
+	MAIL ADDRESS:	
+		STREET 1:		11 WEST 42ND STREET
+		STREET 2:		SUITE 22 B3
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Capitol Acquisition Corp. II
+		DATE OF NAME CHANGE:	20110208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001512499</issuerCik>
+        <issuerName>LINDBLAD EXPEDITIONS HOLDINGS, INC.</issuerName>
+        <issuerTradingSymbol>LIND</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002049742</rptOwnerCik>
+            <rptOwnerName>Goldberg Frederick</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O LINDBLAD EXPEDITIONS HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11 W 42ND STREET, SUITE 22B3</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4503</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>63742</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents award of restricted stock units vesting one-third on March 31, 2027, 2028 and 2029, subject to continued service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John J. Wolfel, Attorney-in-Fact for Frederick Goldberg</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

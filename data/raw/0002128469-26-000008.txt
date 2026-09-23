@@ -1,0 +1,226 @@
+<SEC-DOCUMENT>0002128469-26-000008.txt : 20260909
+<SEC-HEADER>0002128469-26-000008.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909204249
+ACCESSION NUMBER:		0002128469-26-000008
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Purcell Lynn Sebastian
+		CENTRAL INDEX KEY:			0002128469
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43283
+		FILM NUMBER:		261369433
+
+	MAIL ADDRESS:	
+		STREET 1:		11 TRAFFORD RD
+		CITY:			BINGHAMTON
+		STATE:			NY
+		ZIP:			13901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Conexeu Sciences Inc.
+		CENTRAL INDEX KEY:			0002066836
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 WEST LIBERTY STREET, SUITE 880
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89501
+		BUSINESS PHONE:		604-315-4722
+
+	MAIL ADDRESS:	
+		STREET 1:		50 WEST LIBERTY STREET, SUITE 880
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89501
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-09-09</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002066836</issuerCik>
+        <issuerName>Conexeu Sciences Inc.</issuerName>
+        <issuerTradingSymbol>CNXU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002128469</rptOwnerCik>
+            <rptOwnerName>Purcell Lynn Sebastian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>11 TRAFFORD RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BINGHAMTON</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>13901</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>217608</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.3</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2951848</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By OnePointTwo Capital Ventures LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.3</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>217608</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.001</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-05-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-05-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>217608</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>407392</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By OnePointTwo Capital Ventures LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The 217,608 shares of common stock acquired in Table I and the 217,608 warrants disposed of in Table II represent the exercise on September 4, 2026 of warrants held by OnePointTwo Capital Ventures LLC to purchase 217,608 shares of common stock at an exercise price of $2.30 per share.</footnote>
+        <footnote id="F2">The 2,951,848 shares of common stock reported in Table I, Column 5 are held by OnePointTwo Capital Ventures LLC and OnePointTwo Capital Ventures II LLC. OnePointTwo Capital Management LLC serves as manager of OnePointTwo Capital Ventures LLC and OnePointTwo Capital Ventures II LLC. As the managing member of OnePointTwo Capital Management LLC, Lynn Sebastian Purcell has voting and investment power over the securities held by each such entity and may therefore be deemed to beneficially own such securities. Lynn Sebastian Purcell disclaims beneficial ownership of the securities reported herein except to the extent of his pecuniary interest therein, if any.</footnote>
+        <footnote id="F3">The 407,392 warrants reported in Table II, Column 9 are held by OnePointTwo Capital Ventures LLC. OnePointTwo Capital Management LLC serves as manager of OnePointTwo Capital Ventures LLC and OnePointTwo Capital Ventures II LLC. As the managing member of OnePointTwo Capital Management LLC, Lynn Sebastian Purcell has voting and investment power over the securities held by each such entity and may therefore be deemed to beneficially own such securities. Lynn Sebastian Purcell disclaims beneficial ownership of the securities reported herein except to the extent of his pecuniary interest therein, if any.</footnote>
+        <footnote id="F4">This Form 4 amendment is being filed solely to correct Table II, Column 5 of the Form 4 filed on September 9, 2026, which inadvertently reported the 217,608 warrants exercised on September 4, 2026 as acquired rather than disposed of. Except as expressly set forth herein, this Form 4 amendment does not amend or otherwise modify the Form 4 filed on September 9, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Lynn Sebastian Purcell</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

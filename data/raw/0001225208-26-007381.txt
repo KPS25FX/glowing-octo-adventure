@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001225208-26-007381.txt : 20260831
+<SEC-HEADER>0001225208-26-007381.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831120116
+ACCESSION NUMBER:		0001225208-26-007381
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NOREEN CLIFFORD M
+		CENTRAL INDEX KEY:			0001194963
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-02183
+		FILM NUMBER:		261344370
+
+	MAIL ADDRESS:	
+		STREET 1:		MASSACHUSETTS MUTUAL LIFE INSURANCE CO.
+		STREET 2:		ONE MARINA PARK DRIVE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARINGS CORPORATE INVESTORS
+		CENTRAL INDEX KEY:			0000275694
+		ORGANIZATION NAME:           	
+		EIN:				042483041
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BARINGS LLC
+		STREET 2:		300 SOUTH TRYON STREET, SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+		BUSINESS PHONE:		704-805-7200
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BARINGS LLC
+		STREET 2:		300 SOUTH TRYON STREET, SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BABSON CAPITAL CORPORATE INVESTORS
+		DATE OF NAME CHANGE:	20111230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MASSMUTUAL CORPORATE INVESTORS
+		DATE OF NAME CHANGE:	19920717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000275694</issuerCik>
+        <issuerName>BARINGS CORPORATE INVESTORS</issuerName>
+        <issuerTradingSymbol>MCI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001194963</rptOwnerCik>
+            <rptOwnerName>NOREEN CLIFFORD M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BARINGS LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>300 SOUTH TRYON STREET, SUITE 2500</rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chairman of Fund</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares (&quot;Shares of Beneficial Interest&quot;)</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20000.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Barings Non-Qualified Thrift Plan</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6204.3956</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.7400</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares (&quot;Shares of Beneficial Interest&quot;)</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6204.3956</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>312391.3118</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Exercisable only upon termination, retirement, or other plan permitted event. Plan holdings may be &quot;liquidated&quot; and reallocated into other plan investment options by the plan participant. The derivative has no actual securities underlying the plan agreement, which is entirely notional.</footnote>
+        <footnote id="F2">Barings LLC (fka Babson Capital Management LLC) and Massachusetts Mutual Life Insurance Company each offer a non-qualified compensation deferral plan where certain officers are permitted to defer a portion of their compensation into the plans. Deferred compensation into a plan is allocated among one or more investment options at the election of the plan participant. Each plan has an investment option that derives its value from the market value of Barings Corporate Investors' common shares (and includes the value of reinvested dividends). However, pursuant to the terms of the plans, neither the plans nor the participants have an actual ownership interest in the common shares. The shares beneficially owned include the number of shares of Barings Corporate Investors represented by the value of the Barings Corporate Investors investment option under the plan held by the plan participant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stacy Standridge, as Attorney-in-fact</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

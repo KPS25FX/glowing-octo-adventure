@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-378054.txt : 20260901
+<SEC-HEADER>0001193125-26-378054.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901130147
+ACCESSION NUMBER:		0001193125-26-378054
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pacious Patrick
+		CENTRAL INDEX KEY:			0001434577
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13393
+		FILM NUMBER:		261349611
+
+	MAIL ADDRESS:	
+		STREET 1:		915 MEETING STREET
+		STREET 2:		SUITE 600
+		CITY:			NORTH BETHESDA
+		STATE:			MD
+		ZIP:			20852
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHOICE HOTELS INTERNATIONAL INC /DE
+		CENTRAL INDEX KEY:			0001046311
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				521209792
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		915 MEETING STREET
+		STREET 2:		SUITE 600
+		CITY:			NORTH BETHESDA
+		STATE:			MD
+		ZIP:			20852
+		BUSINESS PHONE:		3015925000
+
+	MAIL ADDRESS:	
+		STREET 1:		915 MEETING STREET
+		STREET 2:		SUITE 600
+		CITY:			NORTH BETHESDA
+		STATE:			MD
+		ZIP:			20852
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHOICE HOTELS FRANCHISING INC
+		DATE OF NAME CHANGE:	19971118
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHOICE HOTELS INTERNATIONAL INC/
+		DATE OF NAME CHANGE:	19971022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001046311</issuerCik>
+        <issuerName>CHOICE HOTELS INTERNATIONAL INC /DE</issuerName>
+        <issuerTradingSymbol>CHH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001434577</rptOwnerCik>
+            <rptOwnerName>Pacious Patrick</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>915 MEETING STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>NORTH BETHESDA</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20852</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>46122</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>103.36</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>381168</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Sharon Houle Randall, Attorney In Fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

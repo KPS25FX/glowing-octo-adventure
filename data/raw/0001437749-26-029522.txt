@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001437749-26-029522.txt : 20260902
+<SEC-HEADER>0001437749-26-029522.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902163359
+ACCESSION NUMBER:		0001437749-26-029522
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Givens John F. II
+		CENTRAL INDEX KEY:			0001831145
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38420
+		FILM NUMBER:		261355410
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VIRTRA, INC
+		STREET 2:		7970 S. KYRENE RD
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85284
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VirTra, Inc
+		CENTRAL INDEX KEY:			0001085243
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS MANUFACTURING INDUSTRIES [3990]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				931207631
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		295 E CORPORATE PLACE
+		CITY:			CHANDLER
+		STATE:			AZ
+		ZIP:			85225
+		BUSINESS PHONE:		4809681488
+
+	MAIL ADDRESS:	
+		STREET 1:		295 E CORPORATE PLACE
+		CITY:			CHANDLER
+		STATE:			AZ
+		ZIP:			85225
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIRTRA SYSTEMS INC
+		DATE OF NAME CHANGE:	20020628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GAMECOM INC
+		DATE OF NAME CHANGE:	19991103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001085243</issuerCik>
+        <issuerName>VirTra, Inc</issuerName>
+        <issuerTradingSymbol>VTSI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001831145</rptOwnerCik>
+            <rptOwnerName>Givens John F. II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VIRTRA, INC</rptOwnerStreet1>
+            <rptOwnerStreet2>295 E CORPORATE PL</rptOwnerStreet2>
+            <rptOwnerCity>CHANDLER</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85225</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>38667</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>367055</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. Givens was issued 38,667 shares upon settlement of restricted stock units awarded as a discretionary bonus</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John F. Givens II</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

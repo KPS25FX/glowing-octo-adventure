@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001193125-26-385836.txt : 20260909
+<SEC-HEADER>0001193125-26-385836.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909060435
+ACCESSION NUMBER:		0001193125-26-385836
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Yuan Kokuei
+		CENTRAL INDEX KEY:			0001974189
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42797
+		FILM NUMBER:		261366551
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		SUITE 4290, 48 MARKET STREET
+		STREET 2:		CAMANA BAY
+		CITY:			GRAND CAYMAN
+		PROVINCE COUNTRY:   	E9
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bullish
+		CENTRAL INDEX KEY:			0001872195
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		P.O. BOX 309, UGLAND HOUSE
+		CITY:			GEORGE TOWN
+		PROVINCE COUNTRY:   	E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		852-3761-9140
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		P.O. BOX 309, UGLAND HOUSE
+		CITY:			GEORGE TOWN
+		PROVINCE COUNTRY:   	E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001872195</issuerCik>
+        <issuerName>Bullish</issuerName>
+        <issuerTradingSymbol>BLSH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001974189</rptOwnerCik>
+            <rptOwnerName>Yuan Kokuei</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BULLISH, BUILDING A BLOCK 7 60 NEXUS WAY</rptOwnerStreet1>
+            <rptOwnerStreet2>CAMANA BAY, GEORGE TOWN</rptOwnerStreet2>
+            <rptOwnerCity>GRAND CAYMAN</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>CAYMAN ISLANDS</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>E9</rptOwnerCountry>
+            <rptOwnerZipCode>KY1-9005</rptOwnerZipCode>
+            <rptOwnerStateDescription>CAYMAN ISLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5877</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36463053</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35666</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 5,877 restricted share units (&quot;RSUs&quot;) granted to the Reporting Person pursuant to the Bullish 2025 Omnibus Incentive Plan. The RSUs vest in full on September 1, 2027.</footnote>
+        <footnote id="F2">The reported securities are held indirectly through EFM Global Alternatives Growth Feeder Fund (the &quot;Fund&quot;), which invests through two master funds (the &quot;Master Funds&quot;) that hold the reported securities. The Reporting Person holds non-voting shares in the Fund, which provide him with a pecuniary interest in the reported securities. The Reporting Person disclaims any beneficial ownership of the Fund, the Master Funds, or of any investment manager of any such entities, except to the extent of his pecuniary interests therein, and this report shall not be deemed an admission that such securities are beneficially owned by him for Section 16 or any other purpose.</footnote>
+    </footnotes>
+
+    <remarks>Due to the issuer's status as a foreign private issuer pursuant to Rule 3a12-3(b) under the Exchange Act, the reporting person's transactions in the issuer's equity securities are exempt from Sections 16(b) and 16(c) of the Exchange Act.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kokuei Yuan</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0000104918-26-000064.txt : 20260902
+<SEC-HEADER>0000104918-26-000064.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902141606
+ACCESSION NUMBER:		0000104918-26-000064
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jacobsen Kevin B
+		CENTRAL INDEX KEY:			0001735465
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03701
+		FILM NUMBER:		261354052
+
+	MAIL ADDRESS:	
+		STREET 1:		1221 BROADWAY
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94612
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVISTA CORP
+		CENTRAL INDEX KEY:			0000104918
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				910462470
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1411 E MISSION AVE
+		CITY:			SPOKANE
+		STATE:			WA
+		ZIP:			99202
+		BUSINESS PHONE:		5094890500
+
+	MAIL ADDRESS:	
+		STREET 1:		1411 EAST MISSION
+		CITY:			SPOKANE
+		STATE:			WA
+		ZIP:			99202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WASHINGTON WATER POWER CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000104918</issuerCik>
+        <issuerName>AVISTA CORP</issuerName>
+        <issuerTradingSymbol>AVA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001735465</rptOwnerCik>
+            <rptOwnerName>Jacobsen Kevin B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1411 E MISSION AVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SPOKANE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>99202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>44</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>37.16</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15917</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares issued as an award of stock for Director Compensation. The price per share is the closing price on August 31, 2026.</footnote>
+        <footnote id="F2">Shares issued as part of the Directors annual retainer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Kevin B. Jacobsen</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

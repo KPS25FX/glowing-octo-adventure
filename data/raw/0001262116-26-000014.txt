@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001262116-26-000014.txt : 20260903
+<SEC-HEADER>0001262116-26-000014.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903163029
+ACCESSION NUMBER:		0001262116-26-000014
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MARSHALL RUTH ANN
+		CENTRAL INDEX KEY:			0001262116
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07275
+		FILM NUMBER:		261358779
+
+	MAIL ADDRESS:	
+		STREET 1:		222 MERCHANDISE MART PLAZA
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONAGRA BRANDS INC.
+		CENTRAL INDEX KEY:			0000023217
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				470248710
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0530
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 W. MERCHANDISE MART PLAZA
+		STREET 2:		SUITE 1300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+		BUSINESS PHONE:		312-549-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		222 W. MERCHANDISE MART PLAZA
+		STREET 2:		SUITE 1300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONAGRA FOODS INC /DE/
+		DATE OF NAME CHANGE:	20001006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONAGRA INC /DE/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEBRASKA CONSOLIDATED MILLS CO
+		DATE OF NAME CHANGE:	19721201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-09032026_080915.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000023217</issuerCik>
+        <issuerName>CONAGRA BRANDS INC.</issuerName>
+        <issuerTradingSymbol>CAG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001262116</rptOwnerCik>
+            <rptOwnerName>MARSHALL RUTH ANN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CONAGRA BRANDS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>222 W. MERCHANDISE MART PLAZA, STE. 1300</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60654</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1629.42</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.11</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>228914.44</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4116.49</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Living Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the right to receive 1,629.42 shares of the Issuer's common stock in connection with the payment of the Reporting Person's director's fees, which fees have been deferred under the Issuer's Directors' Deferred Compensation Plan (the &quot;Plan&quot;). These shares will be distributed to the Reporting Person in accordance with her election under the Plan; deferred amounts may not be transferred from the Plan until the time specified in her election.</footnote>
+        <footnote id="F2">Includes 5,749.53 shares acquired since the date of the Reporting Person's last report through a dividend equivalent reinvestment feature under the Plan.</footnote>
+        <footnote id="F3">Includes 88.54 shares acquired through dividend reinvestment since the date of the Reporting Person's last report.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ McLaurin Files, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

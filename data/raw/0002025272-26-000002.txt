@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0002025272-26-000002.txt : 20260903
+<SEC-HEADER>0002025272-26-000002.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903163017
+ACCESSION NUMBER:		0002025272-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schulz Stacie
+		CENTRAL INDEX KEY:			0002025272
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33731
+		FILM NUMBER:		261358768
+
+	MAIL ADDRESS:	
+		STREET 1:		25650 WEST ELEVEN MILE ROAD
+		CITY:			SOUTHFIELD
+		STATE:			MI
+		ZIP:			48034
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			METHODE ELECTRONICS INC
+		CENTRAL INDEX KEY:			0000065270
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC CONNECTORS [3678]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				362090085
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0503
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25650 WEST ELEVEN MILE ROAD
+		CITY:			SOUTHFILED
+		STATE:			MI
+		ZIP:			48034
+		BUSINESS PHONE:		7088676777
+
+	MAIL ADDRESS:	
+		STREET 1:		25650 WEST ELEVEN MILE ROAD
+		CITY:			SOUTHFILED
+		STATE:			MI
+		ZIP:			48034
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000065270</issuerCik>
+        <issuerName>METHODE ELECTRONICS INC</issuerName>
+        <issuerTradingSymbol>MEI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002025272</rptOwnerCik>
+            <rptOwnerName>Schulz Stacie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>25650 W 11 MILE RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SOUTHFIELD</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>48034</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1649</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.1</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9811</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld to satisfy the reporting person's tax obligations associated with the vesting of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kerry Vyverberg as attorney-in-fact for Stacie Schulz</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

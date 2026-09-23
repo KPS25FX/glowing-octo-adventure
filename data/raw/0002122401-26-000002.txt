@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0002122401-26-000002.txt : 20260901
+<SEC-HEADER>0002122401-26-000002.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901110454
+ACCESSION NUMBER:		0002122401-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Qiu Ying
+		CENTRAL INDEX KEY:			0002122401
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-24133
+		FILM NUMBER:		261349079
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ARISTOTLE PACIFIC CAPITAL, LLC
+		STREET 2:		840 NEWPORT CENTER DRIVE, 7TH FLOOR
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aristotle Pacific Enhanced CLO Income Fund
+		CENTRAL INDEX KEY:			0002092387
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		840 NEWPORT CENTER DRIVE
+		STREET 2:		7TH FLOOR
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		414-516-1692
+
+	MAIL ADDRESS:	
+		STREET 1:		777 E WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002092387</issuerCik>
+        <issuerName>Aristotle Pacific Enhanced CLO Income Fund</issuerName>
+        <issuerTradingSymbol>ACLOX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002122401</rptOwnerCik>
+            <rptOwnerName>Qiu Ying</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ARISTOTLE PACIFIC CAPITAL, LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>840 NEWPORT CENTER DRIVE, 7TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEWPORT BEACH</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92660</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Portfolio Manager</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class I</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4046.013</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25.21</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4046.013</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>J. G. Lallande / Signed under POA</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

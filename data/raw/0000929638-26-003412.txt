@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0000929638-26-003412.txt : 20260901
+<SEC-HEADER>0000929638-26-003412.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901190459
+ACCESSION NUMBER:		0000929638-26-003412
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			THRIVENT FINANCIAL FOR LUTHERANS
+		CENTRAL INDEX KEY:			0000314984
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42964
+		FILM NUMBER:		261352230
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 MARQUETTE AVENUE
+		STREET 2:		SUITE 2500
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402-3211
+		BUSINESS PHONE:		6123407215
+
+	MAIL ADDRESS:	
+		STREET 1:		901 MARQUETTE AVENUE
+		STREET 2:		SUITE 2500
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402-3211
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	AID ASSOCIATION FOR LUTHERANS
+		DATE OF NAME CHANGE:	19940803
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gloo Holdings, Inc.
+		CENTRAL INDEX KEY:			0002069785
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		831 PEARL STREET
+		CITY:			BOULDER
+		STATE:			CO
+		ZIP:			80302
+		BUSINESS PHONE:		(720) 505-1762
+
+	MAIL ADDRESS:	
+		STREET 1:		831 PEARL STREET
+		CITY:			BOULDER
+		STATE:			CO
+		ZIP:			80302
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002069785</issuerCik>
+        <issuerName>Gloo Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>GLOO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000314984</rptOwnerCik>
+            <rptOwnerName>THRIVENT FINANCIAL FOR LUTHERANS</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>901 MARQUETTE AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 2500</rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55402-3211</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.41</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4111000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is the exact price at which all shares were sold.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David S. Royal, Executive Vice President, Chief Financial and Investment Officer</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

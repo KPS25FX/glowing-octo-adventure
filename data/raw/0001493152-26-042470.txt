@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001493152-26-042470.txt : 20260914
+<SEC-HEADER>0001493152-26-042470.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914063006
+ACCESSION NUMBER:		0001493152-26-042470
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LoPriore Vincent S
+		CENTRAL INDEX KEY:			0001633927
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36856
+		FILM NUMBER:		261375759
+
+	MAIL ADDRESS:	
+		STREET 1:		40 WALL STREET, 30TH FLOOR
+		STREET 2:		C/O CENTRAL PARK ADVISORS, LLC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hepion Pharmaceuticals, Inc.
+		CENTRAL INDEX KEY:			0001583771
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				462783806
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		34 SHREWSBURY AVE.
+		STREET 2:		SUITE 1D
+		CITY:			RED BANK
+		STATE:			NJ
+		ZIP:			07701
+		BUSINESS PHONE:		732-902-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		34 SHREWSBURY AVE.
+		STREET 2:		SUITE 1D
+		CITY:			RED BANK
+		STATE:			NJ
+		ZIP:			07701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ContraVir Pharmaceuticals, Inc.
+		DATE OF NAME CHANGE:	20130806
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001583771</issuerCik>
+        <issuerName>Hepion Pharmaceuticals, Inc.</issuerName>
+        <issuerTradingSymbol>HEPA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001633927</rptOwnerCik>
+            <rptOwnerName>LoPriore Vincent S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HEPION PHARMACEUTICALS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>34 SHREWSBURY AVE., SUITE 1D</rptOwnerStreet2>
+            <rptOwnerCity>RED BANK,</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07701</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.06</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-03</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-09-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12500000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22500000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Gravitas Capital LP</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Warrant is only exercisable upon stockholder approval of an increase in the authorized shares of the Company's Common Stock.</footnote>
+        <footnote id="F2">Mr. LoPriore is the Managing Member of Gravitas Capital LP and in such capacity has the right to vote and dispose of the securities held by such entity.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Vincent S. LoPriore</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

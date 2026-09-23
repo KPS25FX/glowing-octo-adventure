@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0002148916-26-000004.txt : 20260902
+<SEC-HEADER>0002148916-26-000004.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902162534
+ACCESSION NUMBER:		0002148916-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McCallion Heather A
+		CENTRAL INDEX KEY:			0002148916
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36863
+		FILM NUMBER:		261355186
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CABLE ONE, INC.
+		STREET 2:		210 E. EARLL DRIVE
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85012
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cable One, Inc.
+		CENTRAL INDEX KEY:			0001632127
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				133060083
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		210 E. EARLL DRIVE
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85012
+		BUSINESS PHONE:		602-364-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		210 E. EARLL DRIVE
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1788380732.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001632127</issuerCik>
+        <issuerName>Cable One, Inc.</issuerName>
+        <issuerTradingSymbol>CABO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002148916</rptOwnerCik>
+            <rptOwnerName>McCallion Heather A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CABLE ONE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>210 E. EARLL DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85012</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom RSUs</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>41893</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>41893</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41893</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each phantom service-based restricted stock unit (a Phantom RSU) and each phantom performance-based restricted stock unit (a Phantom PSU) represents a contingent right to receive the economic value of one share of Common Stock, with each solely settled in cash.</footnote>
+        <footnote id="F2">Represents a grant of 41,893 Phantom RSUs on September 1, 2026, which generally vest in substantially equal installments on (i) September 1, 2027 and (ii) September 1, 2028, subject to the Reporting Persons continued employment through the applicable vesting date</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher J. Arntzen for Heather A. McCallion</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

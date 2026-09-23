@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0001140361-26-037009.txt : 20260917
+<SEC-HEADER>0001140361-26-037009.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917170856
+ACCESSION NUMBER:		0001140361-26-037009
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Greth Lyndal
+		CENTRAL INDEX KEY:			0002021141
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35700
+		FILM NUMBER:		261387674
+
+	MAIL ADDRESS:	
+		STREET 1:		8111 DOUGLAS AVENUE
+		STREET 2:		SUITE 1200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SGF FANG Holdings, LP
+		CENTRAL INDEX KEY:			0002080063
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35700
+		FILM NUMBER:		261387675
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8111 DOUGLAS AVENUE
+		STREET 2:		SUITE 1200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+		BUSINESS PHONE:		214-851-6018
+
+	MAIL ADDRESS:	
+		STREET 1:		8111 DOUGLAS AVENUE
+		STREET 2:		SUITE 1200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Diamondback Energy, Inc.
+		CENTRAL INDEX KEY:			0001539838
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 WEST TEXAS AVENUE
+		STREET 2:		SUITE 100
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+		BUSINESS PHONE:		432-221-7400
+
+	MAIL ADDRESS:	
+		STREET 1:		500 WEST TEXAS AVENUE
+		STREET 2:		SUITE 100
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001539838</issuerCik>
+        <issuerName>Diamondback Energy, Inc.</issuerName>
+        <issuerTradingSymbol>FANG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002080063</rptOwnerCik>
+            <rptOwnerName>SGF FANG Holdings, LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SGF CAPITAL LLC, KEVIN T. KEEN</rptOwnerStreet1>
+            <rptOwnerStreet2>8111 DOUGLAS AVE., SUITE 1200</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75225</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002021141</rptOwnerCik>
+            <rptOwnerName>Greth Lyndal</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SGF CAPITAL LLC, KEVIN T. KEEN</rptOwnerStreet1>
+            <rptOwnerStreet2>8111 DOUGLAS AVENUE, SUITE 1200</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75225</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9079675</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>205.26</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>64957047</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 16, 2026, SGF FANG Holdings, LP, a Delaware limited partnership, sold 9,079,675 shares of common stock of Diamondback Energy, Inc., par value $0.01 per share, pursuant to Rule 144 under the Securities Act of 1933, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kevin T. Keen, Attorney in fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

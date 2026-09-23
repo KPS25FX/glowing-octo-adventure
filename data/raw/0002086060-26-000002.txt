@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0002086060-26-000002.txt : 20260916
+<SEC-HEADER>0002086060-26-000002.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916163258
+ACCESSION NUMBER:		0002086060-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gerson Jody
+		CENTRAL INDEX KEY:			0002086060
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07562
+		FILM NUMBER:		261384167
+
+	MAIL ADDRESS:	
+		STREET 1:		2 FOLSOM STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GAP INC
+		CENTRAL INDEX KEY:			0000039911
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				941697231
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO FOLSOM STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105-1205
+		BUSINESS PHONE:		4154270100
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO FOLSOM STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105-1205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GAP STORES INC
+		DATE OF NAME CHANGE:	19850617
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000039911</issuerCik>
+        <issuerName>GAP INC</issuerName>
+        <issuerTradingSymbol>GAP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002086060</rptOwnerCik>
+            <rptOwnerName>Gerson Jody</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>TWO FOLSOM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105-1205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Dividend Equivalent Rights</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>251.392</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>251.392</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>251.392</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each dividend equivalent right is the economic equivalent of one share of Gap Inc. common stock.</footnote>
+        <footnote id="F2">The dividend equivalent rights accrued on stock units originally granted on September 15, 2025, and are immediately vested.  Vested shares are delivered to the reporting person no sooner than three years from the date of grant, unless further deferred, or immediately upon cessation of service as a member of the Board, if earlier.</footnote>
+        <footnote id="F3">Not applicable.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Susanna Zhang, Power of Attorney For: Jody Gerson</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

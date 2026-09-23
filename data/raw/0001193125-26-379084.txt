@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001193125-26-379084.txt : 20260901
+<SEC-HEADER>0001193125-26-379084.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901210713
+ACCESSION NUMBER:		0001193125-26-379084
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Foster Mark E.
+		CENTRAL INDEX KEY:			0001941750
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41951
+		FILM NUMBER:		261352475
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AMERICAN HEALTHCARE REIT, INC.
+		STREET 2:		18191 VON KARMAN AVE. #300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			American Healthcare REIT, Inc.
+		CENTRAL INDEX KEY:			0001632970
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				472887436
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		18191 VON KARMAN AVENUE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+		BUSINESS PHONE:		949-270-9200
+
+	MAIL ADDRESS:	
+		STREET 1:		18191 VON KARMAN AVENUE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Griffin-American Healthcare REIT IV, Inc.
+		DATE OF NAME CHANGE:	20151231
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Griffin-American Healthcare REIT 4, Inc.
+		DATE OF NAME CHANGE:	20150428
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Griffin-American Healthcare REIT IV, Inc.
+		DATE OF NAME CHANGE:	20150205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001632970</issuerCik>
+        <issuerName>American Healthcare REIT, Inc.</issuerName>
+        <issuerTradingSymbol>AHR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001941750</rptOwnerCik>
+            <rptOwnerName>Foster Mark E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AMERICAN HEALTHCARE REIT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>18191 VON KARMAN AVE., STE. 300</rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92612</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, GC &amp; Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>55.39</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>51617</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on December 19, 2025.</footnote>
+        <footnote id="F2">The transaction described herein was made pursuant to an exception to a lock-up agreement between the Reporting Person and the underwriters of the Issuer's offering of shares of common stock that closed on August 12, 2026.</footnote>
+        <footnote id="F3">Includes 622 shares acquired under the Issuer's Employee Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ MARK E. FOSTER</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

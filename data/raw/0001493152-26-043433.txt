@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001493152-26-043433.txt : 20260918
+<SEC-HEADER>0001493152-26-043433.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918190008
+ACCESSION NUMBER:		0001493152-26-043433
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Thiel Frederick G
+		CENTRAL INDEX KEY:			0001567383
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36555
+		FILM NUMBER:		261391997
+
+	MAIL ADDRESS:	
+		STREET 1:		1010 SOUTH FEDERAL HIGHWAY
+		STREET 2:		SUITE 2700
+		CITY:			HALLANDALE BEACH
+		STATE:			FL
+		ZIP:			33009
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARA Holdings, Inc.
+		CENTRAL INDEX KEY:			0001507605
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				010949984
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1010 SOUTH FEDERAL HIGHWAY
+		STREET 2:		SUITE 2700
+		CITY:			HALLANDALE BEACH
+		STATE:			FL
+		ZIP:			33009
+		BUSINESS PHONE:		(800) 804-1690
+
+	MAIL ADDRESS:	
+		STREET 1:		1010 SOUTH FEDERAL HIGHWAY
+		STREET 2:		SUITE 2700
+		CITY:			HALLANDALE BEACH
+		STATE:			FL
+		ZIP:			33009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MARATHON DIGITAL HOLDINGS, INC.
+		DATE OF NAME CHANGE:	20210315
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Marathon Patent Group, Inc.
+		DATE OF NAME CHANGE:	20130222
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Strategic Minerals Corp
+		DATE OF NAME CHANGE:	20111213
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001507605</issuerCik>
+        <issuerName>MARA Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>MARA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001567383</rptOwnerCik>
+            <rptOwnerName>Thiel Frederick G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O MARA HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1010 SOUTH FEDERAL HIGHWAY, SUITE 2700</rptOwnerStreet2>
+            <rptOwnerCity>HALLANDALE BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33009</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>27505</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.45</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4308192</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported in this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 28, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Zabi Nowaid, Attorney-in-Fact for Fred Thiel</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

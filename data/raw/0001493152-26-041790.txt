@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0001493152-26-041790.txt : 20260908
+<SEC-HEADER>0001493152-26-041790.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908164010
+ACCESSION NUMBER:		0001493152-26-041790
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shalom Menachem
+		CENTRAL INDEX KEY:			0002030245
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37960
+		FILM NUMBER:		261365593
+
+	MAIL ADDRESS:	
+		STREET 1:		307 WEST 38TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Polar Power, Inc.
+		CENTRAL INDEX KEY:			0001622345
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				330479020
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		249 E. GARDENA BOULEVARD
+		CITY:			GARDENA
+		STATE:			CA
+		ZIP:			90248
+		BUSINESS PHONE:		310-830-9153
+
+	MAIL ADDRESS:	
+		STREET 1:		249 E. GARDENA BOULEVARD
+		CITY:			GARDENA
+		STATE:			CA
+		ZIP:			90248
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001622345</issuerCik>
+        <issuerName>Polar Power, Inc.</issuerName>
+        <issuerTradingSymbol>POLA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002030245</rptOwnerCik>
+            <rptOwnerName>Shalom Menachem</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O POLAR POWER, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>249 E. GARDENA BLVD.</rptOwnerStreet2>
+            <rptOwnerCity>GARDENA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90248</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Convertible Note</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>763889</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-06-30</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-12-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>763889</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Purchase Warrant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.64</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>83841</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-07-21</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-07-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>83841</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The maximum number of shares issuable upon conversion of the Convertible Note is 763,889 shares of the issuer's common stock, par value $0.0001 per share (the &quot;Common Stock&quot;). The conversion price equals 90% of the lowest daily VWAP of the issuer's Common Stock in the 7 trading days ending on the date of the delivery of the applicable conversion notice, subject to a floor price while the Common Stock is listed on the trading market. The figure of 763,889 assumes that the Convertible Note converts at the floor price set forth in the Convertible Note. The exact number of shares that may be issued is not currently determinable because the applicable conversion prices are variable and are determined by reference to the market price of the Common Stock at the time of conversion.</footnote>
+        <footnote id="F2">On September 2, 2026, Mayers Ventures LLC (&quot;Mayers&quot;) and Mandragola Ltd. (the &quot;Assignee&quot;) entered into a Securities Assignment and Assumption Agreement pursuant to which Mayers assigned to the Assignee (i) the Convertible Note issued to Mayers by the issuer on June 30, 2026 and (ii) the Common Stock Purchase Warrant issued to Mayers by the issuer on July 21, 2026, for an aggregate purchase price of $325,000.</footnote>
+        <footnote id="F3">Consists of securities held by Mayers and may be deemed to be indirectly beneficially owned by Menny Shalom, who may be deemed to have sole voting and dispositive power with respect to the shares held by Mayers. Mr. Shalom disclaims any beneficial ownership of the reported shares other than to the extent of any pecuniary interest he may have therein, directly or indirectly.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Menachem Shalom</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

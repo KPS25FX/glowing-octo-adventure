@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001475597-26-000229.txt : 20260902
+<SEC-HEADER>0001475597-26-000229.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902150757
+ACCESSION NUMBER:		0001475597-26-000229
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HRT FINANCIAL LP
+		CENTRAL INDEX KEY:			0001475597
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38172
+		FILM NUMBER:		261354242
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 WORLD TRADE CENTER, 175 GREENWICH STRE
+		STREET 2:		76TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+		BUSINESS PHONE:		212 293-1444
+
+	MAIL ADDRESS:	
+		STREET 1:		3 WORLD TRADE CENTER, 175 GREENWICH STRE
+		STREET 2:		76TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	HRT FINANCIAL LLC
+		DATE OF NAME CHANGE:	20091028
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Freight Technologies, Inc.
+		CENTRAL INDEX KEY:			0001687542
+		STANDARD INDUSTRIAL CLASSIFICATION:	ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO [4731]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2001 TIMBERLOCH PLACE
+		STREET 2:		SUITE 500
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+		BUSINESS PHONE:		(773) 905-5076
+
+	MAIL ADDRESS:	
+		STREET 1:		2001 TIMBERLOCH PLACE
+		STREET 2:		SUITE 500
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hudson Capital Inc.
+		DATE OF NAME CHANGE:	20200507
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	China Internet Nationwide Financial Services, Inc.
+		DATE OF NAME CHANGE:	20161014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001687542</issuerCik>
+        <issuerName>Freight Technologies, Inc.</issuerName>
+        <issuerTradingSymbol>FRGT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001475597</rptOwnerCik>
+            <rptOwnerName>HRT FINANCIAL LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3 WORLD TRADE CENTER, 175 GREENWICH STRE</rptOwnerStreet1>
+            <rptOwnerStreet2>76TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10007</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7382</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.39</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>566</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">We will provide, upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares purchased or sold at each separate price.</footnote>
+        <footnote id="F2">Resulting in short sales.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Adam Nunes</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

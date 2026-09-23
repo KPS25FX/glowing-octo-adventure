@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001834902-26-000024.txt : 20260916
+<SEC-HEADER>0001834902-26-000024.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916180100
+ACCESSION NUMBER:		0001834902-26-000024
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jedda Dan
+		CENTRAL INDEX KEY:			0001834902
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38211
+		FILM NUMBER:		261384734
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O STITCH FIX, INC.
+		STREET 2:		1 MONTGOMERY STREET, SUITE 1500
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROKU, INC
+		CENTRAL INDEX KEY:			0001428439
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				262087865
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1173 COLEMAN AVENUE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+		BUSINESS PHONE:		(408) 556-9040
+
+	MAIL ADDRESS:	
+		STREET 1:		1701 JUNCTION COURT, SUITE 100
+		STREET 2:		ATTENTION: GENERAL COUNSEL
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROKU INC
+		DATE OF NAME CHANGE:	20080228
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001428439</issuerCik>
+        <issuerName>ROKU, INC</issuerName>
+        <issuerTradingSymbol>ROKU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001834902</rptOwnerCik>
+            <rptOwnerName>Jedda Dan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ROKU, INC., 1173 COLEMAN AVE.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95110</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO &amp; COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>156.81</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>74811</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares sold pursuant to Mr. Jedda's 10b5-1 plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Renee Strandness, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

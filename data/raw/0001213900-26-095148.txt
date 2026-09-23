@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001213900-26-095148.txt : 20260828
+<SEC-HEADER>0001213900-26-095148.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828170006
+ACCESSION NUMBER:		0001213900-26-095148
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vontur Steven
+		CENTRAL INDEX KEY:			0001964266
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40823
+		FILM NUMBER:		261341230
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O INTUITIVE MACHINES
+		STREET 2:		3700 BAY AREA BLVD.
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77058
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intuitive Machines, Inc.
+		CENTRAL INDEX KEY:			0001844452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13467 COLUMBIA SHUTTLE STREET
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77059
+		BUSINESS PHONE:		(281) 520-3703
+
+	MAIL ADDRESS:	
+		STREET 1:		13467 COLUMBIA SHUTTLE STREET
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77059
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Inflection Point Acquisition Corp.
+		DATE OF NAME CHANGE:	20210204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844452</issuerCik>
+        <issuerName>Intuitive Machines, Inc.</issuerName>
+        <issuerTradingSymbol>LUNR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001964266</rptOwnerCik>
+            <rptOwnerName>Vontur Steven</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O INTUITIVE MACHINES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>13467 COLUMBIA SHUTTLE STREET</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77059</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3050</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.13</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>113997</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported herein represents shares sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of restricted stock units. The sale does not represent a discretionary transaction by the Reporting Person.</footnote>
+    </footnotes>
+
+    <remarks>Chief Accounting Officer and Controller</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Steven Vontur</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

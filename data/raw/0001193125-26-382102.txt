@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-382102.txt : 20260903
+<SEC-HEADER>0001193125-26-382102.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903172106
+ACCESSION NUMBER:		0001193125-26-382102
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STERNLICHT BARRY S
+		CENTRAL INDEX KEY:			0001034657
+		ORGANIZATION NAME:           	CF
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56046
+		FILM NUMBER:		261359331
+
+	MAIL ADDRESS:	
+		STREET 1:		STARWOOD CAPITAL GROUP GLOBAL LP
+		STREET 2:		1601 WASHINGTON AVENUE, SUITE 800
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Starwood Real Estate Income Trust, Inc.
+		CENTRAL INDEX KEY:			0001711929
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				822023409
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2340 COLLINS AVENUE
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+		BUSINESS PHONE:		305-695-5500
+
+	MAIL ADDRESS:	
+		STREET 1:		2340 COLLINS AVENUE
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001711929</issuerCik>
+        <issuerName>Starwood Real Estate Income Trust, Inc.</issuerName>
+        <issuerTradingSymbol>N/A</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001034657</rptOwnerCik>
+            <rptOwnerName>STERNLICHT BARRY S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2340 COLLINS AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MIAMI BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33139</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class I Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>513382</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.41</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7321627</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Starwood REIT Advisors L.L.C., Starwood Real Estate Income Holdings, L.P. and Barry Sternlicht.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares acquired through Issuer's Distribution Reinvestment Plan.</footnote>
+        <footnote id="F2">4,405,395 of Reportable Securities are owned by Mr. Sternlicht personally.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew Guttin, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

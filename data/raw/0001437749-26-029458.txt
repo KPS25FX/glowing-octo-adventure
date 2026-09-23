@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001437749-26-029458.txt : 20260902
+<SEC-HEADER>0001437749-26-029458.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902093736
+ACCESSION NUMBER:		0001437749-26-029458
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bolton Jeffrey
+		CENTRAL INDEX KEY:			0001925331
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39036
+		FILM NUMBER:		261352864
+
+	MAIL ADDRESS:	
+		STREET 1:		401 DEMERS AVENUE
+		CITY:			GRAND FORKS
+		STATE:			ND
+		ZIP:			58201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALERUS FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000903419
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				450375407
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		401 DEMERS AVE
+		CITY:			GRAND FORKS
+		STATE:			ND
+		ZIP:			58201
+		BUSINESS PHONE:		7017953200
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 6001
+		STREET 2:		401 DEMERS AVE
+		CITY:			GRAND FORKS
+		STATE:			ND
+		ZIP:			58206-6001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST NATIONAL CORP NORTH DAKOTA
+		DATE OF NAME CHANGE:	19980312
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>JEFF BOLTON FORM 4 FILING
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000903419</issuerCik>
+        <issuerName>ALERUS FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>ALRS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001925331</rptOwnerCik>
+            <rptOwnerName>Bolton Jeffrey</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>401 DEMERS AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GRAND FORKS</rptOwnerCity>
+            <rptOwnerState>ND</rptOwnerState>
+            <rptOwnerZipCode>58201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>32.45</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15163</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 1,000 shares held jointly with Mr. Bolton's spouse.</footnote>
+        <footnote id="F2">Includes 1,772 shares of restricted stock.</footnote>
+        <footnote id="F3">Includes 4,567 shares held jointly with Mr. Bolton's spouse.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicholas Brenckman, by power of attorney</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

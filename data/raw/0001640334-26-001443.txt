@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001640334-26-001443.txt : 20260901
+<SEC-HEADER>0001640334-26-001443.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901102009
+ACCESSION NUMBER:		0001640334-26-001443
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260819
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pojunis Brett H.
+		CENTRAL INDEX KEY:			0001713173
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56286
+		FILM NUMBER:		261348903
+
+	MAIL ADDRESS:	
+		STREET 1:		9179 CORAL BISQUE STREET
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89123
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GPO Plus, Inc.
+		CENTRAL INDEX KEY:			0001673475
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-SERVICES, NEC [8900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				371817132
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3571 E. SUNSET ROAD
+		STREET 2:		SUITE 300
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89120
+		BUSINESS PHONE:		855-935-4769
+
+	MAIL ADDRESS:	
+		STREET 1:		3571 E. SUNSET ROAD
+		STREET 2:		SUITE 300
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89120
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLOBAL HOUSE HOLDINGS LTD.
+		DATE OF NAME CHANGE:	20180406
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KOLDECK INC.
+		DATE OF NAME CHANGE:	20160429
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-19-05:00</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001673475</issuerCik>
+        <issuerName>GPO Plus, Inc.</issuerName>
+        <issuerTradingSymbol>GPOX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001713173</rptOwnerCik>
+            <rptOwnerName>Pojunis Brett H.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3571 E. SUNSET ROAD, SUITE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89120</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series A-1 Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-19-05:00</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.04</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>160000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1-for-1 into common</footnote>
+        <footnote id="F2">Immediately, at holder's option / No expiration</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brett H. Pojunis</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

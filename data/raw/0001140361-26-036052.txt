@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001140361-26-036052.txt : 20260909
+<SEC-HEADER>0001140361-26-036052.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909160212
+ACCESSION NUMBER:		0001140361-26-036052
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schonharting Florian
+		CENTRAL INDEX KEY:			0001360509
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40530
+		FILM NUMBER:		261368127
+
+	MAIL ADDRESS:	
+		STREET 1:		OSTERGADE 5, 3RD FLOOR
+		STREET 2:		DK-1100
+		CITY:			COPENHAGEN
+		STATE:			G7
+		ZIP:			G7
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GH Research PLC
+		CENTRAL INDEX KEY:			0001855129
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			L2
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		JOSHUA DAWSON HOUSE
+		STREET 2:		DAWSON STREET
+		CITY:			DUBLIN 2
+		STATE:			L2
+		ZIP:			D02 RY95
+		BUSINESS PHONE:		353 1 437 8334
+
+	MAIL ADDRESS:	
+		STREET 1:		JOSHUA DAWSON HOUSE
+		STREET 2:		DAWSON STREET
+		CITY:			DUBLIN 2
+		STATE:			L2
+		ZIP:			D02 RY95
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001855129</issuerCik>
+        <issuerName>GH Research PLC</issuerName>
+        <issuerTradingSymbol>GHRS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001360509</rptOwnerCik>
+            <rptOwnerName>Schonharting Florian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GH RESEARCH PLC</rptOwnerStreet1>
+            <rptOwnerStreet2>JOSHUA DAWSON HOUSE, DAWSON STREET</rptOwnerStreet2>
+            <rptOwnerCity>DUBLIN</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L2</rptOwnerCountry>
+            <rptOwnerZipCode>D02 RY95</rptOwnerZipCode>
+            <rptOwnerStateDescription>IRELAND</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Share Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.025</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2303</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-09-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2303</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2303</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The share options are immediately fully vested, but are not exercisable until September 8, 2028.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Florian Schonharting</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

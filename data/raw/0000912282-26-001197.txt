@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0000912282-26-001197.txt : 20260901
+<SEC-HEADER>0000912282-26-001197.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901173743
+ACCESSION NUMBER:		0000912282-26-001197
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WALTERS DIANA J
+		CENTRAL INDEX KEY:			0001007203
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35447
+		FILM NUMBER:		261351966
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TRILOGY METALS INC.
+		STREET 2:		SUITE 901, 510 BURRARD STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 3A8
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Trilogy Metals Inc.
+		CENTRAL INDEX KEY:			0001543418
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		510 BURRARD STREET, SUITE 901
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 3B8
+		BUSINESS PHONE:		(604) 638-8088
+
+	MAIL ADDRESS:	
+		STREET 1:		510 BURRARD STREET, SUITE 901
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 3B8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NovaCopper Inc.
+		DATE OF NAME CHANGE:	20120228
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001543418</issuerCik>
+        <issuerName>Trilogy Metals Inc.</issuerName>
+        <issuerTradingSymbol>TMQ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001007203</rptOwnerCik>
+            <rptOwnerName>WALTERS DIANA J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TRILOGY METALS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 901, 510 BURRARD STREET</rptOwnerStreet2>
+            <rptOwnerCity>VANCOUVER</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A1</rptOwnerCountry>
+            <rptOwnerZipCode>V6C 3A8</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRITISH COLUMBIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Share Units (&quot;DSUs&quot;)</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>950.901</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>950.901</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>557636.237</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Non-discretionary issuances of DSUs pursuant to elections made by plan participants prior to the commencement of the current fiscal year.</footnote>
+        <footnote id="F2">The DSUs vest immediately; however, the underlying common shares will not be issued to the grantee, and the grantee shall not have any voting or dispositive rights with respect to the underlying common shares, until termination of the grantee's employment or services as a director of the Issuer. The grants will expire no later than 90 days after the grantee's termination date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Elaine Sanders as attorney-in-fact for Diana J. Walters</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

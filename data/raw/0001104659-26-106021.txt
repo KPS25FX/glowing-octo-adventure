@@ -1,0 +1,466 @@
+<SEC-DOCUMENT>0001104659-26-106021.txt : 20260908
+<SEC-HEADER>0001104659-26-106021.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908205031
+ACCESSION NUMBER:		0001104659-26-106021
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MALONE JOHN C
+		CENTRAL INDEX KEY:			0000937797
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42742
+		FILM NUMBER:		261366390
+
+	MAIL ADDRESS:	
+		STREET 1:		12300 LIBERTY BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Liberty Capital Corp/NV
+		CENTRAL INDEX KEY:			0002057463
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12300 LIBERTY BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		7208755700
+
+	MAIL ADDRESS:	
+		STREET 1:		12300 LIBERTY BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GCI Liberty, Inc.
+		DATE OF NAME CHANGE:	20250221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2624982-1_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002057463</issuerCik>
+        <issuerName>Liberty Capital Corp/NV</issuerName>
+        <issuerTradingSymbol>GLIBK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000937797</rptOwnerCik>
+            <rptOwnerName>MALONE JOHN C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>12300 LIBERTY BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ENGLEWOOD</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80112</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call option (obligation to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>41.2049</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>E</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C GCI Group Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>13400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26800</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Put option (right to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>30.15</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C GCI Group Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>13400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26800</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call option (obligation to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>41.2049</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>E</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F4"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C GCI Group Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>13400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13400</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Put option (right to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>30.15</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F4"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C GCI Group Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>13400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13400</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call option (obligation to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>41.2049</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>E</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C GCI Group Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>13400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Put option (right to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>30.15</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C GCI Group Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>13400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As previously disclosed by the Reporting Person, on July 15, 2025, the Reporting Person was automatically deemed to have entered into a &quot;zero-cost collar&quot; arrangement with respect to 200,000 shares of the Issuer's Series C GCI Group Common Stock (the &quot;Collar&quot;), pursuant to which he wrote European call options and purchased European put options referencing shares of Series C GCI Group Common Stock. Only one of the options can be in the money on the expiration date, at which time the in-the-money options will be exercised, and the other options will expire. If neither the put options nor the call options are in the money on the expiration date, both the put and call options will expire. The Collar will be settled in cash unless the Reporting Person elects physical settlement.</footnote>
+        <footnote id="F2">The Collar is divided into 15 components, the first 5 of which are with respect to 13,200 shares of Series C GCI Group Common Stock and the last 10 of which are with respect to 13,400 shares, maturing on sequential trading days over the period beginning on August 18, 2026 and ending on September 8, 2026.</footnote>
+        <footnote id="F3">On September 3, 2026, the thirteenth component of the Collar settled in cash and the Reporting Person received a cash amount of $53,332. On the same date, the related call option expired unexercised.</footnote>
+        <footnote id="F4">On September 4, 2026, the fourteenth component of the Collar settled in cash and the Reporting Person received a cash amount of $51,992. On the same date, the related call option expired unexercised.</footnote>
+        <footnote id="F5">On September 8, 2026, the fifteenth and final component of the Collar settled in cash and the Reporting Person received a cash amount of $56,682. On the same date, the related call option expired unexercised.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brittany A. Uthoff as Attorney-in-Fact for John C. Malone</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

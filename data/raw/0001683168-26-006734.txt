@@ -1,0 +1,237 @@
+<SEC-DOCUMENT>0001683168-26-006734.txt : 20260826
+<SEC-HEADER>0001683168-26-006734.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826162824
+ACCESSION NUMBER:		0001683168-26-006734
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCCALLUM KATRINKA
+		CENTRAL INDEX KEY:			0001201242
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		STATE OF INCORPORATION:			NE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39608
+		FILM NUMBER:		261323381
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ACI WORLDWIDE, INC.
+		STREET 2:		6060 COVENTRY DRIVE
+		CITY:			ELKHORN
+		STATE:			NE
+		ZIP:			68022
+		BUSINESS PHONE:		4027781511
+
+	MAIL ADDRESS:	
+		STREET 1:		ACI WORLDWIDE, INC.
+		STREET 2:		6060 COVENTRY DRIVE
+		CITY:			ELKHORN
+		STATE:			NE
+		ZIP:			68022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTRUSION INC
+		CENTRAL INDEX KEY:			0000736012
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				751911917
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 EAST PARK BLVD, SUITE 1200
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75074
+		BUSINESS PHONE:		(888) 637-7770
+
+	MAIL ADDRESS:	
+		STREET 1:		101 EAST PARK BLVD, SUITE 1200
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75074
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTRUSION COM INC
+		DATE OF NAME CHANGE:	20000601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ODS NETWORKS INC
+		DATE OF NAME CHANGE:	19970507
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OPTICAL DATA SYSTEMS INC
+		DATE OF NAME CHANGE:	19950517
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000736012</issuerCik>
+        <issuerName>INTRUSION INC</issuerName>
+        <issuerTradingSymbol>INTZ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001201242</rptOwnerCik>
+            <rptOwnerName>MCCALLUM KATRINKA</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O INTRUSION, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>101 EAST PARK BLVD, SUITE 1200</rptOwnerStreet2>
+            <rptOwnerCity>PLANO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75074</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5834</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.795</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>141551</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.67</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5834</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.125</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5834</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5834</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Common Stock acquired because of an exercise of a Warrant.</footnote>
+        <footnote id="F2">The Warrant was exercised in conjunction with a Warrant Inducement Letter dated 08/14/2026 where one Warrant was granted in exchange for one Warrant exercised.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Katrinka McCallam</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

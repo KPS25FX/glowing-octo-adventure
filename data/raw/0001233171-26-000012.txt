@@ -1,0 +1,231 @@
+<SEC-DOCUMENT>0001233171-26-000012.txt : 20260916
+<SEC-HEADER>0001233171-26-000012.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916181910
+ACCESSION NUMBER:		0001233171-26-000012
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			REINER GARY M
+		CENTRAL INDEX KEY:			0001233171
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37483
+		FILM NUMBER:		261384775
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HEWLETT PACKARD ENTERPRISE COMPANY
+		STREET 2:		1701 E MOSSY OAKS ROAD
+		CITY:			SPRING
+		STATE:			TX
+		ZIP:			77389
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hewlett Packard Enterprise Co
+		CENTRAL INDEX KEY:			0001645590
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				473298624
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1701 E MOSSY OAKS ROAD
+		CITY:			SPRING
+		STATE:			TX
+		ZIP:			77389
+		BUSINESS PHONE:		678-259-9860
+
+	MAIL ADDRESS:	
+		STREET 1:		1701 E MOSSY OAKS ROAD
+		CITY:			SPRING
+		STATE:			TX
+		ZIP:			77389
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001645590</issuerCik>
+        <issuerName>Hewlett Packard Enterprise Co</issuerName>
+        <issuerTradingSymbol>HPE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001233171</rptOwnerCik>
+            <rptOwnerName>REINER GARY M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HEWLETT PACKARD ENTERPRISE COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>1701 E MOSSY OAKS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>SPRING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77389</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>56.9076</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65072</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By JPM Chase</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-07-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>26.3109</value>
+                    <footnoteId id="F5"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>26.3109</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8776.3109</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The total direct beneficial ownership reflects a decrease of 831 shares due to transfer of the shares into the reporting person's JP Morgan Chase account on 07/06/26.</footnote>
+        <footnote id="F2">The total indirect beneficial ownership reflects an increase of 831 shares due to transfer of the shares previously reported as being held directly by the reporting person into his JPMorgan Chase account on 07/06/26.</footnote>
+        <footnote id="F3">The price in Column 4 is a weighted average price. The prices ranged from $56.88 to $56.96. Upon request, the reporting person will provide to the Issuer, any security holder of the Issuer, or the SEC staff, information regarding the number of shares at each price within the range.</footnote>
+        <footnote id="F4">Each restricted stock unit represents a contingent right to receive one share of Issuer's common stock.</footnote>
+        <footnote id="F5">As previously reported, on 05/01/26, the reporting person was granted 8,750 restricted stock units (&quot;RSUs&quot;), all of which will cliff vest on the earlier of 05/01/27 or the date of Issuer's 2027 Annual Stockholders Meeting. Dividend equivalent rights accrue with respect to these RSUs when and as dividends are paid on Issuer's common stock. The number of derivative securities in column 5 reflects 26.3109 dividend equivalent rights at $47.39 per RSU credited to the reporting person's account on 07/15/26.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Ki Hoon Kim as Attorney-in-Fact for Gary M. Reiner</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

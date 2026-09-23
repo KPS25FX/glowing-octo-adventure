@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001213900-26-099752.txt : 20260914
+<SEC-HEADER>0001213900-26-099752.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914163920
+ACCESSION NUMBER:		0001213900-26-099752
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NATHAN GILBERT E
+		CENTRAL INDEX KEY:			0001657622
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21467
+		FILM NUMBER:		261377855
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O EMERGENT CAPITAL, INC.
+		STREET 2:		5355 TOWN CENTER ROAD, SUITE 701
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33486
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alto Ingredients, Inc.
+		CENTRAL INDEX KEY:			0000778164
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				412170618
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 CAPITOL MALL, SUITE 2060
+		CITY:			SACRAMENTO
+		STATE:			CA
+		ZIP:			95814
+		BUSINESS PHONE:		916-403-2123
+
+	MAIL ADDRESS:	
+		STREET 1:		400 CAPITOL MALL, SUITE 2060
+		CITY:			SACRAMENTO
+		STATE:			CA
+		ZIP:			95814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pacific Ethanol, Inc.
+		DATE OF NAME CHANGE:	20050324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCESSITY CORP
+		DATE OF NAME CHANGE:	20030627
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DRIVERSSHIELD COM CORP
+		DATE OF NAME CHANGE:	20001115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000778164</issuerCik>
+        <issuerName>Alto Ingredients, Inc.</issuerName>
+        <issuerTradingSymbol>ALTO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001657622</rptOwnerCik>
+            <rptOwnerName>NATHAN GILBERT E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1300 SOUTH SECOND STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PEKIN</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>61554</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.9299</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>866393</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Gilbert E. Nathan</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

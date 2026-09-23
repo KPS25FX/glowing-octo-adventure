@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001213900-26-101586.txt : 20260918
+<SEC-HEADER>0001213900-26-101586.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918212238
+ACCESSION NUMBER:		0001213900-26-101586
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Goldman Tepper Leslie
+		CENTRAL INDEX KEY:			0002062355
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56406
+		FILM NUMBER:		261392108
+
+	MAIL ADDRESS:	
+		STREET 1:		C/OTITAN ACQUISITION CORP
+		STREET 2:		131 CONCORD STREET
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Deep Isolation Nuclear, Inc.
+		CENTRAL INDEX KEY:			0001918080
+		STANDARD INDUSTRIAL CLASSIFICATION:	REFUSE SYSTEMS [4953]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				874225965
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2001 ADDISON STREET
+		STREET 2:		SUITE 300
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94704
+		BUSINESS PHONE:		561 464 2841
+
+	MAIL ADDRESS:	
+		STREET 1:		1761 GEORGE WASHINGTON WAY
+		STREET 2:		#362
+		CITY:			RICHLAND
+		STATE:			WA
+		ZIP:			99354
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aspen-1 Acquisition Inc.
+		DATE OF NAME CHANGE:	20220317
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001918080</issuerCik>
+        <issuerName>Deep Isolation Nuclear, Inc.</issuerName>
+        <issuerTradingSymbol>DBHL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002062355</rptOwnerCik>
+            <rptOwnerName>Goldman Tepper Leslie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O DEEP ISOLATION NUCLEAR, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2001 ADDISON STREET, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>BERKELEY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94704</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>70000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>178250</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Bella AJT Holdings, LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of restricted stock units (&quot;RSUs&quot;) to the Reporting Person pursuant to the Deep Isolation Nuclear, Inc. 2025 Equity Incentive Plan. Each RSU represents a contingent right to receive one share of common stock. Upon issuance the RSUs immediately vested, but their conversion into shares of common stock of the Issuer is deferred until the earliest of the following events to occur: (i) a change of control of the Issuer, (ii) a separation of service as a director by the Reporting Person, or (iii) death of the Reporting Person.</footnote>
+        <footnote id="F2">The Reporting Person is a member of Bella AJT Holdings, LLC and shares voting and investment power over and a pecuniary interest in the securities held by such entity.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Leslie Goldman Tepper</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

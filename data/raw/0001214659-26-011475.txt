@@ -1,0 +1,309 @@
+<SEC-DOCUMENT>0001214659-26-011475.txt : 20260908
+<SEC-HEADER>0001214659-26-011475.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908160619
+ACCESSION NUMBER:		0001214659-26-011475
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jung Cassie
+		CENTRAL INDEX KEY:			0001960154
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38599
+		FILM NUMBER:		261365107
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AQUESTIVE THERAPEUTICS, INC.
+		STREET 2:		30 TECHNOLOGY DRIVE
+		CITY:			WARREN
+		STATE:			NJ
+		ZIP:			07059
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aquestive Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001398733
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				208623253
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 TECHNOLOGY DRIVE
+		CITY:			WARREN
+		STATE:			NJ
+		ZIP:			07059
+		BUSINESS PHONE:		908-941-1900
+
+	MAIL ADDRESS:	
+		STREET 1:		30 TECHNOLOGY DRIVE
+		CITY:			WARREN
+		STATE:			NJ
+		ZIP:			07059
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MonoSol Rx, Inc.
+		DATE OF NAME CHANGE:	20070507
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-73943.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001398733</issuerCik>
+        <issuerName>Aquestive Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>AQST</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001960154</rptOwnerCik>
+            <rptOwnerName>Jung Cassie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AQUESTIVE THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 TECHNOLOGY DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>WARREN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07059</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4587</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.96</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>206833</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.96</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4587</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2022-12-08</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-06-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4587</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the exercise for cash of a Common Stock Purchase Warrant issued to the Reporting Person on June 8, 2022 pursuant to a Securities Purchase Agreement dated June 6, 2022. The warrant became exercisable on December 8, 2022, expires on June 8, 2027, and has an exercise price of $0.96 per share.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas Zalewski, as Attorney-In-Fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa.htm
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+<html>
+  <body>
+    <pre>
+      POWER OF ATTORNE"\"
+KNOW ALL BY THESE PRESENTS, that the undersigned hereby constitutes and appoints
+each of Thomas A. Zalewski, Hillary T. Yegen, A. Ernest Toth, Jr., Ellen S.
+Knarr and Cln*istopher M. Rogers, signing singly, the undersigned's true and
+lawful attorney-in-fact to:
+(I)  prepare, execute in the undersigned's name and on the undersigned's behalf,
+and submit to the United States Securities and Exchange Commission (the "SEC") a
+Form ID, including amendments thereto, or any other documents necessary or
+appropriate to obtain codes and passwords enabling the undersigned to make
+electronic filings with the SEC ofrep01ts required by Section 16(a) of the
+Securities Exchange Act of 1934, as amended (the "Exchange Act"), Rule 144 under
+the Securities Act of 1933, as amended ("Rule 144"), or any rule or regulation
+of the SEC via the Electronic Data Gathering and Retrieval ("EDGAR") system and
+legally bind the undersigned for purpose of the Form ID or such other documents;
+(2)	act as an account administrator for the undersigned's EDGAR account,
+including
+(i)	appointing, removing and replacing account administrators, teclmical
+administrators, account users, and delegated entities; (ii) maintaining the
+security of the undersigned's EDGAR account, including modification of access
+codes; (iii) maintaining, modifying and ce1tifying the accuracy of information
+on the undersigned's EDGAR account dashboard; and (iv) taking any other actions
+contemplated by Rule 10 of Regulation S-T;
+(3)	prepare, execute for and on behalf of the undersigned, in the undersigned's
+capacity as an officer of Aquestive Therapeutics, Inc., a Delaware corporation
+(the "Company"), Forms 3, 4, and 5, and Forms 144,, each including amendments
+thereto, in accordance with Section 16(a) of the Exchange Act and the rules
+thereunder and Rule 144, respectively;
+(4)	do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable to complete and execute any such Form ID,
+including amendments thereto, or Form 3, 4, or 5, or Form 144, and timely file
+such form with the SEC and any stock exchange or similar authority; and
+(5)	take any other action of any type whatsoever in connection with the
+foregoing which, in the opinion of such attorney-in-fact, may be of benefit to,
+in the best interest of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact may approve in the
+discretion of such attorney-in-fact.
+The undersigned hereby grants to each such attorney-in-fact full power and
+authority to do and perform any and every act and thing whatsoever requisite,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or
+
+revocation, hereby ratifying and confirming all that such attorney-in-fact's
+substitute or substitutes, shall lawfully do or cause to be done by vi1tue of
+this power of attorney and the rights and powers herein granted. The undersigned
+acknowledges that the foregoing attorneys-in-fact, in serving in such capacity
+at the request of the undersigned, are not assuming, nor is the Company
+assuming, any of the undersigned's responsibilities to comply with Section 16 of
+the Exchange Act.
+This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4, and 5, and Form 144, with
+respect to the undersigned's holdings of and transactions in securities issued
+by the Company, unless earlier revoked by the undersigned in a signed writing
+delivered to the foregoing attorneys-in-fact.
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this   day of May, 2026.
+    </pre>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001731122-26-001248.txt : 20260916
+<SEC-HEADER>0001731122-26-001248.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916160714
+ACCESSION NUMBER:		0001731122-26-001248
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260815
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			THOENES MARK L
+		CENTRAL INDEX KEY:			0001246350
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40641
+		FILM NUMBER:		261383813
+
+	MAIL ADDRESS:	
+		STREET 1:		7700 N.E. AMBASSADOR PL
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97220
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kaival Brands Innovations Group, Inc.
+		CENTRAL INDEX KEY:			0001762239
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-NONSTORE RETAILERS [5960]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				833492907
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4460 OLD DIXIE HIGHWAY
+		CITY:			GRANT-VALKARIA
+		STATE:			FL
+		ZIP:			32949
+		BUSINESS PHONE:		(833) 452-4825
+
+	MAIL ADDRESS:	
+		STREET 1:		4460 OLD DIXIE HIGHWAY
+		CITY:			GRANT-VALKARIA
+		STATE:			FL
+		ZIP:			32949
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Quick Start Holdings, Inc.
+		DATE OF NAME CHANGE:	20181218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001762239</issuerCik>
+        <issuerName>Kaival Brands Innovations Group, Inc.</issuerName>
+        <issuerTradingSymbol>KAVL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001246350</rptOwnerCik>
+            <rptOwnerName>THOENES MARK L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1317 EDGEWATER DR, SUITE 730</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ORLANDO</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32949</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (right to buy)</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0273</value>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-12-31</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>750000</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Non-qualified stock option for 250,000 shares granted on August 15, 2026 under the Issuer's Amended and Restated 2020 Stock and Incentive Compensation Plan.</footnote>
+        <footnote id="F2">Vests in full on the earlier of December 31, 2026 or a Change in Control, subject to continued service as a director.</footnote>
+        <footnote id="F3">Exercise price equals Fair Market Value on the Grant Date.</footnote>
+        <footnote id="F4">Includes 500,000 options previously reported on the Form 4 filed April 7, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Thoenes</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

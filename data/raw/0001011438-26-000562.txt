@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001011438-26-000562.txt : 20260901
+<SEC-HEADER>0001011438-26-000562.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901180352
+ACCESSION NUMBER:		0001011438-26-000562
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ross Kirsty Farrah
+		CENTRAL INDEX KEY:			0002117569
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41253
+		FILM NUMBER:		261352035
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		ST PANCRAS CAMPUS
+		STREET 2:		100 ROYAL COLLEGE STREET
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+		ZIP:			NW1 0TH
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Super Group (SGHC) Ltd
+		CENTRAL INDEX KEY:			0001878057
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			Y7
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		KINGSWAY HOUSE
+		STREET 2:		HAVILLAND STREET
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 2QE
+		BUSINESS PHONE:		44 1481 822939
+
+	MAIL ADDRESS:	
+		STREET 1:		KINGSWAY HOUSE
+		STREET 2:		HAVILLAND STREET
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 2QE
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001878057</issuerCik>
+        <issuerName>Super Group (SGHC) Ltd</issuerName>
+        <issuerTradingSymbol>SGHC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002117569</rptOwnerCik>
+            <rptOwnerName>Ross Kirsty Farrah</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O KINGSWAY HOUSE,</rptOwnerStreet1>
+            <rptOwnerStreet2>HAVILLAND STREET</rptOwnerStreet2>
+            <rptOwnerCity>ST PETER PORT</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>Y7</rptOwnerCountry>
+            <rptOwnerZipCode>GY1 2QE</rptOwnerZipCode>
+            <rptOwnerStateDescription>GUERNSEY</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48261</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Ross Kirsty Farrah</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

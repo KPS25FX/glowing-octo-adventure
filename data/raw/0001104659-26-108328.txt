@@ -1,0 +1,188 @@
+<SEC-DOCUMENT>0001104659-26-108328.txt : 20260916
+<SEC-HEADER>0001104659-26-108328.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916173319
+ACCESSION NUMBER:		0001104659-26-108328
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260319
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Brito Marcos
+		CENTRAL INDEX KEY:			0002122216
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32827
+		FILM NUMBER:		261384677
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AVENIDA EDUARDO MADERO 1182
+		CITY:			BUENOS AIRES
+		PROVINCE COUNTRY:   	C1
+		ZIP:			C1106ACY
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Macro Bank Inc.
+		CENTRAL INDEX KEY:			0001347426
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			C1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AV. EDUARDO MADERO 1182
+		CITY:			BUENOS AIRES
+		PROVINCE COUNTRY:   	C1
+		ZIP:			C1106ACY
+		BUSINESS PHONE:		54-11-5222-6500
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		AV. EDUARDO MADERO 1182
+		CITY:			BUENOS AIRES
+		PROVINCE COUNTRY:   	C1
+		ZIP:			C1106ACY
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Macro Bansud Bank Inc.
+		DATE OF NAME CHANGE:	20051220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2625584-1_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-03-19</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001347426</issuerCik>
+        <issuerName>Macro Bank Inc.</issuerName>
+        <issuerTradingSymbol>BMA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>BMA</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002122216</rptOwnerCik>
+            <rptOwnerName>Brito Marcos</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>AV. EDUARDO MADERO 1182</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BUENOS AIRES</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C1</rptOwnerCountry>
+            <rptOwnerZipCode>C1106ACY</rptOwnerZipCode>
+            <rptOwnerStateDescription>ARGENTINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>American Depositary shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-03-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>68.266</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>American Depositary shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1244</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Sanbay S.A.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each American depositary share represents ten (10) Class B ordinary shares of Banco Macro S.A.</footnote>
+        <footnote id="F2">The reported amount represents the Reporting Person's proportionate interest in securities held by Sanbay S.A. The Reporting Person disclaims beneficial ownership of the securities held by Sanbay S.A. except to the extent of such Reporting Person's pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks>This transaction is being reported late due to an inadvertent administrative error. Exhibit 24 - Power of Attorney (previously filed as Exhibit 24 to Form 3 dated March 18, 2026.)</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Paola Beatriz Gayoso, as Attorney-in-Fact for Marcos Brito</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

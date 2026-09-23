@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001193125-26-392656.txt : 20260916
+<SEC-HEADER>0001193125-26-392656.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916102817
+ACCESSION NUMBER:		0001193125-26-392656
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SWEENEY GERARD H
+		CENTRAL INDEX KEY:			0000944673
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09106
+		FILM NUMBER:		261382697
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BRANDYWINE REALTY TRUST
+		STREET 2:		2929 ARCH STREET, SUITE 1800
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRANDYWINE REALTY TRUST
+		CENTRAL INDEX KEY:			0000790816
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				232413352
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2929 ARCH STREET
+		STREET 2:		SUITE 1800
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+		BUSINESS PHONE:		6103255600
+
+	MAIL ADDRESS:	
+		STREET 1:		2929 ARCH STREET
+		STREET 2:		SUITE 1800
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LINPRO SPECIFIED PROPERTIES
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000790816</issuerCik>
+        <issuerName>BRANDYWINE REALTY TRUST</issuerName>
+        <issuerTradingSymbol>BDN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000944673</rptOwnerCik>
+            <rptOwnerName>SWEENEY GERARD H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2929 ARCH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1800</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19104</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33900</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.96</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4207691</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares purchased in the open market.</footnote>
+        <footnote id="F2">Includes 5,641 previously unreported common shares acquired under the Company's Dividend Reinvestment Plan (DRIP)</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gerard H. Sweeney</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

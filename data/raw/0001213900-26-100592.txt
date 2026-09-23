@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001213900-26-100592.txt : 20260916
+<SEC-HEADER>0001213900-26-100592.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916172106
+ACCESSION NUMBER:		0001213900-26-100592
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Qian LinLin
+		CENTRAL INDEX KEY:			0001849454
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42449
+		FILM NUMBER:		261384607
+
+	MAIL ADDRESS:	
+		STREET 1:		747 3RD AVENUE
+		STREET 2:		1ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Health In Tech, Inc.
+		CENTRAL INDEX KEY:			0002019505
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 S. COLORADO AVE
+		STREET 2:		SUITE 1
+		CITY:			STUART
+		STATE:			FL
+		ZIP:			34994
+		BUSINESS PHONE:		888-373-0333
+
+	MAIL ADDRESS:	
+		STREET 1:		701 S. COLORADO AVE
+		STREET 2:		SUITE 1
+		CITY:			STUART
+		STATE:			FL
+		ZIP:			34994
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002019505</issuerCik>
+        <issuerName>Health In Tech, Inc.</issuerName>
+        <issuerTradingSymbol>HIT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001849454</rptOwnerCik>
+            <rptOwnerName>Qian LinLin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>701 S. COLORADO AVE, SUITE 1</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>STUART</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>34994</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33725</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.89</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8964667</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted shares of Class A Common Stock surrendered to the Issuer to satisfy tax withholding and remittance obligations in connection with the vesting of restricted shares of Class A Common Stock for which service-based vesting requirements have been satisfied. The grant of such restricted stock was previously reported by the reporting person on a Form 4.</footnote>
+        <footnote id="F2">Includes 887,062 restricted shares of Class A Common Stock and 8,077,605 unrestricted shares of Class A Common Stock. Excludes 2,700,000 shares of Class B Common Stock and 711,510 options to purchase shares of Class A Common Stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lori Babcock, as attorney-in-fact for LinLin Qian</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

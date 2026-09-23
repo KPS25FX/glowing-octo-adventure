@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001062993-26-004871.txt : 20260909
+<SEC-HEADER>0001062993-26-004871.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909181334
+ACCESSION NUMBER:		0001062993-26-004871
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCGEE SUSAN B
+		CENTRAL INDEX KEY:			0001251825
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40398
+		FILM NUMBER:		261369180
+
+	MAIL ADDRESS:	
+		STREET 1:		7900 CALLAGHAN ROAD
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78229
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HIVE Digital Technologies Ltd.
+		CENTRAL INDEX KEY:			0001720424
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		370-1095 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6E 2M6
+		BUSINESS PHONE:		(604) 664-1078
+
+	MAIL ADDRESS:	
+		STREET 1:		370-1095 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6E 2M6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HIVE Blockchain Technologies Ltd.
+		DATE OF NAME CHANGE:	20171023
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001720424</issuerCik>
+        <issuerName>HIVE Digital Technologies Ltd.</issuerName>
+        <issuerTradingSymbol>HIVE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>HIVE</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001251825</rptOwnerCik>
+            <rptOwnerName>MCGEE SUSAN B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>7900 CALLAGHAN ROAD, SUITE 128</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN ANTONIO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78229</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>112500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Share Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>312500</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects restricted share units (&quot;RSUs&quot;) issued pursuant to the Issuerâs Restricted Share Unit Plan (the &quot;RSU Plan&quot;) that, upon vesting and settlement converted into shares of the Issuerâs common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">Reflects 12,500 RSUs that were awarded on November 5, 2024 and vested on August 5, 2026. These RSUs were settled and converted into common shares of the Issuer on September 4, 2026, in accordance with the Issuer's RSU Plan.</footnote>
+        <footnote id="F3">The RSUs reported under Column 9 include RSUs that were previously reported. The underlying shares and vesting schedules are as follows: (i) 100,000 will vest on October 31, 2026; (ii) 12,500 will vest on November 5, 2026;  (iii) 100,000 will vest on March 16, 2027 and (iv) 100,000 will vest on June 30, 2027.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Susan B. McGee</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

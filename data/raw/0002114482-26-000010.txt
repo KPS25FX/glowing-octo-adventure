@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0002114482-26-000010.txt : 20260831
+<SEC-HEADER>0002114482-26-000010.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831161041
+ACCESSION NUMBER:		0002114482-26-000010
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260830
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Naess Lori Wheeler
+		CENTRAL INDEX KEY:			0002114482
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38588
+		FILM NUMBER:		261346571
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		SORKEDALSVEIEN 94
+		CITY:			OSLO
+		PROVINCE COUNTRY:   	Q8
+		ZIP:			0379
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Opera Ltd
+		CENTRAL INDEX KEY:			0001737450
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		VITAMINVEIEN 4
+		CITY:			OSLO
+		STATE:			Q8
+		ZIP:			0485
+		BUSINESS PHONE:		47-2369-2400
+
+	MAIL ADDRESS:	
+		STREET 1:		VITAMINVEIEN 4
+		CITY:			OSLO
+		STATE:			Q8
+		ZIP:			0485
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001737450</issuerCik>
+        <issuerName>Opera Ltd</issuerName>
+        <issuerTradingSymbol>OPRA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002114482</rptOwnerCik>
+            <rptOwnerName>Naess Lori Wheeler</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O OPERA LTD</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 4214 NYDALEN</rptOwnerStreet2>
+            <rptOwnerCity>OSLO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>Q8</rptOwnerCountry>
+            <rptOwnerZipCode>0401</rptOwnerZipCode>
+            <rptOwnerStateDescription>NORWAY</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>American Depositary Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4079</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4909</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each American Depositary Share (&quot;ADS&quot;) represents one Ordinary Share of the Issuer.</footnote>
+        <footnote id="F2">Represents ADSs acquired upon the vesting of RSUs previously subject to a discretionary cancellation option.</footnote>
+    </footnotes>
+
+    <remarks>The Issuer is a foreign private issuer as defined under Rule 3b-4 under the Securities Exchange Act of 1934, as amended (the &quot;Exchange Act&quot;). In accordance with Rule 3a12-3(b) under the Exchange Act, the Reporting Person is exempt from the short-swing profit recovery provisions of Section 16(b) of the Exchange Act.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Aaron McParlan, attorney-in-fact for Lori Wheeler Naess</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

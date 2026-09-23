@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0001193125-26-390840.txt : 20260914
+<SEC-HEADER>0001193125-26-390840.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914180040
+ACCESSION NUMBER:		0001193125-26-390840
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sordoni Giordano
+		CENTRAL INDEX KEY:			0001877937
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39598
+		FILM NUMBER:		261378567
+
+	MAIL ADDRESS:	
+		STREET 1:		3550 TYBURN STREET
+		STREET 2:		UNIT 100
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90065
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Xos, Inc.
+		CENTRAL INDEX KEY:			0001819493
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				981550505
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3550 TYBURN STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90065
+		BUSINESS PHONE:		(818) 316-1890
+
+	MAIL ADDRESS:	
+		STREET 1:		3550 TYBURN STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NextGen Acquisition Corp
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001819493</issuerCik>
+        <issuerName>Xos, Inc.</issuerName>
+        <issuerTradingSymbol>XOS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001877937</rptOwnerCik>
+            <rptOwnerName>Sordoni Giordano</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O XOS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3550 TYBURN STREET, UNIT 100</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90065</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13662</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.79</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1539796</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1388293</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2928089</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares withheld by the Issuer to satisfy the tax withholding obligations in connection with the vesting of the Reporting Person's previously reported Restricted Stock Unit (&quot;RSU&quot;) Awards. Each RSU represents a contingent right to receive one share of common stock upon settlement.</footnote>
+        <footnote id="F2">Inlcudes 385,392 unvested RSUs.</footnote>
+        <footnote id="F3">Approximately 33% of the Restricted Stock Unit (&quot;RSU&quot;) Award shall vest on March 10, 2027 (the &quot;Initial Vesting Date&quot;), and the remainder of the RSU Award shall vest in twenty-four (24) approximately equal installments on each Monthly Vesting Date immediately following the Initial Vesting Date. &quot;Monthly Vesting Date&quot; means the 10th day of each month. Notwithstanding the foregoing, vesting shall terminate upon the Reporting Person's termination of continuous service, as described in Section 6(l) of the Global RSU Award Agreement.</footnote>
+        <footnote id="F4">The Reporting Person is an executive officer and a director of the Issuer and is filing this Form 4 solely in such capacities. The number of shares reported in Column 5 includes certain securities in which the Reporting Person may be deemed to have a pecuniary interest, such as shares issuable upon settlement of RSUs that vest more than 60 days in the future. However, the Reporting Person does not beneficially own such securities within the meaning of Rule 13d-3 of the Securities Exchange Act of 1934, and the filing of this Form 4 shall not be deemed an admission that the Reporting Person is a '10% Owner' or a beneficial owner of such shares for purposes of Section 16 or for any other purpose, except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David M. Zlotchew, Attorney-in-Fact for Giordano Sordoni</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

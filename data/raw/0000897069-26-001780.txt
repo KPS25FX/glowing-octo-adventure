@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0000897069-26-001780.txt : 20260915
+<SEC-HEADER>0000897069-26-001780.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915162459
+ACCESSION NUMBER:		0000897069-26-001780
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Livingston III Homer John
+		CENTRAL INDEX KEY:			0002140145
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14204
+		FILM NUMBER:		261381090
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FUELCELL ENERGY, INC.
+		STREET 2:		3 GREAT PASTURE ROAD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06810
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FUELCELL ENERGY INC
+		CENTRAL INDEX KEY:			0000886128
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				060853042
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 GREAT PASTURE ROAD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06810
+		BUSINESS PHONE:		2038256000
+
+	MAIL ADDRESS:	
+		STREET 1:		3 GREAT PASTURE ROAD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENERGY RESEARCH CORP /NY/
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000886128</issuerCik>
+        <issuerName>FUELCELL ENERGY INC</issuerName>
+        <issuerTradingSymbol>FCEL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002140145</rptOwnerCik>
+            <rptOwnerName>Livingston III Homer John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FUELCELL ENERGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3 GREAT PASTURE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>DANBURY</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06810</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16404.1994</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.0544</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>42747.1994</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price in Column 4 is a weighted average price. The prices actually paid for the shares ranged from $15.035 to $15.06. The reporting person has provided to the issuer, and will provide to any security holder of the issuer, or the SEC staff, upon request, information regarding the number of shares purchased at each price within the range for all transactions reported in this Form 4 utilizing a weighted average price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Michael S. Bishop, As Power of Attorney</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

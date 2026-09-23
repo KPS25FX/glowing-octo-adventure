@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-394350.txt : 20260917
+<SEC-HEADER>0001193125-26-394350.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917161225
+ACCESSION NUMBER:		0001193125-26-394350
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Buhigas Pedro R.
+		CENTRAL INDEX KEY:			0001814898
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41732
+		FILM NUMBER:		261386964
+
+	MAIL ADDRESS:	
+		STREET 1:		801 CHERRY STREET
+		STREET 2:		SUITE 2100
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kodiak Gas Services, Inc.
+		CENTRAL INDEX KEY:			0001767042
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION [4922]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				833013440
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9950 WOODLOCH FOREST DRIVE, 19TH FLOOR
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+		BUSINESS PHONE:		936-539-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		9950 WOODLOCH FOREST DRIVE, 19TH FLOOR
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Frontier TopCo, Inc.
+		DATE OF NAME CHANGE:	20190206
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001767042</issuerCik>
+        <issuerName>Kodiak Gas Services, Inc.</issuerName>
+        <issuerTradingSymbol>KGS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001814898</rptOwnerCik>
+            <rptOwnerName>Buhigas Pedro R.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>9950 WOODLOCH FOREST DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>19TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77380</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Information Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3663</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>58.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32413</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction is pursuant to a 10b5-1 trading plan adopted November 21, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer LeGrand Howard, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

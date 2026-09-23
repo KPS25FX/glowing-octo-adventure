@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001213900-26-100297.txt : 20260916
+<SEC-HEADER>0001213900-26-100297.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916060512
+ACCESSION NUMBER:		0001213900-26-100297
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260817
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chew Qian Yi Amanda
+		CENTRAL INDEX KEY:			0002148016
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43203
+		FILM NUMBER:		261382314
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O HORIZON QUANTUM HOLDINGS LTD.
+		STREET 2:		29 MEDIA CIR. #05-22
+		CITY:			SINGAPORE
+		PROVINCE COUNTRY:   	U0
+		ZIP:			138565
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Horizon Quantum Holdings Ltd.
+		CENTRAL INDEX KEY:			0002088256
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			U0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		ALICE@MEDIAOPOLIS
+		STREET 2:		29 MEDIA CIRCLE #05-22
+		CITY:			SINGAPORE
+		PROVINCE COUNTRY:   	U0
+		ZIP:			138565
+		BUSINESS PHONE:		6581015024
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		ALICE@MEDIAOPOLIS
+		STREET 2:		29 MEDIA CIRCLE #05-22
+		CITY:			SINGAPORE
+		PROVINCE COUNTRY:   	U0
+		ZIP:			138565
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Horizon Quantum Holdings Pte. Ltd.
+		DATE OF NAME CHANGE:	20251230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rose Holdco Pte. Ltd.
+		DATE OF NAME CHANGE:	20250924
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002088256</issuerCik>
+        <issuerName>Horizon Quantum Holdings Ltd.</issuerName>
+        <issuerTradingSymbol>HQ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002148016</rptOwnerCik>
+            <rptOwnerName>Chew Qian Yi Amanda</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HORIZON QUANTUM HOLDINGS LTD.</rptOwnerStreet1>
+            <rptOwnerStreet2>29 MEDIA CIR. #05-22</rptOwnerStreet2>
+            <rptOwnerCity>SINGAPORE</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>U0</rptOwnerCountry>
+            <rptOwnerZipCode>138565</rptOwnerZipCode>
+            <rptOwnerStateDescription>SINGAPORE</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Product Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17857</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>17857</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17857</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive one Class A ordinary share, with no par value (&quot;Class A Ordinary Share&quot;), of Horizon Quantum Holdings Ltd. (the &quot;Company&quot;) upon vesting, for no consideration.</footnote>
+        <footnote id="F2">On August 17, 2026 (the &quot;Grant Date&quot;), Ms. Chew was granted a total of unvested 17,857 RSUs. The RSUs granted to Ms. Chew vest in sixteen approximately equal installments on successive quarterly anniversaries of the Grant Date and are subject to Ms. Chew's continued employment with the Company through each applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Qian Yi Amanda Chew</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000950103-26-012940.txt : 20260826
+<SEC-HEADER>0000950103-26-012940.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826173613
+ACCESSION NUMBER:		0000950103-26-012940
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260824
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Martinez Beltran Nestor Camilo
+		CENTRAL INDEX KEY:			0002147060
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36298
+		FILM NUMBER:		261324205
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		CALLE 94 N 11-30, 8TH FLOOR
+		CITY:			BOGOTA
+		PROVINCE COUNTRY:   	F8
+		ZIP:			110221
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GeoPark Ltd
+		CENTRAL INDEX KEY:			0001464591
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CALLE 94 NO. 11-30 8 PISO
+		CITY:			BOGOTA
+		STATE:			F8
+		ZIP:			00000
+		BUSINESS PHONE:		562-2242-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		CALLE 94 NO. 11-30 8 PISO
+		CITY:			BOGOTA
+		STATE:			F8
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GeoPark Holdings Ltd
+		DATE OF NAME CHANGE:	20090520
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001464591</issuerCik>
+        <issuerName>GeoPark Ltd</issuerName>
+        <issuerTradingSymbol>GPRK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002147060</rptOwnerCik>
+            <rptOwnerName>Martinez Beltran Nestor Camilo</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>CALLE 94 N 11-30, 8TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOGOTA</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>D.C.</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F8</rptOwnerCountry>
+            <rptOwnerZipCode>110221</rptOwnerZipCode>
+            <rptOwnerStateDescription>COLOMBIA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common shares, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4392</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.74</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>283729</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 2,253 fully vested shares provided as a quarterly director grant and 2,139 shares received in lieu of cash director fees.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Camilo Martinez BY: CATALINA ESPINOSA, ATTORNEY-IN-FACT</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

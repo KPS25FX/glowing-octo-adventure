@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0002150921-26-000004.txt : 20260903
+<SEC-HEADER>0002150921-26-000004.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903164230
+ACCESSION NUMBER:		0002150921-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Beaven Peter David
+		CENTRAL INDEX KEY:			0002150921
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31240
+		FILM NUMBER:		261358969
+
+	MAIL ADDRESS:	
+		STREET 1:		6900 E LAYTON AVE #700
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEWMONT Corp /DE/
+		CENTRAL INDEX KEY:			0001164727
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				841611629
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6900 E LAYTON AVE
+		STREET 2:		SUITE 700
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+		BUSINESS PHONE:		303-863-7414
+
+	MAIL ADDRESS:	
+		STREET 1:		6900 E LAYTON AVE
+		STREET 2:		SUITE 700
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEWMONT GOLDCORP CORP /DE/
+		DATE OF NAME CHANGE:	20190417
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEWMONT MINING CORP /DE/
+		DATE OF NAME CHANGE:	20020215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DELTA HOLDCO CORP
+		DATE OF NAME CHANGE:	20020109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001164727</issuerCik>
+        <issuerName>NEWMONT Corp /DE/</issuerName>
+        <issuerTradingSymbol>NEM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002150921</rptOwnerCik>
+            <rptOwnerName>Beaven Peter David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6900 E. LAYTON AVE.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 700</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80237</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $1.60 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1092</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1092</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported transaction reflects director stock units (&quot;DSUs&quot;) awarded under the Issuer's 2020 Stock Incentive Compensation Plan (the &quot;Plan&quot;) in connection with the reporting person's election to the Newmont Corporation Board of Directors. DSUs represent the right to receive shares of common stock and are immediately fully vested and non-forfeitable. Upon retirement from the Board of Directors, the reporting person is entitled to receive one share of common stock for each DSU.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Logan H. Hennessey, Attorney-in-fact for Peter Beaven</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

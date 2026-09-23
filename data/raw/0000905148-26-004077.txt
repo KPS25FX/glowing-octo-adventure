@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0000905148-26-004077.txt : 20260903
+<SEC-HEADER>0000905148-26-004077.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903185919
+ACCESSION NUMBER:		0000905148-26-004077
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Furey Raymond J.
+		CENTRAL INDEX KEY:			0001577899
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-29889
+		FILM NUMBER:		261359685
+
+	MAIL ADDRESS:	
+		STREET 1:		1300 N. KELLOGG DRIVE
+		STREET 2:		SUITE D
+		CITY:			ANAHEIM
+		STATE:			CA
+		ZIP:			92807
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RIGEL PHARMACEUTICALS INC
+		CENTRAL INDEX KEY:			0001034842
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				943248524
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		611 GATEWAY BOULEVARD, SUITE 900
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+		BUSINESS PHONE:		650-624-1100
+
+	MAIL ADDRESS:	
+		STREET 1:		611 GATEWAY BOULEVARD, SUITE 900
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001034842</issuerCik>
+        <issuerName>RIGEL PHARMACEUTICALS INC</issuerName>
+        <issuerTradingSymbol>RIGL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001577899</rptOwnerCik>
+            <rptOwnerName>Furey Raymond J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>RIGEL PHARMACEUTICALS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>611 GATEWAY BLVD, SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>SOUTH SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94080</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, GC, CCO &amp; Corp Sec</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>877</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>47.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50559</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 500 shares acquired under the Issuer's stock purchase plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Raymond Furey</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

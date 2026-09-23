@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-395001.txt : 20260918
+<SEC-HEADER>0001193125-26-395001.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918060343
+ACCESSION NUMBER:		0001193125-26-395001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Li Ni
+		CENTRAL INDEX KEY:			0002011305
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38429
+		FILM NUMBER:		261388473
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BUILDING 3, GUOZHEN CENTER
+		STREET 2:		NO. 485 ZHENGLI ROAD
+		CITY:			YANGPU DISTRICT, SHANGHAI
+		PROVINCE COUNTRY:   	F4
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bilibili Inc.
+		CENTRAL INDEX KEY:			0001723690
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		17TH FLOOR, BUILDING 3, GUOZHENG CENTER
+		STREET 2:		NO. 485 ZHENGLI ROAD, YANGPU DISTRICT
+		CITY:			SHANGHAI
+		PROVINCE COUNTRY:   	F4
+		BUSINESS PHONE:		86-21-25099255
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		17TH FLOOR, BUILDING 3, GUOZHENG CENTER
+		STREET 2:		NO. 485 ZHENGLI ROAD, YANGPU DISTRICT
+		CITY:			SHANGHAI
+		PROVINCE COUNTRY:   	F4
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001723690</issuerCik>
+        <issuerName>Bilibili Inc.</issuerName>
+        <issuerTradingSymbol>BILI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>HKEX: 9626</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002011305</rptOwnerCik>
+            <rptOwnerName>Li Ni</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BILIBILI INC., BLDG. 3 GUOZHENG CNTR</rptOwnerStreet1>
+            <rptOwnerStreet2>NO. 485 ZHENGLI ROAD, YANGPU DISTRICT</rptOwnerStreet2>
+            <rptOwnerCity>SHANGHAI</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F4</rptOwnerCountry>
+            <rptOwnerZipCode>200433</rptOwnerZipCode>
+            <rptOwnerStateDescription>CHINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Vice Chairwoman and COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class Z ordinary shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 4,000,000 restricted share units (RSUs) granted on September 16, 2026, the vesting period of which is four years. Each RSU represents a contingent right to receive one Class Z ordinary share of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ni Li</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

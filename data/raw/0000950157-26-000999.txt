@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0000950157-26-000999.txt : 20260910
+<SEC-HEADER>0000950157-26-000999.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910210301
+ACCESSION NUMBER:		0000950157-26-000999
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McLennan Hamish
+		CENTRAL INDEX KEY:			0001830349
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11693
+		FILM NUMBER:		261372560
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LIGHT & WONDER, INC.
+		STREET 2:		6601 BERMUDA ROAD
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Light & Wonder, Inc.
+		CENTRAL INDEX KEY:			0000750004
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				810422894
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6601 BERMUDA ROAD
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+		BUSINESS PHONE:		7028977150
+
+	MAIL ADDRESS:	
+		STREET 1:		6601 BERMUDA ROAD
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCIENTIFIC GAMES CORP
+		DATE OF NAME CHANGE:	20010427
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AUTOTOTE CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED TOTE INC
+		DATE OF NAME CHANGE:	19920317
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000750004</issuerCik>
+        <issuerName>Light &amp; Wonder, Inc.</issuerName>
+        <issuerTradingSymbol>ASX:LNW</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>ASX:LNW</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001830349</rptOwnerCik>
+            <rptOwnerName>McLennan Hamish</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O LIGHT &amp; WONDER, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6601 BERMUDA ROAD</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89119</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3700</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>89.26</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25137</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6380</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Superannuation Fund</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Londolozi Family Trust</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects an open market sale of 3,700 of the Issuer's CHESS Depositary Interests (&quot;CDIs&quot;) on September 10, 2026 (Australia)/September 9, 2026 (U.S.). CDIs are units of beneficial ownership in shares of common stock of the Company that are publicly traded on the Australian Securities Exchange (the &quot;ASX&quot;) and held by CHESS Depositary Nominees Pty. Limited, a subsidiary of ASX Limited, the company that operates the ASX. Each CDI represents one fully paid share of common stock. The transaction was executed in multiple trades at prices ranging from $89.13 to $89.42. The price reported above reflects the weighted average purchase price. Details regarding aggregated purchase transactions will be provided upon request by the Commission staff, the issuer or a security holder of the issuer.</footnote>
+        <footnote id="F2">Price converted from Australian Dollars into U.S. Dollars based on an exchange rate of $1 AUD to $0.7217 USD.</footnote>
+        <footnote id="F3">Represents shares of common stock held by Linyanti Holdings Pty Limited ATF McLennan Superannuation Fund, a retirement fund of which Mr. McLennan is the beneficiary.</footnote>
+        <footnote id="F4">Represents shares of common stock held by Londolozi Pty Limited ATF Londolozi Family Trust, of which Mr. McLennan serves as trustee.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sweta Gabhawala, attorney-in-fact for Hamish McLennan</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

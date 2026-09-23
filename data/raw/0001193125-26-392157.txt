@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001193125-26-392157.txt : 20260915
+<SEC-HEADER>0001193125-26-392157.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915172353
+ACCESSION NUMBER:		0001193125-26-392157
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Albence Matthew
+		CENTRAL INDEX KEY:			0001943913
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14260
+		FILM NUMBER:		261381818
+
+	MAIL ADDRESS:	
+		STREET 1:		4955 TECHNOLOGY WAY
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GEO GROUP INC
+		CENTRAL INDEX KEY:			0000923796
+		STANDARD INDUSTRIAL CLASSIFICATION:	GEN BUILDING CONTRACTORS - RESIDENTIAL BUILDINGS [1520]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				650043078
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4955 TECHNOLOGY WAY
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+		BUSINESS PHONE:		561-893-0101
+
+	MAIL ADDRESS:	
+		STREET 1:		4955 TECHNOLOGY WAY
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WACKENHUT CORRECTIONS CORP
+		DATE OF NAME CHANGE:	19940525
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000923796</issuerCik>
+        <issuerName>GEO GROUP INC</issuerName>
+        <issuerTradingSymbol>GEO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001943913</rptOwnerCik>
+            <rptOwnerName>Albence Matthew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4955 TECHNOLOGY WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOCA RATON</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33431-3367</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Senior VP, Client Relations</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11797</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>31.455</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>87601.549</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>79573.000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale price reported is the weighted average sale price for the number of shares of common stock sold. These shares were sold in multiple transactions at prices ranging from $31.430 to $31.480, inclusive. Full information reporting the number of shares sold at each separate price will be supplied upon request by Securities and Exchange Commission Staff, the Issuer, or a security holder of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew Albence</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

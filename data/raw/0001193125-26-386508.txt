@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001193125-26-386508.txt : 20260909
+<SEC-HEADER>0001193125-26-386508.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909163003
+ACCESSION NUMBER:		0001193125-26-386508
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Smither John W
+		CENTRAL INDEX KEY:			0001559583
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41562
+		FILM NUMBER:		261368480
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GENELUX CORPORATION
+		STREET 2:		2625 TOWNSGATE ROAD. SUITE 230
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NewAmsterdam Pharma Co N.V.
+		CENTRAL INDEX KEY:			0001936258
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			P7
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GOOIMEER 2-35
+		CITY:			NARRDEN
+		STATE:			P7
+		ZIP:			1411 DC
+		BUSINESS PHONE:		35 206 2971
+
+	MAIL ADDRESS:	
+		STREET 1:		GOOIMEER 2-35
+		CITY:			NARRDEN
+		STATE:			P7
+		ZIP:			1411 DC
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NewAmsterdam Pharma Co B.V.
+		DATE OF NAME CHANGE:	20220701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001936258</issuerCik>
+        <issuerName>NewAmsterdam Pharma Co N.V.</issuerName>
+        <issuerTradingSymbol>NAMS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001559583</rptOwnerCik>
+            <rptOwnerName>Smither John W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NEWAMSTERDAM PHARMA COMPANY N.V.</rptOwnerStreet1>
+            <rptOwnerStreet2>GOOIMEER 2-35</rptOwnerStreet2>
+            <rptOwnerCity>NAARDEN</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>P7</rptOwnerCountry>
+            <rptOwnerZipCode>1411 DC</rptOwnerZipCode>
+            <rptOwnerStateDescription>NETHERLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25.32</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8760</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reported transaction reflects a sale of ordinary shares to generate proceeds to satisfy the Reporting Person's tax obligations in connection with the prior vesting of restricted stock units.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $25.24 to $25.37 per share. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold in each transaction.</footnote>
+        <footnote id="F3">Includes 8,040 ordinary shares subject to restricted stock unit awards that remain subject to vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Marino as Attorney-in-Fact for John W. Smither</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>nams-ex24_1.htm
+<DESCRIPTION>EX-24.1
+<TEXT>
+<!-- DFIN ActiveDisclosure (SM) HTML Document - http://www.dfinsolutions.com/ --><!-- Creation Date :2026-09-09T14:58:56.4736+00:00 --><!-- Copyright (c) 2026 Donnelley Financial Solutions, Inc. All Rights Reserved. -->
+<html>
+ <head>
+  <title>EX-24.1</title>
+ </head>
+ <body style="padding:8px;margin:auto!important;z-index:0;-webkit-text-size-adjust:100%;position:relative;">
+  <div style="padding-top:0.5in;z-index:2;min-height:1in;position:relative;box-sizing:border-box;"><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;margin-left:0;margin-right:0;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">POWER OF ATTORNEY</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:center;"><font style="white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	Know all by these presents, that the undersigned hereby makes, constitutes and appoints each of Brigitte (Britt) Eichner, Michael Marino, Margaret (Maggie) Siegel, and M. Ian Somaiya of NewAmsterdam Pharma Company N.V. (including any subsidiary, successor or assign, the &#x201c;Company&#x201d;), or any of them acting singly, and with full power of substitution and re-substitution, the undersigned&#x2019;s true and lawful attorney&#x2011;in&#x2011;fact (each of such persons and their substitutes being referred to herein as the &#x201c;Attorney-in-Fact&#x201d;), with full power to act for the undersigned and in the undersigned&#x2019;s name, place and stead, in any and all capacities, to:</font></p><p style="margin-left:3.333%;text-indent:-3.448%;tab-size:26.66px;padding-left:3.333%;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">1.	Prepare, execute, and submit to the Securities and Exchange Commission (&#x201c;SEC&#x201d;) a Form ID, including amendments thereto, and any other documents necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required or considered by the Attorney-in-Fact to be advisable under Section 13 or Section 16 of the Securities Exchange Act of 1934 (the &#x201c;Exchange Act&#x201d;) or any rule or regulation of the SEC;</font></p><p style="margin-left:3.333%;text-indent:-3.448%;tab-size:26.66px;padding-left:3.333%;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">2.	Prepare, execute and submit to the SEC, the Company, and/or any national securities exchange on which the Company&#x2019;s securities are listed any and all reports (including any amendments thereto) the undersigned is required to file with the SEC, or which the Attorney-in-Fact considers it advisable to file with the SEC, under Section 13 or Section 16 of the Exchange Act or any rule or regulation thereunder, or under Rule 144 under the Securities Act of 1933 (&#x201c;Rule 144&#x201d;), with respect to the any security of the Company, including Forms 3, 4 and 5, Schedules 13D and 13G, and Forms 144; and</font></p><p style="margin-left:3.333%;text-indent:-3.448%;tab-size:26.66px;padding-left:3.333%;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">3.	Obtain, as the undersigned&#x2019;s representative and on the undersigned&#x2019;s behalf, information regarding transactions in the Company&#x2019;s equity securities from any third party, including the Company and any brokers, dealers, employee benefit plan administrators and trustees, and the undersigned hereby authorizes any such third party to release any such information to the Attorney-in-Fact.</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	The undersigned acknowledges that:</font></p><p style="margin-left:8.48%;text-indent:-3.78%;tab-size:26.66px;padding-left:3.333%;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">a)	This Power of Attorney authorizes, but does not require, the Attorney-in-Fact to act in his or her discretion on information provided to such Attorney-in-Fact without independent verification of such information;</font></p><p style="margin-left:8.48%;text-indent:-3.78%;tab-size:26.66px;padding-left:3.333%;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">b)	Any documents prepared or executed by the Attorney-in-Fact on behalf of the undersigned pursuant to this Power of Attorney will be in such form and will contain such information as the Attorney-in-Fact, in his or her discretion, deems necessary or desirable;</font></p><p style="margin-left:8.48%;text-indent:-3.78%;tab-size:26.66px;padding-left:3.333%;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">c)	Neither the Company nor the Attorney-in-Fact assumes any liability for the undersigned&#x2019;s responsibility to comply with the requirements of Section 13 or Section 16 of the Exchange Act or Rule 144, any liability of the undersigned for any failure to comply with such requirements, or any liability of the undersigned for disgorgement of profits under Section 16(b) of the Exchange Act; and</font></p><p style="margin-left:8.48%;text-indent:-3.78%;tab-size:26.66px;padding-left:3.333%;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">d)	This Power of Attorney does not relieve the undersigned from responsibility for compliance with the undersigned&#x2019;s obligations under Section 13 or Section 16 of the Exchange Act, including, without limitation, the reporting requirements under Section 13 or Section 16 of the Exchange Act.</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	The undersigned hereby grants to the Attorney-in-Fact full power and authority to do and perform each and every act and thing requisite, necessary or advisable to be done in connection with the foregoing, as fully, to all intents and purposes, as the undersigned might or could do in person, hereby ratifying and confirming all that the Attorney-in-Fact, or his or her substitute or substitutes, shall lawfully do or cause to be done by authority of this Power of Attorney.</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;padding-bottom:0.5in;min-height:1in;justify-content:flex-end;position:relative;box-sizing:border-box;"><p style="tab-size:26.66px;font-size:9pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;margin-left:0;margin-right:0;"><font style="white-space:pre-wrap;font-size:9pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+  <div style="padding-top:0.5in;z-index:2;min-height:1in;position:relative;box-sizing:border-box;"><p style="tab-size:26.66px;font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;margin-left:0;margin-right:0;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p></div>
+  <div class="main-content-container" style="z-index:5;position:relative;"><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	This Power of Attorney shall remain in full force and effect until the earliest to occur of (a) the undersigned is no longer required to file Forms 4 or 5 or Schedules 13D or 13G or Forms 144 with respect to the undersigned&#x2019;s holdings of and transactions in securities of the Company, (b) revocation by the  undersigned in a signed writing delivered to the Company and the foregoing Attorneys-in-Fact, or (c) as to any Attorney-in-Fact individually, until such Attorney-in-Fact is no longer employed by the Company. This Power of Attorney revokes all previous powers of attorney with respect to the subject matter of this Power of Attorney.</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	The signature may be delivered via facsimile, electronic mail (including any electronic signature covered by the U.S. federal ESIGN Act of 2000, Uniform Electronic Transactions Act, the Electronic Signatures and Records Act or other applicable law, e.g., www.docusign.com) or other transmission method and any signature so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">	IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney as of 8/7/2026.</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">								</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">/s/ John W. Smither</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">								Signature</font></p><p style="tab-size:26.66px;font-size:10.5pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:10.5pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">								</font></p></div>
+  <div style="z-index:2;flex-direction:column;display:flex;padding-bottom:0.5in;min-height:1in;justify-content:flex-end;position:relative;box-sizing:border-box;"><p style="tab-size:26.66px;font-size:9pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:justify;margin-left:0;margin-right:0;"><font style="white-space:pre-wrap;font-size:9pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

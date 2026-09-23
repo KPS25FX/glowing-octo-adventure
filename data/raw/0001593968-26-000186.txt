@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001593968-26-000186.txt : 20260902
+<SEC-HEADER>0001593968-26-000186.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902171828
+ACCESSION NUMBER:		0001593968-26-000186
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shanahan Lauri M
+		CENTRAL INDEX KEY:			0001325277
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36436
+		FILM NUMBER:		261355963
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DECKERS OUTDOOR CORPORATION
+		STREET 2:		250 COROMAR DRIVE
+		CITY:			GOLETA
+		STATE:			CA
+		ZIP:			93117
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DECKERS OUTDOOR CORP
+		CENTRAL INDEX KEY:			0000910521
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				953015862
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 COROMAR DRIVE
+		CITY:			GOLETA
+		STATE:			CA
+		ZIP:			93117
+		BUSINESS PHONE:		8059677611
+
+	MAIL ADDRESS:	
+		STREET 1:		250 COROMAR DRIVE
+		CITY:			GOLETA
+		STATE:			CA
+		ZIP:			93117
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DECKERS FOOTWEAR CORP
+		DATE OF NAME CHANGE:	19930811
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_01.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000910521</issuerCik>
+        <issuerName>DECKERS OUTDOOR CORP</issuerName>
+        <issuerTradingSymbol>DECK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001325277</rptOwnerCik>
+            <rptOwnerName>Shanahan Lauri M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>250 COROMAR DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GOLETA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>93117</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>535</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26368</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Quarterly shares issued pursuant to the Compensation Plan for the Company's Board of Directors.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Lisa Bereda for Lauri Shanahan as Attorney in Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

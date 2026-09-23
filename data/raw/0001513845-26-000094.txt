@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001513845-26-000094.txt : 20260902
+<SEC-HEADER>0001513845-26-000094.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902114905
+ACCESSION NUMBER:		0001513845-26-000094
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alonso Sanchez Maria del Dado
+		CENTRAL INDEX KEY:			0002091046
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35173
+		FILM NUMBER:		261353448
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		GIJSBRECHT VAN AMSTELLAAN 42
+		CITY:			AMSTELVEEN
+		NON US STATE TERRITORY:  	NOORD HOLLAND
+		PROVINCE COUNTRY:   	P7
+		ZIP:			1181EL
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nebius Group N.V.
+		CENTRAL INDEX KEY:			0001513845
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			P7
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		SCHIPHOL BOULEVARD 165
+		CITY:			SCHIPHOL
+		PROVINCE COUNTRY:   	P7
+		BUSINESS PHONE:		31202066970
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		SCHIPHOL BOULEVARD 165
+		CITY:			SCHIPHOL
+		PROVINCE COUNTRY:   	P7
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Yandex N.V.
+		DATE OF NAME CHANGE:	20110223
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001513845</issuerCik>
+        <issuerName>Nebius Group N.V.</issuerName>
+        <issuerTradingSymbol>NBIS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002091046</rptOwnerCik>
+            <rptOwnerName>Alonso Sanchez Maria del Dado</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>SCHIPHOL BOULEVARD 165</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SCHIPHOL</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>P7</rptOwnerCountry>
+            <rptOwnerZipCode>1118BG</rptOwnerZipCode>
+            <rptOwnerStateDescription>NETHERLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>470</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>196.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12202</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were sold upon the vesting of restricted share units solely to cover estimated withholding taxes, pursuant to automatic sale instructions included in the relevant Restricted Share Unit Agreement. The sale was not a discretionary trade by the Reporting Person.</footnote>
+    </footnotes>
+
+    <remarks>Due to the issuer's status as a foreign private issuer pursuant to Rule 3a12-3(b) under the Act, the reporting person's transactions in the issuer's equity securities are exempt from Sections 16(b) and 16(c) of the Act.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Anna Akimova, attorney-in-fact for Ms. Alonso Sanchez</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

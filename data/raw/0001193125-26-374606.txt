@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001193125-26-374606.txt : 20260828
+<SEC-HEADER>0001193125-26-374606.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828163003
+ACCESSION NUMBER:		0001193125-26-374606
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tirinnanzi Martha A
+		CENTRAL INDEX KEY:			0001916305
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36198
+		FILM NUMBER:		261340765
+
+	MAIL ADDRESS:	
+		STREET 1:		INTERCONTINENTAL EXCHANGE, INC.
+		STREET 2:		5660 NEW NORTHSIDE DR
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30328
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intercontinental Exchange, Inc.
+		CENTRAL INDEX KEY:			0001571949
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5660 NEW NORTHSIDE DRIVE,
+		STREET 2:		THIRD FLOOR
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30328
+		BUSINESS PHONE:		770-857-4700
+
+	MAIL ADDRESS:	
+		STREET 1:		5660 NEW NORTHSIDE DRIVE,
+		STREET 2:		THIRD FLOOR
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IntercontinentalExchange Group, Inc.
+		DATE OF NAME CHANGE:	20130313
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Intercontinental Exchange Group, Inc.
+		DATE OF NAME CHANGE:	20130312
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001571949</issuerCik>
+        <issuerName>Intercontinental Exchange, Inc.</issuerName>
+        <issuerTradingSymbol>ICE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001916305</rptOwnerCik>
+            <rptOwnerName>Tirinnanzi Martha A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5660 NEW NORTHSIDE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30328</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1340</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>161.16</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3747</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan which was approved and became effective as of May 11, 2026.</footnote>
+        <footnote id="F2">The common stock number referred in Table 1 is an aggregate number and represents 2,049 shares of common stock and 1,698 restricted stock units of the Issuer. The restricted stock units vest on the one-year anniversary of the grant date, which is May 18, 2027.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Octavia N. Spencer, Attorney-in-fact</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

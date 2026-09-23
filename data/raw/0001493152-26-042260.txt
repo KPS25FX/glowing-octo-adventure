@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001493152-26-042260.txt : 20260910
+<SEC-HEADER>0001493152-26-042260.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910203246
+ACCESSION NUMBER:		0001493152-26-042260
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Askew James M.
+		CENTRAL INDEX KEY:			0001487588
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24970
+		FILM NUMBER:		261372514
+
+	MAIL ADDRESS:	
+		STREET 1:		3 RIVERWAY, STE. 1800
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Agassi Sports Entertainment Corp.
+		CENTRAL INDEX KEY:			0000930245
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS RETAIL [5900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				880203976
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1120 N. TOWN CENTER DR #160
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89144
+		BUSINESS PHONE:		702-400-4005
+
+	MAIL ADDRESS:	
+		STREET 1:		1120 N. TOWN CENTER DR #160
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89144
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLOBAL ACQUISITIONS Corp
+		DATE OF NAME CHANGE:	20210218
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALL AMERICAN SPORTPARK INC
+		DATE OF NAME CHANGE:	19990121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAINT ANDREWS GOLF CORP
+		DATE OF NAME CHANGE:	19940916
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000930245</issuerCik>
+        <issuerName>Agassi Sports Entertainment Corp.</issuerName>
+        <issuerTradingSymbol>AASP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001487588</rptOwnerCik>
+            <rptOwnerName>Askew James M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1120 N. TOWN CENTER DR #160</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89144</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1797860</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction involved a gift of securities by the Reporting Person to his three adult sons (100,000 shares each), of which the Reporting Person disclaims any beneficial ownership.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James M. Askew</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001193125-26-387863.txt : 20260910
+<SEC-HEADER>0001193125-26-387863.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910160549
+ACCESSION NUMBER:		0001193125-26-387863
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Houser Robert Scott
+		CENTRAL INDEX KEY:			0002084226
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38531
+		FILM NUMBER:		261371104
+
+	MAIL ADDRESS:	
+		STREET 1:		3060 PEACHTREE ROAD NW
+		STREET 2:		SUITE 1100
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30305
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Repay Holdings Corp
+		CENTRAL INDEX KEY:			0001720592
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3060 PEACHTREE ROAD NW
+		STREET 2:		SUITE 1100
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30305
+		BUSINESS PHONE:		(404) 504-7472
+
+	MAIL ADDRESS:	
+		STREET 1:		3060 PEACHTREE ROAD NW
+		STREET 2:		SUITE 1100
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30305
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Thunder Bridge Acquisition Ltd
+		DATE OF NAME CHANGE:	20171024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001720592</issuerCik>
+        <issuerName>Repay Holdings Corp</issuerName>
+        <issuerTradingSymbol>RPAY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002084226</rptOwnerCik>
+            <rptOwnerName>Houser Robert Scott</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O REPAY HOLDINGS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3060 PEACHTREE ROAD NW, SUITE 1100</rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30305</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8733</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.68</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>303171</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares of Class A common stock of the Issuer withheld to cover the Reporting Person's tax liability in connection with the vesting of shares of time-based restricted stock previously reported by the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Tyler B. Dempsey, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-383256.txt : 20260904
+<SEC-HEADER>0001193125-26-383256.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904123137
+ACCESSION NUMBER:		0001193125-26-383256
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260807
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gabel Daniel G.
+		CENTRAL INDEX KEY:			0002044400
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38371
+		FILM NUMBER:		261361257
+
+	MAIL ADDRESS:	
+		STREET 1:		2235 ENTERPRISE STREET #110
+		CITY:			ESCONDIDO
+		STATE:			CA
+		ZIP:			92029
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ONE STOP SYSTEMS, INC.
+		CENTRAL INDEX KEY:			0001394056
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				330885351
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2235 ENTERPRISE ST STE 110
+		CITY:			ESCONDIDO
+		STATE:			CA
+		ZIP:			92029
+		BUSINESS PHONE:		760-745-9883
+
+	MAIL ADDRESS:	
+		STREET 1:		2235 ENTERPRISE ST STE 110
+		CITY:			ESCONDIDO
+		STATE:			CA
+		ZIP:			92029
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ONE STOP SYSTEMS INC
+		DATE OF NAME CHANGE:	20070322
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001394056</issuerCik>
+        <issuerName>ONE STOP SYSTEMS, INC.</issuerName>
+        <issuerTradingSymbol>OSS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002044400</rptOwnerCik>
+            <rptOwnerName>Gabel Daniel G.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2235 ENTERPRISE STREET #110</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ESCONDIDO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92029</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3832</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.32</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>150064</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person forfeited 3,832 shares of common stock upon conversion of an aggregate 11,881 vested and outstanding restricted stock units into shares of common stock to cover tax withholdings, using the market price of the issuer's common stock at the time of forfeiture. These restricted stock units were part of the grant reported in Table I of the Form 4 filed by the Reporting Person with the Securities and Exchange Commission on February 7, 2025.</footnote>
+        <footnote id="F2">Includes 115,881 unvested restricted stock units held by the Reporting Person, all of which remain subject to certain vesting conditions.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel G. Gabel</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

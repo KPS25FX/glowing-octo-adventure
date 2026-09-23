@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001923149-26-000008.txt : 20260827
+<SEC-HEADER>0001923149-26-000008.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827173313
+ACCESSION NUMBER:		0001923149-26-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vonne Elizabeth Karpinski
+		CENTRAL INDEX KEY:			0001923149
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26966
+		FILM NUMBER:		261332039
+
+	MAIL ADDRESS:	
+		STREET 1:		1595 WYNKOOP STREET, SUITE 800
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Vonne Elizabeth K
+		DATE OF NAME CHANGE:	20220412
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED ENERGY INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000927003
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				840846841
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ATTN:  PAUL OLDHAM
+		STREET 2:		1595 WYNKOOP ST, SUITE 800
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		9704076626
+
+	MAIL ADDRESS:	
+		STREET 1:		ATTN:  PAUL OLDHAM
+		STREET 2:		1595 WYNKOOP ST, SUITE 800
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000927003</issuerCik>
+        <issuerName>ADVANCED ENERGY INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>AEIS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001923149</rptOwnerCik>
+            <rptOwnerName>Vonne Elizabeth Karpinski</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1595 WYNKOOP STREET, SUITE 800</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>907</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>290.05</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9805</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported sale was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 19, 2026.</footnote>
+        <footnote id="F2">Amount includes 36.885 shares acquired through the Dividend Reinvestment Plan. The numbers reported herein are rounded to the nearest number.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Elizabeth Vonne</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

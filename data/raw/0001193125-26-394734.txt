@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-394734.txt : 20260917
+<SEC-HEADER>0001193125-26-394734.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917192630
+ACCESSION NUMBER:		0001193125-26-394734
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rueb Yuliya
+		CENTRAL INDEX KEY:			0002125370
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40800
+		FILM NUMBER:		261388122
+
+	MAIL ADDRESS:	
+		STREET 1:		2656 STATE STREET
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tyra Biosciences, Inc.
+		CENTRAL INDEX KEY:			0001863127
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				831476348
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2656 STATE STREET
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+		BUSINESS PHONE:		(619) 728-4760
+
+	MAIL ADDRESS:	
+		STREET 1:		2656 STATE STREET
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001863127</issuerCik>
+        <issuerName>Tyra Biosciences, Inc.</issuerName>
+        <issuerTradingSymbol>TYRA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002125370</rptOwnerCik>
+            <rptOwnerName>Rueb Yuliya</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TYRA BIOSCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2656 STATE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CARLSBAD</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92008</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Vice President, Finance (PAO)</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2925</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.129</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11258</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were acquired under the Issuer's 2021 Employee Stock Purchase Plan.</footnote>
+        <footnote id="F2">Includes restricted stock units.</footnote>
+        <footnote id="F3">The previously filed Form 4 overstated the number of securities beneficially owned by the Reporting Person in column 5, due to a clerical error, which has been corrected on this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ali D. Fawaz, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

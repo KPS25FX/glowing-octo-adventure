@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001493152-26-040514.txt : 20260828
+<SEC-HEADER>0001493152-26-040514.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828091455
+ACCESSION NUMBER:		0001493152-26-040514
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cary Nicolas Claude
+		CENTRAL INDEX KEY:			0002080825
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38834
+		FILM NUMBER:		261333301
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		FL6, THE WINDGATE
+		STREET 2:		93-107 SHAFTSESBURY AVE.
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+		ZIP:			W1D 5DY
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TON Strategy Co
+		CENTRAL INDEX KEY:			0001566610
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				461669753
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2300 WEST SAHARA AVENUE
+		STREET 2:		SUITE 800
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89102
+		BUSINESS PHONE:		855-250-2300
+
+	MAIL ADDRESS:	
+		STREET 1:		2300 WEST SAHARA AVENUE
+		STREET 2:		SUITE 800
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Verb Technology Company, Inc.
+		DATE OF NAME CHANGE:	20190204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	nFusz, Inc.
+		DATE OF NAME CHANGE:	20170425
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BBOOTH, INC.
+		DATE OF NAME CHANGE:	20141022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001566610</issuerCik>
+        <issuerName>TON Strategy Co</issuerName>
+        <issuerTradingSymbol>TONX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002080825</rptOwnerCik>
+            <rptOwnerName>Cary Nicolas Claude</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TON STRATEGY COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>2300 W. SAHARA AVENUE, SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>80000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>152500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The restricted stock units (the &quot;RSUs&quot;) were granted to the Reporting Person on August 27, 2026, pursuant to the TON Strategy Company 2026 Equity Incentive Plan and will vest on August 7, 2027.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicolas Claude Cary</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

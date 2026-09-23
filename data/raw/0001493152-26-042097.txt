@@ -1,0 +1,258 @@
+<SEC-DOCUMENT>0001493152-26-042097.txt : 20260910
+<SEC-HEADER>0001493152-26-042097.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910100545
+ACCESSION NUMBER:		0001493152-26-042097
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260601
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Isenberg Ben
+		CENTRAL INDEX KEY:			0002093631
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38875
+		FILM NUMBER:		261369941
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		340 WEST BAY STREET
+		CITY:			NASSAU
+		NON US STATE TERRITORY:  	BAHAMAS
+		PROVINCE COUNTRY:   	C5
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Greenlane Holdings, Inc.
+		CENTRAL INDEX KEY:			0001743745
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-DURABLE GOODS, NEC [5099]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				830806637
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 N FEDERAL HWY, SUITE B200
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+		BUSINESS PHONE:		877-292-7660
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 N FEDERAL HWY, SUITE B200
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001743745</issuerCik>
+        <issuerName>Greenlane Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>GNLN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002093631</rptOwnerCik>
+            <rptOwnerName>Isenberg Ben</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>340 WEST BAY STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NASSAU</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C5</rptOwnerCountry>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>BAHAMAS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Investment Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.08</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>708</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.3854</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29292</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Strategic Advisory Warrant</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.08</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-06-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-04-23</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-04-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35104</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On October 23, 2025, the Reporting Person was granted a Strategic Advisory Warrant to purchase 520,833 shares of Class A common stock at $0.01 per share. Following the Issuer's 1-for-8 reverse stock split effective April 6, 2026, the Warrant was adjusted to cover 65,104 shares at $0.08 per share.</footnote>
+        <footnote id="F2">On June 1, 2026, the Reporting Person exercised 30,000 Warrant Shares on a cashless basis under Section 2(c) of the Warrant. Using the May 29, 2026 VWAP of $3.3854, the formula yielded 29,291.0734 net shares. The Issuer elected to round up to the next whole share, resulting in the issuance of 29,292 net shares.</footnote>
+        <footnote id="F3">Due to an administrative error, the Issuer initially delivered all 30,000 shares without deducting shares for the $0.08 exercise price. Before this Form 4 was filed, the Reporting Person returned 708 excess shares to the Issuer, and the Issuer cancelled them. Table I reports the gross acquisition of 30,000 shares and the disposition of 708 shares to reflect the corrected cashless exercise. No open-market sale occurred and the Reporting Person received no cash proceeds.</footnote>
+        <footnote id="F4">No consideration was paid or received for the derivative security. Because the reported transaction was an exercise of the Warrant, the exercise price of $0.08 per share is reported in Column 2, and Column 8 is left blank pursuant to Form 4 Instruction 4(c)(iii).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ben Isenberg</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

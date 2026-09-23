@@ -1,0 +1,188 @@
+<SEC-DOCUMENT>0001437749-26-030450.txt : 20260915
+<SEC-HEADER>0001437749-26-030450.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915162755
+ACCESSION NUMBER:		0001437749-26-030450
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nahmad Henry M
+		CENTRAL INDEX KEY:			0001635639
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14757
+		FILM NUMBER:		261381119
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O EVI INDUSTRIES
+		STREET 2:		4500 BISCAYNE BLVD. SUITE 340
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33137
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EVI INDUSTRIES, INC.
+		CENTRAL INDEX KEY:			0000065312
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PERSONAL SERVICES [7200]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				112014231
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 BISCAYNE BOULEVARD
+		STREET 2:		SUITE 340
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33137
+		BUSINESS PHONE:		3054029300
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 BISCAYNE BOULEVARD
+		STREET 2:		SUITE 340
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33137
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EnviroStar, Inc.
+		DATE OF NAME CHANGE:	20100514
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DRYCLEAN USA INC
+		DATE OF NAME CHANGE:	20000210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	METRO TEL CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000065312</issuerCik>
+        <issuerName>EVI INDUSTRIES, INC.</issuerName>
+        <issuerTradingSymbol>EVI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001635639</rptOwnerCik>
+            <rptOwnerName>Nahmad Henry M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4500 BISCAYNE BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 340</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33137</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <officerTitle>Chairman, CEO &amp; President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.025 par value per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20762</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.90</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1579357</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.025 par value per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2838194</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Symmetric Capital LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of the issuer's common stock surrendered to the issuer to satisfy the issuer's tax withholding obligation relating to the vesting of certain restricted stock awards previously granted to Henry M. Nahmad.</footnote>
+        <footnote id="F2">Represents the closing price of the issuer's common stock on September 11, 2026.</footnote>
+        <footnote id="F3">Mr. Nahmad is the sole manager of Symmetric Capital LLC. Mr. Nahmad disclaims beneficial ownership of the shares of the issuer's common stock held by Symmetric Capital LLC except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Henry M. Nahmad</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

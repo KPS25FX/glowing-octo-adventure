@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001292814-26-004472.txt : 20260903
+<SEC-HEADER>0001292814-26-004472.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903095321
+ACCESSION NUMBER:		0001292814-26-004472
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Amaral Decio de Sampaio
+		CENTRAL INDEX KEY:			0002122759
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14950
+		FILM NUMBER:		261356897
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BRIGADEIRO LUIS ANTONIO AVENUE, NO. 1343
+		STREET 2:		7TH FLOOR
+		CITY:			SAO PAULO
+		NON US STATE TERRITORY:  	SP
+		PROVINCE COUNTRY:   	D5
+		ZIP:			01317 910
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ULTRAPAR HOLDINGS INC
+		CENTRAL INDEX KEY:			0001094972
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS DISTRIBUTION [4924]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AV BRIGADERIO LUIZ ANTONIO 1343
+		STREET 2:		8 ANDAR SAO PAULO
+		CITY:			SP BRAZIL 01350-900
+		STATE:			D5
+		BUSINESS PHONE:		55 11 3177-7014
+
+	MAIL ADDRESS:	
+		STREET 1:		CT CORPORATION SYSTEM
+		STREET 2:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001094972</issuerCik>
+        <issuerName>ULTRAPAR HOLDINGS INC</issuerName>
+        <issuerTradingSymbol>UGP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>UGPA3</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002122759</rptOwnerCik>
+            <rptOwnerName>Amaral Decio de Sampaio</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BRIGADEIRO LUIS ANTONIO AVENUE, NO. 1343</rptOwnerStreet1>
+            <rptOwnerStreet2>7TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>SAO PAULO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>SP</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>01317 910</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO Hidrovias</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.93</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>151432</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price was converted from Brazilian Real (BRL) to U.S. Dollars (USD) based on the closing foreign exchange rate for the applicable transaction date as follows: USD 1.00 = BRL 5.1564 on September 1, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Larissa Lordaro Pessoa, attorney-in-fact for Decio</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

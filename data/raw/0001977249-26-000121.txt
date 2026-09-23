@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001977249-26-000121.txt : 20260826
+<SEC-HEADER>0001977249-26-000121.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826162747
+ACCESSION NUMBER:		0001977249-26-000121
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Overbey Cecil E. Jr.
+		CENTRAL INDEX KEY:			0001509626
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19582
+		FILM NUMBER:		261323373
+
+	MAIL ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Overbay Cecil E. Jr.
+		DATE OF NAME CHANGE:	20110106
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OLD DOMINION FREIGHT LINE, INC.
+		CENTRAL INDEX KEY:			0000878927
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCKING (NO LOCAL) [4213]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				560751714
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+		BUSINESS PHONE:		3368895000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OLD DOMINION FREIGHT LINE INC/VA
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000878927</issuerCik>
+        <issuerName>OLD DOMINION FREIGHT LINE, INC.</issuerName>
+        <issuerTradingSymbol>ODFL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001509626</rptOwnerCik>
+            <rptOwnerName>Overbey Cecil E. Jr.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O OLD DOMINION FREIGHT LINE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>500 OLD DOMINION WAY</rptOwnerStreet2>
+            <rptOwnerCity>THOMASVILLE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>27360</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>SVP - Strategic Development</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>19952</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>198.39</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22746</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9437</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $198.31 to $198.68, inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cecil E. Overbey, Jr.</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,305 @@
+<SEC-DOCUMENT>0001193125-26-374888.txt : 20260828
+<SEC-HEADER>0001193125-26-374888.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828182439
+ACCESSION NUMBER:		0001193125-26-374888
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260710
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wagner Daniel Maurice
+		CENTRAL INDEX KEY:			0002035140
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42254
+		FILM NUMBER:		261341859
+
+	MAIL ADDRESS:	
+		STREET 1:		80 NEW BOND STREET
+		STREET 2:		3RD FLOOR
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W1S 1SB
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REZOLVE AI PLC
+		CENTRAL INDEX KEY:			0001920294
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		21 SACKVILLE STREET
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+		BUSINESS PHONE:		44-797-382-9433
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		21 SACKVILLE STREET
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REZOLVE AI Ltd
+		DATE OF NAME CHANGE:	20240827
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REZOLVE GROUP Ltd
+		DATE OF NAME CHANGE:	20220329
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-07-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001920294</issuerCik>
+        <issuerName>REZOLVE AI PLC</issuerName>
+        <issuerTradingSymbol>RZLV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002035140</rptOwnerCik>
+            <rptOwnerName>Wagner Daniel Maurice</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O REZOLVE AI PLC</rptOwnerStreet1>
+            <rptOwnerStreet2>21 SACKVILLE STREET</rptOwnerStreet2>
+            <rptOwnerCity>LONDON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>X0</rptOwnerCountry>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>W</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>543993</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50331287</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote (2)</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4698505</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call Option (Obligation to Sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.48</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-16</value>
+                <footnoteId id="F3"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1566697</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-09-18</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-08-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1566697</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote (5)</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call Option (Obligation to Sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-16</value>
+                <footnoteId id="F6"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>E</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2025496</value>
+                    <footnoteId id="F7"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-09-18</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-08-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2025496</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote (8)</value>
+                    <footnoteId id="F8"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported acquisition reflects the distribution on July 10, 2026 of 543,993 Ordinary Shares from the Estate of John Wagner to DBLP for no consideration. The number of shares beneficially owned following the transaction also reflects the correction of a clerical error in a prior Form 4 filing.</footnote>
+        <footnote id="F2">Securities are directly held by DBLP Sea Cow Limited (&quot;DBLP&quot;). DBLP is wholly owned by Mr. Wagner and Mr. Wagner is a director of DBLP. Mr. Wagner may be deemed to share voting and investment power over the shares held by DBLP.</footnote>
+        <footnote id="F3">This Form 4 reports the exercise by Bradley Wickens of a pre-existing call option first exercisable on December 21, 2018.</footnote>
+        <footnote id="F4">The option gave Mr. Wickens a pre-existing contractual right to acquire 1,566,697 Ordinary Shares held by DBLP at $1.48 per share. Mr. Wickens exercised that right; the transaction was not an open-market sale by the Reporting Person or DBLP.</footnote>
+        <footnote id="F5">The shares were directly held by DBLP and had been excluded from DBLP's beneficial ownership while subject to Mr. Wickens' call option.</footnote>
+        <footnote id="F6">This Form 4 voluntarily reports the expiration of a separate pre-existing call option first exercisable on December 21, 2018.</footnote>
+        <footnote id="F7">The separate call option gave Mr. Wickens a right to acquire 2,025,496 Ordinary Shares held by DBLP at $3.00 per share.  Mr. Wickens did not exercise that right and the option expired in accordance with its terms.</footnote>
+        <footnote id="F8">The 2,025,496 shares remained directly held by DBLP throughout and, following expiration of the option, are included in DBLP's beneficial ownership.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Maurice Wagner</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

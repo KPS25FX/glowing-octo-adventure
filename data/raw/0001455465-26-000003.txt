@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0001455465-26-000003.txt : 20260914
+<SEC-HEADER>0001455465-26-000003.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914130151
+ACCESSION NUMBER:		0001455465-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mirvis Jeffrey P
+		CENTRAL INDEX KEY:			0001455465
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33861
+		FILM NUMBER:		261376674
+
+	MAIL ADDRESS:	
+		STREET 1:		2929 CALIFORNIA STREET
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90503
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MOTORCAR PARTS OF AMERICA INC
+		CENTRAL INDEX KEY:			0000918251
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				112153962
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2929 CALIFORNIA STREET
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90503
+		BUSINESS PHONE:		3109724015
+
+	MAIL ADDRESS:	
+		STREET 1:		2929 CALIFORNIA STREET
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90503
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MOTORCAR PARTS AMERICA INC
+		DATE OF NAME CHANGE:	20100614
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MOTORCAR PARTS  AMERICA INC
+		DATE OF NAME CHANGE:	20040112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MOTORCAR PARTS & ACCESSORIES INC
+		DATE OF NAME CHANGE:	19940128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000918251</issuerCik>
+        <issuerName>MOTORCAR PARTS OF AMERICA INC</issuerName>
+        <issuerTradingSymbol>MPAA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001455465</rptOwnerCik>
+            <rptOwnerName>Mirvis Jeffrey P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1930 CENTURY PARK WEST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90067</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11851.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11851.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11851.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit (RSU) represents a contingent right to receive one share of the Issuers Common Stock. The RSUs vest in full on the earlier to occur of (i) the one-year anniversary of the Grant Date and (ii) the date of the next annual meeting of the Issuers stockholders following the Grant Date, subject to continued service through the applicable vesting date; provided, that, the RSUs shall vest upon a termination of service in a pro rata amount in accordance with the award agreement.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey Mirvis</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001694421-26-000007.txt : 20260910
+<SEC-HEADER>0001694421-26-000007.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910101954
+ACCESSION NUMBER:		0001694421-26-000007
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Foshee David B
+		CENTRAL INDEX KEY:			0001694421
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33994
+		FILM NUMBER:		261369983
+
+	MAIL ADDRESS:	
+		STREET 1:		1280 WEST PEACHTREE STREET
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30309
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERFACE INC
+		CENTRAL INDEX KEY:			0000715787
+		STANDARD INDUSTRIAL CLASSIFICATION:	CARPETS AND RUGS [2273]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				581451243
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0103
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1280 WEST PEACHTREE ST. NW
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30309
+		BUSINESS PHONE:		7704376800
+
+	MAIL ADDRESS:	
+		STREET 1:		1280 WEST PEACHTREE ST. NW
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERFACE FLOORING SYSTEMS INC
+		DATE OF NAME CHANGE:	19870817
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000715787</issuerCik>
+        <issuerName>INTERFACE INC</issuerName>
+        <issuerTradingSymbol>TILE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001694421</rptOwnerCik>
+            <rptOwnerName>Foshee David B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1280 WEST PEACHTREE ST. NW</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30309</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Vice President/Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>28451.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.99</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>146563.00</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 5, 2026.</footnote>
+        <footnote id="F2">Reflects a weighted average sale price of $35.99. The shares were sold in multiple transactions at prices ranging from $35.38 to $37.02 per share, inclusive. The reporting person will provide to Interface, Inc., any security holder of Interface, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth herein.</footnote>
+        <footnote id="F3">A substantial number of such shares are unvested restricted stock units subject to a risk of forfeiture under certain circumstances.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ David B. Foshee</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

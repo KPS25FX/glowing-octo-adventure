@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001493152-26-043081.txt : 20260917
+<SEC-HEADER>0001493152-26-043081.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917132102
+ACCESSION NUMBER:		0001493152-26-043081
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Evans Tyler Matthew
+		CENTRAL INDEX KEY:			0002082131
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42103
+		FILM NUMBER:		261386150
+
+	MAIL ADDRESS:	
+		STREET 1:		5097 SOUTH 900 EAST, STE 100
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84117
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nakamoto Inc.
+		CENTRAL INDEX KEY:			0001946573
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				843829824
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 10TH AVE SOUTH
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+		BUSINESS PHONE:		(385) 388-8220
+
+	MAIL ADDRESS:	
+		STREET 1:		300 10TH AVE SOUTH
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Kindly MD, Inc.
+		DATE OF NAME CHANGE:	20220913
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001946573</issuerCik>
+        <issuerName>Nakamoto Inc.</issuerName>
+        <issuerTradingSymbol>NAKA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002082131</rptOwnerCik>
+            <rptOwnerName>Evans Tyler Matthew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>300 10TH AVE SOUTH</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NASHVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37203</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Investment Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>982</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.63</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>576764</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects the sale of 982 shares of Common Stock, par value $0.001 per share (&quot;Common Stock&quot;), of Nakamoto Inc. (the &quot;Issuer&quot;), upon the partial vesting of a restricted stock unit award granted to the Reporting Person on August 14, 2026, solely to satisfy tax withholding obligations incurred upon vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kyle Simon, as attorney-in-fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

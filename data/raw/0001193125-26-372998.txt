@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001193125-26-372998.txt : 20260828
+<SEC-HEADER>0001193125-26-372998.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828112131
+ACCESSION NUMBER:		0001193125-26-372998
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McNair Darrell L
+		CENTRAL INDEX KEY:			0001912179
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00898
+		FILM NUMBER:		261335284
+
+	MAIL ADDRESS:	
+		STREET 1:		726 BELL AVENUE
+		STREET 2:		SUITE 301
+		CITY:			CARNEGIE
+		STATE:			PA
+		ZIP:			15106
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMPCO PITTSBURGH CORP
+		CENTRAL INDEX KEY:			0000006176
+		STANDARD INDUSTRIAL CLASSIFICATION:	PUMPS & PUMPING EQUIPMENT [3561]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				251117717
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		726 BELL AVENUE
+		STREET 2:		SUITE 301
+		CITY:			CARNEGIE
+		STATE:			PA
+		ZIP:			15106
+		BUSINESS PHONE:		412-456-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		726 BELL AVENUE
+		STREET 2:		SUITE 301
+		CITY:			CARNEGIE
+		STATE:			PA
+		ZIP:			15106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCREW & BOLT CORP OF AMERICA
+		DATE OF NAME CHANGE:	19710518
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000006176</issuerCik>
+        <issuerName>AMPCO PITTSBURGH CORP</issuerName>
+        <issuerTradingSymbol>AP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001912179</rptOwnerCik>
+            <rptOwnerName>McNair Darrell L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>726 BELL AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 301</rptOwnerStreet2>
+            <rptOwnerCity>CARNEGIE</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15106</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65686</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6640</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Indirect By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects 5,600 shares of common stock, $1 par value of Ampco-Pittsburgh Corporation transferred by the reporting person to a donor-advised fund sponsored by a charitable organization under Section 501(c)(3) of the Internal Revenue Code.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Kimberly P. Knox, attorney-in-fact</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

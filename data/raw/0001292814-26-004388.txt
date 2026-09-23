@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001292814-26-004388.txt : 20260828
+<SEC-HEADER>0001292814-26-004388.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828151329
+ACCESSION NUMBER:		0001292814-26-004388
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260818
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hachem Andre Saleme
+		CENTRAL INDEX KEY:			0002121755
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14950
+		FILM NUMBER:		261338991
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BRIGADEIRO LUIS ANTONIO AVENUE, 1343
+		STREET 2:		7TH FLOOR
+		CITY:			SAO PAULO
+		NON US STATE TERRITORY:  	SP
+		PROVINCE COUNTRY:   	D5
+		ZIP:			01317 910
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ULTRAPAR HOLDINGS INC
+		CENTRAL INDEX KEY:			0001094972
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS DISTRIBUTION [4924]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AV BRIGADERIO LUIZ ANTONIO 1343
+		STREET 2:		8 ANDAR SAO PAULO
+		CITY:			SP BRAZIL 01350-900
+		STATE:			D5
+		BUSINESS PHONE:		55 11 3177-7014
+
+	MAIL ADDRESS:	
+		STREET 1:		CT CORPORATION SYSTEM
+		STREET 2:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001094972</issuerCik>
+        <issuerName>ULTRAPAR HOLDINGS INC</issuerName>
+        <issuerTradingSymbol>UGP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>UGPA3</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002121755</rptOwnerCik>
+            <rptOwnerName>Hachem Andre Saleme</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BRIGADEIRO LUIS ANTONIO AVENUE, 1343</rptOwnerStreet1>
+            <rptOwnerStreet2>7TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>SAO PAULO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>SP</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D5</rptOwnerCountry>
+            <rptOwnerZipCode>01317 910</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRAZIL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO and IRO Hidrovias</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>585</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.51</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>64875</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.511 to $6.515, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this Form 4.</footnote>
+        <footnote id="F2">All prices were converted from Brazilian Real (BRL) to U.S. Dollars (USD) based on the closing foreign exchange rate for the applicable transaction date as follows: USD 1.00 = BRL 5.2037 on August 18, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Larissa Lordaro Pessoa, attorney-in-fact for Andre Saleme Hachem</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

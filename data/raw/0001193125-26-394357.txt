@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001193125-26-394357.txt : 20260917
+<SEC-HEADER>0001193125-26-394357.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917161505
+ACCESSION NUMBER:		0001193125-26-394357
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Thomas Stephen Basil
+		CENTRAL INDEX KEY:			0002027962
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40708
+		FILM NUMBER:		261386989
+
+	MAIL ADDRESS:	
+		STREET 1:		2525 SMITH STREET
+		CITY:			SCOTCH PLAINS
+		STATE:			NJ
+		ZIP:			07076
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Climb Bio, Inc.
+		CENTRAL INDEX KEY:			0001768446
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				832273741
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 WILLIAM STREET
+		STREET 2:		SUITE G50
+		CITY:			WELLESLEY HILLS
+		STATE:			MA
+		BUSINESS PHONE:		1-866-857-2596
+
+	MAIL ADDRESS:	
+		STREET 1:		20 WILLIAM STREET
+		STREET 2:		SUITE G50
+		CITY:			WELLESLEY HILLS
+		STATE:			MA
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Eliem Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20190219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001768446</issuerCik>
+        <issuerName>Climb Bio, Inc.</issuerName>
+        <issuerTradingSymbol>CLYM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002027962</rptOwnerCik>
+            <rptOwnerName>Thomas Stephen Basil</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CLIMB BIO, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>20 WILLIAM STREET, SUITE G50</rptOwnerStreet2>
+            <rptOwnerCity>WELLESLEY HILLS</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02481</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.6682</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>467969</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These transactions were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 16, 2026.</footnote>
+        <footnote id="F2">The price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $13.3800 to $14.3400, inclusive. The reporting person undertakes to provide the staff of the Securities and Exchange Commission, the issuer or any security holder of the issuer, upon request, full information regarding the number of shares sold at each separate price within the range.</footnote>
+        <footnote id="F3">Includes 413,312 shares of the issuer's common stock, par value $0.0001 per share, distributed by Sera Medicines, LLC to certain of its limited partners, including the reporting person, for no consideration in a pro-rata in-kind distribution.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Chandra Adams, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

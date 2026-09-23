@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0000008858-26-000101.txt : 20260915
+<SEC-HEADER>0000008858-26-000101.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915193109
+ACCESSION NUMBER:		0000008858-26-000101
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McCoy Michael Ryan
+		CENTRAL INDEX KEY:			0001801884
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04224
+		FILM NUMBER:		261382099
+
+	MAIL ADDRESS:	
+		STREET 1:		2150 EAST WARNER ROAD
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85284
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVNET INC
+		CENTRAL INDEX KEY:			0000008858
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC [5065]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				111890605
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0703
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2150 E. WARNER ROAD
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85284
+		BUSINESS PHONE:		4806432000
+
+	MAIL ADDRESS:	
+		STREET 1:		2150 E. WARNER ROAD
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85284
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000008858</issuerCik>
+        <issuerName>AVNET INC</issuerName>
+        <issuerTradingSymbol>AVT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001801884</rptOwnerCik>
+            <rptOwnerName>McCoy Michael Ryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AVNET, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2211 SOUTH 47TH STREET</rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85034</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP, General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3849</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>106280</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of performance stock units earned under long-term incentive plans.</footnote>
+        <footnote id="F2">Includes 54,513 shares earned but not vested.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Darrel S. Jackson, Attorney-In-Fact</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

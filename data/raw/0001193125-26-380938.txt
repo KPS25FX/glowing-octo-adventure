@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001193125-26-380938.txt : 20260903
+<SEC-HEADER>0001193125-26-380938.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903063154
+ACCESSION NUMBER:		0001193125-26-380938
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Higashi Kazuhiro
+		CENTRAL INDEX KEY:			0002128323
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07628
+		FILM NUMBER:		261356635
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		TORANOMON ALCEA TOWER 2-2-3
+		CITY:			MINATOKU, TORANOMON
+		NON US STATE TERRITORY:  	TOKYO
+		PROVINCE COUNTRY:   	M0
+		ZIP:			105-8404
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HONDA MOTOR CO LTD
+		CENTRAL INDEX KEY:			0000715153
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		2-3, TORANOMON 2-CHOME, MINATO-KU
+		CITY:			TOKYO, JAPAN
+		PROVINCE COUNTRY:   	M0
+		ZIP:			105-8404
+		BUSINESS PHONE:		81334231111
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		2-3, TORANOMON 2-CHOME, MINATO-KU
+		CITY:			TOKYO, JAPAN
+		PROVINCE COUNTRY:   	M0
+		ZIP:			105-8404
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000715153</issuerCik>
+        <issuerName>HONDA MOTOR CO LTD</issuerName>
+        <issuerTradingSymbol>HMC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>TSE: 7267</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002128323</rptOwnerCik>
+            <rptOwnerName>Higashi Kazuhiro</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>MINATOKU, TORANOMON, TORANOMON ALCEA</rptOwnerStreet1>
+            <rptOwnerStreet2>TOWER 2-2-3</rptOwnerStreet2>
+            <rptOwnerCity>TOKYO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>M0</rptOwnerCountry>
+            <rptOwnerZipCode>105-8404</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>70</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.76</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>253</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held in director's stock ownership plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The purchase price is 1,719.87 Japanese yen per share. The purchase price reported has been converted to U.S. dollars using the Telegraphic Transfer Middle Rate (TTM) applicable on the transaction date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Kenji Ichinoseki, Attorney-in-fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

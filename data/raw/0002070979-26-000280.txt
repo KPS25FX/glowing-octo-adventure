@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0002070979-26-000280.txt : 20260910
+<SEC-HEADER>0002070979-26-000280.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910090511
+ACCESSION NUMBER:		0002070979-26-000280
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Morais Silvio Jose
+		CENTRAL INDEX KEY:			0002110847
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38714
+		FILM NUMBER:		261369782
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		RUA FERNANDES DE ABREU, 229
+		STREET 2:		APT 81
+		CITY:			SAO PAULO
+		NON US STATE TERRITORY:  	SAO PAULO
+		PROVINCE COUNTRY:   	D5
+		ZIP:			04543070
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			StoneCo Ltd.
+		CENTRAL INDEX KEY:			0001745431
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4TH FLOOR, HARBOUR PLACE
+		STREET 2:		103 SOUTH CHURCH STREET, P.O. BOX 10240
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1002
+		BUSINESS PHONE:		55 3004-9680
+
+	MAIL ADDRESS:	
+		STREET 1:		4TH FLOOR, HARBOUR PLACE
+		STREET 2:		103 SOUTH CHURCH STREET, P.O. BOX 10240
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DLP Payments Holdings Ltd.
+		DATE OF NAME CHANGE:	20180703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1789045508.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001745431</issuerCik>
+        <issuerName>StoneCo Ltd.</issuerName>
+        <issuerTradingSymbol>STNE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002110847</rptOwnerCik>
+            <rptOwnerName>Morais Silvio Jose</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4TH FLOOR, HARBOUR PLACE</rptOwnerStreet1>
+            <rptOwnerStreet2>103 SOUTH CHURCH STREET, P.O. BOX 10240</rptOwnerStreet2>
+            <rptOwnerCity>GRAND CAYMAN</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>CAYMAN ISLANDS</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>E9</rptOwnerCountry>
+            <rptOwnerZipCode>KY1-1002</rptOwnerZipCode>
+            <rptOwnerStateDescription>CAYMAN ISLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.91</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Mali Investment Holdings Ltd.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>66518</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes both restricted stock units that represent a contingent right to receive one share of the Issuer's Common Stock, as well as shares of Common Stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Camila Poente, attorney-in-fact for Silvio Jose Morais</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>silviojosmorais-section16x.htm
+<DESCRIPTION>EX-24
+<TEXT>
+<html><head>
+<!-- Document created using Wdesk -->
+<!-- Copyright 2026 Workiva -->
+<title>Document</title></head><body><div id="iebbfb8e1c20c4a1990678fc749ad5ba3_1"></div><div style="min-height:72pt;width:100%"><div style="text-align:right"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:700;line-height:120%">Exhibit 24</font></div></div><div style="margin-bottom:12pt;text-align:center"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:700;line-height:120%">POWER OF ATTORNEY</font></div><div><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">Know all by these presents, that the undersigned hereby constitutes and appoints each of Priscilla Saraiva Godoy, Camila Poente, Danilo de Andrade Borges, Mayra Naomi Sakaguti, Gustavo de Souza Mattos, Isabella Caldeira de Medeiros, Gabriella Read and Giovanna de Souza Fetter, as the undersigned&#8217;s true and lawful attorneys-in-fact to</font></div><div><font><br></font></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">(2)&#160;&#160;&#160;&#160;execute for and on behalf of the undersigned, in the undersigned&#8217;s capacity as a reporting person pursuant to Section 16 of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange</font><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:700;line-height:120%"> </font><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">Act&#8221;), and the rules thereunder of StoneCo Ltd. (the &#8220;Company&#8221;), Forms 3, 4 and 5, including any amendments thereto, in accordance with Section 16(a) of the Exchange Act&#59;</font></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">(3)&#160;&#160;&#160;&#160;do and perform any and all acts, directly or indirectly including through a delegated entity, account administrator or other designated filing agent, for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4 or 5, complete and execute any amendment or amendments thereto, and timely file such form with the United States Securities and Exchange Commission (the &#8220;SEC&#8221;) and any applicable stock exchange or similar authority&#59; </font></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">(4)&#160;&#160;&#160;&#160;prepare, execute and file, or cause to be prepared, executed and filed, on behalf of the undersigned one or more Forms 144, or any amendments thereto, relating to any sales orders (including in connection with the exercise of options to purchase the Company&#8217;s Class A common shares (&#8220;common shares&#8221;), orally or electronically, to sell shares of common shares to the public from time to time in accordance with Rule 144 under the Securities Act of 1933, as amended&#59; </font></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">(5)&#160;&#160;&#160;&#160;take any other action of any type whatsoever in connection with the foregoing which, in the opinion of any of such attorneys-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by any of such attorneys-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as any of such attorneys-in-fact may approve in the discretion of any of such attorneys-in-fact&#59; and </font></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">(6) &#160;&#160;&#160;&#160;act as an account administrator for the undersigned&#8217;s Electronic Data Gathering and Retrieval (&#8220;EDGAR&#8221;) account, including&#58; (i) appointing, removing and replacing account administrators, account users, technical administrators and delegated entities&#59; (ii) maintaining the security of the undersigned&#8217;s EDGAR account, including modification of access codes&#59; (iii) maintaining, modifying and certifying the accuracy of information on the undersigned&#8217;s EDGAR account dashboard&#59; (iv) acting as the EDGAR point of contact with respect to the undersigned&#8217;s EDGAR account&#59; and (v) performing any other actions contemplated by Rule 10 of Regulation S-T with respect to account administrators.</font></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">The undersigned hereby grants to each such attorney-in-fact full power and authority to act separately and to do and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution, delegation or revocation, hereby ratifying and confirming all that any of such attorneys-in-fact, or the substitute or substitutes or delegee or delegees of any of such attorneys-in-fact, shall lawfully do or cause to be done by virtue of this Power of Attorney and the rights </font></div><div style="height:72pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div><hr style="page-break-after:always"><div style="min-height:72pt;width:100%"><div><font><br></font></div></div><div style="margin-bottom:12pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">and powers herein granted.  The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned&#8217;s responsibilities to comply with Section 16 of the Exchange Act.</font></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5 with respect to the undersigned&#8217;s holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.  This Power of Attorney supersedes all other powers of attorney previously executed by the undersigned in respect of the subject matter described herein.</font></div><div style="height:72pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:12pt;font-weight:400;line-height:120%">2</font></div><div><font><br></font></div></div></div><hr style="page-break-after:always"><div style="min-height:72pt;width:100%"><div><font><br></font></div></div><div style="margin-bottom:12pt;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 11 day of March, 2026.</font></div><div style="margin-bottom:12pt;text-indent:36pt"><font><br></font></div><div style="margin-bottom:12pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">Name&#58; Silvio Jos&#233; Morais</font></div><div style="margin-bottom:12pt"><font><br></font></div><div style="margin-bottom:12pt"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%">Signature&#58; </font><font style="color:#000000;font-family:'Times New Roman',serif;font-size:11pt;font-weight:400;line-height:120%;text-decoration:underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div><div style="height:72pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',serif;font-size:12pt;font-weight:400;line-height:120%">3</font></div><div><font><br></font></div></div></div></body></html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

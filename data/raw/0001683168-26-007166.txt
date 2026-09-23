@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001683168-26-007166.txt : 20260915
+<SEC-HEADER>0001683168-26-007166.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915161542
+ACCESSION NUMBER:		0001683168-26-007166
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pennington Catherine B.
+		CENTRAL INDEX KEY:			0002022011
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49709
+		FILM NUMBER:		261380982
+
+	MAIL ADDRESS:	
+		STREET 1:		3753 HOWARD HUGHES PARKWAY
+		STREET 2:		SUITE 200
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89169
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cardiff Lexington Corp
+		CENTRAL INDEX KEY:			0000811222
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE [8011]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				841044583
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		710 EAST MAIN STREET
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40502
+		BUSINESS PHONE:		844-628-2100
+
+	MAIL ADDRESS:	
+		STREET 1:		710 EAST MAIN STREET
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40502
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CARDIFF INTERNATIONAL INC
+		DATE OF NAME CHANGE:	20000211
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED AMERICAN INC
+		DATE OF NAME CHANGE:	19910924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CARDIFF FINANCIAL INC
+		DATE OF NAME CHANGE:	19890510
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000811222</issuerCik>
+        <issuerName>Cardiff Lexington Corp</issuerName>
+        <issuerTradingSymbol>CDIX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002022011</rptOwnerCik>
+            <rptOwnerName>Pennington Catherine B.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CARDIFF LEXINGTON CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>710 EAST MAIN STREET</rptOwnerStreet2>
+            <rptOwnerCity>LEXINGTON</rptOwnerCity>
+            <rptOwnerState>KY</rptOwnerState>
+            <rptOwnerZipCode>40502</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.1162</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-08</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-09-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>500000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>500000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Catherine B. Pennington</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

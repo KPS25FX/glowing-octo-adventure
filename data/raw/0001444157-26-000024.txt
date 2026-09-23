@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001444157-26-000024.txt : 20260917
+<SEC-HEADER>0001444157-26-000024.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917162248
+ACCESSION NUMBER:		0001444157-26-000024
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rothenstein David M
+		CENTRAL INDEX KEY:			0001444157
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36250
+		FILM NUMBER:		261387114
+
+	MAIL ADDRESS:	
+		STREET 1:		7035 RIDGE ROAD
+		CITY:			HANOVER
+		STATE:			MD
+		ZIP:			21076
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CIENA CORP
+		CENTRAL INDEX KEY:			0000936395
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				232725311
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7035 RIDGE ROAD
+		CITY:			HANOVER
+		STATE:			MD
+		ZIP:			21076
+		BUSINESS PHONE:		4108658500
+
+	MAIL ADDRESS:	
+		STREET 1:		7035 RIDGE ROAD
+		CITY:			HANOVER
+		STATE:			MD
+		ZIP:			21076
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000936395</issuerCik>
+        <issuerName>CIENA CORP</issuerName>
+        <issuerTradingSymbol>CIEN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001444157</rptOwnerCik>
+            <rptOwnerName>Rothenstein David M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CIENA CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>8150 MAPLE LAWN BOULEVARD, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>FULTON</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20759</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP &amp; Chief Strategy Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2500</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>330.4833</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>177731</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Sales were affected pursuant to Rule 10b5-1 trading plan dated 10/10/2025.</footnote>
+        <footnote id="F2">Reflects the weighted average sales price with transactions in a range of sales from $321.4000 to $335.4100. Upon request by the SEC, full information regarding the number of shares sold at each separate sales price will be provided.</footnote>
+        <footnote id="F3">Shares reported include unvested Restricted Stock Units (RSUs) and Performance Stock Units (PSUs).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Michelle Rankin For: David Rothenstein</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

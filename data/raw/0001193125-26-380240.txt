@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001193125-26-380240.txt : 20260902
+<SEC-HEADER>0001193125-26-380240.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902162356
+ACCESSION NUMBER:		0001193125-26-380240
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SIMS JAMES K
+		CENTRAL INDEX KEY:			0001208317
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37851
+		FILM NUMBER:		261355160
+
+	MAIL ADDRESS:	
+		STREET 1:		5400 LEGACY DRIVE, H3-3A-05
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAIN INC
+		CENTRAL INDEX KEY:			0001272842
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				954523882
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3611 VALLEY CENTRE DRIVE
+		STREET 2:		SUITE 150
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92130
+		BUSINESS PHONE:		(760) 579-0200
+
+	MAIL ADDRESS:	
+		STREET 1:		3611 VALLEY CENTRE DRIVE
+		STREET 2:		SUITE 150
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001272842</issuerCik>
+        <issuerName>AIRGAIN INC</issuerName>
+        <issuerTradingSymbol>AIRG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001208317</rptOwnerCik>
+            <rptOwnerName>SIMS JAMES K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AIRGAIN, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3611 VALLEY CENTRE DRIVE, SUITE 150</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92130</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6731</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.31</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>449464</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8269</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.11</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>457733</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a weighted average purchase price per share. These shares were purchased in multiple transactions at prices ranging from $5.12 to $5.40. The Reporting Person has provided to the issuer, and will provide to any security holder of the issuer or the SEC staff, upon request, information regarding the number of shares purchased at each price within the range.</footnote>
+        <footnote id="F2">Includes restricted stock units.</footnote>
+        <footnote id="F3">Represents a weighted average purchase price per share. These shares were purchased in multiple transactions at prices ranging from $4.98 to $5.25. The Reporting Person has provided to the issuer, and will provide to any security holder of the issuer or the SEC staff, upon request, information regarding the number of shares purchased at each price within the range.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Elbaz, as attorney-in-fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

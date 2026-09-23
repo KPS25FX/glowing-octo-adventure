@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001437749-26-029485.txt : 20260902
+<SEC-HEADER>0001437749-26-029485.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902133721
+ACCESSION NUMBER:		0001437749-26-029485
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hamill Anna
+		CENTRAL INDEX KEY:			0001935704
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39537
+		FILM NUMBER:		261353889
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LAIRD SUPERFOOD, INC.
+		STREET 2:		275 W. LUNDGREN MILL DRIVE
+		CITY:			SISTERS
+		STATE:			OR
+		ZIP:			97759
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Laird Superfood, Inc.
+		CENTRAL INDEX KEY:			0001650696
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				811589788
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5303 SPINE ROAD
+		STREET 2:		SUITE 204
+		CITY:			BOULDER
+		STATE:			CO
+		ZIP:			80301
+		BUSINESS PHONE:		(541) 548-0577
+
+	MAIL ADDRESS:	
+		STREET 1:		5303 SPINE ROAD
+		STREET 2:		SUITE 204
+		CITY:			BOULDER
+		STATE:			CO
+		ZIP:			80301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Laird Superfood, LLC
+		DATE OF NAME CHANGE:	20150811
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>2026-08-31-AH
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001650696</issuerCik>
+        <issuerName>Laird Superfood, Inc.</issuerName>
+        <issuerTradingSymbol>LSF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001935704</rptOwnerCik>
+            <rptOwnerName>Hamill Anna</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5303 SPINE ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 204</rptOwnerStreet2>
+            <rptOwnerCity>BOULDER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80301</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3613</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>214343</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld to satisfy taxes. No shares were sold.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Anya Hamill</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

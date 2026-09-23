@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0002022936-26-000016.txt : 20260902
+<SEC-HEADER>0002022936-26-000016.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902145130
+ACCESSION NUMBER:		0002022936-26-000016
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mindlin Marcos Marcelo
+		CENTRAL INDEX KEY:			0002022936
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34429
+		FILM NUMBER:		261354179
+
+	MAIL ADDRESS:	
+		STREET 1:		MAIPU 1
+		CITY:			BUENOS AIRES
+		STATE:			C1
+		ZIP:			1084
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pampa Energy Inc.
+		CENTRAL INDEX KEY:			0001469395
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			C1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MAIPU 1
+		CITY:			CITY OF BUENOS AIRES
+		STATE:			C1
+		ZIP:			C1084ABA
+		BUSINESS PHONE:		54-11-4809-9500
+
+	MAIL ADDRESS:	
+		STREET 1:		MAIPU 1
+		CITY:			CITY OF BUENOS AIRES
+		STATE:			C1
+		ZIP:			C1084ABA
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001469395</issuerCik>
+        <issuerName>Pampa Energy Inc.</issuerName>
+        <issuerTradingSymbol>PAM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>PAMP</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002022936</rptOwnerCik>
+            <rptOwnerName>Mindlin Marcos Marcelo</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>MAIPU 1</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BUENOS AIRES</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>C1</rptOwnerCountry>
+            <rptOwnerZipCode>1084</rptOwnerZipCode>
+            <rptOwnerStateDescription>ARGENTINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Cammon Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-09-01</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.44</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22680592</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Prices converted to U.S. dollars using the ARS/USD exchange rate of 1,510.0865 on the trade date, as reported by Bloomberg</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Mindlin Marcos Marcelo</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

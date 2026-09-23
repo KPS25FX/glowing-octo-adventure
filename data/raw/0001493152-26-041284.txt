@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001493152-26-041284.txt : 20260902
+<SEC-HEADER>0001493152-26-041284.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902190504
+ACCESSION NUMBER:		0001493152-26-041284
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Zindrick Thomas
+		CENTRAL INDEX KEY:			0001937573
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41599
+		FILM NUMBER:		261356320
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GENELUX CORPORATION
+		STREET 2:		2625 TOWNSGATE RD., STE. 230
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENELUX Corp
+		CENTRAL INDEX KEY:			0001231457
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2625 TOWNSGATE ROAD, SUITE 230
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+		BUSINESS PHONE:		805-267-9889
+
+	MAIL ADDRESS:	
+		STREET 1:		2625 TOWNSGATE ROAD, SUITE 230
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GENELUX CORP
+		DATE OF NAME CHANGE:	20030508
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001231457</issuerCik>
+        <issuerName>GENELUX Corp</issuerName>
+        <issuerTradingSymbol>GNLX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001937573</rptOwnerCik>
+            <rptOwnerName>Zindrick Thomas</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GENELUX CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>2625 TOWNSGATE ROAD, SUITE 230</rptOwnerStreet2>
+            <rptOwnerCity>WESTLAKE VILLAGE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91361</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>34463</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.6666</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1226427</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares sold by the Reporting Person to cover estimated taxes to be paid by the Reporting Person in connection with the vesting of restricted stock units.</footnote>
+        <footnote id="F2">The weighted average sale price for the transaction reported was $2.6666, and the range of prices were between $2.59 and $2.81. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of shares sold at each separate price will be provided</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas Zindrick</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

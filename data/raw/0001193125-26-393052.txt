@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001193125-26-393052.txt : 20260916
+<SEC-HEADER>0001193125-26-393052.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916160505
+ACCESSION NUMBER:		0001193125-26-393052
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRADLEY WILLIAM
+		CENTRAL INDEX KEY:			0001177319
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41942
+		FILM NUMBER:		261383751
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FRACTYL HEALTH, INC.
+		STREET 2:		17 HARTWELL AVENUE
+		CITY:			LEXINGTON
+		STATE:			MA
+		ZIP:			02421
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRACTYL HEALTH, INC.
+		CENTRAL INDEX KEY:			0001572616
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				273553477
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 VAN DE GRAAFF DRIVE
+		STREET 2:		SUITE 200
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		781-902-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		3 VAN DE GRAAFF DRIVE
+		STREET 2:		SUITE 200
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fractyl Health, Inc.
+		DATE OF NAME CHANGE:	20210617
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fractyl Laboratories Inc.
+		DATE OF NAME CHANGE:	20130320
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001572616</issuerCik>
+        <issuerName>FRACTYL HEALTH, INC.</issuerName>
+        <issuerTradingSymbol>GUTS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001177319</rptOwnerCik>
+            <rptOwnerName>BRADLEY WILLIAM</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3 VAN DE GRAAFF DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>64516</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.6185</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>149138</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Open market purchase</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Harith Rajagopalan, M.D., Ph.D., Attorney-in-fact</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001193125-26-390931.txt : 20260914
+<SEC-HEADER>0001193125-26-390931.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914185946
+ACCESSION NUMBER:		0001193125-26-390931
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kumar Raj
+		CENTRAL INDEX KEY:			0001769605
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43288
+		FILM NUMBER:		261378787
+
+	MAIL ADDRESS:	
+		STREET 1:		55 WAUGH DRIVE
+		STREET 2:		SUITE 1000
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77007
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EagleRock Land, LLC
+		CENTRAL INDEX KEY:			0002104882
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL ROYALTY TRADERS [6792]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				413142321
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 N MARIENFELD ST., SUITE 800
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+		BUSINESS PHONE:		(347) 547-5330
+
+	MAIL ADDRESS:	
+		STREET 1:		600 N MARIENFELD ST., SUITE 800
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002104882</issuerCik>
+        <issuerName>EagleRock Land, LLC</issuerName>
+        <issuerTradingSymbol>EROK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001769605</rptOwnerCik>
+            <rptOwnerName>Kumar Raj</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O EAGLEROCK LAND, LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>9655 KATY FREEWAY, SUITE 375</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77024</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7824</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13229</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 10, 2026, the Reporting Person was granted 7,824 Restricted Share Units (&quot;RSUs&quot;) under the EagleRock Land, LLC Long Term Incentive Plan. Each RSU is a contingent right to receive one Class A share upon settlement. The RSUs vest in full on October 9, 2027, subject to continued Board service through that date and any deferred settlement elections made by the Reporting Person, in which case settlement will occur in accordance with the Reporting Person's elected deferral schedule.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert W. Hunt Jr., Attorney-In-Fact</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

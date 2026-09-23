@@ -1,0 +1,411 @@
+<SEC-DOCUMENT>0000950157-26-001028.txt : 20260917
+<SEC-HEADER>0000950157-26-001028.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917185145
+ACCESSION NUMBER:		0000950157-26-001028
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wilson Matthew R.
+		CENTRAL INDEX KEY:			0001803574
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11693
+		FILM NUMBER:		261388067
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LIGHT & WONDER, INC.
+		STREET 2:		6601 BERMUDA ROAD
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Light & Wonder, Inc.
+		CENTRAL INDEX KEY:			0000750004
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				810422894
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6601 BERMUDA ROAD
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+		BUSINESS PHONE:		7028977150
+
+	MAIL ADDRESS:	
+		STREET 1:		6601 BERMUDA ROAD
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCIENTIFIC GAMES CORP
+		DATE OF NAME CHANGE:	20010427
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AUTOTOTE CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED TOTE INC
+		DATE OF NAME CHANGE:	19920317
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000750004</issuerCik>
+        <issuerName>Light &amp; Wonder, Inc.</issuerName>
+        <issuerTradingSymbol>ASX:LNW</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>ASX:LNW</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001803574</rptOwnerCik>
+            <rptOwnerName>Wilson Matthew R.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O LIGHT &amp; WONDER, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6601 BERMUDA ROAD</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89119</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>22416</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>22416</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22416</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11208</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11208</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11208</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11208</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11208</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11208</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The restricted stock units (&quot;RSUs&quot;) are scheduled to vest in three equal installments on March 4, 2027, 2028 and 2029. Each unit converts into a share of common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The CHESS Depositary Interests (&quot;CDIs&quot;) issuable to Mr. Wilson upon vesting of the RSUs will be acquired through on-market purchases, which falls within an exception to the stockholder approval requirement under Australian Securities Exchange Listing Rule 10.14. Notwithstanding the availability of that exception, the Issuer sought stockholder approval of the grant of RSUs to Mr. Wilson at the 2026 Annual Meeting of Stockholders in the interests of transparency and good corporate governance. (continued in footnote 3 to this Form 4)</footnote>
+        <footnote id="F3">(continued from footnote 2 to this Form 4) In furtherance of such interests, the Issuer notes that the 2026 Definitive Proxy Statement provided that the number of RSUs granted to Mr. Wilson would be equal to $4,077,450 divided by the grant date fair value at March 4, 2026, but inadvertently reported this number as 37,644 RSUs (consisting of 18,822 time-vesting RSUs and 18,822 performance-based RSUs (&quot;PSUs&quot;)) instead of the correct number of 44,832 RSUs (consisting of 22,416 time-vesting RSUs and 22,416 PSUs), as reported above.</footnote>
+        <footnote id="F4">The PSUs are scheduled to cliff vest on March 4, 2029, contingent upon the achievement of a performance goal. If the performance goal is not met by December 31, 2028, all PSUs are forfeited. Each unit converts into a share of common stock on a one-for-one basis.</footnote>
+        <footnote id="F5">The PSUs are scheduled to cliff vest on March 4, 2029, contingent upon the achievement of a performance goal. If the performance goal is not met by December 31, 2028, all PSUs are forfeited. Each unit converts into a share of common stock on a one-for-one basis.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sweta Gabhawala, attorney-in-fact for Matthew R. Wilson</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 24</B></P>
+
+<P STYLE="margin: 0; text-align: right"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 176.65pt 0pt 176.6pt; text-align: center"><FONT STYLE="text-decoration: underline solid"><B>POWER
+OF ATTORNEY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">KNOW ALL BY THESE PRESENTS,
+that the undersigned hereby constitutes and appoints each of Susan Dawson, John Cuddihy and Sweta Gabhawala, signing singly, the undersigned&rsquo;s
+true and lawful attorneys-in-fact to:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">1.</TD><TD STYLE="text-align: justify; padding-right: 27pt">execute for and on behalf of the undersigned, in the undersigned&rsquo;s capacity
+as an officer and/or director of Light &amp; Wonder, Inc. (the &ldquo;Company&rdquo;), Forms 3, 4 and 5 in accordance with Section 16(a)
+of the Securities Exchange Act of 1934, as amended (the &ldquo;Exchange Act&rdquo;), and the rules thereunder;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">2.</TD><TD STYLE="text-align: justify; padding-right: 27pt">do and perform any and all acts for and on behalf of the undersigned which may be
+necessary or desirable to complete and execute any such Form 3, 4 and 5, and any amendments thereto, and timely file such form or report
+with the Securities and Exchange Commission and any stock exchange or similar authority; and</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">3.</TD><TD STYLE="text-align: justify; padding-right: 27pt">take any other action of any type whatsoever in connection with the foregoing which,
+in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall
+be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact&rsquo;s discretion.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The undersigned hereby grants
+to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary,
+or proper to be done in the exercise of any rights and powers herein granted, as fully to all intents and purposes as the undersigned
+might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such
+attorney-in-fact, or such attorney-in-fact&rsquo;s substitute or substitutes, shall lawfully do or cause to be done by virtue of this
+Power of Attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving
+in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned&rsquo;s responsibilities
+to comply with Section 16 of the Exchange Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">This Power of Attorney supersedes
+any Power of Attorney previously granted by the undersigned with respect to the foregoing matters and shall remain in full force and effect
+until the undersigned is no longer required to file Forms 3, 4 or 5 with respect to the undersigned&rsquo;s holdings of and transactions
+in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 5.65pt 0pt 5.95pt; text-align: justify; text-indent: 30.05pt">IN WITNESS
+WHEREOF, the undersigned has executed this Power of Attorney on this 17th day of September, 2026.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 3pt 0pt 4.5in"><U>/s/ Matthew R. Wilson&#9;</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 3pt 0pt 4.5in">Matthew R. Wilson</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

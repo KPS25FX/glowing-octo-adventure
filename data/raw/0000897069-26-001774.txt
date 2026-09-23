@@ -1,0 +1,260 @@
+<SEC-DOCUMENT>0000897069-26-001774.txt : 20260908
+<SEC-HEADER>0000897069-26-001774.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908181001
+ACCESSION NUMBER:		0000897069-26-001774
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JACKMAN WORTHING
+		CENTRAL INDEX KEY:			0001229832
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37552
+		FILM NUMBER:		261366131
+
+	MAIL ADDRESS:	
+		STREET 1:		3 WATERWAY SQUARE PLACE
+		STREET 2:		SUITE 110
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WillScot Holdings Corp
+		CENTRAL INDEX KEY:			0001647088
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS EQUIPMENT RENTAL & LEASING [7350]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6400 EAST MCDOWELL ROAD
+		STREET 2:		SUITE 300
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85257
+		BUSINESS PHONE:		480-894-6311
+
+	MAIL ADDRESS:	
+		STREET 1:		6400 EAST MCDOWELL ROAD
+		STREET 2:		SUITE 300
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85257
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WillScot Mobile Mini Holdings Corp.
+		DATE OF NAME CHANGE:	20200701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WillScot Corp
+		DATE OF NAME CHANGE:	20171130
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Double Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20150814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001647088</issuerCik>
+        <issuerName>WillScot Holdings Corp</issuerName>
+        <issuerTradingSymbol>WSC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001229832</rptOwnerCik>
+            <rptOwnerName>JACKMAN WORTHING</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6400 E MCDOWELL RD., 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SCOTTSDALE</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85257</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25652</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36306</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10736</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.98</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25570</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25652</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25652</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25652</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. Jackman has reported under two CIK Numbers: CIK Number 0001229832 and CIK Number 0001328708 (collectively, the &quot;Codes&quot;). For a complete record of all filings made by Mr. Jackman, all Codes should be referenced. Going forward, Mr. Jackman will make all filings using CIK Number 0001229832.</footnote>
+        <footnote id="F2">Represents shares of Common Stock withheld by the Issuer to satisfy tax withholding obligations in connection with the vesting and settlement of restricted stock units.</footnote>
+        <footnote id="F3">Each time-based restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive upon vesting one share of common stock of the Issuer, par value $0.0001 per share, or its cash equivalent.</footnote>
+        <footnote id="F4">On September 4, 2025, the Reporting Person was granted 51,304 RSUs which vest annually in two equal installments on each of the first and second anniversaries of the grant date subject to the terms and conditions of the Plan and the Restricted Stock Unit Agreement entered into between the Issuer and the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Peter D. Fetzer as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

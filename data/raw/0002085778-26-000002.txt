@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0002085778-26-000002.txt : 20260916
+<SEC-HEADER>0002085778-26-000002.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916160507
+ACCESSION NUMBER:		0002085778-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Curtis Cassandra Nicole
+		CENTRAL INDEX KEY:			0002085778
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43108
+		FILM NUMBER:		261383755
+
+	MAIL ADDRESS:	
+		STREET 1:		2111 SAN PABLO AVENUE, SUITE 2216
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94702
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Once Upon a Farm, PBC
+		CENTRAL INDEX KEY:			0001696556
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				473648280
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2111 SAN PABLO AVENUE, SUITE 2216
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94702
+		BUSINESS PHONE:		3106941590
+
+	MAIL ADDRESS:	
+		STREET 1:		2111 SAN PABLO AVENUE, SUITE 2216
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Once Upon A Farm, PBC
+		DATE OF NAME CHANGE:	20210624
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Once Upon a Farm, LLC
+		DATE OF NAME CHANGE:	20170131
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001696556</issuerCik>
+        <issuerName>Once Upon a Farm, PBC</issuerName>
+        <issuerTradingSymbol>OFRM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002085778</rptOwnerCik>
+            <rptOwnerName>Curtis Cassandra Nicole</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ONCE UPON A FARM, PBC</rptOwnerStreet1>
+            <rptOwnerStreet2>950 GILMAN STREET, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>BERKELEY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94710</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Innovation Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>68</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.98</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>432840</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares sold to cover tax withholding obligations in connection with the vesting of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Chris Folena, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

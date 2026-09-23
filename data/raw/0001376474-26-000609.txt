@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001376474-26-000609.txt : 20260910
+<SEC-HEADER>0001376474-26-000609.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910122653
+ACCESSION NUMBER:		0001376474-26-000609
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BROWN DAVID A B
+		CENTRAL INDEX KEY:			0001112508
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56235
+		FILM NUMBER:		261370364
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Global Innovative Platforms Inc.
+		CENTRAL INDEX KEY:			0001837774
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				853816149
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		149 JAMES PLACE
+		CITY:			MAITLAND
+		STATE:			FL
+		ZIP:			32751
+		BUSINESS PHONE:		321-230-3739
+
+	MAIL ADDRESS:	
+		STREET 1:		149 JAMES PLACE
+		CITY:			MAITLAND
+		STATE:			FL
+		ZIP:			32751
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Canning Street Corp
+		DATE OF NAME CHANGE:	20201223
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form.xml
+<DESCRIPTION>FORM  FILING
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001837774</issuerCik>
+        <issuerName>Global Innovative Platforms Inc.</issuerName>
+        <issuerTradingSymbol>GIPL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001112508</rptOwnerCik>
+            <rptOwnerName>BROWN DAVID A B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1></rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity></rptOwnerCity>
+            <rptOwnerState></rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.0001 par value per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>.5</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6778112</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By DAVID AB BROWN ROTH 401(K) PSP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person purchased 2,500 shares of GIPL common stock in an open-market brokerage transaction on September 8, 2026, at $0.50 per share. The shares are held indirectly through the DAVID AB BROWN ROTH 401(K) PSP.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David A B Brown</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001186416-26-000010.txt : 20260902
+<SEC-HEADER>0001186416-26-000010.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902181017
+ACCESSION NUMBER:		0001186416-26-000010
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MYERS JAMES M
+		CENTRAL INDEX KEY:			0001186416
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09390
+		FILM NUMBER:		261356228
+
+	MAIL ADDRESS:	
+		STREET 1:		9357 SPECTRUM CENTER BLVD
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JACK IN THE BOX INC
+		CENTRAL INDEX KEY:			0000807882
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				952698708
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0927
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9357 SPECTRUM CENTER BLVD
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123-1516
+		BUSINESS PHONE:		8585712121
+
+	MAIL ADDRESS:	
+		STREET 1:		9357 SPECTRUM CENTER BLVD
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123-1516
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JACK IN THE BOX INC /NEW/
+		DATE OF NAME CHANGE:	19991013
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FOODMAKER INC /DE/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000807882</issuerCik>
+        <issuerName>JACK IN THE BOX INC</issuerName>
+        <issuerTradingSymbol>JACK</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001186416</rptOwnerCik>
+            <rptOwnerName>MYERS JAMES M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>9357 SPECTRUM CENTER BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92123</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1494</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50446</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents common stock equivalents (CSEs) credited to the reporting person's account under the Jack in the Box Inc. Deferred Compensation Plan for Non Management Directors.  The reporting person elected to defer receipt of annual cash retainers for service as a director, paid quarterly, and credited with CSEs (and fractions thereof).  At the end of the reporting person's service as a director, the Company will issue to the reporting person the number of shares of common stock equal to the total number of CSEs credited to the reporting person's account at the time of distribution.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>STEPHANIE BRINSFIELD by Power of Attorney for JAMES M MYERS</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

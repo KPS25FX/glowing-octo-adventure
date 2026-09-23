@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0000950103-26-013632.txt : 20260904
+<SEC-HEADER>0000950103-26-013632.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904182300
+ACCESSION NUMBER:		0000950103-26-013632
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Keogh Michael Dennis
+		CENTRAL INDEX KEY:			0002153749
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50646
+		FILM NUMBER:		261363035
+
+	MAIL ADDRESS:	
+		STREET 1:		ULTRA CLEAN HOLDINGS, INC
+		STREET 2:		26462 CORPORATE AVE.
+		CITY:			HAYWARD
+		STATE:			CA
+		ZIP:			94545
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ultra Clean Holdings, Inc.
+		CENTRAL INDEX KEY:			0001275014
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				611430858
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	BUSINESS ADDRESS:	
+		STREET 1:		26462 CORPORATE AVENUE
+		CITY:			HAYWARD
+		STATE:			CA
+		ZIP:			94545
+		BUSINESS PHONE:		(510) 576-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		26462 CORPORATE AVENUE
+		CITY:			HAYWARD
+		STATE:			CA
+		ZIP:			94545
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ULTRA CLEAN HOLDINGS INC
+		DATE OF NAME CHANGE:	20031231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001275014</issuerCik>
+        <issuerName>Ultra Clean Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>UCTT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002153749</rptOwnerCik>
+            <rptOwnerName>Keogh Michael Dennis</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>ULTRA CLEAN HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>26462 CORPORATE AVE.</rptOwnerStreet2>
+            <rptOwnerCity>HAYWARD</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94545</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20917</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20917</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units vest over 3 years with equal parts vesting on each anniversary of the vesting commencement date of August 31, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul Y. Cho, as attorney-in-fact for Michael Keogh</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

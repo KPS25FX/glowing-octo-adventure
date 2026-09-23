@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001193125-26-380531.txt : 20260902
+<SEC-HEADER>0001193125-26-380531.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902174715
+ACCESSION NUMBER:		0001193125-26-380531
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Singh-Bushell Ekta
+		CENTRAL INDEX KEY:			0001707731
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43081
+		FILM NUMBER:		261356142
+
+	MAIL ADDRESS:	
+		STREET 1:		4971 BONITA BAY BOULEVARD
+		STREET 2:		1901
+		CITY:			BONITA SPRINGS
+		STATE:			FL
+		ZIP:			34108
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sunbelt Rentals Holdings, Inc.
+		CENTRAL INDEX KEY:			0002083785
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				333657151
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1799 INNOVATION POINT
+		CITY:			FORT MILL
+		STATE:			SC
+		ZIP:			29715
+		BUSINESS PHONE:		800-667-9328
+
+	MAIL ADDRESS:	
+		STREET 1:		1799 INNOVATION POINT
+		CITY:			FORT MILL
+		STATE:			SC
+		ZIP:			29715
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002083785</issuerCik>
+        <issuerName>Sunbelt Rentals Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>SUNB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001707731</rptOwnerCik>
+            <rptOwnerName>Singh-Bushell Ekta</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1799 INNOVATION PT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FORT MILL</rptOwnerCity>
+            <rptOwnerState>SC</rptOwnerState>
+            <rptOwnerZipCode>29715</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2354</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2557</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units which will vest on the earlier of September 1, 2027, and the day immediately preceding the date of the next annual meeting of stockholders. Each restricted stock unit represents a contractual right to receive one share of common stock of the Registrant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gerald W. Clanton, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

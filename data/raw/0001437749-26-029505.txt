@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001437749-26-029505.txt : 20260902
+<SEC-HEADER>0001437749-26-029505.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902151233
+ACCESSION NUMBER:		0001437749-26-029505
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HORIZON KINETICS ASSET MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001056823
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+		LEGAL ENTITY IDENTIFIER:    	254900EZRQX9YDXXN264
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22299
+		FILM NUMBER:		261354268
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1270 AVENUE OF THE AMERICAS
+		STREET 2:		27TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		646-495-7347
+
+	MAIL ADDRESS:	
+		STREET 1:		1270 AVENUE OF THE AMERICAS
+		STREET 2:		27TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	HORIZON ASSET MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20130813
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	HORIZON ASSET MANAGEMENT INC/NY
+		DATE OF NAME CHANGE:	19990319
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RENN Fund, Inc.
+		CENTRAL INDEX KEY:			0000919567
+		ORGANIZATION NAME:           	
+		EIN:				752533518
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O CT CORPORATION SYSTEM
+		STREET 2:		1999 BRYAN STREET, SUITE 900
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		646-867-1176
+
+	MAIL ADDRESS:	
+		STREET 1:		1270 AVENUE OF THE AMERICAS
+		STREET 2:		27TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RENN Global Entrepreneurs Fund, Inc.
+		DATE OF NAME CHANGE:	20090519
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RENAISSANCE CAPITAL GROWTH & INCOME FUND III INC
+		DATE OF NAME CHANGE:	19940228
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000919567</issuerCik>
+        <issuerName>RENN Fund, Inc.</issuerName>
+        <issuerTradingSymbol>RCG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001056823</rptOwnerCik>
+            <rptOwnerName>HORIZON KINETICS ASSET MANAGEMENT LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HORIZON KINETICS LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>1270 AVENUE OF THE AMERICAS 27TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10020</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>1</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>756</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.95</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>961392</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Horizon Kinetics Asset Management LLC, a Delaware limited liability company and wholly owned subsidiary of Horizon Kinetics Holding Corporation, serves as the investment adviser to the Issuer and has a pecuniary interest in shares held in various  accounts that it manages.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jay Kesslen, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001193125-26-381955.txt : 20260903
+<SEC-HEADER>0001193125-26-381955.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903163008
+ACCESSION NUMBER:		0001193125-26-381955
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Doddy Hurley
+		CENTRAL INDEX KEY:			0001767067
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01543
+		FILM NUMBER:		261358754
+
+	MAIL ADDRESS:	
+		STREET 1:		301 COMMERCE STREET, SUITE 3300
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sixth Street Lending Partners
+		CENTRAL INDEX KEY:			0001925309
+		ORGANIZATION NAME:           	
+		EIN:				881710161
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2100 MCKINNEY AVENUE
+		STREET 2:		SUITE 1500
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		(469) 621-3001
+
+	MAIL ADDRESS:	
+		STREET 1:		2100 MCKINNEY AVENUE
+		STREET 2:		SUITE 1500
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001925309</issuerCik>
+        <issuerName>Sixth Street Lending Partners</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001767067</rptOwnerCik>
+            <rptOwnerName>Doddy Hurley</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SIXTH STREET LENDING PARTNERS</rptOwnerStreet1>
+            <rptOwnerStreet2>2100 MCKINNEY AVENUE, SUITE 1100</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common shares of beneficial interest, par value $0.001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1173</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>28.78</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13297</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes common shares of beneficial interest received pursuant to a dividend reinvestment plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Anton Brett, attorney-in fact for Hurley Doddy</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

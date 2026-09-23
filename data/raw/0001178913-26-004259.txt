@@ -1,0 +1,292 @@
+<SEC-DOCUMENT>0001178913-26-004259.txt : 20260826
+<SEC-HEADER>0001178913-26-004259.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826160055
+ACCESSION NUMBER:		0001178913-26-004259
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260604
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tarcic Gabi
+		CENTRAL INDEX KEY:			0002085020
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36187
+		FILM NUMBER:		261322530
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		27A HARISHONIM STREET
+		CITY:			MEVASSERET ZION
+		PROVINCE COUNTRY:   	L3
+		ZIP:			9074227
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Evogene Ltd.
+		CENTRAL INDEX KEY:			0001574565
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13 GAD FEINSTEIN STREET
+		STREET 2:		PARK REHOVOT
+		CITY:			REHOVOT
+		STATE:			L3
+		ZIP:			7638517
+		BUSINESS PHONE:		97289311900
+
+	MAIL ADDRESS:	
+		STREET 1:		13 GAD FEINSTEIN STREET
+		STREET 2:		PARK REHOVOT
+		CITY:			REHOVOT
+		STATE:			L3
+		ZIP:			7638517
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001574565</issuerCik>
+        <issuerName>Evogene Ltd.</issuerName>
+        <issuerTradingSymbol>EVGN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>EVGN</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002085020</rptOwnerCik>
+            <rptOwnerName>Tarcic Gabi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6 HASHIKMA ST.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MEVASERET ZION</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode>9071603</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Development Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1129</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.6</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1129</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.305</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2034-11-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>40000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The options reported in this row vest over a period of four years, with 25% vesting upon the first anniversary of the November 20, 2024 grant date, and the remainder vesting on an equal quarterly basis (6.25% per quarter) over the following twelve quarters, such that all options will be fully vested on the four-year anniversary of the November 20, 2024 grant date.</footnote>
+        <footnote id="F2">There were no transactions in the securities reported in this row, and the Reporting Person's holdings in these securities is being provided for informational purposes only.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24.1 - Power of Attorney.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Nitsan Deutsch, attorney-in-fact</signatureName>
+        <signatureDate>2026-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>ex24-1.htm
+<DESCRIPTION>EXHIBIT 24.1
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: company
+         Document created using Broadridge PROfile 25.10.1.5333
+         Copyright 1995 - 2026 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: right; line-height: 1.25; font-weight: bold;">
+      <hr style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"><u>Exhibit 24.1</u></div>
+    <div style="line-height: 1.25;">&#160;</div>
+    <div style="text-align: center; line-height: 1.25; font-weight: bold;">POWER OF ATTORNEY</div>
+    <div style="text-align: center; line-height: 1.25;">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">Know all by these presents, that the undersigned hereby constitutes and appoints Nitsan Deutsch, VP Legal Affairs
+      &amp; Company Secretary of Evogene Ltd. (the &#8220;<font style="font-weight: bold;">Company</font>&#8221;), with full power of substitution, signing individually, the undersigned&#8217;s true and lawful
+      attorney-in fact and agent to:</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">1. Prepare, execute in the undersigned&#8217;s name and on the undersigned&#8217;s behalf, and submit to the Securities and
+      Exchange Commission (the &#8220;<font style="font-weight: bold;">SEC</font>&#8221;) Forms 3, 4 and 5 (including amendments thereto and joint filing agreements in connection therewith) in accordance
+      with Section 16(a) of the Securities Exchange Act of 1934, as amended (the &#8220;<font style="font-weight: bold;">Exchange Act</font>&#8221;) and the rules and regulations thereunder in the
+      undersigned&#8217;s capacity as an officer, director or beneficial owner of more than 10% of a registered class of securities of the Company;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">3. Do and perform any and all acts for and on behalf of the undersigned that may be necessary or desirable to execute
+      such Forms 3, 4, or 5, (including any amendments thereto) and timely file such forms with the SEC, and any stock exchange, self-regulatory association or similar authority; and</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">4. Take any other action of any nature whatsoever in connection with the foregoing that, in the opinion of such
+      attorney-in-fact, may be of benefit, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be
+      in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact&#8217;s discretion.</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">The undersigned hereby grants to each such attorney in fact full power and authority to do and perform any and every
+      act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of
+      substitution or revocation, hereby ratifying and confirming all that such attorney in fact, or such attorney in fact&#8217;s substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers
+      herein granted. The undersigned acknowledges that the foregoing attorney-in-fact, and his/her substitutes, in serving in such capacity at the request of the undersigned, is not assuming (nor is the Company assuming) any of the undersigned&#8217;s
+      responsibilities to comply with Section 16 of the Exchange Act.</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">This Power of Attorney shall remain in full force and effect until the earliest to occur of (a) the undersigned is no
+      longer required to file Forms 3, 4 and 5 with respect to the undersigned&#8217;s holdings of and transactions in securities issued by the Company, (b) revocation by the undersigned in a signed writing delivered to the foregoing attorney-in-fact or (c) as
+      to any attorney-in-fact individually, until such attorney-in-fact is no longer employed by the Company.</div>
+    <div style="text-align: justify; line-height: 1.25;">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 1.25;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 18th day of March,
+      2026.</div>
+    <div style="text-indent: 36pt; line-height: 1.25;">&#160;</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="zc9aa84ab4ae64dd0a2026553dfd73e8a" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 8.46%; vertical-align: top;">
+            <div style="line-height: 1.25;">&#160;</div>
+          </td>
+          <td style="width: 4%; vertical-align: top;">
+            <div style="line-height: 1.25;">By:</div>
+          </td>
+          <td style="width: 88%; vertical-align: top;">
+            <div style="line-height: 1.25;"><u>/s/ Gabi Tarcic</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 8.46%; vertical-align: top;">
+            <div style="line-height: 1.25;">&#160;</div>
+          </td>
+          <td style="width: 4%; vertical-align: top;">
+            <div style="line-height: 1.25;">Name:</div>
+          </td>
+          <td style="width: 88%; vertical-align: top;">
+            <div style="line-height: 1.25;">Gabi Tarcic</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 8.46%; vertical-align: top;">&#160;</td>
+          <td style="width: 4%; vertical-align: top;">
+            <div style="line-height: 1.25;">Date:</div>
+          </td>
+          <td style="width: 88%; vertical-align: top;">
+            <div style="line-height: 1.25;">March 18, 2026</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="line-height: 1.25;"><br style="line-height: 1.25;">
+    </div>
+    <div style="line-height: 1.25;">
+      <hr style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;" align="center"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

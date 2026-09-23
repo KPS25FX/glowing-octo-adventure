@@ -1,0 +1,208 @@
+<SEC-DOCUMENT>0000854241-26-000007.txt : 20260909
+<SEC-HEADER>0000854241-26-000007.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909180805
+ACCESSION NUMBER:		0000854241-26-000007
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FIDELITY & GUARANTY LIFE INSURANCE CO
+		CENTRAL INDEX KEY:			0000854241
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		ORGANIZATION NAME:           	02 Finance
+		STATE OF INCORPORATION:			IA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01132
+		FILM NUMBER:		261369174
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 GRAND AVENUE, SUITE 2600
+		CITY:			DES MOINES
+		STATE:			IA
+		ZIP:			50309
+		BUSINESS PHONE:		8668464660
+
+	MAIL ADDRESS:	
+		STREET 1:		801 GRAND AVENUE, SUITE 2600
+		CITY:			DES MOINES
+		STATE:			IA
+		ZIP:			50309
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Crescent Capital BDC, Inc.
+		CENTRAL INDEX KEY:			0001633336
+		ORGANIZATION NAME:           	
+		EIN:				473162282
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD.
+		STREET 2:		SUITE 2000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-235-5971
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD.
+		STREET 2:		SUITE 2000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001633336</issuerCik>
+        <issuerName>Crescent Capital BDC, Inc.</issuerName>
+        <issuerTradingSymbol>CCAP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000854241</rptOwnerCik>
+            <rptOwnerName>FIDELITY &amp; GUARANTY LIFE INSURANCE CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>801 GRAND AVENUE, SUITE 2600</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DES MOINES</rptOwnerCity>
+            <rptOwnerState>IA</rptOwnerState>
+            <rptOwnerZipCode>50309</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>126436</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.3322</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3819361</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>139054</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.2288</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3680307</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were sold in multiple transactions at prices ranging from $10.285 to $10.45 per share. The price reported reflects the volume weighted average price for the transactions. The reporting person undertakes to provide upon request by the SEC staff, the issuer or a security holder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F2">Represents shares of common stock held by Fidelity &amp; Guaranty Life Insurance Company of New York, a wholly owned subsidiary of the Reporting Person.</footnote>
+        <footnote id="F3">The shares were sold in multiple transactions at prices ranging from $10.18 to $10.28 per share. The price reported reflects the volume weighted average price for the transactions. The reporting person undertakes to provide upon request by the SEC staff, the issuer or a security holder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Tessa Cantonwine, Secretary</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

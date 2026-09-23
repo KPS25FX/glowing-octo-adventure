@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001193125-26-383715.txt : 20260904
+<SEC-HEADER>0001193125-26-383715.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904163003
+ACCESSION NUMBER:		0001193125-26-383715
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KASBAR MICHAEL J
+		CENTRAL INDEX KEY:			0001242793
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09533
+		FILM NUMBER:		261362412
+
+	MAIL ADDRESS:	
+		STREET 1:		C/ O WORLD KINECT CORP
+		STREET 2:		9800 N.W. 41ST STREET
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WORLD KINECT CORP
+		CENTRAL INDEX KEY:			0000789460
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-PETROLEUM & PETROLEUM PRODUCTS (NO BULK STATIONS) [5172]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				592459427
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9800 N.W. 41ST STREET
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+		BUSINESS PHONE:		305-428-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		9800 N.W. 41ST STREET
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WORLD FUEL SERVICES CORP
+		DATE OF NAME CHANGE:	19951031
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNATIONAL RECOVERY CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000789460</issuerCik>
+        <issuerName>WORLD KINECT CORP</issuerName>
+        <issuerTradingSymbol>WKC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001242793</rptOwnerCik>
+            <rptOwnerName>KASBAR MICHAEL J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O WORLD KINECT CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>9800 N.W. 41ST STREET</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33178</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.3963</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>966450</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan previously adopted on November 24, 2025.</footnote>
+        <footnote id="F2">The price represents the weighted average sale price for multiple transactions reported on this line. The prices of the transactions ranged from $35.08 to $35.80, inclusive. The reporting person undertakes to provide the issuer and will provide any security holder of the issuer or the SEC staff, upon request, information regarding the number of shares sold at each separate price within the specified range.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey Weissman, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

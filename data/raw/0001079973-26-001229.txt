@@ -1,0 +1,316 @@
+<SEC-DOCUMENT>0001079973-26-001229.txt : 20260908
+<SEC-HEADER>0001079973-26-001229.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908164040
+ACCESSION NUMBER:		0001079973-26-001229
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20250512
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Dowd William IV
+		CENTRAL INDEX KEY:			0001520776
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38331
+		FILM NUMBER:		261365598
+
+	MAIL ADDRESS:	
+		STREET 1:		2151 LE JEUNE ROAD
+		STREET 2:		SUITE 150 MEZZANINE
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dolphin Entertainment, Inc.
+		CENTRAL INDEX KEY:			0001282224
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PERSONAL SERVICES [7200]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				860787790
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 ALHAMBRA CIRCLE
+		STREET 2:		SUITE 1200
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+		BUSINESS PHONE:		305-774-0407
+
+	MAIL ADDRESS:	
+		STREET 1:		150 ALHAMBRA CIRCLE
+		STREET 2:		SUITE 1200
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLPHIN DIGITAL MEDIA INC
+		DATE OF NAME CHANGE:	20080818
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LOGICA HOLDINGS INC
+		DATE OF NAME CHANGE:	20070716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MAXIMUM AWARDS INC
+		DATE OF NAME CHANGE:	20040301
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2025-05-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001282224</issuerCik>
+        <issuerName>Dolphin Entertainment, Inc.</issuerName>
+        <issuerTradingSymbol>DLPN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001520776</rptOwnerCik>
+            <rptOwnerName>O'Dowd William IV</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O DOLPHIN ENTERTAINMENT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>150 ALHAMBRA CIRCLE, SUITE 1200</rptOwnerStreet2>
+            <rptOwnerCity>CORAL GABLES</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>10% Convertible Promissory Note due 2027</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2025-05-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>1107873</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>1107873</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2025-05-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-06-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1107873</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>1107873</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Dolphin Entertainment LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>10% Convertible Promissory Note due 2029</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2025-05-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>1000000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>1000000</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2025-05-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-10-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1000000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>1000000</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Dolphin Entertainment LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>10% Convertible Promissory Note due 2029</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2025-05-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>135000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>135000</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2025-05-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-12-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>135000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>135000</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Dolphin Entertainment LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On May 12, 2025, the Issuer entered into an exchange agreement (the &quot;Exchange Agreement&quot;) with Dolphin Entertainment LLC (&quot;DE LLC&quot;), pursuant to which, the Issuer and DE LLC agreed to exchange the three nonconvertible promissory notes in the aggregate principal amount of $2,242,873 for three convertible promissory notes (the &quot;New Notes&quot;) in the same principal amounts. As consideration for the exchange, the Issuer and DE LLC agreed to extend the maturity date on each of the notes by six months. One note, with a principal balance of $1,107,873 now matures on June 30, 2027, one note with a principal balance of $1,000,000 now matures on October 29, 2029 and one note with a principal balance of $135,000, now matures on December 10, 2029. The New Notes continue to bear interest at a rate of 10% per annum. DE LLC may convert the principal balance of the New Notes and any accrued interest thereon at any time before the maturity date of the Note into common stock of the Issuer.</footnote>
+        <footnote id="F2">Does not include shares which may be issued upon the conversion of interest due.</footnote>
+        <footnote id="F3">Dolphin Entertainment, LLC is an entity wholly owned by William O'Dowd IV.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ William O'Dowd IV</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

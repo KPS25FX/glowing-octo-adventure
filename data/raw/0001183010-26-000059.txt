@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001183010-26-000059.txt : 20260902
+<SEC-HEADER>0001183010-26-000059.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902160211
+ACCESSION NUMBER:		0001183010-26-000059
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hoffmann David Henry
+		CENTRAL INDEX KEY:			0002111899
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06227
+		FILM NUMBER:		261354652
+
+	MAIL ADDRESS:	
+		STREET 1:		568 LINCOLN AVENUE
+		CITY:			WINNETKA
+		STATE:			IL
+		ZIP:			60093
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LEE ENTERPRISES, Inc
+		CENTRAL INDEX KEY:			0000058361
+		STANDARD INDUSTRIAL CLASSIFICATION:	NEWSPAPERS:  PUBLISHING OR PUBLISHING & PRINTING [2711]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				420823980
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0929
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4600 E. 53RD STREET
+		CITY:			DAVENPORT
+		STATE:			IA
+		ZIP:			52807
+		BUSINESS PHONE:		5633832100
+
+	MAIL ADDRESS:	
+		STREET 1:		4600 E. 53RD STREET
+		CITY:			DAVENPORT
+		STATE:			IA
+		ZIP:			52807
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEE ENTERPRISES, INC
+		DATE OF NAME CHANGE:	20050610
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEE ENTERPRISES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000058361</issuerCik>
+        <issuerName>LEE ENTERPRISES, Inc</issuerName>
+        <issuerTradingSymbol>LEE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002111899</rptOwnerCik>
+            <rptOwnerName>Hoffmann David Henry</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O LEE ENTERPRISES, INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>4600 E. 53RD STREET</rptOwnerStreet2>
+            <rptOwnerCity>DAVENPORT</rptOwnerCity>
+            <rptOwnerState>IA</rptOwnerState>
+            <rptOwnerZipCode>52807</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7813</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11530621</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>618900</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/Timothy B. Gulbranson, Limited POA, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Patricia Garinger-Strickland, Limited POA, Attorney-in-Fact for The Jerrilyn M. Hoffmann Revocable Trust dated May 30, 2001</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

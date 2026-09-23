@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001199696-26-000007.txt : 20260903
+<SEC-HEADER>0001199696-26-000007.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903151506
+ACCESSION NUMBER:		0001199696-26-000007
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TRINGALI DONALD J
+		CENTRAL INDEX KEY:			0001199696
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31398
+		FILM NUMBER:		261358055
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NATURAL GAS SERVICES GROUP INC
+		STREET 2:		404 VETERANS AIRPARK LANE SUITE 300
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79705
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NATURAL GAS SERVICES GROUP INC
+		CENTRAL INDEX KEY:			0001084991
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				752811855
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		404 VETERANS AIRPARK LANE
+		STREET 2:		SUITE 300
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79705
+		BUSINESS PHONE:		(432) 262-2700
+
+	MAIL ADDRESS:	
+		STREET 1:		404 VETERANS AIRPARK LANE
+		STREET 2:		SUITE 300
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79705
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001084991</issuerCik>
+        <issuerName>NATURAL GAS SERVICES GROUP INC</issuerName>
+        <issuerTradingSymbol>NGS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001199696</rptOwnerCik>
+            <rptOwnerName>TRINGALI DONALD J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NATURAL GAS SERVICES GROUP INC</rptOwnerStreet1>
+            <rptOwnerStreet2>404 VETERANS AIRPARK LANE SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>MIDLAND</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>79705</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>59</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.22</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13812</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Rabbi Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5965</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4574</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4574</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares acquired through reinvestment of cash dividends pursuant to the terms of the deferred compensation plan.</footnote>
+        <footnote id="F2">Not applicable. Each Restricted Stock Unit represents the right to receive one share of the Issuer's common stock upon vesting.</footnote>
+        <footnote id="F3">Not Applicable. The Restricted Stock Units vest on the first anniversary of the grant date, subject to accelerated vesting under certain circumstances.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Donald J. Tringali</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

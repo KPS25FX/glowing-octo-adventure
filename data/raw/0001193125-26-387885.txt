@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001193125-26-387885.txt : 20260910
+<SEC-HEADER>0001193125-26-387885.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910161211
+ACCESSION NUMBER:		0001193125-26-387885
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Harris Timothy J
+		CENTRAL INDEX KEY:			0001776844
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12001
+		FILM NUMBER:		261371219
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ATI INC.
+		STREET 2:		2021 MCKINNEY AVENUE
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATI INC
+		CENTRAL INDEX KEY:			0001018963
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL PIPE & TUBES [3317]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				251792394
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2021 MCKINNEY AVENUE
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		4123942800
+
+	MAIL ADDRESS:	
+		STREET 1:		2021 MCKINNEY AVENUE
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEGHENY TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	19991213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEGHENY TELEDYNE INC
+		DATE OF NAME CHANGE:	19960716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001018963</issuerCik>
+        <issuerName>ATI INC</issuerName>
+        <issuerTradingSymbol>ATI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001776844</rptOwnerCik>
+            <rptOwnerName>Harris Timothy J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ATI INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2021 MCKINNEY AVE., SUITE 1100</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Senior VP and CDIO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.10 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>207.54</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>113687</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares sold pursuant to a 10b5-1 Trading Plan dated May 21, 2026, entered into for personal tax and estate planning purposes.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Amanda J. Skov, Attorney-in-Fact for Timothy J. Harris</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001193125-26-385586.txt : 20260908
+<SEC-HEADER>0001193125-26-385586.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908204101
+ACCESSION NUMBER:		0001193125-26-385586
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shepherd Brian A.
+		CENTRAL INDEX KEY:			0001567675
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33883
+		FILM NUMBER:		261366377
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CSG SYSTEMS INTERNATIONAL, INC.
+		STREET 2:		169 INVERNESS DR. W., SUITE 300
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Stride, Inc.
+		CENTRAL INDEX KEY:			0001157408
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EDUCATIONAL SERVICES [8200]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				954774688
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11720 PLAZA AMERICA DRIVE
+		STREET 2:		9TH FLOOR
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+		BUSINESS PHONE:		7034837000
+
+	MAIL ADDRESS:	
+		STREET 1:		11720 PLAZA AMERICA DRIVE
+		STREET 2:		9TH FLOOR
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	K12 INC
+		DATE OF NAME CHANGE:	20010813
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001157408</issuerCik>
+        <issuerName>Stride, Inc.</issuerName>
+        <issuerTradingSymbol>LRN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001567675</rptOwnerCik>
+            <rptOwnerName>Shepherd Brian A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>11720 PLAZA AMERICA DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>RESTON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>20190</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>186</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>186</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>186</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents Deferred Stock Units (&quot;DSUs&quot;) under the Stride, Inc. Deferred Compensation Plan for Non-Employee Directors. Each DSU is the economic equivalent of one share of common stock of Stride, Inc. Vested DSUs become payable upon the reporting person's termination of service as a Director. Any fractional shares will be paid in cash upon settlement.</footnote>
+        <footnote id="F2">The DSUs will vest on the earlier of (a) August 20, 2027 or (b) the next annual meeting of the stockholders of Stride, Inc.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Greerson G. McMullen, Sr., Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

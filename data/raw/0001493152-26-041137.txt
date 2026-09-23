@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0001493152-26-041137.txt : 20260901
+<SEC-HEADER>0001493152-26-041137.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901215914
+ACCESSION NUMBER:		0001493152-26-041137
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bristol James Arthur
+		CENTRAL INDEX KEY:			0001715153
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11460
+		FILM NUMBER:		261352526
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DECIPHERA PHARMACEUTICALS, INC.
+		STREET 2:		200 SMITH STREET
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ernexa Therapeutics Inc.
+		CENTRAL INDEX KEY:			0000748592
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				311103425
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1035 CAMBRIDGE STREET
+		STREET 2:		SUITE 18A
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02141
+		BUSINESS PHONE:		(617) 798-6700
+
+	MAIL ADDRESS:	
+		STREET 1:		10531 4S COMMONS DRIVE
+		STREET 2:		SUITE 166-550
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Eterna Therapeutics Inc.
+		DATE OF NAME CHANGE:	20221017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Brooklyn ImmunoTherapeutics, Inc.
+		DATE OF NAME CHANGE:	20210325
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NTN BUZZTIME INC
+		DATE OF NAME CHANGE:	20051230
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000748592</issuerCik>
+        <issuerName>Ernexa Therapeutics Inc.</issuerName>
+        <issuerTradingSymbol>ERNA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001715153</rptOwnerCik>
+            <rptOwnerName>Bristol James Arthur</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ERNEXA THERAPEUTICS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1035 CAMBRIDGE STREET, SUITE 18A</rptOwnerStreet2>
+            <rptOwnerCity>CAMBRIDGE</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02141</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.57</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8320</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>8320</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8320</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.57</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5083</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5083</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5083</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Subject to continued service, one-third of the shares underlying the stock option will vest on the first anniversary of the grant date, and the remaining shares underlying the stock option will vest in 24 substantially equal monthly installments thereafter.</footnote>
+        <footnote id="F2">Represents options to purchase shares of the registrant's common stock in lieu of prorated director's cash compensation for 2026 pursuant to the Director's Compensation Plan effective August 15, 2026, granted under the Issuer's 2026 Omnibus Equity Incentive Plan. Subject to continued service, 100% of the stock options will vest on December 31, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James Bristol</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

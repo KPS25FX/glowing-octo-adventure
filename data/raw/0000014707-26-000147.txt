@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0000014707-26-000147.txt : 20260915
+<SEC-HEADER>0000014707-26-000147.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915175601
+ACCESSION NUMBER:		0000014707-26-000147
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Burke Thomas C
+		CENTRAL INDEX KEY:			0001814242
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02191
+		FILM NUMBER:		261381910
+
+	MAIL ADDRESS:	
+		STREET 1:		8300 MARYLAND AVENUE
+		CITY:			ST. LOUIS
+		STATE:			MO
+		ZIP:			63105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CALERES INC
+		CENTRAL INDEX KEY:			0000014707
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOTWEAR, (NO RUBBER) [3140]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				430197190
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8300 MARYLAND AVE
+		STREET 2:		P O BOX 29
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63105
+		BUSINESS PHONE:		3148544000
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 29
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63166
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN SHOE CO INC
+		DATE OF NAME CHANGE:	20030613
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN SHOE CO INC/
+		DATE OF NAME CHANGE:	19990528
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN GROUP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000014707</issuerCik>
+        <issuerName>CALERES INC</issuerName>
+        <issuerTradingSymbol>CAL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001814242</rptOwnerCik>
+            <rptOwnerName>Burke Thomas C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>8300 MARYLAND AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ST. LOUIS</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>63105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP, General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Price Incentive Award</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>26318</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>26318</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26318</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Stock Price Incentive Award share represents a contingent right to receive one share of Common Stock. The Stock Price Incentive Award vests in three tranches based upon the per share price of the Company's Common Stock reaching certain specified stock price levels for 20 consecutive trading days, with 50% vesting upon achievement of the first price level, 25% vesting upon achievement of the second price level and 25% vesting upon achievement of the third price level. Earned awards are payable in increments over a three-year performance period (fiscal year 2026 - 2028).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Thomas C Burke</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

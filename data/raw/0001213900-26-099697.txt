@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001213900-26-099697.txt : 20260914
+<SEC-HEADER>0001213900-26-099697.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914160502
+ACCESSION NUMBER:		0001213900-26-099697
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Catalyst Sponsor LLC
+		CENTRAL INDEX KEY:			0002146403
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43418
+		FILM NUMBER:		261377343
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 OCEAN AVENUE UNIT 401
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90403
+		BUSINESS PHONE:		704-904-7953
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 OCEAN AVENUE UNIT 401
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90403
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Catalyst Acquisition Corp.
+		CENTRAL INDEX KEY:			0002104391
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 OCEAN AVENUE UNIT 401
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90403
+		BUSINESS PHONE:		704-904-7953
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 OCEAN AVENUE UNIT 401
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90403
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002104391</issuerCik>
+        <issuerName>Catalyst Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>CATLU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002146403</rptOwnerCik>
+            <rptOwnerName>Catalyst Sponsor LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CATALYST ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1007 OCEAN AVENUE, SUITE 501</rptOwnerStreet2>
+            <rptOwnerCity>SANTA MONICA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90403</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>462500</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>462500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5287500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the registration statement on Form S-1 (File No. 333-297309) of Catalyst Acquisition Corp. (the &quot;Issuer&quot;) under the heading &quot;Description of Securities--Founder Shares,&quot; the Class B Ordinary Shares will automatically convert into Class A Ordinary Shares at the time of the Issuer's initial business combination, or at any time prior to the Issuer's initial business combination, at the option of the holder, on a one-for-one basis, subject to certain adjustments. The Class B ordinary shares have no expiration date. No consideration is payable upon conversion.</footnote>
+        <footnote id="F2">As contemplated in connection with the initial public offering of the Issuer, as a result of the underwriters' partial exercise of the over-allotment option, 462,500 Class B Ordinary Shares were surrendered by Catalyst Sponsor LLC (the &quot;Sponsor&quot;) to the Issuer for no consideration.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Steven P. Beeks, as managing member of Catalyst Sponsor LLC</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

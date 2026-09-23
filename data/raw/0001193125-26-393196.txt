@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-393196.txt : 20260916
+<SEC-HEADER>0001193125-26-393196.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916170009
+ACCESSION NUMBER:		0001193125-26-393196
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stewart Niccole
+		CENTRAL INDEX KEY:			0001729477
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37538
+		FILM NUMBER:		261384433
+
+	MAIL ADDRESS:	
+		STREET 1:		591 REDWOOD HIGHWAY, SUITE 1150
+		CITY:			MILL VALLEY
+		STATE:			CA
+		ZIP:			94941
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Four Corners Property Trust, Inc.
+		CENTRAL INDEX KEY:			0001650132
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				474456296
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		591 REDWOOD HIGHWAY
+		STREET 2:		SUITE 3215
+		CITY:			MILL VALLEY
+		STATE:			CA
+		ZIP:			94941
+		BUSINESS PHONE:		415-965-8030
+
+	MAIL ADDRESS:	
+		STREET 1:		591 REDWOOD HIGHWAY
+		STREET 2:		SUITE 3215
+		CITY:			MILL VALLEY
+		STATE:			CA
+		ZIP:			94941
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001650132</issuerCik>
+        <issuerName>Four Corners Property Trust, Inc.</issuerName>
+        <issuerTradingSymbol>FCPT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001729477</rptOwnerCik>
+            <rptOwnerName>Stewart Niccole</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FOUR CORNERS PROPERTY TRUST, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>591 REDWOOD HIGHWAY, SUITE 3215</rptOwnerStreet2>
+            <rptOwnerCity>MILL VALLEY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94941</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>41</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22872</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents dividend that accrued on a restricted stock award pursuant to the dividend reinvestment feature of the award.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James L. Brat as Attorney-in-Fact for Niccole Stewart</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

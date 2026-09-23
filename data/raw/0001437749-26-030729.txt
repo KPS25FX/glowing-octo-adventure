@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001437749-26-030729.txt : 20260918
+<SEC-HEADER>0001437749-26-030729.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918134142
+ACCESSION NUMBER:		0001437749-26-030729
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Etherington Robert Dee
+		CENTRAL INDEX KEY:			0001835330
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39834
+		FILM NUMBER:		261390297
+
+	MAIL ADDRESS:	
+		STREET 1:		6550 SOUTH MILLROCK DRIVE
+		STREET 2:		SUITE G50
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Clene Inc.
+		CENTRAL INDEX KEY:			0001822791
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				852828339
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6550 SOUTH MILLROCK DRIVE, SUITE G50
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+		BUSINESS PHONE:		801-676-9695
+
+	MAIL ADDRESS:	
+		STREET 1:		6550 SOUTH MILLROCK DRIVE, SUITE G50
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Chelsea Worldwide Inc.
+		DATE OF NAME CHANGE:	20200827
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001822791</issuerCik>
+        <issuerName>Clene Inc.</issuerName>
+        <issuerTradingSymbol>CLNN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001835330</rptOwnerCik>
+            <rptOwnerName>Etherington Robert Dee</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6550 SOUTH MILLROCK DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE G50</rptOwnerStreet2>
+            <rptOwnerCity>SALT LAKE CITY</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15244</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.28</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55393</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>636</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1250</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. Etherington purchased 15,244 shares of common stock of Clene Inc. for a purchase price of $3.28 per share in a registered direct offering directly from the Issuer.  The issuance of such securities was approved by the Issuer's board of directors in accordance with Rule 16 (b)-3 of the Securities Exchange Act of 1934, as amended.</footnote>
+        <footnote id="F2">The securities are owned by RDE RX Ventures LLC.  Mr. Etherington is the manager of RDE RX Ventures LLC.  The shares owned by RDE RX Ventures LLC may be deemed to be beneficially owned by Mr. Etherington.</footnote>
+        <footnote id="F3">The securities are owned by the Etherington Revocable Trust.  Mr. Etherington is the co-trustee of the Etherington Revocable Trust.  The shares owned by the Etherington Revocable Trust may be deemed to be owned by Mr. Etherington.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jerome T. Miraglia POA</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001976408-26-000788.txt : 20260831
+<SEC-HEADER>0001976408-26-000788.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831064422
+ACCESSION NUMBER:		0001976408-26-000788
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sever Michal
+		CENTRAL INDEX KEY:			0002110874
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41491
+		FILM NUMBER:		261342457
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		3 ARIK EINSTEIN
+		STREET 2:		BUILDING B FLOOR 1
+		CITY:			HERZLIYA
+		PROVINCE COUNTRY:   	L3
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nayax Ltd.
+		CENTRAL INDEX KEY:			0001901279
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 ARIK EINSTEIN ST., BUILDING B, 1 ST FL
+		CITY:			HERZLIYA
+		STATE:			L3
+		ZIP:			4659071
+		BUSINESS PHONE:		972 3 769 4380
+
+	MAIL ADDRESS:	
+		STREET 1:		3 ARIK EINSTEIN ST., BUILDING B, 1 ST FL
+		CITY:			HERZLIYA
+		STATE:			L3
+		ZIP:			4659071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001901279</issuerCik>
+        <issuerName>Nayax Ltd.</issuerName>
+        <issuerTradingSymbol>NYAX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002110874</rptOwnerCik>
+            <rptOwnerName>Sever Michal</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3 ARIK EINSTEIN</rptOwnerStreet1>
+            <rptOwnerStreet2>BUILDING B FLOOR 1</rptOwnerStreet2>
+            <rptOwnerCity>HERZLIYA</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CMO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>38</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>52.98</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17233</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares sold represent shares withheld and sold by the Issuer to satisfy tax withholding obligations in connection with the vesting of restricted share units</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Meirav Shemesh on behalf of Oppenheimer Israel, as Attorney-in-fact</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0000897069-26-001714.txt : 20260826
+<SEC-HEADER>0000897069-26-001714.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826163342
+ACCESSION NUMBER:		0000897069-26-001714
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Padmanabhan Aravind
+		CENTRAL INDEX KEY:			0001795828
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38265
+		FILM NUMBER:		261323480
+
+	MAIL ADDRESS:	
+		STREET 1:		1665 UTICA AVENUE
+		STREET 2:		SUITE 700
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			nVent Electric plc
+		CENTRAL INDEX KEY:			0001720635
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIAL INDUSTRY MACHINERY (NO METALWORKING MACHINERY) [3550]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				981391970
+		STATE OF INCORPORATION:			L2
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		THE MILLE
+		STREET 2:		1000  GREAT WEST ROAD, 8TH FLOOR (EAST)
+		CITY:			LONDON
+		PROVINCE COUNTRY:   	X0
+		ZIP:			TW8 9DW
+		BUSINESS PHONE:		44-20-3966-0279
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NVENT MANAGEMENT COMPANY
+		STREET 2:		1665 UTICA AVE., SUITE 700
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001720635</issuerCik>
+        <issuerName>nVent Electric plc</issuerName>
+        <issuerTradingSymbol>NVT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001795828</rptOwnerCik>
+            <rptOwnerName>Padmanabhan Aravind</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1665 UTICA AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 700</rptOwnerStreet2>
+            <rptOwnerCity>ST. LOUIS PARK</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55416</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP &amp; Chief Technology Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>660</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>24818.3141</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Ordinary Shares - Restricted Stock Units</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7486.2250</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Ordinary Shares - Deferral Plan</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>83322.5870</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Plan Agent</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">End-of-period holdings include shares acquired under a dividend reinvestment plan in exempt transactions not required to be reported pursuant to Section 16(a).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John K. Wilson, Attorney-in-Fact for Aravind Padmanabhan</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

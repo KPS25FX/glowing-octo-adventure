@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0002106590-26-000002.txt : 20260915
+<SEC-HEADER>0002106590-26-000002.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915161159
+ACCESSION NUMBER:		0002106590-26-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GL Part SPV II, LLC
+		CENTRAL INDEX KEY:			0002106590
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42687
+		FILM NUMBER:		261380914
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 N GOULD ST., STE R
+		CITY:			SHERIDAN
+		STATE:			WY
+		ZIP:			82801
+		BUSINESS PHONE:		916-213-5272
+
+	MAIL ADDRESS:	
+		STREET 1:		30 N GOULD ST., STE R
+		CITY:			SHERIDAN
+		STATE:			WY
+		ZIP:			82801
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XCF Global, Inc.
+		CENTRAL INDEX KEY:			0002019793
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3040 POST OAK BLVD.
+		STREET 2:		FLOOR 18 SUITE 164
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+		BUSINESS PHONE:		408-332-2264
+
+	MAIL ADDRESS:	
+		STREET 1:		3040 POST OAK BLVD.
+		STREET 2:		FLOOR 18 SUITE 164
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Focus Impact BH3 NewCo, Inc.
+		DATE OF NAME CHANGE:	20240415
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002019793</issuerCik>
+        <issuerName>XCF Global, Inc.</issuerName>
+        <issuerTradingSymbol>SAFX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002106590</rptOwnerCik>
+            <rptOwnerName>GL Part SPV II, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>30 N GOULD ST., STE R</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SHERIDAN</rptOwnerCity>
+            <rptOwnerState>WY</rptOwnerState>
+            <rptOwnerZipCode>82801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Affiliate of 10% owner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant to purchase Series A Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6891798</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.5</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-14</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-09-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6891798</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6891798</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>Majique Ladnier</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

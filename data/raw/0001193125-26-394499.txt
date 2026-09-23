@@ -1,0 +1,209 @@
+<SEC-DOCUMENT>0001193125-26-394499.txt : 20260917
+<SEC-HEADER>0001193125-26-394499.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917170834
+ACCESSION NUMBER:		0001193125-26-394499
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Whitten Marc
+		CENTRAL INDEX KEY:			0001848572
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32431
+		FILM NUMBER:		261387669
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DOLBY LABORATORIES, INC.
+		STREET 2:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dolby Laboratories, Inc.
+		CENTRAL INDEX KEY:			0001308547
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				900199783
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0927
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		415 558 0200
+
+	MAIL ADDRESS:	
+		STREET 1:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001308547</issuerCik>
+        <issuerName>Dolby Laboratories, Inc.</issuerName>
+        <issuerTradingSymbol>DLB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001848572</rptOwnerCik>
+            <rptOwnerName>Whitten Marc</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O DOLBY LABORATORIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1275 MARKET STREET</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>160256</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                    <footnoteId id="F1"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>160256</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance-Based Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>600000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>600000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The award represents a total of 160,256 restricted stock units granted under the terms of the Issuer's 2026 Inducement Stock Plan. Under the terms of the restricted stock unit grant agreement, 1/4 of the total number of units shall vest on March 15, 2027 and each six-month anniversary thereafter, subject to the Reporting Person's continued employment with the Issuer on each scheduled vesting date. Each unit represents a contingent right to receive one share of the Issuer's Class A Common Stock upon vesting.</footnote>
+        <footnote id="F2">Shares held following the reported transactions include 160,256 shares of Class A common stock underlying restricted stock units, which are subject to forfeiture until they vest.</footnote>
+        <footnote id="F3">The award of 600,000 performance-based restricted stock units granted under the terms of the Issuer's 2026 Inducement Stock Plan is divided into five separate tranches of 150,000, 150,000, 100,000, 100,000 and 100,000 restricted stock units, respectively, with the tranches becoming eligible to vest upon satisfying stock-price hurdles of $75, $100, $125, $150, and $175, respectively, averaged over a consecutive sixty trading-day period within a five year performance period, with such achievement subject to adjustment to account for dividends, distributions, stock splits and other capitalization changes.  The eligible shares will vest on certification of each level of achievement, assuming the Reporting Person's continued employment as the Issuer's Chief Executive Officer on each achievement date. Each unit represents a contingent right to receive one share of the Issuer's Class A Common Stock upon vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Rodriguez as Attorney-in-Fact for Marc Whitten</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001193125-26-385269.txt : 20260908
+<SEC-HEADER>0001193125-26-385269.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908163330
+ACCESSION NUMBER:		0001193125-26-385269
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Makowiecki Bartlomiej
+		CENTRAL INDEX KEY:			0001882783
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05672
+		FILM NUMBER:		261365512
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ITT INC.
+		STREET 2:		1133 WESTCHESTER AVENUE
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Makowiecki Bartek
+		DATE OF NAME CHANGE:	20211129
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Markowiecki Bartek
+		DATE OF NAME CHANGE:	20210914
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ITT INC.
+		CENTRAL INDEX KEY:			0000216228
+		STANDARD INDUSTRIAL CLASSIFICATION:	PUMPS & PUMPING EQUIPMENT [3561]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				811197930
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 WASHINGTON BLVD
+		STREET 2:		6TH FLOOR
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		914.641.2000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 WASHINGTON BLVD
+		STREET 2:		6TH FLOOR
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITT Inc.
+		DATE OF NAME CHANGE:	20160517
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITT Corp
+		DATE OF NAME CHANGE:	20100308
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITT CORP
+		DATE OF NAME CHANGE:	20060705
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000216228</issuerCik>
+        <issuerName>ITT INC.</issuerName>
+        <issuerTradingSymbol>ITT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001882783</rptOwnerCik>
+            <rptOwnerName>Makowiecki Bartlomiej</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ITT INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>100 WASHINGTON BLVD.  6TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>STAMFORD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06902</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1003</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>202.20</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29425</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects the withholding of common stock to pay the tax liability incident to the vesting on September 3, 2026 of restricted stock units granted under the ITT Inc. 2011 Omnibus Incentive Plan. The number of shares withheld was determined on September 3, 2026 based on the average of the high/low price of the issuer's common stock on September 3, 2026.</footnote>
+        <footnote id="F2">Includes 560 shares of common stock acquired under the ITT Inc. 2023 Employee Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <remarks>Senior Vice President, Chief Strategy Officer and President, Flow Technologies</remarks>
+
+    <ownerSignature>
+        <signatureName>Tymour Okasha, Assistant Secretary, ITT Inc.; by Power of Attorney for Bartek Makowiecki</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

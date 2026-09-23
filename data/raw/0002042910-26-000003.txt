@@ -1,0 +1,255 @@
+<SEC-DOCUMENT>0002042910-26-000003.txt : 20260901
+<SEC-HEADER>0002042910-26-000003.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901172308
+ACCESSION NUMBER:		0002042910-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Elazzouzi Amy
+		CENTRAL INDEX KEY:			0002042910
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40971
+		FILM NUMBER:		261351884
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AURA BIOSCIENCES, INC.
+		STREET 2:		80 GUEST STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			01235
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aura Biosciences, Inc.
+		CENTRAL INDEX KEY:			0001501796
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				320271970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 GUEST STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02135
+		BUSINESS PHONE:		(617)500-8864
+
+	MAIL ADDRESS:	
+		STREET 1:		80 GUEST STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02135
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-09012026_090904.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001501796</issuerCik>
+        <issuerName>Aura Biosciences, Inc.</issuerName>
+        <issuerTradingSymbol>AURA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002042910</rptOwnerCik>
+            <rptOwnerName>Elazzouzi Amy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AURA BIOSCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>80 GUEST STREET</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02135</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP, Finance &amp; PAO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>23540</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>143600</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>7.43</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>46460</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>46460</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>46460</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported transaction represents a grant of restricted stock units (&quot;RSUs&quot;) under the Issuer's 2021 Stock Option and Incentive Plan. Each RSU represents the right to receive one share of the Issuer's Common Stock upon vesting and settlement. These RSUs shall vest in four substantially equal annual installments, subject to the Reporting Person's continued service to the Issuer on each vesting date, with the first tranche vesting on September 15, 2027.</footnote>
+        <footnote id="F2">The stock option shall vest as to 1/48th of the total award monthly, subject to the reporting person's continued service to the Issuer on each vesting date, with the first tranche vesting on October 1, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Grassi, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ex24-09012026_090909.htm
+<TEXT>
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
+<html><head><title>ex24-09012026_090909.htm</title></head><body style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<p style="margin-top:5px; margin-bottom:0px; padding-right:0.067px; font-size:10.5pt" align="center"><b>POWER OF ATTORNEY</b></p>
+<p style="margin-top:16.067px; margin-bottom:0px; text-indent:48px; font-size:10.5pt" align="justify">Know all by these present, that I, the undersigned director and/or officer of Aura Biosciences, Inc., a Delaware corporation (the <font style="font-family:Arial Unicode MS,Times New Roman">&ldquo;</font><b><i>Company</i></b><font style="font-family:Arial Unicode MS,Times New Roman">&rdquo;</font>), hereby constitute and appoint Daniel Grassi, as long as such individual is providing services to the Company, as my true and lawful attorney-in-fact and agent, with full power to act, together or each without the other, with full power of substitution and resubstitution, for me and in my name, place and stead, in any and all capacities:</p>
+<p style="margin:0px"><br></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:10.5pt; float:left">(i)</p>
+<p style="margin:0px; text-indent:-2px; font-size:10.5pt" align="justify">to execute and file for and on behalf of the undersigned any reports on Forms 3, 4 and 5 (including any amendments thereto and any successors to such Forms) with respect to ownership acquisition or disposition of securities of the Company that the undersigned may be required to file with the U.S. Securities and Exchange Commission (the <font style="font-family:Arial Unicode MS,Times New Roman">&ldquo;</font><b><i>SEC</i></b><font style="font-family:Arial Unicode MS,Times New Roman">&rdquo;</font>) in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended (the <font style="font-family:Arial Unicode MS,Times New Roman">&ldquo;</font><b><i>Exchange Act</i></b><font style="font-family:Arial Unicode MS,Times New Roman">&rdquo;</font>), and the rules promulgated thereunder;</p>
+<p style="margin:0px; clear:left" align="justify"><br></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:10.5pt; float:left">(ii)</p>
+<p style="margin:0px; text-indent:-2px; font-size:10.5pt" align="justify">to execute as my attorney-in-fact and cause the filing for and on behalf of the undersigned any voluntary filings under Section 16(a) of the Exchange Act;</p>
+<p style="margin:0px; clear:left" align="justify"><br></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:10.5pt; float:left">(iii)</p>
+<p style="margin:0px; text-indent:-2px; font-size:10.5pt" align="justify">to request electronic filing codes from the SEC by filing the Form ID or Amended Form ID (including any amendments thereto) and any other documents necessary or appropriate to obtain codes and credentials enabling the undersigned to file such reports electronically;</p>
+<p style="margin:0px; clear:left" align="justify"><br></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:10.5pt; float:left">(iv)</p>
+<p style="margin:0px; text-indent:-2px; font-size:10.5pt" align="justify">to prepare, file, and submit any documents or reports that may be required under SEC Rule 144 under the Securities Act of 1933, as amended (the <font style="font-family:Arial Unicode MS,Times New Roman">&ldquo;</font><b><i>Securities Act</i></b><font style="font-family:Arial Unicode MS,Times New Roman">&rdquo;</font>), including, without limitation, Notices of Proposed Sale of Securities Pursuant to Rule 144 (<font style="font-family:Arial Unicode MS,Times New Roman">&ldquo;</font><b><i>Form 144</i></b><font style="font-family:Arial Unicode MS,Times New Roman">&rdquo;</font>), to permit the undersigned to sell Company common stock without registration under the Securities Act in reliance on Rule 144 as amended from time to time; or</p>
+<p style="margin:0px; clear:left"><br></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; font-size:10.5pt; float:left">(v)</p>
+<p style="margin:0px; text-indent:-2px; font-size:10.5pt" align="justify">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact<font style="font-family:Arial Unicode MS,Times New Roman">&rsquo;</font>s or attorney-in-fact<font style="font-family:Arial Unicode MS,Times New Roman">&rsquo;</font>s discretion.</p>
+<p style="margin:0px; clear:left"><br></p>
+<p style="margin:0px; text-indent:48px; font-size:10.5pt" align="justify">The undersigned acknowledges that the foregoing attorney-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned<font style="font-family:Arial Unicode MS,Times New Roman">&rsquo;</font>s responsibilities to comply with Section 16(a) of the Exchange Act, Rule 144, or the Securities Act. The Company will use all reasonable efforts to apprise the undersigned of applicable filing requirements for purposes of Section 16(a) of the Exchange Act or the Securities Act.</p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px; text-indent:48px; font-size:10.5pt" align="justify">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5 with respect to the undersigned<font style="font-family:Arial Unicode MS,Times New Roman">&rsquo;</font>s holdings and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorney-in-fact. This Power of Attorney revokes and replaces any prior Power of Attorney executed by the undersigned with respect to the ownership, acquisition or disposition of securities of the Company.</p>
+<p style="margin:0px" align="justify"><br></p>
+<p style="margin:0px; text-indent:48px; font-size:10.5pt" align="justify">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this August 31, 2026.</p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px; padding-left:360px; padding-right:48px; text-indent:-0.067px; font-size:10.5pt"><u>/s/ Amy Elazzouzi</u></p>
+<p style="margin:0px; padding-left:360px; padding-right:207.267px; text-indent:-0.067px; font-size:10.5pt">Signature</p>
+<p style="margin:0px"><br></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:360px; width:551.933px; font-size:10.5pt; float:left"><u>Amy Elazzouzi</u></p>
+<p style="margin:0px; padding-left:360px; padding-right:48px; text-indent:-2px; font-size:10.5pt">&nbsp;</p>
+<p style="margin:0px; padding-left:360px; padding-right:167.867px; font-size:10.5pt; clear:left">Print Name</p>
+<p style="margin:0px"><br><br></p>
+</body></html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

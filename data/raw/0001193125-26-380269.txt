@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001193125-26-380269.txt : 20260902
+<SEC-HEADER>0001193125-26-380269.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902163011
+ACCESSION NUMBER:		0001193125-26-380269
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCGARVIE BLYTHE J
+		CENTRAL INDEX KEY:			0001013947
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37389
+		FILM NUMBER:		261355283
+
+	MAIL ADDRESS:	
+		STREET 1:		HANNAFORD BROS CO
+		STREET 2:		145 PLEASANT HILL RD
+		CITY:			SCARBOROUGH
+		STATE:			ME
+		ZIP:			04074
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apple Hospitality REIT, Inc.
+		CENTRAL INDEX KEY:			0001418121
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				261379210
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		814 EAST MAIN STREET
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23219
+		BUSINESS PHONE:		804.344.8121
+
+	MAIL ADDRESS:	
+		STREET 1:		814 EAST MAIN STREET
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Apple REIT Nine, Inc.
+		DATE OF NAME CHANGE:	20071109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001418121</issuerCik>
+        <issuerName>Apple Hospitality REIT, Inc.</issuerName>
+        <issuerTradingSymbol>APLE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001013947</rptOwnerCik>
+            <rptOwnerName>MCGARVIE BLYTHE J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>814 EAST MAIN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RICHMOND</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23219</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2116</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.95</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15935</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>58971</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Quarterly payment of equity component of quarterly retainer fee for serving on the Board of Directors of Apple Hospitality REIT, Inc.</footnote>
+        <footnote id="F2">Per share value is the closing price for the Company's common shares on the New York Stock Exchange on August 31, 2026.</footnote>
+        <footnote id="F3">On August 31, 2026, 2,116 shares were transferred to a Trust. Ms. McGarvie is trustee and beneficiary of the Trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kelly C. Clarke, Attorney-in-fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

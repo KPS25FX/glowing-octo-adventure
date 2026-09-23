@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001072613-26-000773.txt : 20260916
+<SEC-HEADER>0001072613-26-000773.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916184950
+ACCESSION NUMBER:		0001072613-26-000773
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mulacek Phil E
+		CENTRAL INDEX KEY:			0001670677
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16653
+		FILM NUMBER:		261384828
+
+	MAIL ADDRESS:	
+		STREET 1:		25025 I 45 NORTH
+		STREET 2:		SUITE 420
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMPIRE PETROLEUM CORP
+		CENTRAL INDEX KEY:			0000887396
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				731238709
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 S. UTICA PLACE
+		STREET 2:		SUITE 150
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74114
+		BUSINESS PHONE:		(539) 444-8002
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 S. UTICA PLACE
+		STREET 2:		SUITE 150
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICOMM RESOURCES CORP
+		DATE OF NAME CHANGE:	19951115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICOMM CORP
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4 - PHIL MULACEK
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000887396</issuerCik>
+        <issuerName>EMPIRE PETROLEUM CORP</issuerName>
+        <issuerTradingSymbol>EP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001670677</rptOwnerCik>
+            <rptOwnerName>Mulacek Phil E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>25025 I 45 NORTH</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 420</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77380</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Convertible Note Due 2028</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.838</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>3250000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>3250000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-11-09</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-03-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1145173</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>3250000</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Petroleum Independent &amp; Exploration LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Phil E. Mulacek</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

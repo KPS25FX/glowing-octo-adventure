@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-386668.txt : 20260909
+<SEC-HEADER>0001193125-26-386668.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909174050
+ACCESSION NUMBER:		0001193125-26-386668
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Salman Mark S.
+		CENTRAL INDEX KEY:			0002140245
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43265
+		FILM NUMBER:		261369105
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 TOASTMASTER DR.
+		CITY:			ELGIN
+		STATE:			IL
+		ZIP:			60120
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Midera Food Processing, Inc.
+		CENTRAL INDEX KEY:			0002088281
+		STANDARD INDUSTRIAL CLASSIFICATION:	REFRIGERATION & SERVICE INDUSTRY MACHINERY [3580]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				393886250
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1400 TOASTMASTER DRIVE
+		CITY:			ELGIN
+		STATE:			IL
+		ZIP:			60120
+		BUSINESS PHONE:		(847) 450-9692
+
+	MAIL ADDRESS:	
+		STREET 1:		320 S. CANAL ST.
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Middleby Food Processing, Inc.
+		DATE OF NAME CHANGE:	20250925
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002088281</issuerCik>
+        <issuerName>Midera Food Processing, Inc.</issuerName>
+        <issuerTradingSymbol>MFP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002140245</rptOwnerCik>
+            <rptOwnerName>Salman Mark S.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>10275 WEST HIGGINS ROAD, SUITE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ROSEMONT</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60018</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>22707</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>83686</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares represent time-based restricted stock units.  Each restricted stock grant represents a contingent right to receive one share of common stock on the applicable vesting date.  These restricted stock units will vest 1/3 of the total amount on each of March 5, 2027, March 5, 2028 and March 5, 2029.  Vested shares will be issued to the reporting person after the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>James J. Drake POA</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

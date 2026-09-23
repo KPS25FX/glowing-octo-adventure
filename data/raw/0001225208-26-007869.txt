@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001225208-26-007869.txt : 20260918
+<SEC-HEADER>0001225208-26-007869.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918113400
+ACCESSION NUMBER:		0001225208-26-007869
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Emery Christina
+		CENTRAL INDEX KEY:			0001521374
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-02183
+		FILM NUMBER:		261389518
+
+	MAIL ADDRESS:	
+		STREET 1:		BARINGS LLC
+		STREET 2:		300 SOUTH TRYON STREET, SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARINGS CORPORATE INVESTORS
+		CENTRAL INDEX KEY:			0000275694
+		ORGANIZATION NAME:           	
+		EIN:				042483041
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BARINGS LLC
+		STREET 2:		300 SOUTH TRYON STREET, SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+		BUSINESS PHONE:		704-805-7200
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BARINGS LLC
+		STREET 2:		300 SOUTH TRYON STREET, SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BABSON CAPITAL CORPORATE INVESTORS
+		DATE OF NAME CHANGE:	20111230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MASSMUTUAL CORPORATE INVESTORS
+		DATE OF NAME CHANGE:	19920717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000275694</issuerCik>
+        <issuerName>BARINGS CORPORATE INVESTORS</issuerName>
+        <issuerTradingSymbol>MCI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001521374</rptOwnerCik>
+            <rptOwnerName>Emery Christina</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BARINGS LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>300 SOUTH TRYON STREET, SUITE 2500</rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Barings Non-Qualified Thrift Plan</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>39.5911</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.9800</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares (&quot;Shares of Beneficial Interest&quot;)</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>39.5911</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7292.0819</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Exercisable only upon termination, retirement, or other plan permitted event. Plan holdings may be &quot;liquidated&quot; and reallocated into other plan investment options by the plan participant. The derivative has no actual securities underlying the plan agreement, which is entirely notional.</footnote>
+        <footnote id="F2">Barings LLC (fka Babson Capital Management LLC) and Massachusetts Mutual Life Insurance Company each offer a non-qualified compensation deferral plan where certain officers are permitted to defer a portion of their compensation into the plans. Deferred compensation into a plan is allocated among one or more investment options at the election of the plan participant. Each plan has an investment option that derives its value from the market value of Barings Corporate Investors' common shares (and includes the value of reinvested dividends). However, pursuant to the terms of the plans, neither the plans nor the participants have an actual ownership interest in the common shares. The shares beneficially owned include the number of shares of Barings Corporate Investors represented by the value of the Barings Corporate Investors investment option under the plan held by the plan participant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stacy Standridge, as Attorney-in-fact</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

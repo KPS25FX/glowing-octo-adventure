@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0002089844-26-000003.txt : 20260918
+<SEC-HEADER>0002089844-26-000003.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918074322
+ACCESSION NUMBER:		0002089844-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Adelborg Auste
+		CENTRAL INDEX KEY:			0002089844
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34677
+		FILM NUMBER:		261388776
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		SCORPIO TANKERS INC.
+		STREET 2:		99 BOULEVARD DU JARDIN EXOTIQUE
+		CITY:			MONACO
+		NON US STATE TERRITORY:  	MONACO
+		PROVINCE COUNTRY:   	O9
+		ZIP:			98000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Scorpio Tankers Inc.
+		CENTRAL INDEX KEY:			0001483934
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		L'EXOTIQUE 99 BOULEVARD JARDIN EXOTIQUE
+		CITY:			MONACO
+		STATE:			O9
+		ZIP:			98000
+		BUSINESS PHONE:		212-542-1616
+
+	MAIL ADDRESS:	
+		STREET 1:		L'EXOTIQUE 99 BOULEVARD JARDIN EXOTIQUE
+		CITY:			MONACO
+		STATE:			O9
+		ZIP:			98000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001483934</issuerCik>
+        <issuerName>Scorpio Tankers Inc.</issuerName>
+        <issuerTradingSymbol>STNG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002089844</rptOwnerCik>
+            <rptOwnerName>Adelborg Auste</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>SCORPIO TANKERS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>99 BOULEVARD DU JARDIN EXOTIQUE</rptOwnerStreet2>
+            <rptOwnerCity>MONACO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>MONACO</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>O9</rptOwnerCountry>
+            <rptOwnerZipCode>98000</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6834</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>89.64</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Auste Adelborg</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

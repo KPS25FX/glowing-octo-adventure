@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001493152-26-040391.txt : 20260827
+<SEC-HEADER>0001493152-26-040391.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827160521
+ACCESSION NUMBER:		0001493152-26-040391
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Finke Thomas M
+		CENTRAL INDEX KEY:			0001363651
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42422
+		FILM NUMBER:		261330149
+
+	MAIL ADDRESS:	
+		STREET 1:		INVESCO LTD.
+		STREET 2:		1333 SPRING ST. NW, SUITE 2500
+		CITY:			ATLANTA
+		STATE:			X1
+		ZIP:			30309
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Finke Thomas F
+		DATE OF NAME CHANGE:	20060522
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Venu Holding Corp
+		CENTRAL INDEX KEY:			0001770501
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				820890721
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1755 TELSTAR DR
+		STREET 2:		STE 501
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80920
+		BUSINESS PHONE:		719-895-5483
+
+	MAIL ADDRESS:	
+		STREET 1:		1755 TELSTAR DR
+		STREET 2:		STE 501
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80920
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NOTES LIVE, INC.
+		DATE OF NAME CHANGE:	20220523
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	B ENTERTAINMENT LLC
+		DATE OF NAME CHANGE:	20210818
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bourbon Brothers Entertainment, LLC
+		DATE OF NAME CHANGE:	20190313
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001770501</issuerCik>
+        <issuerName>Venu Holding Corp</issuerName>
+        <issuerTradingSymbol>VENU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001363651</rptOwnerCik>
+            <rptOwnerName>Finke Thomas M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VENU HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>1755 TELSTAR DRIVE, SUITE 501</rptOwnerStreet2>
+            <rptOwnerCity>COLORADO SPRINGS</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80920</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>54644</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.949</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>129605</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Heather Atkinson, at attorney-in-fact for Thomas Finke</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

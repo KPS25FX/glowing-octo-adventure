@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001464919-26-000007.txt : 20260916
+<SEC-HEADER>0001464919-26-000007.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916184432
+ACCESSION NUMBER:		0001464919-26-000007
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260217
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nick Mosich
+		CENTRAL INDEX KEY:			0001464919
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37709
+		FILM NUMBER:		261384822
+
+	MAIL ADDRESS:	
+		STREET 1:		9205 WEST RUSSELL ROAD
+		STREET 2:		SUITE 400
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89148
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Axos Financial, Inc.
+		CENTRAL INDEX KEY:			0001299709
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				330867444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9205 WEST RUSSELL ROAD
+		STREET 2:		SUITE #400
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89148
+		BUSINESS PHONE:		(858) 649-2218
+
+	MAIL ADDRESS:	
+		STREET 1:		9205 WEST RUSSELL ROAD
+		STREET 2:		SUITE #400
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89148
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BofI Holding, Inc.
+		DATE OF NAME CHANGE:	20040805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-02-17</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-02-19</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001299709</issuerCik>
+        <issuerName>Axos Financial, Inc.</issuerName>
+        <issuerTradingSymbol>AX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001464919</rptOwnerCik>
+            <rptOwnerName>Nick Mosich</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>9205 WEST RUSSELL ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 400</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89148</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1275</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>98</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>64849</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This Form 4/A amends the Form 4 filed on February 19, 2026, to correct the amount of securities beneficially owned following the reported transaction.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Derrick Walsh for Nicholas A Mosich</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

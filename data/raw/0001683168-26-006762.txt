@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001683168-26-006762.txt : 20260828
+<SEC-HEADER>0001683168-26-006762.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260827195220
+ACCESSION NUMBER:		0001683168-26-006762
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260818
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Thier Peter Richard
+		CENTRAL INDEX KEY:			0002151217
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10647
+		FILM NUMBER:		261332445
+
+	MAIL ADDRESS:	
+		STREET 1:		4 TOPPING LIFT
+		CITY:			MASHPEE
+		STATE:			MA
+		ZIP:			02649
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRECISION OPTICS CORPORATION, INC.
+		CENTRAL INDEX KEY:			0000867840
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				042795294
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		550 KING STREET,
+		STREET 2:		BLDG. A, STE. 100
+		CITY:			LITTLETON
+		STATE:			MA
+		ZIP:			01460
+		BUSINESS PHONE:		978-630-1800
+
+	MAIL ADDRESS:	
+		STREET 1:		550 KING STREET,
+		STREET 2:		BLDG. A, STE. 100
+		CITY:			LITTLETON
+		STATE:			MA
+		ZIP:			01460
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRECISION OPTICS Corp INC
+		DATE OF NAME CHANGE:	20111027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRECISION OPTICS CORPORATION INC
+		DATE OF NAME CHANGE:	19930328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRECISION OPTICS CORP INC
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000867840</issuerCik>
+        <issuerName>PRECISION OPTICS CORPORATION, INC.</issuerName>
+        <issuerTradingSymbol>POCI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002151217</rptOwnerCik>
+            <rptOwnerName>Thier Peter Richard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PRECISION OPTICS CORPORATION, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>550 KING STREET, BLDG. A, STE. 100</rptOwnerStreet2>
+            <rptOwnerCity>LITTLETON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01460</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior VP - Sales &amp; Marketing</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Rights to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.34</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-08-17</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On August 18, 2026, the Reporting Person was granted an inducment stock option to purchase 50,000 shares of Issuer's common stock that vests in three equal annual installments beginning on August 18, 2027. The inducment stock option is subject to a Stock Option Agreement by and between the Reporting Person and the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph N. Forkey as attorney-in-fact</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

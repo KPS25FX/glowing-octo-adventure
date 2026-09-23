@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001123292-26-001286.txt : 20260911
+<SEC-HEADER>0001123292-26-001286.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911191842
+ACCESSION NUMBER:		0001123292-26-001286
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Larsson Stefan
+		CENTRAL INDEX KEY:			0001558755
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07572
+		FILM NUMBER:		261375561
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO FOLSOM STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PVH CORP. /DE/
+		CENTRAL INDEX KEY:			0000078239
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEN'S & BOYS' FURNISHINGS, WORK CLOTHING, AND ALLIED GARMENTS [2320]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				131166910
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		285 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2123813500
+
+	MAIL ADDRESS:	
+		STREET 1:		285 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PHILLIPS VAN HEUSEN CORP /DE/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000078239</issuerCik>
+        <issuerName>PVH CORP. /DE/</issuerName>
+        <issuerTradingSymbol>PVH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001558755</rptOwnerCik>
+            <rptOwnerName>Larsson Stefan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PVH CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>285 MADISON AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $1 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14179.102</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>70.5264</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>349889.048</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $70.42 to $70.54, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within ranges set forth in this footnote.</footnote>
+        <footnote id="F2">Includes 153,969 shares of Common Stock subject to unvested awards of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stefan Larsson</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

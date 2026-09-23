@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001193125-26-371359.txt : 20260827
+<SEC-HEADER>0001193125-26-371359.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827162253
+ACCESSION NUMBER:		0001193125-26-371359
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kim Eugene L.
+		CENTRAL INDEX KEY:			0002119433
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34927
+		FILM NUMBER:		261330811
+
+	MAIL ADDRESS:	
+		STREET 1:		301 RIVERSIDE AVENUE, SECOND FLOOR
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Compass Diversified Holdings
+		CENTRAL INDEX KEY:			0001345126
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOUSEHOLD FURNITURE [2510]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				576218917
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		301 RIVERSIDE AVENUE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		203-221-1703
+
+	MAIL ADDRESS:	
+		STREET 1:		301 RIVERSIDE AVENUE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Compass Diversified Trust
+		DATE OF NAME CHANGE:	20051122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001345126</issuerCik>
+        <issuerName>Compass Diversified Holdings</issuerName>
+        <issuerTradingSymbol>CODI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002119433</rptOwnerCik>
+            <rptOwnerName>Kim Eugene L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>301 RIVERSIDE AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SECOND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>WESTPORT</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06880</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>true</isOther>
+            <otherText>See Remarks (a)</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.4688</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Common Share represents one undivided beneficial interest in Compass Diversified Holdings (the &quot;Trust&quot;) property and corresponds to one underlying trust common interest of Compass Group Diversified Holdings LLC held by the Trust.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $11.38 to $11.53, inclusive. Full information regarding the number of shares purchased at each separate price will be provided upon request by the SEC staff, the issuer, or any security holder of the issuer.</footnote>
+    </footnotes>
+
+    <remarks>(a) Mr. Kim is a Director of Compass Group Diversified Holdings LLC, the sponsor of Compass Diversified Holdings.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eugene L. Kim, by Carrie W. Ryan and Stephen Keller as attorneys-in-fact</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

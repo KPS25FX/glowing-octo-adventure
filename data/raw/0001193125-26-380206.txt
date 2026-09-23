@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001193125-26-380206.txt : 20260902
+<SEC-HEADER>0001193125-26-380206.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902161508
+ACCESSION NUMBER:		0001193125-26-380206
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ANGEL STEPHEN F
+		CENTRAL INDEX KEY:			0001190775
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08022
+		FILM NUMBER:		261354963
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GE AEROSPACE
+		STREET 2:		1 NEUMANN WAY
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45215
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CSX CORP
+		CENTRAL INDEX KEY:			0000277948
+		STANDARD INDUSTRIAL CLASSIFICATION:	RAILROADS, LINE-HAUL OPERATING [4011]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				621051971
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 WATER STREET
+		STREET 2:		15TH FLOOR
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32202
+		BUSINESS PHONE:		9043593200
+
+	MAIL ADDRESS:	
+		STREET 1:		500 WATER STREET
+		STREET 2:		15TH FLOOR
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000277948</issuerCik>
+        <issuerName>CSX CORP</issuerName>
+        <issuerTradingSymbol>CSX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001190775</rptOwnerCik>
+            <rptOwnerName>ANGEL STEPHEN F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>500 WATER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>JACKSONVILLE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>185</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>48.70</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>185</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2387</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>CSX Executive Deferred Compensation Plan</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each unit of phantom stock is the economic equivalent of one share of Company common stock. Units of phantom stock become payable, in cash, consistent with the Reporting Person's distribution election made at the time of deferral.</footnote>
+        <footnote id="F2">By Trustee, CSX Corporation Executive Deferred Compensation Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Kacey D. Heekin-Luchin, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

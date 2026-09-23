@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001193125-26-377253.txt : 20260831
+<SEC-HEADER>0001193125-26-377253.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831201605
+ACCESSION NUMBER:		0001193125-26-377253
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Richmond C Bradford
+		CENTRAL INDEX KEY:			0001334936
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21423
+		FILM NUMBER:		261348255
+
+	MAIL ADDRESS:	
+		STREET 1:		10844 EMERALD CHASE DRIVE
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32836
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BJs RESTAURANTS INC
+		CENTRAL INDEX KEY:			0001013488
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				330485615
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0103
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7755 CENTER AVENUE
+		STREET 2:		SUITE 300
+		CITY:			HUNTINGTON BEACH
+		STATE:			CA
+		ZIP:			92647
+		BUSINESS PHONE:		(714) 500-2440
+
+	MAIL ADDRESS:	
+		STREET 1:		7755 CENTER AVENUE
+		STREET 2:		SUITE 300
+		CITY:			HUNTINGTON BEACH
+		STATE:			CA
+		ZIP:			92647
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHICAGO PIZZA & BREWERY INC
+		DATE OF NAME CHANGE:	19960614
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001013488</issuerCik>
+        <issuerName>BJs RESTAURANTS INC</issuerName>
+        <issuerTradingSymbol>BJRI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001334936</rptOwnerCik>
+            <rptOwnerName>Richmond C Bradford</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>7755 CENTER AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>HUNTINGTON BEACH</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92647</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>753</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>63.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35500</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2955</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares are held by an irrevocable trust over which Mr. Richmond maintains investment control. Mr. Richmond disclaims beneficial ownership of these shares except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F2">Amount includes 2,955 of unvested Restricted Stock Units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rana Schirmer, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0000101382-26-000181.txt : 20260903
+<SEC-HEADER>0000101382-26-000181.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903165337
+ACCESSION NUMBER:		0000101382-26-000181
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Peterman Tamara
+		CENTRAL INDEX KEY:			0001774955
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38481
+		FILM NUMBER:		261359089
+
+	MAIL ADDRESS:	
+		STREET 1:		1010 GRAND BLVD
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64106
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UMB FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000101382
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				430903811
+		STATE OF INCORPORATION:			MO
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1010 GRAND AVE
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64106
+		BUSINESS PHONE:		8168607000
+
+	MAIL ADDRESS:	
+		STREET 1:		1010 GRAND AVE
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED MISSOURI BANCSHARES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MISSOURI BANCSHARES INC
+		DATE OF NAME CHANGE:	19710915
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000101382</issuerCik>
+        <issuerName>UMB FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>UMBF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001774955</rptOwnerCik>
+            <rptOwnerName>Peterman Tamara</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3901 RAINBOW BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>KANSAS CITY</rptOwnerCity>
+            <rptOwnerState>KS</rptOwnerState>
+            <rptOwnerZipCode>66160</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>394.0553</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>139.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10680.1247</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares acquired through participation in the UMB Financial Corporation dividend reinvestment plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jason Bartel, attorney-in-fact for Ms. Peterman</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

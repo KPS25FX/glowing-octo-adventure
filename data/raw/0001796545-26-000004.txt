@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001796545-26-000004.txt : 20260903
+<SEC-HEADER>0001796545-26-000004.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903171518
+ACCESSION NUMBER:		0001796545-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Larson-Green Julie
+		CENTRAL INDEX KEY:			0001796545
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38993
+		FILM NUMBER:		261359288
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HEALTH CATALYST, INC.
+		STREET 2:		3165 MILLROCK DR., #400
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Health Catalyst, Inc.
+		CENTRAL INDEX KEY:			0001636422
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				453337483
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10897 SOUTH RIVER FRONT PARKWAY, #300
+		CITY:			SOUTH JORDAN
+		STATE:			UT
+		ZIP:			84095
+		BUSINESS PHONE:		801-708-6800
+
+	MAIL ADDRESS:	
+		STREET 1:		10897 SOUTH RIVER FRONT PARKWAY, #300
+		CITY:			SOUTH JORDAN
+		STATE:			UT
+		ZIP:			84095
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HQC Holdings, Inc.
+		DATE OF NAME CHANGE:	20150312
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001636422</issuerCik>
+        <issuerName>Health Catalyst, Inc.</issuerName>
+        <issuerTradingSymbol>HCAT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001796545</rptOwnerCik>
+            <rptOwnerName>Larson-Green Julie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HEALTH CATALYST, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>10897 SOUTH RIVER FRONT PARKWAY, #300</rptOwnerStreet2>
+            <rptOwnerCity>SOUTH JORDAN</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84095</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9766.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>185101.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of the Issuer's restricted stock units (&quot;RSUs&quot;) granted pursuant to the Issuer's 2019 Stock Option and Incentive Plan (the &quot;2019 Plan&quot;). Each RSU represents a contingent right to receive one share of the Issuer's common stock. Subject to the terms of the 2019 Plan and in accordance with the terms of Issuer's Non-Employee Director Compensation Policy, 100% of such RSUs vested on September 1, 2026.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Benjamin Landry, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

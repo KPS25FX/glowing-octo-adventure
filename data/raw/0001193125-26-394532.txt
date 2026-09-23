@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-394532.txt : 20260917
+<SEC-HEADER>0001193125-26-394532.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917172049
+ACCESSION NUMBER:		0001193125-26-394532
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Johnson David Paul
+		CENTRAL INDEX KEY:			0001748246
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38710
+		FILM NUMBER:		261387783
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CORTEVA, INC.
+		STREET 2:		974 CENTRE ROAD, BLDG. 735
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Corteva, Inc.
+		CENTRAL INDEX KEY:			0001755672
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - CROPS [0100]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				824979096
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9330 ZIONSVILLE ROAD
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46268
+		BUSINESS PHONE:		(833) 267-8382
+
+	MAIL ADDRESS:	
+		STREET 1:		9330 ZIONSVILLE ROAD
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46268
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001755672</issuerCik>
+        <issuerName>Corteva, Inc.</issuerName>
+        <issuerTradingSymbol>CTVA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001748246</rptOwnerCik>
+            <rptOwnerName>Johnson David Paul</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CORTEVA, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>9330 ZIONSVILLE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>INDIANAPOLIS</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46268</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8517</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>81.01</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>73625.7954</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld by the Issuer to pay taxes due following the vesting of previously granted restricted stock units.</footnote>
+        <footnote id="F2">Total includes the acquisition of 314.8063 shares pursuant to dividend reinvestment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Abigail Jarrell, by power-of-attorney</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

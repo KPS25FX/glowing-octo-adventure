@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0000885639-26-000156.txt : 20260916
+<SEC-HEADER>0000885639-26-000156.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916172904
+ACCESSION NUMBER:		0000885639-26-000156
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DEE STEVEN E.
+		CENTRAL INDEX KEY:			0002084613
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11084
+		FILM NUMBER:		261384653
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHL'S CORPORATION
+		STREET 2:		N56 W17000 RIDGEWOOD DRIVE
+		CITY:			MENOMONEE FALLS
+		STATE:			WI
+		ZIP:			53051
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KOHLS Corp
+		CENTRAL INDEX KEY:			0000885639
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-DEPARTMENT STORES [5311]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				391630919
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		N56 W17000 RIDGEWOOD DR
+		CITY:			MENOMONEE FALLS
+		STATE:			WI
+		ZIP:			53051
+		BUSINESS PHONE:		262 703 7000
+
+	MAIL ADDRESS:	
+		STREET 1:		N56 W17000 RIDGEWOOD DR
+		CITY:			MENOMONEE FALLS
+		STATE:			WI
+		ZIP:			53051
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KOHLS CORPORATION
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000885639</issuerCik>
+        <issuerName>KOHLS Corp</issuerName>
+        <issuerTradingSymbol>KSS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002084613</rptOwnerCik>
+            <rptOwnerName>DEE STEVEN E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>N56 W17000 RIDGEWOOD DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENOMONEE FALLS</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53051</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Technology Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>139</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>68011</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2038</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.17</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65973</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Issuance of additional shares representing the dividend equivalent amount on vested restricted stock units.</footnote>
+        <footnote id="F2">Represents shares used to satisfy tax withholding obligations upon vesting of restricted stock units and corresponding dividend equivalent amounts under the Company's Long-Term Compensation Plan.</footnote>
+        <footnote id="F3">Includes 61,642 unvested restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Megan E. Glise, P.O.A.</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

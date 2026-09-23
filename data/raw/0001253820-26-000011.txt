@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001253820-26-000011.txt : 20260903
+<SEC-HEADER>0001253820-26-000011.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903194821
+ACCESSION NUMBER:		0001253820-26-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kim Paul
+		CENTRAL INDEX KEY:			0001253820
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37894
+		FILM NUMBER:		261359843
+
+	MAIL ADDRESS:	
+		STREET 1:		4399 SANTA ANITA AVE
+		CITY:			EL MONTE
+		STATE:			CA
+		ZIP:			91731
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	KIM PAUL
+		DATE OF NAME CHANGE:	20030711
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fulgent Genetics, Inc.
+		CENTRAL INDEX KEY:			0001674930
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MEDICAL LABORATORIES [8071]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				812621304
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4399 SANTA ANITA AVE
+		CITY:			EL MONTE
+		STATE:			CA
+		ZIP:			91731
+		BUSINESS PHONE:		626-350-0537
+
+	MAIL ADDRESS:	
+		STREET 1:		4399 SANTA ANITA AVE
+		CITY:			EL MONTE
+		STATE:			CA
+		ZIP:			91731
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fulgent Diagnostics, Inc.
+		DATE OF NAME CHANGE:	20160517
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001674930</issuerCik>
+        <issuerName>Fulgent Genetics, Inc.</issuerName>
+        <issuerTradingSymbol>FLGT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001253820</rptOwnerCik>
+            <rptOwnerName>Kim Paul</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FULGENT GENETICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4399 SANTA ANITA AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>EL MONTE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91731</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CFO and Treasurer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2087</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.59</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>356543</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were withheld from the reporting person to satisfy the tax withholding obligations that arose upon the vesting of certain restricted stock units granted to the reporting person on February 25, 2025, which grant was originally reported on Form 4 filed with the U.S. Securities and Exchange Commission on February 27, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul Kim</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

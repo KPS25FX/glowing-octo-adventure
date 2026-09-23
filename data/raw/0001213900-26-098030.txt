@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001213900-26-098030.txt : 20260908
+<SEC-HEADER>0001213900-26-098030.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908160016
+ACCESSION NUMBER:		0001213900-26-098030
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shen Ethan PhD
+		CENTRAL INDEX KEY:			0002099921
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42810
+		FILM NUMBER:		261364992
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		15F-5. NO. 508, SEC 7
+		STREET 2:		ZHONGXIAO E RD., NANGANG DIST.
+		CITY:			TAIPEI
+		PROVINCE COUNTRY:   	F5
+		ZIP:			115011
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YD Bio Ltd
+		CENTRAL INDEX KEY:			0002011674
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MEDICAL LABORATORIES [8071]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		955 WEST JOHN CARPENTER FREEWAY
+		STREET 2:		SUITE 100-929
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+		BUSINESS PHONE:		619-500-7747
+
+	MAIL ADDRESS:	
+		STREET 1:		955 WEST JOHN CARPENTER FREEWAY
+		STREET 2:		SUITE 100-929
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	True Velocity, Inc./DE
+		DATE OF NAME CHANGE:	20240209
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002011674</issuerCik>
+        <issuerName>YD Bio Ltd</issuerName>
+        <issuerTradingSymbol>YDES</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002099921</rptOwnerCik>
+            <rptOwnerName>Shen Ethan PhD</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O YD BIO LIMITED</rptOwnerStreet1>
+            <rptOwnerStreet2>12F., NO. 3, XINGNAN ST., NANGANG DIST.</rptOwnerStreet2>
+            <rptOwnerCity>TAIPEI CITY</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>TAIWAN</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F5</rptOwnerCountry>
+            <rptOwnerZipCode>115001</rptOwnerZipCode>
+            <rptOwnerStateDescription>TAIWAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18378</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.67</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11242531</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>43120858</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $3.50 to $3.70, inclusive. The reporting person undertakes to provide to YD Bio Ltd (the &quot;Company&quot;), any security holder of the Company or the staff of the U.S. Securities and Exchange Commission (the &quot;SEC&quot;), upon request, full information regarding the number of Ordinary Shares purchased at each separate price within the range set forth above.</footnote>
+        <footnote id="F2">The reported shares are held by YD Biopharma Holding Limited, which is wholly owned by E820N Assets Ltd. (BVI), which is wholly owned by The E820N Trust (the &quot;Trust&quot;). Dr. Shen is the settlor, protector and sole beneficiary of the Trust, and is the beneficial owner of such shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ethan Shen</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

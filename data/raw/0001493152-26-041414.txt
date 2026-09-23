@@ -1,0 +1,205 @@
+<SEC-DOCUMENT>0001493152-26-041414.txt : 20260903
+<SEC-HEADER>0001493152-26-041414.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903182003
+ACCESSION NUMBER:		0001493152-26-041414
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cheuiche Godoy Marcelo
+		CENTRAL INDEX KEY:			0002037229
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38387
+		FILM NUMBER:		261359588
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ANGLOGOLD ASHANTI PLC
+		STREET 2:		6363 S. FIDDLERS GREEN CIRCLE, STE 1000
+		CITY:			GREENWOOD VILLAGE
+		STATE:			CO
+		ZIP:			80111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HYCROFT MINING HOLDING CORP
+		CENTRAL INDEX KEY:			0001718405
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				822657796
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+		BUSINESS PHONE:		7753040260
+
+	MAIL ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mudrick Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20171002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001718405</issuerCik>
+        <issuerName>HYCROFT MINING HOLDING CORP</issuerName>
+        <issuerTradingSymbol>HYMC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002037229</rptOwnerCik>
+            <rptOwnerName>Cheuiche Godoy Marcelo</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HYCROFT MINING HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 3030</rptOwnerStreet2>
+            <rptOwnerCity>WINNEMUCCA,</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89446</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2257</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2257</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1811</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4068</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of 2,257 restricted stock units (&quot;RSUs&quot;) by the issuer, of which 33% vest on each of September 1, 2027, and September 1, 2028, and 34% vest on September 1, 2029.</footnote>
+        <footnote id="F2">Represents an award of 1,811 restricted stock units (&quot;RSUs&quot;) by the issuer, all of which vest on September 1, 2027.</footnote>
+        <footnote id="F3">Each RSU represents a contingent right to receive one share of the issuer's Class A common stock. The RSUs will convert into shares of common stock upon vesting; provided, however, that if, on the conversion date, the reporting person is prohibited from trading in the issuer's securities pursuant to applicable securities laws or the issuer's policies, the conversion date shall be, in the determination of the Compensation Committee of the issuer's Board of Directors, the second trading day after the date the reporting person is no longer prohibited from trading.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rajesh Sharma Attorney In-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

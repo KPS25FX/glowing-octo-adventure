@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0001524472-26-000128.txt : 20260902
+<SEC-HEADER>0001524472-26-000128.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902161519
+ACCESSION NUMBER:		0001524472-26-000128
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Johnston Joseph Patrick
+		CENTRAL INDEX KEY:			0002138870
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35229
+		FILM NUMBER:		261354975
+
+	MAIL ADDRESS:	
+		STREET 1:		4828 PARKWAY PLAZA BOULEVARD
+		STREET 2:		SUITE 200
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28217
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Xylem Inc.
+		CENTRAL INDEX KEY:			0001524472
+		STANDARD INDUSTRIAL CLASSIFICATION:	PUMPS & PUMPING EQUIPMENT [3561]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				452080495
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		301 WATER STREET SE
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20003
+		BUSINESS PHONE:		202-869-9150
+
+	MAIL ADDRESS:	
+		STREET 1:		301 WATER STREET SE
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITT WCO, Inc.
+		DATE OF NAME CHANGE:	20110628
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001524472</issuerCik>
+        <issuerName>Xylem Inc.</issuerName>
+        <issuerTradingSymbol>XYL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002138870</rptOwnerCik>
+            <rptOwnerName>Johnston Joseph Patrick</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O XYLEM INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>301 WATER STREET SE</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20003</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP &amp; President, AW</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common  Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>645</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2285</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>106.89</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2298</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>106.89</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2298</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2298</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects an award of restricted stock units pursuant to the Xylem 2011 Omnibus Incentive Plan (Amended and Restated February 24, 2016) that are scheduled to vest in one-third increments on March 1, 2027, March 1, 2028, and March 1, 2029.</footnote>
+        <footnote id="F2">Reflects an award of non-qualified stock options pursuant to the Xylem 2011 Omnibus Incentive Plan (Amended and Restated February 24, 2016) that are scheduled to vest in one-third increments on March 1, 2027, March 1, 2028, and March 1, 2029.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mike Nazario, by power of attorney for Joseph Patrick Johnston</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

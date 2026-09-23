@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0000890541-26-000011.txt : 20260831
+<SEC-HEADER>0000890541-26-000011.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831111614
+ACCESSION NUMBER:		0000890541-26-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Van Hoorde Annette Marie
+		CENTRAL INDEX KEY:			0002121861
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11414
+		FILM NUMBER:		261343813
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		TORRE V, BUSINESS PARK, AVE.
+		STREET 2:		LA ROTONDA, COSTA DEL ESTE
+		CITY:			PANAMA CITY
+		PROVINCE COUNTRY:   	R1
+		ZIP:			0819-08730
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLADEX, INC.
+		CENTRAL INDEX KEY:			0000890541
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BUSINESS PARK, TORRE V, PISO 5
+		STREET 2:		AVENIDA LA ROTONDA, COSTA DEL ESTE
+		CITY:			PANAMA
+		PROVINCE COUNTRY:   	R1
+		ZIP:			0819-08730
+		BUSINESS PHONE:		5072108500
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		BUSINESS PARK, TORRE V, PISO 5
+		STREET 2:		AVENIDA LA ROTONDA, COSTA DEL ESTE
+		CITY:			PANAMA
+		PROVINCE COUNTRY:   	R1
+		ZIP:			0819-08730
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FOREIGN TRADE BANK OF LATIN AMERICA, INC.
+		DATE OF NAME CHANGE:	20090623
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LATIN AMERICAN EXPORT BANK
+		DATE OF NAME CHANGE:	19940829
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000890541</issuerCik>
+        <issuerName>BLADEX, INC.</issuerName>
+        <issuerTradingSymbol>BLX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002121861</rptOwnerCik>
+            <rptOwnerName>Van Hoorde Annette Marie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BUSINESS PARK, AVE. LA ROTONDA</rptOwnerStreet1>
+            <rptOwnerStreet2>TORRE V, PISO 5</rptOwnerStreet2>
+            <rptOwnerCity>PANAMA</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>R1</rptOwnerCountry>
+            <rptOwnerZipCode>0819-08730</rptOwnerZipCode>
+            <rptOwnerStateDescription>PANAMA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-08-28</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1454</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>55.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23132</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Johana Iturralde</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

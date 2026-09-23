@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0000029534-26-000076.txt : 20260903
+<SEC-HEADER>0000029534-26-000076.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903170958
+ACCESSION NUMBER:		0000029534-26-000076
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			REARDON KATHLEEN A
+		CENTRAL INDEX KEY:			0001773464
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11421
+		FILM NUMBER:		261359245
+
+	MAIL ADDRESS:	
+		STREET 1:		100 MISSION RIDGE
+		CITY:			GOODLETTSVILLE
+		STATE:			TN
+		ZIP:			37072
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOLLAR GENERAL CORP
+		CENTRAL INDEX KEY:			0000029534
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				610502302
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			0129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 MISSION RIDGE
+		CITY:			GOODLETTSVILLE
+		STATE:			TN
+		ZIP:			37072
+		BUSINESS PHONE:		6158554000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 MISSION RIDGE
+		CITY:			GOODLETTSVILLE
+		STATE:			TN
+		ZIP:			37072
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TURNER CAL
+		DATE OF NAME CHANGE:	19710401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TURNER J L & SON INC
+		DATE OF NAME CHANGE:	19710401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000029534</issuerCik>
+        <issuerName>DOLLAR GENERAL CORP</issuerName>
+        <issuerTradingSymbol>DG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001773464</rptOwnerCik>
+            <rptOwnerName>REARDON KATHLEEN A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>100 MISSION RIDGE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GOODLETTSVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37072</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP &amp; Chief People Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5578</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>131.3293</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>61071</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported price is a weighted average price. These shares were sold in multiple transactions ranging from $131.24 to $131.41, inclusive. The reporting person undertakes to provide Dollar General Corporation, any security holder of Dollar General Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote to this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kathleen Reardon</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001572983-26-000018.txt : 20260901
+<SEC-HEADER>0001572983-26-000018.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901161532
+ACCESSION NUMBER:		0001572983-26-000018
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Genworth Holdings, Inc.
+		CENTRAL INDEX KEY:			0001572983
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		ORGANIZATION NAME:           	02 Finance
+		STATE OF INCORPORATION:			X1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40399
+		FILM NUMBER:		261351067
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11011 WEST BROAD STREET
+		CITY:			GLEN ALLEN
+		STATE:			VA
+		ZIP:			23060
+		BUSINESS PHONE:		804-281-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		11011 WEST BROAD STREET
+		CITY:			GLEN ALLEN
+		STATE:			VA
+		ZIP:			23060
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Enact Holdings, Inc.
+		CENTRAL INDEX KEY:			0001823529
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				461579166
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8325 SIX FORKS ROAD
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27615
+		BUSINESS PHONE:		(919) 846-4100
+
+	MAIL ADDRESS:	
+		STREET 1:		8325 SIX FORKS ROAD
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27615
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Genworth Mortgage Holdings, Inc.
+		DATE OF NAME CHANGE:	20200902
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1788293728.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001823529</issuerCik>
+        <issuerName>Enact Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>ACT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001572983</rptOwnerCik>
+            <rptOwnerName>Genworth Holdings, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>11011 WEST BROAD STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GLEN ALLEN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23060</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>687379</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>49.396</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>110390967</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported in this Form 4 was effected pursuant to a Share Repurchase Agreement between Enact Holdings, Inc. (the &quot;Issuer&quot;) and Genworth Holdings, Inc. dated as of February 2, 2026 (the &quot;Agreement&quot;). A copy of the Agreement can be found as exhibit 99.4 to the Issuer's Form 8-K filed on February 3, 2026, on the SEC's website at: https://www.sec.gov/Archives/edgar/data/1823529/000182352926000003/february2026genworthenacts.htm</footnote>
+        <footnote id="F2">Represents a price per share determined pursuant to the terms of the Agreement, based on a weighted average price paid by the Issuer for purchases from third-parties.</footnote>
+        <footnote id="F3">Genworth Holdings, Inc. owns approximately 81% of the outstanding shares of common stock of the Issuer.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Lisa J. Baldyga, Vice President and Treasurer on behalf of Genworth Holdings, Inc.</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

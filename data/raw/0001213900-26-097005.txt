@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001213900-26-097005.txt : 20260903
+<SEC-HEADER>0001213900-26-097005.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903103522
+ACCESSION NUMBER:		0001213900-26-097005
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HARVEY ELLEN D
+		CENTRAL INDEX KEY:			0001272498
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-21058
+		FILM NUMBER:		261357000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AETOS LONG/SHORT STRATEGIES FUND LLC
+		CENTRAL INDEX KEY:			0001169583
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AETOS ALTERNATIVES MANAGEMENT, LP
+		STREET 2:		875 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-201-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		AETOS ALTERNATIVES MANAGEMENT, LP
+		STREET 2:		875 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AETOS CAPITAL LONG/SHORT STRATEGIES FUND LLC
+		DATE OF NAME CHANGE:	20060605
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AETOS LONG SHORT STRATEGIES FUND LLC
+		DATE OF NAME CHANGE:	20020320
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001169583</issuerCik>
+        <issuerName>AETOS LONG/SHORT STRATEGIES FUND LLC</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001272498</rptOwnerCik>
+            <rptOwnerName>HARVEY ELLEN D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AETOS ALTERNATIVES MANAGEMENT</rptOwnerStreet1>
+            <rptOwnerStreet2>875 THIRD AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Limited Liability Company Interests</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7333.33</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1039239.62</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Limited Liability Company Interests are not unitized.</footnote>
+        <footnote id="F2">Based on 07/31/2026 net asset value (NAV), the most recent NAV available.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Marc Baum, power-of-attorney</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

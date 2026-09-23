@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001193125-26-371402.txt : 20260827
+<SEC-HEADER>0001193125-26-371402.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827163433
+ACCESSION NUMBER:		0001193125-26-371402
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Aspect Alain Jean
+		CENTRAL INDEX KEY:			0002146016
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43463
+		FILM NUMBER:		261331111
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		4 ALLEE DU HAMEAU DE LA FEVRIE
+		CITY:			GIF SUR YVETTE
+		PROVINCE COUNTRY:   	I0
+		ZIP:			91190
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pasqal Holding SA
+		CENTRAL INDEX KEY:			0002119292
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			I0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		23, RUE DE CHOISEUL
+		CITY:			75002 PARIS
+		PROVINCE COUNTRY:   	I0
+		ZIP:			00000
+		BUSINESS PHONE:		212-984-3835
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		23, RUE DE CHOISEUL
+		CITY:			75002 PARIS
+		PROVINCE COUNTRY:   	I0
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bleichroeder Acquisition France Merger Sub 2
+		DATE OF NAME CHANGE:	20260522
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bleichroeder Acquisition 2 France
+		DATE OF NAME CHANGE:	20260311
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002119292</issuerCik>
+        <issuerName>Pasqal Holding SA</issuerName>
+        <issuerTradingSymbol>PSQL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002146016</rptOwnerCik>
+            <rptOwnerName>Aspect Alain Jean</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PASQAL HOLDING SA</rptOwnerStreet1>
+            <rptOwnerStreet2>24 AV. EMILE BAUDOT</rptOwnerStreet2>
+            <rptOwnerCity>PALAISEAU</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>I0</rptOwnerCountry>
+            <rptOwnerZipCode>91120</rptOwnerZipCode>
+            <rptOwnerStateDescription>FRANCE</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>973107</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>973107</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Received pursuant to the consummation of the Issuer's business combination, in connection with the Agreement and Plan of Merger, dated as of February 28, 2026 (as amended, supplemented or otherwise modified from time to time, the &quot;Business Combination Agreement&quot;), by and among Bleichroeder Acquisition Corp. II (&quot;Bleichroeder&quot;), Bleichroeder Acquisition France Merger Sub 2 (&quot;Merger Sub&quot;), and Pasqal Holding SAS (&quot;Legacy Pasqal&quot;), which provided for, among other things and subject to the terms and conditions contained in the Business Combination Agreement,</footnote>
+        <footnote id="F2">Footnote 1 continued- (i) the merger of Bleichroeder with and into Merger Sub, with Merger Sub continuing as the surviving company (the &quot;Reincorporation Merger&quot;, and Merger Sub as the surviving company of the Reincorporation Merger, the &quot;Bleichroeder Surviving Corporation&quot;) and (ii) the merger of Legacy Pasqal with and into the Bleichroeder Surviving Corporation, with the Bleichroeder Surviving Corporation continuing as the surviving company and changing its name to &quot;Pasqal Holding SA&quot;.</footnote>
+        <footnote id="F3">Represents ordinary shares of Legacy Pasqal that were held directly by the Reporting Person, which, upon the consummation of the Issuer's business combination and pursuant to the exchange ratio of 22.7361449900136 set forth in the Business Combination Agreement, were automatically converted into newly issued ordinary shares of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephane Rougeot, by power of attorney</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

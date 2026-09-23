@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0001193125-26-384042.txt : 20260904
+<SEC-HEADER>0001193125-26-384042.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904213003
+ACCESSION NUMBER:		0001193125-26-384042
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Barrow Robert
+		CENTRAL INDEX KEY:			0001897557
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40360
+		FILM NUMBER:		261363184
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MIND MEDICINE INC.
+		STREET 2:		ONE WORLD TRADE CENTER, SUITE 8500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Definium Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001813814
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE WORLD TRADE CENTER
+		STREET 2:		SUITE 8500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+		BUSINESS PHONE:		212-220-6633
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE WORLD TRADE CENTER
+		STREET 2:		SUITE 8500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10007
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mind Medicine (MindMed) Inc.
+		DATE OF NAME CHANGE:	20200602
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001813814</issuerCik>
+        <issuerName>Definium Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>DFTX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001897557</rptOwnerCik>
+            <rptOwnerName>Barrow Robert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O DEFINIUM THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE WORLD TRADE CENTER, SUITE 8500</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10007</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1513663</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>19023</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>37.94</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1494640</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The common shares represent the first tranche of performance share units granted effective February 3, 2026.  Each performance share unit represented a contingent right to receive one common share based on, and subject to, the achievement of certain clinical and regulatory milestones set forth in the Performance Share Unit Award Agreement.</footnote>
+        <footnote id="F2">Amount includes 417 shares acquired under the Definium Therapeutics, Inc. 2024 Employee Share Purchase Plan on August 17, 2026.</footnote>
+        <footnote id="F3">Represents the number of Common Shares sold to satisfy withholding tax obligations in connection with the settlement of vested performance restricted stock units, pursuant to sell-to-cover elections under a Rule 10b5-1 plan adopted on June 15, 2022</footnote>
+        <footnote id="F4">The reported price is a weighted average sales price. These shares were sold in multiple transactions on September 3, 2026 at prices ranging from $37.46 to $38.94. The Reporting Person undertakes to provide the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Sullivan, Attorney-in-Fact for Robert Barrow</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

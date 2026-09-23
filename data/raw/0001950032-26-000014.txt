@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001950032-26-000014.txt : 20260916
+<SEC-HEADER>0001950032-26-000014.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916170739
+ACCESSION NUMBER:		0001950032-26-000014
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Arnaboldi Nicole S
+		CENTRAL INDEX KEY:			0001950032
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08841
+		FILM NUMBER:		261384525
+
+	MAIL ADDRESS:	
+		STREET 1:		700 UNIVERSE BLVD.
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXTERA ENERGY INC
+		CENTRAL INDEX KEY:			0000753308
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				592449419
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 UNIVERSE BLVD
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+		BUSINESS PHONE:		561-694-4697
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 14000
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FPL GROUP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000753308</issuerCik>
+        <issuerName>NEXTERA ENERGY INC</issuerName>
+        <issuerTradingSymbol>NEE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001950032</rptOwnerCik>
+            <rptOwnerName>Arnaboldi Nicole S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O NEXTERA ENERGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>700 UNIVERSE BLVD.</rptOwnerStreet2>
+            <rptOwnerCity>JUNO BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33408</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>67</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>81.07</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8542</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Phantom Stock Units approximate the number of phantom shares of the Issuer's common stock attributable to phantom units credited to the reporting person's account under the NextEra Energy, Inc. Deferred Compensation Plan (the &quot;Plan&quot;).  Amounts deferred under the Plan, including amounts attributable to reinvested dividends, are deemed to be invested in a number of unfunded theoretical units equal to the number of units which would have been credited if the deferred amounts had been invested in the Issuer's company stock fund in its Retirement Savings Plan (the &quot;Stock Fund&quot;).  The Stock Fund is accounted for in units of a unitized pool of stock and cash.  Phantom Stock Units are estimated based on the number of theoretical units credited to the reporting person.  Accounts are payable in cash at the end of the deferral period.</footnote>
+        <footnote id="F2">Closing price of Issuer's common stock on NYSE on the relevant date (price used to value units in the Stock Fund).</footnote>
+        <footnote id="F3">Differences in holdings between any given dates may result from varying percentages of cash and stock held in the Stock Fund on those dates.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>David Flechner, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

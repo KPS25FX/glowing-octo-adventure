@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001493152-26-043376.txt : 20260918
+<SEC-HEADER>0001493152-26-043376.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918170003
+ACCESSION NUMBER:		0001493152-26-043376
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wong Albert
+		CENTRAL INDEX KEY:			0002113576
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42817
+		FILM NUMBER:		261391623
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		21/F, WESTERN CENTRE
+		STREET 2:		40-50 DES VOEUX ROAD WEST
+		CITY:			HONG KONG
+		NON US STATE TERRITORY:  	CHINA
+		PROVINCE COUNTRY:   	K3
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eastern International Ltd.
+		CENTRAL INDEX KEY:			0002013320
+		STANDARD INDUSTRIAL CLASSIFICATION:	ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO [4731]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE901-903,BUILDING #2,
+		STREET 2:		QIANWANZHIGU ZONE,XIAOSHAN DISTRICT,
+		CITY:			HANGZHOU, ZHEJIANG PROVINCE
+		STATE:			F4
+		ZIP:			311231
+		BUSINESS PHONE:		(86) -571-8235-6096
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE901-903,BUILDING #2,
+		STREET 2:		QIANWANZHIGU ZONE,XIAOSHAN DISTRICT,
+		CITY:			HANGZHOU, ZHEJIANG PROVINCE
+		STATE:			F4
+		ZIP:			311231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002013320</issuerCik>
+        <issuerName>Eastern International Ltd.</issuerName>
+        <issuerTradingSymbol>ELOG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002113576</rptOwnerCik>
+            <rptOwnerName>Wong Albert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>STE 901, BLD #2,</rptOwnerStreet1>
+            <rptOwnerStreet2>XIAOSHAN ECONOMIC AND TECH DEV ZONE</rptOwnerStreet2>
+            <rptOwnerCity>HANGZHOU</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>CHINA</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>F4</rptOwnerCountry>
+            <rptOwnerZipCode>311231</rptOwnerZipCode>
+            <rptOwnerStateDescription>CHINA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series B Preferred Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Series B Preferred Share has 100 votes at the general meeting of the Company, and every two Series B Preferred Shares are convertible into one ordinary share of the Company at the holder's option.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Albert Wong</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

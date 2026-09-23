@@ -1,0 +1,205 @@
+<SEC-DOCUMENT>0001806386-26-000024.txt : 20260909
+<SEC-HEADER>0001806386-26-000024.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909173901
+ACCESSION NUMBER:		0001806386-26-000024
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Collins John DeNeen
+		CENTRAL INDEX KEY:			0001806386
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40193
+		FILM NUMBER:		261369100
+
+	MAIL ADDRESS:	
+		STREET 1:		LIVEPERSON, INC.
+		STREET 2:		475 TENTH AVENUE, 5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUNDHOUND AI, INC.
+		CENTRAL INDEX KEY:			0001840856
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE #1968
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+		BUSINESS PHONE:		650-560-4753
+
+	MAIL ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE #1968
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Archimedes Tech Spac Partners Co
+		DATE OF NAME CHANGE:	20210115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001840856</issuerCik>
+        <issuerName>SOUNDHOUND AI, INC.</issuerName>
+        <issuerTradingSymbol>SOUN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001806386</rptOwnerCik>
+            <rptOwnerName>Collins John DeNeen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SOUNDHOUND AI, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>5400 BETSY ROSS DR</rptOwnerStreet2>
+            <rptOwnerCity>SANTA CLARA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95054</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50573.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50573.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000000.00</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1050573.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to that Amended and Restated Merger Agreement, dated July 2, 2026 (as it may be amended from time to time, the &quot;Merger Agreement&quot;) by and among LivePerson, Inc. (&quot;LivePerson&quot;), the Issuer, Lightspeed Merger Sub Inc., an indirect wholly owned subsidiary of the Issuer (&quot;Merger Sub I&quot;) and Lightspeed Merger Sub II Inc., an indirect wholly owned subsidiary of the Issuer (&quot;Merger Sub II&quot;), Merger Sub I merged with and into LivePerson, with LivePerson continuing as the surviving corporation and becoming an indirect, wholly owned subsidiary of the Issuer (the &quot;First Merger&quot;) and immediately following the First Merger, a merger of Merger Sub II with and into the surviving corporation with LivePerson continuing as the surviving corporation and becoming an indirect, wholly owned subsidiary of the Issuer (the &quot;Second Merger&quot;).</footnote>
+        <footnote id="F2">Pursuant to the Merger Agreement, the Reporting Person's LivePerson common stock and restricted stock units converted into the Issuer's Class A common stock and restricted stock units, respectively, according to the terms of the Merger Agreement.</footnote>
+        <footnote id="F3">Represents a grant of restricted stock units. These restricted stock units vest in 48 equal monthly installments commencing on grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s /Warren Heit, attorney-in-fact for Collins John DeNeen</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

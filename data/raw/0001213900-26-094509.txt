@@ -1,0 +1,245 @@
+<SEC-DOCUMENT>0001213900-26-094509.txt : 20260827
+<SEC-HEADER>0001213900-26-094509.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827192511
+ACCESSION NUMBER:		0001213900-26-094509
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Combes Michel
+		CENTRAL INDEX KEY:			0001708849
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43463
+		FILM NUMBER:		261332399
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O F5 INC
+		STREET 2:		801 5TH AVENUE
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pasqal Holding SA
+		CENTRAL INDEX KEY:			0002119292
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		STATE OF INCORPORATION:			I0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		23, RUE DE CHOISEUL
+		CITY:			75002 PARIS
+		PROVINCE COUNTRY:   	I0
+		ZIP:			00000
+		BUSINESS PHONE:		212-984-3835
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		23, RUE DE CHOISEUL
+		CITY:			75002 PARIS
+		PROVINCE COUNTRY:   	I0
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bleichroeder Acquisition France Merger Sub 2
+		DATE OF NAME CHANGE:	20260522
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bleichroeder Acquisition 2 France
+		DATE OF NAME CHANGE:	20260311
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002119292</issuerCik>
+        <issuerName>Pasqal Holding SA</issuerName>
+        <issuerTradingSymbol>PSQL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001708849</rptOwnerCik>
+            <rptOwnerName>Combes Michel</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PASQAL HOLDING SA</rptOwnerStreet1>
+            <rptOwnerStreet2>24 AV. EMILE BAUDOT</rptOwnerStreet2>
+            <rptOwnerCity>PALAISEAU</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>I0</rptOwnerCountry>
+            <rptOwnerZipCode>91120</rptOwnerZipCode>
+            <rptOwnerStateDescription>FRANCE</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2511667</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2511667</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-09-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-27</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1500000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1500000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the Agreement and Plan of Merger, dated February 28, 2026, as amended, by and among Bleichroeder Acquisition Corp. II, a Cayman Islands exempted company (&quot;Bleichroeder&quot;), Bleichroeder Acquisition France Merger Sub 2, a French societe anonyme (&quot;Merger Sub&quot;), and Pasqal Holding SAS, a French societe par actions simplifiee (&quot;Pasqal&quot;), whereby Bleichroeder merged with and into Merger Sub, with Merger Sub continuing as the surviving company, and Pasqal merged with and into Merger Sub, with Merger Sub surviving the merger and being renamed &quot;Pasqal Holding SA&quot; (the &quot;Issuer&quot;) (the &quot;Business Combination&quot;).</footnote>
+        <footnote id="F2">As a result of the Business Combination, each ordinary share of Bleichroeder was automatically converted into ordinary shares, par value (euro) 0.02 per share (&quot;Ordinary Shares&quot;), of the Issuer, and each outstanding warrant of Bleichroeder was automatically converted into a warrant to purchase one Ordinary Share of the Issuer. Such warrants are exercisable 30 days after the completion of the Business Combination and expire five years after the completion of the Business Combination or earlier upon redemption or liquidation.</footnote>
+        <footnote id="F3">On August 27, 2026, in connection with the consummation of the Business Combination, Bleichroeder Sponsor 2 LLC (&quot;Sponsor&quot;) distributed an aggregate of 9,583,333 Ordinary Shares of the Issuer and 5,000,000 warrants to its members as a pro rata distribution for no consideration in accordance with the terms of the Sponsor's limited liability company agreement. Bleichroeder Management 2 LLC (&quot;BM2&quot;) was the managing member of the Sponsor and received its pro rata share of such distribution. Under Rule 16a-13 promulgated under the Securities Exchange Act of 1934, as amended (the &quot;Exchange Act&quot;), the reported distribution by the Sponsor to its members was exempt from Section 16 of the Exchange Act.</footnote>
+        <footnote id="F4">On August 27, 2026, BM2 distributed such Ordinary Shares of and warrants of Issuer to its members as a pro rata distribution for no consideration in accordance with the terms of its limited liability company agreement. The securities reported herein were distributed to MC Advisory L.L.C-FZ (&quot;MC Advisory&quot;) on such basis. Under Rule 16a-13 promulgated under the Exchange Act, the reported distribution by BM2 to its members and the acquisition by MC Advisory were exempt from Section 16 of the Exchange Act.</footnote>
+        <footnote id="F5">Includes securities which were distributed to MC Advisory, an entity formed in Dubai of which Michel Combes is the manager, in connection with the distribution by the Sponsor and BM2 of all of the Ordinary Shares and warrants held by it to its members, respectively. The securities are held by MC Advisory. Mr. Combes is the manager of MC Advisory and may be deemed to beneficially own such securities. Mr. Combes disclaims beneficial ownership of such securities except to the extent of any pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michel Combes</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

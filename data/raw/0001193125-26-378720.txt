@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-378720.txt : 20260901
+<SEC-HEADER>0001193125-26-378720.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901173607
+ACCESSION NUMBER:		0001193125-26-378720
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260830
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jones Stephen
+		CENTRAL INDEX KEY:			0001837268
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26926
+		FILM NUMBER:		261351962
+
+	MAIL ADDRESS:	
+		STREET 1:		6 LOGUE COURT
+		CITY:			GREENVILLE
+		STATE:			SC
+		ZIP:			29615
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCANSOURCE, INC.
+		CENTRAL INDEX KEY:			0000918965
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-COMPUTER & PERIPHERAL EQUIPMENT & SOFTWARE [5045]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				570965380
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6 LOGUE COURT
+		CITY:			GREENVILLE
+		STATE:			SC
+		ZIP:			29615
+		BUSINESS PHONE:		800.944.2432
+
+	MAIL ADDRESS:	
+		STREET 1:		6 LOGUE COURT
+		CITY:			GREENVILLE
+		STATE:			SC
+		ZIP:			29615
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCANSOURCE INC
+		DATE OF NAME CHANGE:	19940214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000918965</issuerCik>
+        <issuerName>SCANSOURCE, INC.</issuerName>
+        <issuerTradingSymbol>SCSC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001837268</rptOwnerCik>
+            <rptOwnerName>Jones Stephen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6 LOGUE COURT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREENVILLE</rptOwnerCity>
+            <rptOwnerState>SC</rptOwnerState>
+            <rptOwnerZipCode>29615</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SEVP &amp; CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1591</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>56.55</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>82846</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares withheld in satisfaction of tax withholding obligations upon vesting of restricted stock units. This is a non-market transaction.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>J. Creighton Lynes, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

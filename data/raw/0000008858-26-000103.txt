@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0000008858-26-000103.txt : 20260916
+<SEC-HEADER>0000008858-26-000103.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916183014
+ACCESSION NUMBER:		0000008858-26-000103
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chan Leng Jin
+		CENTRAL INDEX KEY:			0001831638
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04224
+		FILM NUMBER:		261384796
+
+	MAIL ADDRESS:	
+		STREET 1:		2150 EAST WARNER ROAD
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85284
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVNET INC
+		CENTRAL INDEX KEY:			0000008858
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC [5065]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				111890605
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0703
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2150 E. WARNER ROAD
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85284
+		BUSINESS PHONE:		4806432000
+
+	MAIL ADDRESS:	
+		STREET 1:		2150 E. WARNER ROAD
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85284
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000008858</issuerCik>
+        <issuerName>AVNET INC</issuerName>
+        <issuerTradingSymbol>AVT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001831638</rptOwnerCik>
+            <rptOwnerName>Chan Leng Jin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AVNET, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2150 E. WARNER RD.</rptOwnerStreet2>
+            <rptOwnerCity>TEMPE</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85284</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP, CIO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2233</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59023</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>93.71</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>46023</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of performance stock units earned under long-term incentive plans.</footnote>
+        <footnote id="F2">Some shares were sold at $93.82 and some shares were sold at $93.71, with an average price of $93.71. Upon request, the reporting person will provide information regarding the number of shares sold at each price to Avnet, any Avnet security holder, or the SEC.</footnote>
+        <footnote id="F3">Includes 30,274 shares that are earned but not vested.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Darrel S. Jackson, Attorney-In-Fact</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

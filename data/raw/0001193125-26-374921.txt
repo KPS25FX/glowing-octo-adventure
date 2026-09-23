@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001193125-26-374921.txt : 20260828
+<SEC-HEADER>0001193125-26-374921.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828185433
+ACCESSION NUMBER:		0001193125-26-374921
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lerner Steven J.
+		CENTRAL INDEX KEY:			0001537264
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43117
+		FILM NUMBER:		261341964
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PIEDMONT COMMUNITY BANK HOLDINGS,INC
+		STREET 2:		4711 SIX FORKS ROAD, SUITE 2B
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27609
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOLV Energy, Inc.
+		CENTRAL INDEX KEY:			0002065636
+		STANDARD INDUSTRIAL CLASSIFICATION:	HEAVY CONSTRUCTION OTHER THAN BUILDING CONST - CONTRACTORS [1600]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16680 WEST BERNARDO DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+		BUSINESS PHONE:		8582514888
+
+	MAIL ADDRESS:	
+		STREET 1:		16680 WEST BERNARDO DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002065636</issuerCik>
+        <issuerName>SOLV Energy, Inc.</issuerName>
+        <issuerTradingSymbol>MWH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001537264</rptOwnerCik>
+            <rptOwnerName>Lerner Steven J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SOLV ENERGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>16680 WEST BERNARDO DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92127</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1776</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1776</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person received 1,776 shares of Class A Common Stock as a one-time award for service as a non-employee director for the fiscal year ending December 31, 2026, valued at $50,000, based on the closing price per share of $28.14 on August 27, 2026, the date of the award.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam S. Forman, attorney-in-fact</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

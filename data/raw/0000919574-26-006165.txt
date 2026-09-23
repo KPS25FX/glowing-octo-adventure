@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0000919574-26-006165.txt : 20260903
+<SEC-HEADER>0000919574-26-006165.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903153450
+ACCESSION NUMBER:		0000919574-26-006165
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260618
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Briskin Brian
+		CENTRAL INDEX KEY:			0001868366
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22671
+		FILM NUMBER:		261358126
+
+	MAIL ADDRESS:	
+		STREET 1:		66 HUDSON BOULEVARD EAST, 26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AB Multi-Manager Alternative Fund
+		CENTRAL INDEX KEY:			0001543188
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ALLIANCEBERNSTEIN LP
+		STREET 2:		66 HUDSON BOULEVARD EAST, 26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		2129691000
+
+	MAIL ADDRESS:	
+		STREET 1:		ALLIANCEBERNSTEIN LP
+		STREET 2:		66 HUDSON BOULEVARD EAST, 26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AllianceBernstein Multi-Manager Alternative Fund
+		DATE OF NAME CHANGE:	20120224
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001543188</issuerCik>
+        <issuerName>AB Multi-Manager Alternative Fund</issuerName>
+        <issuerTradingSymbol>N/A</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001868366</rptOwnerCik>
+            <rptOwnerName>Briskin Brian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ALLIANCEBERNSTEIN L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>66 HUDSON BOULEVARD E</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Portfolio Manager</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5513.439</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.37</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39263.757</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5571.997</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.24</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33691.76</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person is tendering the reported shares of beneficial interest of the issuer (the &quot;Shares&quot;) for repurchase by the issuer at the unaudited net asset value per Share as of September 30, 2026 (the &quot;Valuation Date&quot;) in connection with the issuer's tender offer as described in the issuer's Schedule to Tender Offer Statement under Section 14(e)(1) or 13(e)(1) of the Securities Exchange Act of 1934 that was filed with the Securities and Exchange Commission by the issuer on May 15, 2026. As of May 31, 2026, the unaudited net asset value per Share is $12.24; however, the amount of Shares disposed of by the reporting person and the amount of Shares that the reporting person will be deemed to beneficially own after the issuer's tender offer is subject to adjustment based on the unaudited net asset value per Share as of September 30, 2026.</footnote>
+        <footnote id="F2">The reporting person will receive an initial payment equal to 95% of the value of the Shares repurchased approximately 45 days after the Valuation Date and the balance due will be paid promptly after completion of the issuer's next annual audit following the Valuation Date, expected to be completed in May 2027.</footnote>
+        <footnote id="F3">The amount of securities beneficially owned by the reporting person following this reported transaction reflects a reduction of 90.179 Shares acquired in the transaction reported in the Form 4 filed by the reporting person in respect of the issuer on June 3, 2026 due to an adjustment in the net asset value per Share of the issuer after the finalization of the net asset value per Share of the issuer as of May 29, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Richard Leahy as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

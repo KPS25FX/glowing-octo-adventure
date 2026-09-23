@@ -1,0 +1,236 @@
+<SEC-DOCUMENT>0001493152-26-041015.txt : 20260901
+<SEC-HEADER>0001493152-26-041015.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901161516
+ACCESSION NUMBER:		0001493152-26-041015
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Garner John B.
+		CENTRAL INDEX KEY:			0002133688
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42951
+		FILM NUMBER:		261351059
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O WESHOP HOLDINGS LTD
+		STREET 2:		HAWK HOUSE, 22 THE ESPLANADE
+		CITY:			JERSEY
+		PROVINCE COUNTRY:   	Y9
+		ZIP:			JE1 1HH
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WeShop Holdings Ltd
+		CENTRAL INDEX KEY:			0002048271
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS RETAIL [5900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HAWK HOUSE
+		STREET 2:		22 THE ESPLANADE
+		CITY:			JERSEY
+		STATE:			Y9
+		ZIP:			JE1 1HH
+		BUSINESS PHONE:		212-446-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		HAWK HOUSE
+		STREET 2:		22 THE ESPLANADE
+		CITY:			JERSEY
+		STATE:			Y9
+		ZIP:			JE1 1HH
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002048271</issuerCik>
+        <issuerName>WeShop Holdings Ltd</issuerName>
+        <issuerTradingSymbol>WSHP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002133688</rptOwnerCik>
+            <rptOwnerName>Garner John B.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>HAWK HOUSE</rptOwnerStreet1>
+            <rptOwnerStreet2>22 THE ESPLANADE</rptOwnerStreet2>
+            <rptOwnerCity>JERSEY</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>Y9</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>Y9</rptOwnerCountry>
+            <rptOwnerZipCode>JE1 1HH</rptOwnerZipCode>
+            <rptOwnerStateDescription>JERSEY</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Head of Strategy and Vision</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A ordinary shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>56401</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.64</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>753321</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A ordinary shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>773822</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Max Capital Limited</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Incentive Grant Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>9.64</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>56401</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-03-18</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-11-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>56401</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2246679</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported securities are held by Max Capital Limited (&quot;Max Capital&quot;). Voting and dispositive power with respect to the reported securities held by Max Capital is exercised by a committee of three, including the Reporting Person, none of whom individually has the power to direct such decisions. As such, the Reporting Person disclaims beneficial ownership of the securities held by Max Capital.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Johnny Hickling, as attorney-in-fact</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001193125-26-365940.txt : 20260826
+<SEC-HEADER>0001193125-26-365940.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826080003
+ACCESSION NUMBER:		0001193125-26-365940
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carroll Anthony
+		CENTRAL INDEX KEY:			0002100820
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40350
+		FILM NUMBER:		261317598
+
+	MAIL ADDRESS:	
+		STREET 1:		10900 STONELAKE BLVD.
+		STREET 2:		SUITE 100 QUARRY OAKS II BUILDING
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78759
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FTC Solar, Inc.
+		CENTRAL INDEX KEY:			0001828161
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				814816270
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10900 STONELAKE BLVD.
+		STREET 2:		SUITE 100 QUARRY OAKS II BUILDING
+		CITY:			AUSTIN
+		STATE:			TX
+		BUSINESS PHONE:		(907) 312-0717
+
+	MAIL ADDRESS:	
+		STREET 1:		10900 STONELAKE BLVD.
+		STREET 2:		SUITE 100 QUARRY OAKS II BUILDING
+		CITY:			AUSTIN
+		STATE:			TX
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001828161</issuerCik>
+        <issuerName>FTC Solar, Inc.</issuerName>
+        <issuerTradingSymbol>FTCI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002100820</rptOwnerCik>
+            <rptOwnerName>Carroll Anthony</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>10900 STONELAKE BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100 QUARRY OAKS II BUILDING</rptOwnerStreet2>
+            <rptOwnerCity>AUSTIN</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78759</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>24745</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.08</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>666200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a weighted average purchase price per share for these shares, which were purchased in multiple transactions at prices ranging from $2.020 to $2.120. The Reporting Person undertakes to provide to the Issuer, the staff of the Commission or any security holder of the Issuer, upon request, full information regarding the number of shares purchased at each separate price within the range.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cathy Behnen, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

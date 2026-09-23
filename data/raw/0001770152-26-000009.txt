@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001770152-26-000009.txt : 20260915
+<SEC-HEADER>0001770152-26-000009.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915210817
+ACCESSION NUMBER:		0001770152-26-000009
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Green Kristen
+		CENTRAL INDEX KEY:			0001770152
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07562
+		FILM NUMBER:		261382209
+
+	MAIL ADDRESS:	
+		STREET 1:		2 FOLSOM STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94501
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GAP INC
+		CENTRAL INDEX KEY:			0000039911
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				941697231
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO FOLSOM STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105-1205
+		BUSINESS PHONE:		4154270100
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO FOLSOM STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105-1205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GAP STORES INC
+		DATE OF NAME CHANGE:	19850617
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000039911</issuerCik>
+        <issuerName>GAP INC</issuerName>
+        <issuerTradingSymbol>GAP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001770152</rptOwnerCik>
+            <rptOwnerName>Green Kristen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>TWO FOLSOM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105-1205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9055</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>9055</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9055</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each stock unit represents a contingent right to receive one share of Gap Inc. common stock.</footnote>
+        <footnote id="F2">Each stock unit is immediately vested.  However, delivery of the shares is deferred until three years from the date of grant, unless further deferred, or immediately upon cessation of service as a member of the Board, if earlier.</footnote>
+        <footnote id="F3">Not applicable.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: De Anna Mekwunye, Power of Attorney For: Kirsten Green</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,320 @@
+<SEC-DOCUMENT>0001493152-26-043355.txt : 20260918
+<SEC-HEADER>0001493152-26-043355.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918162042
+ACCESSION NUMBER:		0001493152-26-043355
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20260917
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JACOBS IAN
+		CENTRAL INDEX KEY:			0001595560
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39080
+		FILM NUMBER:		261391127
+
+	MAIL ADDRESS:	
+		STREET 1:		5015 UNDERWOOD AVENUE
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68132
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Powerfleet, Inc.
+		CENTRAL INDEX KEY:			0001774170
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				834366463
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		123 TICE BLVD.
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+		BUSINESS PHONE:		201-996-9000
+
+	MAIL ADDRESS:	
+		STREET 1:		123 TICE BLVD.
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PowerFleet, Inc.
+		DATE OF NAME CHANGE:	20190417
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001774170</issuerCik>
+        <issuerName>Powerfleet, Inc.</issuerName>
+        <issuerTradingSymbol>AIOT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001595560</rptOwnerCik>
+            <rptOwnerName>JACOBS IAN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O POWERFLEET, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>123 TICE BOULEVARD</rptOwnerStreet2>
+            <rptOwnerCity>WOODCLIFF LAKE</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07677</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29167</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>102309</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3982432</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 17, 2026 (the &quot;Grant Date&quot;), the reporting person was granted 29,167 restricted stock units (&quot;RSUs&quot;) under the Powerfleet, Inc. 2018 Incentive Plan, as amended (the &quot;2018 Plan&quot;), in consideration of his services as a director of Powerfleet, Inc. (the &quot;Company&quot;). Each RSU represents a contingent right to receive one share of the Company's common stock, par value $0.01 per share, upon vesting. Subject to the terms and conditions of a restricted stock unit award agreement and the 2018 Plan, the RSUs vest in full on the earlier of (x) the first anniversary of the Grant Date and (y) the date of the Company's next annual meeting of stockholders, provided that the reporting person is serving as a director of the Company on such date.</footnote>
+        <footnote id="F2">These securities are directly owned by 786 Partners LP and 402 Fund LP. The reporting person has voting and investment power over such securities. The reporting person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ian Jacobs</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ex24.htm
+<DESCRIPTION>EX-24
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right; margin-top: 0pt; margin-bottom: 0pt"><B>Exhibit 24</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>POWER
+OF ATTORNEY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Know
+all by these presents, that the undersigned hereby constitutes and appoints each of <U>Steve Towe</U>, <U>Paul S. Lalljie</U>, <U>Paul
+Dell</U> and <U>John Frekko</U> his true and lawful attorney-in-fact to:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1.</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">execute
+    for and on behalf of the undersigned (i) Schedules 13D and 13G, Form ID, and Forms 3, 4 and 5 in accordance with Sections 13 and
+    16(a) of the Securities Exchange Act of 1934, as amended (the &ldquo;Exchange Act&rdquo;), and the rules thereunder, and (ii) Form
+    144 in accordance with Rule 144 of the Securities Act of 1933, as amended (the &ldquo;Securities Act&rdquo;), and the rules thereunder;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">2.</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">do
+    and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete the execution of
+    any such Schedules 13D or 13G, Form ID application for EDGAR codes, and Forms 3, 4, 5 or 144, and the timely filing of such Forms
+    with the United States Securities and Exchange Commission and any other authority; and</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3.</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">take
+    any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of
+    benefit to, in the best interest of, or legally required by, the undersigned, including, without limitation, the execution and filing
+    of a Form 4 with respect to a transaction which may be reported on a Form 5, it being understood that the documents executed by such
+    attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms
+    and conditions as such attorney-in-fact may approve in his discretion.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+undersigned hereby grants to such attorney-in-fact full power and authority to do and perform all and every act and thing whatsoever
+requisite, necessary and proper to be done in the exercise of any of the rights and powers herein granted, as fully and to all intents
+and purposes as he might or could do in person, with full power of substitution and resubstitution, hereby ratifying and confirming all
+that such attorney-in-fact, or his substitute or substitutes, shall lawfully do or cause to be done by virtue of this Power of Attorney
+and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity
+at the request of the undersigned, are not assuming any of the undersigned&rsquo;s responsibilities to comply with Sections 13 and 16
+of the Exchange Act and Rule 144 of the Securities Act.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file any Schedules 13D and 13G
+and Forms 3, 4 and 5 in accordance with Sections 13 and 16(a) of the Exchange Act and the rules thereunder and any Form 144 in accordance
+with Rule 144 of the Securities Act and the rules thereunder with respect to the undersigned&rsquo;s holdings of and transactions in
+securities issued by Powerfleet, Inc., unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Power of Attorney hereby revokes any other powers of attorney previously executed by the undersigned with respect to the execution and
+filing of any Schedules 13D and 13G, Form ID and Forms 3, 4 and 5 in accordance with Sections 13 and 16(a) of the Exchange Act and the
+rules thereunder and any Form 144 in accordance with Rule 144 of the Securities Act and the rules thereunder with respect to the undersigned&rsquo;s
+holdings of and transactions in securities issued by Powerfleet, Inc.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">[<I>Signature
+Page Follows</I>]</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 0pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">IN
+WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 18th day of September 2026.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif">/s/ <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Ian
+    Jacobs</FONT></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 45%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Ian
+    Jacobs</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

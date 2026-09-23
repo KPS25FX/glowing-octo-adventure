@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001193125-26-393688.txt : 20260917
+<SEC-HEADER>0001193125-26-393688.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917063012
+ACCESSION NUMBER:		0001193125-26-393688
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ackerman Jonathan Z.
+		CENTRAL INDEX KEY:			0001580050
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07677
+		FILM NUMBER:		261385163
+
+	MAIL ADDRESS:	
+		STREET 1:		333 CLAY STREET
+		STREET 2:		SUITE 2400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LSB INDUSTRIES, INC.
+		CENTRAL INDEX KEY:			0000060714
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INORGANIC CHEMICALS [2810]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				731015226
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3503 NW 63RD STREET
+		STREET 2:		SUITE 500
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73116-2238
+		BUSINESS PHONE:		4052354546
+
+	MAIL ADDRESS:	
+		STREET 1:		3503 NW 63RD STREET
+		STREET 2:		SUITE 500
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73116-2238
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LSB INDUSTRIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000060714</issuerCik>
+        <issuerName>LSB INDUSTRIES, INC.</issuerName>
+        <issuerTradingSymbol>LXU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001580050</rptOwnerCik>
+            <rptOwnerName>Ackerman Jonathan Z.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3503 NW 63RD ST,</rptOwnerStreet1>
+            <rptOwnerStreet2>STE 500</rptOwnerStreet2>
+            <rptOwnerCity>OKLAHOMA CITY</rptOwnerCity>
+            <rptOwnerState>OK</rptOwnerState>
+            <rptOwnerZipCode>73116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.30</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11252</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Purchase of stock reported on this Form 4 was executed pusuant to a 10b5-1 trading plan adopted by the Reporting Person on May 13, 2026.</footnote>
+        <footnote id="F2">This transaction was executed by Jonathan Z. Ackerman in multiple trades at prices ranging from $11.07 to $11.50. The price reported above reflects the weighted average purchase price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael J. Foster, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

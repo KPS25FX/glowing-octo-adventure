@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001193125-26-383783.txt : 20260904
+<SEC-HEADER>0001193125-26-383783.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904165158
+ACCESSION NUMBER:		0001193125-26-383783
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Paunovich Vukasin
+		CENTRAL INDEX KEY:			0001938690
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40478
+		FILM NUMBER:		261362666
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AMERICAN WELL CORPORATION
+		STREET 2:		75 STATE STREET, 26TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LifeStance Health Group, Inc.
+		CENTRAL INDEX KEY:			0001845257
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HEALTH SERVICES [8000]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 N. SCOTTSDALE ROAD
+		STREET 2:		SUITE 2500
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85251
+		BUSINESS PHONE:		602-767-2100
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 N. SCOTTSDALE ROAD
+		STREET 2:		SUITE 2500
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85251
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001845257</issuerCik>
+        <issuerName>LifeStance Health Group, Inc.</issuerName>
+        <issuerTradingSymbol>LFST</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001938690</rptOwnerCik>
+            <rptOwnerName>Paunovich Vukasin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O LIFESTANCE HEALTH GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4800 N. SCOTTSDALE ROAD, SUITE 2500</rptOwnerStreet2>
+            <rptOwnerCity>SCOTTSDALE</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85251</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42067</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.87</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>205379</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price. These shares were sold in multiple transactions ranging from $12.86 to $12.905 inclusive. The Reporting Person undertakes to provide to the Company, any security holder of the Company or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Ryan Pardo, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001193125-26-383716.txt : 20260904
+<SEC-HEADER>0001193125-26-383716.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904163004
+ACCESSION NUMBER:		0001193125-26-383716
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Harsh Jeffrey Stephen
+		CENTRAL INDEX KEY:			0002081864
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38990
+		FILM NUMBER:		261362414
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ADVANTAGE SOLUTIONS, INC.
+		STREET 2:		7676 FORSYTH BOULEVARD, 5TH FLOOR
+		CITY:			ST. LOUIS
+		STATE:			MO
+		ZIP:			63105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Advantage Solutions Inc.
+		CENTRAL INDEX KEY:			0001776661
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				834629508
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ADVANTAGE SOLUTIONS, INC.
+		STREET 2:		7676 FORSYTH BOULEVARD, 5TH FLOOR
+		CITY:			ST. LOUIS
+		STATE:			MO
+		ZIP:			63105
+		BUSINESS PHONE:		(314) 655-9333
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ADVANTAGE SOLUTIONS, INC.
+		STREET 2:		7676 FORSYTH BOULEVARD, 5TH FLOOR
+		CITY:			ST. LOUIS
+		STATE:			MO
+		ZIP:			63105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Conyers Park II Acquisition Corp.
+		DATE OF NAME CHANGE:	20190513
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001776661</issuerCik>
+        <issuerName>Advantage Solutions Inc.</issuerName>
+        <issuerTradingSymbol>ADV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002081864</rptOwnerCik>
+            <rptOwnerName>Harsh Jeffrey Stephen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ADVANTAGE SOLUTIONS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7676 FORSYTH BOULEVARD, FIFTH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>ST. LOUIS</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>63105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>COO, Branded Services</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>530</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>31.92</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18173</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld by the Company to satisfy tax withholding requirements on vesting of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Bryce Robinson, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

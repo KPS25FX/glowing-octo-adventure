@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001193125-26-387895.txt : 20260910
+<SEC-HEADER>0001193125-26-387895.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910161446
+ACCESSION NUMBER:		0001193125-26-387895
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Katzman James C
+		CENTRAL INDEX KEY:			0001729886
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10275
+		FILM NUMBER:		261371252
+
+	MAIL ADDRESS:	
+		STREET 1:		6000 N. HOMESTEAD LANE
+		CITY:			PARADISE VALLEY
+		STATE:			AZ
+		ZIP:			85253
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRINKER INTERNATIONAL, INC
+		CENTRAL INDEX KEY:			0000703351
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				751914582
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0624
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3000 OLYMPUS BLVD.
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75019
+		BUSINESS PHONE:		9729809917
+
+	MAIL ADDRESS:	
+		STREET 1:		3000 OLYMPUS BLVD.
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRINKER INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHILIS INC
+		DATE OF NAME CHANGE:	19910528
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000703351</issuerCik>
+        <issuerName>BRINKER INTERNATIONAL, INC</issuerName>
+        <issuerTradingSymbol>EAT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001729886</rptOwnerCik>
+            <rptOwnerName>Katzman James C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3000 OLYMPUS BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>650</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>220.09</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25094</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transactions reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan previously adopted by the Reporting Person on June 5, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher L. Green, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

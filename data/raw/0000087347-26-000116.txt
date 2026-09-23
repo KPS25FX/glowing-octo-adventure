@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0000087347-26-000116.txt : 20260826
+<SEC-HEADER>0000087347-26-000116.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826172850
+ACCESSION NUMBER:		0000087347-26-000116
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Le Peuch Olivier
+		CENTRAL INDEX KEY:			0001497824
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04601
+		FILM NUMBER:		261324172
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SCHLUMBERGER LIMITED
+		STREET 2:		5599 SAN FELIPE ST., 17TH FL.
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SLB LIMITED/NV
+		CENTRAL INDEX KEY:			0000087347
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				520684746
+		STATE OF INCORPORATION:			P8
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5599 SAN FELIPE
+		STREET 2:		17TH FLOOR
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+		BUSINESS PHONE:		7135132000
+
+	MAIL ADDRESS:	
+		STREET 1:		5599 SAN FELIPE
+		STREET 2:		17TH FLOOR
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCHLUMBERGER LIMITED/NV
+		DATE OF NAME CHANGE:	20161006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCHLUMBERGER LTD /NV/
+		DATE OF NAME CHANGE:	19951031
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCHLUMBERGER NV
+		DATE OF NAME CHANGE:	19920804
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000087347</issuerCik>
+        <issuerName>SLB LIMITED/NV</issuerName>
+        <issuerTradingSymbol>SLB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001497824</rptOwnerCik>
+            <rptOwnerName>Le Peuch Olivier</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5599 SAN FELIPE, 17TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77056</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.01 Par Value Per Share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>52.55</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1341328</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 27, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Samantha Blons, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

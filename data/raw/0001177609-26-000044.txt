@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001177609-26-000044.txt : 20260916
+<SEC-HEADER>0001177609-26-000044.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916163728
+ACCESSION NUMBER:		0001177609-26-000044
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SPECTER ERIC M
+		CENTRAL INDEX KEY:			0001024770
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35600
+		FILM NUMBER:		261384204
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FIVE BELOW, INC.
+		STREET 2:		701 MARKET STREET, SUITE 300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIVE BELOW, INC
+		CENTRAL INDEX KEY:			0001177609
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				753000378
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 MARKET STREET
+		STREET 2:		SUITE 300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+		BUSINESS PHONE:		215 546 7909
+
+	MAIL ADDRESS:	
+		STREET 1:		701 MARKET STREET
+		STREET 2:		SUITE 300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIVE BELOW INC
+		DATE OF NAME CHANGE:	20030305
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHEAP HOLDINGS INC
+		DATE OF NAME CHANGE:	20020717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001177609</issuerCik>
+        <issuerName>FIVE BELOW, INC</issuerName>
+        <issuerTradingSymbol>FIVE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001024770</rptOwnerCik>
+            <rptOwnerName>SPECTER ERIC M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FIVE BELOW, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>701 MARKET STREET, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19106</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CAO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>248.99</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35482</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Christos G. Yatrakis, Attorney-in-Fact for Eric M. Specter</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

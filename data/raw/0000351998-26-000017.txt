@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0000351998-26-000017.txt : 20260903
+<SEC-HEADER>0000351998-26-000017.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903150543
+ACCESSION NUMBER:		0000351998-26-000017
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DiBona Charles Joseph
+		CENTRAL INDEX KEY:			0002085550
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10394
+		FILM NUMBER:		261358027
+
+	MAIL ADDRESS:	
+		STREET 1:		2415 8TH AVENUE W
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98119
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DATA I/O CORP
+		CENTRAL INDEX KEY:			0000351998
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				910864123
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1211
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6645 185TH AVE NE, SUITE 100
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052
+		BUSINESS PHONE:		4258676922
+
+	MAIL ADDRESS:	
+		STREET 1:		6645 185TH AVE NE, SUITE 100
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000351998</issuerCik>
+        <issuerName>DATA I/O CORP</issuerName>
+        <issuerTradingSymbol>DAIO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002085550</rptOwnerCik>
+            <rptOwnerName>DiBona Charles Joseph</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>6645 185TH AVE NE, #100</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>REDMOND</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98052</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Vice President &amp; CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10345</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.885</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>89655</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld to cover taxes on vesting issuance.</footnote>
+        <footnote id="F2">FMV price is the average of high  low for the day.</footnote>
+    </footnotes>
+
+    <remarks>RSU Vesting with shares withheld to cover taxes</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Charles Joesph DiBona</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

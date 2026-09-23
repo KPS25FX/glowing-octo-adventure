@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0000025475-26-000078.txt : 20260903
+<SEC-HEADER>0000025475-26-000078.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903145505
+ACCESSION NUMBER:		0000025475-26-000078
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260820
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SWAIN WILLIAM B JR
+		CENTRAL INDEX KEY:			0001245585
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10356
+		FILM NUMBER:		261357993
+
+	MAIL ADDRESS:	
+		STREET 1:		1001 SUMMIT BLVD, N.E.
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30319
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRAWFORD & CO
+		CENTRAL INDEX KEY:			0000025475
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				580506554
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5335 TRIANGLE PARKWAY
+		CITY:			PEACHTREE CORNERS
+		STATE:			GA
+		ZIP:			30092
+		BUSINESS PHONE:		4043001000
+
+	MAIL ADDRESS:	
+		STREET 1:		5335 TRIANGLE PARKWAY
+		CITY:			PEACHTREE CORNERS
+		STATE:			GA
+		ZIP:			30092
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>form4a.xml
+<DESCRIPTION>AMENDED STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-08-20</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-08-20</dateOfOriginalSubmission>
+
+    <issuer>
+        <issuerCik>0000025475</issuerCik>
+        <issuerName>CRAWFORD &amp; CO</issuerName>
+        <issuerTradingSymbol>CRDA CRDB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001245585</rptOwnerCik>
+            <rptOwnerName>SWAIN WILLIAM B JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CRAWFORD &amp; COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>5335 TRIANGLE PKWY</rptOwnerStreet2>
+            <rptOwnerCity>PEACHTREE CORNERS</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30092</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO &amp; President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>54315</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.29</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>369589</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">A correction to an error in tax calculations decreased the number of shares withheld for the Reporting Person by 137 shares and increased the number of shares beneficially owned shares by 137, to 369,589.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ William B Swain</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

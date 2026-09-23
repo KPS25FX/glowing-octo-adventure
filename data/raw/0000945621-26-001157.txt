@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0000945621-26-001157.txt : 20260917
+<SEC-HEADER>0000945621-26-001157.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917155935
+ACCESSION NUMBER:		0000945621-26-001157
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nagpal Ankur
+		CENTRAL INDEX KEY:			0002126229
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23660
+		FILM NUMBER:		261386730
+
+	MAIL ADDRESS:	
+		STREET 1:		140 LAKESIDE AVE
+		STREET 2:		SUITE 100
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98122
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			USVC Venture Capital Access Fund
+		CENTRAL INDEX KEY:			0001858660
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 LAKESIDE AVENUE, SUITE 100
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98122
+		BUSINESS PHONE:		833-729-0934
+
+	MAIL ADDRESS:	
+		STREET 1:		140 LAKESIDE AVENUE, SUITE 100
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98122
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SVX LLC
+		DATE OF NAME CHANGE:	20220616
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Silicon Valley Access Fund LLC
+		DATE OF NAME CHANGE:	20220209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AL Venture Fund LLC
+		DATE OF NAME CHANGE:	20210422
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001858660</issuerCik>
+        <issuerName>USVC Venture Capital Access Fund</issuerName>
+        <issuerTradingSymbol>N/A</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002126229</rptOwnerCik>
+            <rptOwnerName>Nagpal Ankur</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>140 LAKESIDE AVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98122</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Portfolio Manager</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1523.944</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>22.47</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>51041.069</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Ankur Nagpal</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

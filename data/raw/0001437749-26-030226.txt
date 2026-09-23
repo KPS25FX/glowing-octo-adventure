@@ -1,0 +1,259 @@
+<SEC-DOCUMENT>0001437749-26-030226.txt : 20260914
+<SEC-HEADER>0001437749-26-030226.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914073331
+ACCESSION NUMBER:		0001437749-26-030226
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gonzalez Francisco
+		CENTRAL INDEX KEY:			0001907671
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39648
+		FILM NUMBER:		261375812
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SKY HARBOUR GROUP CORPORATION
+		STREET 2:		136 TOWER ROAD, HANGAR M, SUITE 205
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sky Harbour Group Corp
+		CENTRAL INDEX KEY:			0001823587
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				852732947
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+		BUSINESS PHONE:		(402) 225-6511
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Yellowstone Acquisition Co
+		DATE OF NAME CHANGE:	20200903
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001823587</issuerCik>
+        <issuerName>Sky Harbour Group Corp</issuerName>
+        <issuerTradingSymbol>SKYH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001907671</rptOwnerCik>
+            <rptOwnerName>Gonzalez Francisco</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SKY HARBOUR GROUP CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>136 TOWER ROAD, HANGAR M, SUITE 205</rptOwnerStreet2>
+            <rptOwnerCity>WHITE PLAINS</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10604</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.08</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>711588</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.6300</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2030-02-15</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2034-02-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>250000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.0700</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2031-02-18</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2035-02-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>222541</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>222541</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>8.8500</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2032-02-18</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-02-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>340807</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>340807</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reported amount includes 201,559 shares of Class A Common Stock and 510,029 restricted stock units (&quot;RSUs&quot;) granted under the Sky Harbour Group Corporation 2022 Incentive Award Plan. Each RSU represents the contingent right to receive, in accordance with the terms of the applicable RSU agreement, one share of Class A Common Stock of the Issuer for each vested RSU. The RSUs vest in installments in accordance with the terms of the applicable RSU agreement, provided the reporting person remains in service through the applicable vesting date.</footnote>
+        <footnote id="F2">Represents stock options granted under the Sky Harbour Group Corporation 2022 Incentive Award Plan. The stock options vest in installments in accordance with the terms of the applicable stock option agreement, provided the reporting person remains in service through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gerald Adler, Attorney-in-fact</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

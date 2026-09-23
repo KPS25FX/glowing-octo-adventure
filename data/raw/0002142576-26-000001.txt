@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0002142576-26-000001.txt : 20260826
+<SEC-HEADER>0002142576-26-000001.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826170121
+ACCESSION NUMBER:		0002142576-26-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260812
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PAREDES MARIA MILAGROS
+		CENTRAL INDEX KEY:			0002142576
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55139
+		FILM NUMBER:		261323871
+
+	MAIL ADDRESS:	
+		STREET 1:		208A SOUTH MAIN STREET
+		CITY:			YERINGTON
+		STATE:			NV
+		ZIP:			89441
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LION COPPER & GOLD CORP.
+		CENTRAL INDEX KEY:			0001339688
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O #1200-750 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 2T8
+		BUSINESS PHONE:		778-898-0057
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O #1200-750 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 2T8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	QUATERRA RESOURCES INC
+		DATE OF NAME CHANGE:	20050923
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001339688</issuerCik>
+        <issuerName>LION COPPER &amp; GOLD CORP.</issuerName>
+        <issuerTradingSymbol>LCGMF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>CSE:LEO</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002142576</rptOwnerCik>
+            <rptOwnerName>PAREDES MARIA MILAGROS</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>517 WEST BRIDGE ST, SUITE A</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>YERINGTON</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89447</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.191</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2500000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2500000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">(1) 1,000,000 Options vested on 08/12/2026; 750,000 Options will vest upon the uplisting to NASDAQ or NYSE or final investment decision by Nuton LLC, whichever comes first; and 750,000 Options will vest upon either (i) the value of the Issuer's market capitalization being no less than US$200,000,000 for any 30 consecutive trading days; or (ii) the Issuer or its securityholders receiving consideration upon closing of a liquidity event having a fair market value of no less that US$200,000,000.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Maria Milagros Paredes</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

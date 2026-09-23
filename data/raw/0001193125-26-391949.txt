@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-391949.txt : 20260915
+<SEC-HEADER>0001193125-26-391949.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915161517
+ACCESSION NUMBER:		0001193125-26-391949
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hamilton Ewan William
+		CENTRAL INDEX KEY:			0001971110
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41732
+		FILM NUMBER:		261380961
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KODIAK GAS SERVICES, INC.
+		STREET 2:		9950 WOODLOCH FOREST DRIVE, SUITE 1900
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kodiak Gas Services, Inc.
+		CENTRAL INDEX KEY:			0001767042
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION [4922]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				833013440
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9950 WOODLOCH FOREST DRIVE, 19TH FLOOR
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+		BUSINESS PHONE:		936-539-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		9950 WOODLOCH FOREST DRIVE, 19TH FLOOR
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Frontier TopCo, Inc.
+		DATE OF NAME CHANGE:	20190206
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001767042</issuerCik>
+        <issuerName>Kodiak Gas Services, Inc.</issuerName>
+        <issuerTradingSymbol>KGS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001971110</rptOwnerCik>
+            <rptOwnerName>Hamilton Ewan William</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>9950 WOODLOCH FOREST DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1900</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77380</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP &amp; Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2729</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>61.85</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26674</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction is pursuant to a 10b5-1 trading plan adopted March 17, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer LeGrand Howard, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

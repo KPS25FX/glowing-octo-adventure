@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001225208-26-007491.txt : 20260901
+<SEC-HEADER>0001225208-26-007491.hdr.sgml : 20260901
+<ACCEPTANCE-DATETIME>20260901164845
+ACCESSION NUMBER:		0001225208-26-007491
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260901
+DATE AS OF CHANGE:		20260901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jaycox Kenneth E
+		CENTRAL INDEX KEY:			0001827434
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10714
+		FILM NUMBER:		261351507
+
+	MAIL ADDRESS:	
+		STREET 1:		123 SOUTH FRONT STREET
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38120
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AUTOZONE INC
+		CENTRAL INDEX KEY:			0000866787
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-AUTO & HOME SUPPLY STORES [5531]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				621482048
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0829
+
+	BUSINESS ADDRESS:	
+		STREET 1:		123 SOUTH FRONT ST
+		STREET 2:		DEPT 8074
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38103
+		BUSINESS PHONE:		9014956500
+
+	MAIL ADDRESS:	
+		STREET 1:		123 S. FRONT ST.
+		STREET 2:		DEPT 8074
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000866787</issuerCik>
+        <issuerName>AUTOZONE INC</issuerName>
+        <issuerTradingSymbol>AZO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001827434</rptOwnerCik>
+            <rptOwnerName>Jaycox Kenneth E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>123 SOUTH FRONT STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MEMPHIS</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>38103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP Commercial</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1688.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2961.9600</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1703.0789</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of 1,688 shares of restricted stock. The shares vest in full on August 28, 2031, subject to the reporting person's continued service through the vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kenneth E Jaycox</signatureName>
+        <signatureDate>2026-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

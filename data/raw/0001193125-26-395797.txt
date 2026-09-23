@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-395797.txt : 20260918
+<SEC-HEADER>0001193125-26-395797.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918184254
+ACCESSION NUMBER:		0001193125-26-395797
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kurzymski Maciej
+		CENTRAL INDEX KEY:			0002067410
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38598
+		FILM NUMBER:		261391964
+
+	MAIL ADDRESS:	
+		STREET 1:		4353 NORTH FIRST STREET
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bloom Energy Corp
+		CENTRAL INDEX KEY:			0001664703
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				770565408
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4353 NORTH FIRST STREET
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		408-543-1500
+
+	MAIL ADDRESS:	
+		STREET 1:		4353 NORTH FIRST STREET
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001664703</issuerCik>
+        <issuerName>Bloom Energy Corp</issuerName>
+        <issuerTradingSymbol>BE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002067410</rptOwnerCik>
+            <rptOwnerName>Kurzymski Maciej</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4353 NORTH FIRST STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2295</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>268.42</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>77391</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Sale of shares to cover tax withholding obligation incurred upon settlement of restricted stock units.</footnote>
+        <footnote id="F2">The price reported represents the weighted average sale price per share. The shares were sold in multiple transactions at prices ranging from $263.22 to $274.14. Upon request by the staff of the U.S. Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Shawn M. Soderberg, as attorney-in-fact</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0000712034-26-000077.txt : 20260910
+<SEC-HEADER>0000712034-26-000077.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910152145
+ACCESSION NUMBER:		0000712034-26-000077
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RAJKOWSKI E MARK
+		CENTRAL INDEX KEY:			0001258268
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08454
+		FILM NUMBER:		261370872
+
+	MAIL ADDRESS:	
+		STREET 1:		FOUR CORPORATE DRIVE
+		CITY:			LAKE ZURICH
+		STATE:			IL
+		ZIP:			60047
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCO BRANDS Corp
+		CENTRAL INDEX KEY:			0000712034
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANKBOOKS, LOOSELEAF BINDERS & BOOKBINDING & RELATED WORK [2780]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				362704017
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FOUR CORPORATE DRIVE
+		CITY:			LAKE ZURICH
+		STATE:			IL
+		ZIP:			60047
+		BUSINESS PHONE:		847-541-9500
+
+	MAIL ADDRESS:	
+		STREET 1:		FOUR CORPORATE DRIVE
+		CITY:			LAKE ZURICH
+		STATE:			IL
+		ZIP:			60047
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCO BRANDS CORP
+		DATE OF NAME CHANGE:	20050817
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCO WORLD CORP
+		DATE OF NAME CHANGE:	19830106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000712034</issuerCik>
+        <issuerName>ACCO BRANDS Corp</issuerName>
+        <issuerTradingSymbol>ACCO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001258268</rptOwnerCik>
+            <rptOwnerName>RAJKOWSKI E MARK</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ACCO BRANDS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAKE ZURICH</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60047</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5127.2</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5127.2</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300451</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock Units (RSUs) granted under the Issuer's Incentive Plan. RSUs are immediately vested or vest on the one year anniversary of the grant date, but in either case, have  been deferred under the Issuer's Deferred Compensation Plan for Non-Employee Directors. Each RSU represents the right to receive one share of the Issuer's common stock upon the earlier of the date of the reporting person's death or disability, or cessation of service as a member of the Board of Directors.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kathryn D. Ingraham, Attorney-in-fact for E. Mark Rajkowski</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

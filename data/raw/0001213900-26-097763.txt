@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001213900-26-097763.txt : 20260904
+<SEC-HEADER>0001213900-26-097763.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904171542
+ACCESSION NUMBER:		0001213900-26-097763
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ryan Elizabeth Anne
+		CENTRAL INDEX KEY:			0001953425
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23658
+		FILM NUMBER:		261362827
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FORUM CAPITAL ADVISORS, LLC
+		STREET 2:		240 SAINT PAUL STREET, SUITE 400
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80206
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Forum Real Estate Income Fund
+		CENTRAL INDEX KEY:			0001857314
+		ORGANIZATION NAME:           	
+		EIN:				862859042
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O FREIF ADVISORS, LLC
+		STREET 2:		240 SAINT PAUL STREET, SUITE 400
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80206
+		BUSINESS PHONE:		303-501-8860
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FREIF ADVISORS, LLC
+		STREET 2:		240 SAINT PAUL STREET, SUITE 400
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Forum CRE Income Fund
+		DATE OF NAME CHANGE:	20210415
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001857314</issuerCik>
+        <issuerName>Forum Real Estate Income Fund</issuerName>
+        <issuerTradingSymbol>FORFX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001953425</rptOwnerCik>
+            <rptOwnerName>Ryan Elizabeth Anne</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FORUM CAPITAL ADVISORS LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>240 SAINT PAUL STREET, SUITE 400</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80206</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>FORFX</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-09-04</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3681.283</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.69</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Elizabeth Ryan</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,209 @@
+<SEC-DOCUMENT>0001225208-26-007833.txt : 20260915
+<SEC-HEADER>0001225208-26-007833.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915161412
+ACCESSION NUMBER:		0001225208-26-007833
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vichness Shaul
+		CENTRAL INDEX KEY:			0001801275
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01338
+		FILM NUMBER:		261380942
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NUVEEN
+		STREET 2:		333 W. WACKER DRIVE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuveen Churchill Direct Lending Corp.
+		CENTRAL INDEX KEY:			0001737924
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10152
+		BUSINESS PHONE:		(212) 207-2003
+
+	MAIL ADDRESS:	
+		STREET 1:		375 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10152
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nuveen Churchill BDC INC.
+		DATE OF NAME CHANGE:	20191230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nuveen Churchill BDC LLC
+		DATE OF NAME CHANGE:	20180418
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001737924</issuerCik>
+        <issuerName>Nuveen Churchill Direct Lending Corp.</issuerName>
+        <issuerTradingSymbol>NCDL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001801275</rptOwnerCik>
+            <rptOwnerName>Vichness Shaul</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>375 PARK AVENUE, 9TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10152</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Financial Off./Treasurer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-27</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-07-27</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>431.1560</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14491.9260</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-09-14</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.2500</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36646.7960</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares of common stock were acquired and priced pursuant to the terms of the Company's Dividend Reinvestment Plan (&quot;DRIP&quot;).</footnote>
+        <footnote id="F2">The total shares held directly include 385.777 shares of common stock acquired pursuant to the Company's Dividend Reinvestment Plan (&quot;DRIP&quot;) on April 27, 2026, and 431.156 DRIP shares acquired on July 27, 2026.</footnote>
+        <footnote id="F3">The total shares held indirectly by the trust include 705.259 shares of common stock acquired pursuant to the Company's Dividend Reinvestment Plan (&quot;DRIP&quot;) on April 27, 2026, and 941.537 DRIP shares acquired on July 27, 2026.</footnote>
+    </footnotes>
+
+    <remarks>vichnesspoa.txt</remarks>
+
+    <ownerSignature>
+        <signatureName>John McCally/signed under POA</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

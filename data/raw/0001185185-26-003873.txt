@@ -1,0 +1,219 @@
+<SEC-DOCUMENT>0001185185-26-003873.txt : 20260908
+<SEC-HEADER>0001185185-26-003873.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908160014
+ACCESSION NUMBER:		0001185185-26-003873
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260701
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Patel Aatish
+		CENTRAL INDEX KEY:			0002120066
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42208
+		FILM NUMBER:		261364989
+
+	MAIL ADDRESS:	
+		STREET 1:		128 SERENITY HILLS DR
+		CITY:			GEORGETOWN
+		STATE:			TX
+		ZIP:			78628
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XCHG Ltd
+		CENTRAL INDEX KEY:			0001979887
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		XCHARGE EUROPE GMBH, HESELSTUCKEN 18
+		CITY:			HAMBURG
+		PROVINCE COUNTRY:   	2M
+		ZIP:			22453
+		BUSINESS PHONE:		49 4057128593
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		XCHARGE EUROPE GMBH, HESELSTUCKEN 18
+		CITY:			HAMBURG
+		PROVINCE COUNTRY:   	2M
+		ZIP:			22453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-07-01</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-07-02</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001979887</issuerCik>
+        <issuerName>XCHG Ltd</issuerName>
+        <issuerTradingSymbol>XCH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002120066</rptOwnerCik>
+            <rptOwnerName>Patel Aatish</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>XCHARGE ENERGY USA INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>19121 MARKETPLACE AVE, BLDG 2-STE 2-145</rptOwnerStreet2>
+            <rptOwnerCity>KYLE</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78640</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4155160</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10387960</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-07-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4155160</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4155160</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15581960</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the vesting of Restricted Stock Units (&quot;RSUs&quot;) on July 1, 2026. The reporting person holds additional RSUs that will vest on the following schedule, subject to the Reporting Person's continued employment with the Issuer or its group member: 5,194,000 RSUs will vest on each of September 10, 2026 and September 10, 2027; and 5,193,960 RSUs will vest on September 10, 2028. Each RSU represents the contingent right to receive, following vesting, one of the Issuer's Class A Ordinary Shares, par value US$0.00001 per share (each, a &quot;Class A Ordinary Share&quot;), or the equivalent value of one Class A Ordinary Share in cash. In lieu of Class A Ordinary Shares, the RSUs may be settled in an equivalent number of ADSs.</footnote>
+    </footnotes>
+
+    <remarks>The Power of Attorney given by Mr. Patel was previously filed with the U.S. Securities and Exchange Commission on March 18, 2026, as an exhibit to a statement on Form 3 filed by Mr. Patel with respect to XCHG Limited and is hereby incorporated by reference. This amendment is being filed solely to reflect that, effective September 7, 2026, the Reporting Person ceased serving as the President of the Issuer and is no longer subject to Section 16 of the Securities Exchange Act of 1934. The transaction and beneficial ownership information set forth herein is unchanged from the information previously reported in the original Form 4 filed on July 2, 2026. The Reporting Person will serve as the General Manager of XCharge Energy USA Inc., a wholly-owned subsidiary of the Issuer.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ran Li, attorney-in-fact for Aatish V. Patel</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

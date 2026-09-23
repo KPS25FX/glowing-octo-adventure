@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001193125-26-389561.txt : 20260911
+<SEC-HEADER>0001193125-26-389561.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911201002
+ACCESSION NUMBER:		0001193125-26-389561
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tingley Whittemore
+		CENTRAL INDEX KEY:			0001868494
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40656
+		FILM NUMBER:		261375598
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TENAYA THERAPEUTICS, INC.
+		STREET 2:		171 OYSTER POINT BOULEVARD
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tenaya Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001858848
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				813789973
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		171 OYSTER POINT BLVD., SUITE 500
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+		BUSINESS PHONE:		415-865-2066
+
+	MAIL ADDRESS:	
+		STREET 1:		171 OYSTER POINT BLVD., SUITE 500
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001858848</issuerCik>
+        <issuerName>Tenaya Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>TNYA</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001868494</rptOwnerCik>
+            <rptOwnerName>Tingley Whittemore</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TENAYA THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>171 OYSTER POINT BLVD., 5TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>SOUTH SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94080</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Medical Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+                <footnoteId id="F2"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>49000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>263073</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.6488</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>293000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-10-10</value>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-09-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>293000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>293000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of Tenaya Therapeutics, Inc. common stock that will be issued to the Reporting Person upon vesting of restricted stock units. Each restricted stock unit is the economic equivalent of one share of Tenaya Therapeutics, Inc. common stock.</footnote>
+        <footnote id="F2">The restricted stock units were granted to the Reporting Person on the Transaction Date pursuant to the Tenaya Therapeutics, Inc. Amended and Restated 2021 Equity Incentive Plan. The restricted stock units will vest as to 1/8th of the total number of shares subject to the restricted stock unit award on February 15, 2027, and 1/8th of the total number of shares subject to the restricted stock unit award every six months thereafter until fully vested.</footnote>
+        <footnote id="F3">Includes 142,076 shares of Tenaya Therapeutics, Inc. common stock that will be issued to the Reporting Person upon vesting of restricted stock units.</footnote>
+        <footnote id="F4">Option granted pursuant to the Tenaya Therapeutics, Inc. Amended and Restated 2021 Equity Incentive Plan. Option will vest as to 1/48th of the total number of shares subject to the option on the one month anniversary of the Transaction Date and 1/48th of the total number of shares subject to the option on each monthly anniversary thereafter until fully vested.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer Drimmer Rokovich, Attorney in Fact</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

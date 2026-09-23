@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001225208-26-007866.txt : 20260917
+<SEC-HEADER>0001225208-26-007866.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917180801
+ACCESSION NUMBER:		0001225208-26-007866
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reinsdorf Judith A
+		CENTRAL INDEX KEY:			0001305361
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31225
+		FILM NUMBER:		261387986
+
+	MAIL ADDRESS:	
+		STREET 1:		5605 CARNEGIE BLVD.
+		STREET 2:		SUITE 500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28209
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Enpro Inc.
+		CENTRAL INDEX KEY:			0001164863
+		STANDARD INDUSTRIAL CLASSIFICATION:	GASKETS, PACKAGING AND SEALING DEVICES & RUBBER & PLASTIC HOSE [3050]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				010573945
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5605 CARNEGIE BOULEVARD
+		STREET 2:		SUITE 500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28209
+		BUSINESS PHONE:		704-731-1516
+
+	MAIL ADDRESS:	
+		STREET 1:		5605 CARNEGIE BOULEVARD
+		STREET 2:		SUITE 500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENPRO INDUSTRIES, INC
+		DATE OF NAME CHANGE:	20060106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENPRO INDUSTRIES INC
+		DATE OF NAME CHANGE:	20020111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001164863</issuerCik>
+        <issuerName>Enpro Inc.</issuerName>
+        <issuerTradingSymbol>NPO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001305361</rptOwnerCik>
+            <rptOwnerName>Reinsdorf Judith A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5605 CARNEGIE BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28209</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>0.8384</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>287.1600</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0.8384</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1184.9014</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1-for-1</footnote>
+        <footnote id="F2">Dividend equivalent rights accrued to previously acquired phantom stock under the Deferred Compensation Plan for Non-Employee Directors (as amended and restated) of EnPro Industries, Inc.</footnote>
+        <footnote id="F3">Vesting and payout occurs on the earliest of death, disability or the vesting and payout of the underlying award with respect to which the dividend equivalents relate.</footnote>
+        <footnote id="F4">Balance includes multiple phantom stock grants, phantom stock accruals and previously accrued dividend equivalents.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Angela P. Winter, Attorney-in-Fact of Judith A. Reinsdorf</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

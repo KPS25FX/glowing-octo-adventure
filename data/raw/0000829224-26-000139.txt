@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0000829224-26-000139.txt : 20260917
+<SEC-HEADER>0000829224-26-000139.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917184918
+ACCESSION NUMBER:		0000829224-26-000139
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KELLY SARA
+		CENTRAL INDEX KEY:			0001971792
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20322
+		FILM NUMBER:		261388059
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARBUCKS CORP
+		CENTRAL INDEX KEY:			0000829224
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING & DRINKING PLACES [5810]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				911325671
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0928
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 34067
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98124-1067
+		BUSINESS PHONE:		2064471575
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000829224</issuerCik>
+        <issuerName>STARBUCKS CORP</issuerName>
+        <issuerTradingSymbol>SBUX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001971792</rptOwnerCik>
+            <rptOwnerName>KELLY SARA</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>2401 UTAH AVENUE SOUTH</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>evp, chief partner officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1453.695</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>96.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>56352.6048</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld by the issuer to satisfy tax withholding obligations upon vesting of restricted stock units; not an open market transaction.</footnote>
+        <footnote id="F2">Includes 33.279 shares purchased on June 30, 2026, pursuant to the Starbucks Employee Stock Purchase Plan.</footnote>
+        <footnote id="F3">Includes 206 shares representing dividend equivalents on unvested time-based restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joshua C. Gaul, attorney-in-fact for Sara Kelly</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

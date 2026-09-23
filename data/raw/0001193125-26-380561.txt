@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001193125-26-380561.txt : 20260902
+<SEC-HEADER>0001193125-26-380561.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902181053
+ACCESSION NUMBER:		0001193125-26-380561
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OLIVERA ARMANDO J
+		CENTRAL INDEX KEY:			0001201282
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11749
+		FILM NUMBER:		261356230
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FLUOR CORPORATION
+		STREET 2:		6700 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LENNAR CORP /NEW/
+		CENTRAL INDEX KEY:			0000920760
+		STANDARD INDUSTRIAL CLASSIFICATION:	GEN BUILDING CONTRACTORS - RESIDENTIAL BUILDINGS [1520]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				954337490
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5505 WATERFORD DISTRICT DRIVE
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33126
+		BUSINESS PHONE:		3055594000
+
+	MAIL ADDRESS:	
+		STREET 1:		5505 WATERFORD DISTRICT DRIVE
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33126
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC GREYSTONE CORP /DE/
+		DATE OF NAME CHANGE:	19940323
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000920760</issuerCik>
+        <issuerName>LENNAR CORP /NEW/</issuerName>
+        <issuerTradingSymbol>LEN, LEN.B</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001201282</rptOwnerCik>
+            <rptOwnerName>OLIVERA ARMANDO J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5505 WATERFORD DISTRICT DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33126</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>535</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>84.11</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23347</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>142</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents deferred stock units (&quot;DSUs&quot;) issued in lieu of quarterly cash retainer payment for service as a director. These DSUs are fully vested upon grant but do not convert into shares of Class A common stock until the reporting person ceases to be a member of the Board of Directors. Fractional amounts have been rounded down to the nearest whole number.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Liberman as attorney-in-fact for Armando J. Olivera</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

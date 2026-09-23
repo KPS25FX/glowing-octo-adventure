@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0000950103-26-013672.txt : 20260908
+<SEC-HEADER>0000950103-26-013672.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908180612
+ACCESSION NUMBER:		0000950103-26-013672
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Anderson Aaron
+		CENTRAL INDEX KEY:			0001645073
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35551
+		FILM NUMBER:		261366117
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PAYPAL HOLDINGS, INC.
+		STREET 2:		2211 NORTH FIRST STREET
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Meta Platforms, Inc.
+		CENTRAL INDEX KEY:			0001326801
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				201665019
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 META WAY
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-543-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1 META WAY
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Facebook Inc
+		DATE OF NAME CHANGE:	20050511
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001326801</issuerCik>
+        <issuerName>Meta Platforms, Inc.</issuerName>
+        <issuerTradingSymbol>META</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001645073</rptOwnerCik>
+            <rptOwnerName>Anderson Aaron</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O META PLATFORMS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1 META WAY</rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3240</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>618.0579</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6271</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 29, 2026.</footnote>
+        <footnote id="F2">The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $618.00 to $618.14 per share. The holder undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Erin Guldiken, attorney-in-fact for Aaron Anderson</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

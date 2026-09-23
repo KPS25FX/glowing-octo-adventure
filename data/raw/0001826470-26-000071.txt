@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001826470-26-000071.txt : 20260909
+<SEC-HEADER>0001826470-26-000071.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909161345
+ACCESSION NUMBER:		0001826470-26-000071
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Venezia Patrick J
+		CENTRAL INDEX KEY:			0001559039
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39878
+		FILM NUMBER:		261368272
+
+	MAIL ADDRESS:	
+		STREET 1:		10850 VIA FRONTERA
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Petco Health & Wellness Company, Inc.
+		CENTRAL INDEX KEY:			0001826470
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				811005932
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10850 VIA FRONTERA
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+		BUSINESS PHONE:		1-858-453-7845
+
+	MAIL ADDRESS:	
+		STREET 1:		10850 VIA FRONTERA
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PET Acquisition LLC
+		DATE OF NAME CHANGE:	20200929
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Petco Acquisition LLC
+		DATE OF NAME CHANGE:	20200929
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001826470</issuerCik>
+        <issuerName>Petco Health &amp; Wellness Company, Inc.</issuerName>
+        <issuerTradingSymbol>WOOF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001559039</rptOwnerCik>
+            <rptOwnerName>Venezia Patrick J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PETCO HEALTH AND WELLNESS COMPANY,</rptOwnerStreet1>
+            <rptOwnerStreet2>INC., 10850 VIA FRONTERA</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92127</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Revenue Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14948</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.52</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>357764</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction reported reflects the withholding of restricted stock units (&quot;RSUs&quot;) in satisfaction of the Reporting Person's tax liability. The RSUs were granted to the Reporting Person on March 4, 2025 pursuant to the Petco Health and Wellness Company, Inc. 2021 Equity Incentive Plan (as amended, the &quot;2021 Plan&quot;), and a portion vested on September 4, 2026.</footnote>
+        <footnote id="F2">Includes 299,125 outstanding RSUs granted under the 2021 Plan. Each RSU represents the right to receive one share of Class A common stock of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Giovanni Insana, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0000897069-26-001768.txt : 20260904
+<SEC-HEADER>0000897069-26-001768.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904175133
+ACCESSION NUMBER:		0000897069-26-001768
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stump Ryan
+		CENTRAL INDEX KEY:			0001775621
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32420
+		FILM NUMBER:		261362961
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TRUE DRINKS HOLDINGS, INC.
+		STREET 2:		2 PARK PLAZA SUITE 1200
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92614
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Charlie's Holdings, Inc.
+		CENTRAL INDEX KEY:			0001134765
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				841575085
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 BRIOSO DR.
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92627
+		BUSINESS PHONE:		949-570-0691
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 BRIOSO DR.
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92627
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	True Drinks Holdings, Inc.
+		DATE OF NAME CHANGE:	20130122
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAZI INTERNATIONAL, INC.
+		DATE OF NAME CHANGE:	20100803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XELR8 HOLDINGS, INC.
+		DATE OF NAME CHANGE:	20070321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001134765</issuerCik>
+        <issuerName>Charlie's Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>CHUC</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001775621</rptOwnerCik>
+            <rptOwnerName>Stump Ryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CHARLIE'S HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1007 BRIOSO DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>COSTA MESA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92627</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2551968</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27349787</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Ryan Stump Legacy Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares will vest on the one year anniversary of the grant, subject to continued service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ryan Stump</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

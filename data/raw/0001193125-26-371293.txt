@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-371293.txt : 20260827
+<SEC-HEADER>0001193125-26-371293.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827161005
+ACCESSION NUMBER:		0001193125-26-371293
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kalowski Lee
+		CENTRAL INDEX KEY:			0001618273
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38433
+		FILM NUMBER:		261330345
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O Q32 BIO INC.
+		STREET 2:		830 WINTER STREET
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Q32 Bio Inc.
+		CENTRAL INDEX KEY:			0001661998
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				473468154
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		830 WINTER STREET
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		781-999-0232
+
+	MAIL ADDRESS:	
+		STREET 1:		830 WINTER STREET
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Homology Medicines, Inc.
+		DATE OF NAME CHANGE:	20151228
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001661998</issuerCik>
+        <issuerName>Q32 Bio Inc.</issuerName>
+        <issuerTradingSymbol>QTTB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001618273</rptOwnerCik>
+            <rptOwnerName>Kalowski Lee</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>Q32 BIO INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>830 WINTER STREET</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CFO and President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3972</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.56</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>138471</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of restricted stock units. These sales were automatic and not in the discretion of the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric Bell, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0002154319-26-000006.txt : 20260910
+<SEC-HEADER>0002154319-26-000006.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910160507
+ACCESSION NUMBER:		0002154319-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ferolo James
+		CENTRAL INDEX KEY:			0002154319
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09769
+		FILM NUMBER:		261371073
+
+	MAIL ADDRESS:	
+		STREET 1:		5 LANDS' END LANE
+		CITY:			DODGEVILLE
+		STATE:			WI
+		ZIP:			53595
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LANDS' END, INC.
+		CENTRAL INDEX KEY:			0000799288
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				362512786
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FIVE LANDS' END LANE
+		CITY:			DODGEVILLE
+		STATE:			WI
+		ZIP:			53533
+		BUSINESS PHONE:		6089359341
+
+	MAIL ADDRESS:	
+		STREET 1:		FIVE LANDS' END LANE
+		CITY:			DODGEVILLE
+		STATE:			WI
+		ZIP:			53533
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LAND'S END, INC.
+		DATE OF NAME CHANGE:	20140527
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LAND'S END, INC
+		DATE OF NAME CHANGE:	20140527
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LANDS END INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000799288</issuerCik>
+        <issuerName>LANDS' END, INC.</issuerName>
+        <issuerTradingSymbol>LE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002154319</rptOwnerCik>
+            <rptOwnerName>Ferolo James</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5 LANDS' END LANE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DODGEVILLE</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53595</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Digital &amp; Technology Off</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6893</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6893</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6893</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These are time-based restricted stock units (RSUs) that will vest in three annual installments on September 8, 2027 (25%), September 8, 2028 (25%) and September 8, 2029 (50%), subject to  the satisfaction of vesting conditions, including maintaining a continuous business relationship through the applicable vesting date. Each RSU represents a contingent right to receive one share of common stock upon satisfaction of the applicable vesting conditions.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nathaniel Gaede as attorney-in-fact for James Ferolo</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

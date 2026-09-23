@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001841761-26-000082.txt : 20260828
+<SEC-HEADER>0001841761-26-000082.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828164040
+ACCESSION NUMBER:		0001841761-26-000082
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260827
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Miller Kristine E
+		CENTRAL INDEX KEY:			0001785353
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40263
+		FILM NUMBER:		261340999
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GROVE COLLABORATIVE HOLDINGS INC
+		STREET 2:		1301 SANSOME STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Grove Collaborative Holdings, Inc.
+		CENTRAL INDEX KEY:			0001841761
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				882840659
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1301 SANSOME STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		(800) 231-8527
+
+	MAIL ADDRESS:	
+		STREET 1:		1301 SANSOME STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Virgin Group Acquisition Corp. II
+		DATE OF NAME CHANGE:	20210122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001841761</issuerCik>
+        <issuerName>Grove Collaborative Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>GROV</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001785353</rptOwnerCik>
+            <rptOwnerName>Miller Kristine E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O GROVE COLLABORATIVE HOLDINGS</rptOwnerStreet1>
+            <rptOwnerStreet2>1301 SANSOME STREET</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>64159</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>64159</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>64159</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive one share of class A Common Stock</footnote>
+        <footnote id="F2">These RSUs will fully vest on the earlier of May 15, 2027 or the date of the 2027 Annual Meeting of Stockholders.</footnote>
+        <footnote id="F3">The RSUs have no expiration date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Barbara Wallace, Attorney-in-Fact for Kristine E. Miller</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

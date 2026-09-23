@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001394399-26-000011.txt : 20260908
+<SEC-HEADER>0001394399-26-000011.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908185319
+ACCESSION NUMBER:		0001394399-26-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BROWN DAVID A
+		CENTRAL INDEX KEY:			0001394399
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41862
+		FILM NUMBER:		261366207
+
+	MAIL ADDRESS:	
+		STREET 1:		FLAGSTONE REINSURANCE HOLDINGS LIMITED
+		STREET 2:		CRAWFORD HOUSE, 23 CHURCH STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 11
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hamilton Insurance Group, Ltd.
+		CENTRAL INDEX KEY:			0001593275
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		WELLESLEY HOUSE NORTH, 1ST FLOOR
+		STREET 2:		90 PITTS BAY ROAD
+		CITY:			PEMBROKE
+		STATE:			D0
+		ZIP:			HM08
+		BUSINESS PHONE:		(441) 405-5200
+
+	MAIL ADDRESS:	
+		STREET 1:		WELLESLEY HOUSE NORTH, 1ST FLOOR
+		STREET 2:		90 PITTS BAY ROAD
+		CITY:			PEMBROKE
+		STATE:			D0
+		ZIP:			HM08
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1788907997.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001593275</issuerCik>
+        <issuerName>Hamilton Insurance Group, Ltd.</issuerName>
+        <issuerTradingSymbol>HG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001394399</rptOwnerCik>
+            <rptOwnerName>BROWN DAVID A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HAMILTON INSURANCE GROUP, LTD.</rptOwnerStreet1>
+            <rptOwnerStreet2>WELLESLEY HOUSE NORTH, 90 PITTS BAY ROAD</rptOwnerStreet2>
+            <rptOwnerCity>PEMBROKE</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>D0</rptOwnerCountry>
+            <rptOwnerZipCode>HM08</rptOwnerZipCode>
+            <rptOwnerStateDescription>BERMUDA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>36.1243</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>400000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Leyton Ltd.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>110308</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 represents a weighted average price. These Class B common shares were sold in multiple transactions at prices ranging from $36.00 to $36.47, inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote.</footnote>
+        <footnote id="F2">An investment holding company held by Thelwall Trust, a family trust established for the benefit of the reporting person and his family.</footnote>
+        <footnote id="F3">Includes restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>s/ Gemma Carreiro, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

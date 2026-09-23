@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001213900-26-100186.txt : 20260915
+<SEC-HEADER>0001213900-26-100186.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915170252
+ACCESSION NUMBER:		0001213900-26-100186
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gracias Antonio J.
+		CENTRAL INDEX KEY:			0001495158
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43344
+		FILM NUMBER:		261381620
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VALOR EQUITY PARTNERS
+		STREET 2:		200 SOUTH MICHIGAN AVENUE, SUITE 1020
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60604
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPACE EXPLORATION TECHNOLOGIES CORP
+		CENTRAL INDEX KEY:			0001181412
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				010627671
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ROCKET ROAD
+		CITY:			STARBASE
+		STATE:			TX
+		ZIP:			78521
+		BUSINESS PHONE:		3103636000
+
+	MAIL ADDRESS:	
+		STREET 1:		1 ROCKET ROAD
+		CITY:			STARBASE
+		STATE:			TX
+		ZIP:			78521
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001181412</issuerCik>
+        <issuerName>SPACE EXPLORATION TECHNOLOGIES CORP</issuerName>
+        <issuerTradingSymbol>SPCX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001495158</rptOwnerCik>
+            <rptOwnerName>Gracias Antonio J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O VALOR EQUITY PARTNERS</rptOwnerStreet1>
+            <rptOwnerStreet2>320 NORTH SANGAMON STREET, SUITE 1200</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60607</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42790223</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>460624307</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29423</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents pro rata distributions in-kind, without consideration, by Valor IV Space Holdings, LLC, Valor M33 II L.P., Valor M33 L.P., Valor R&amp;D Series LLC and Valor Space Holdings, LLC. These distributions were effected pursuant to a Rule 10b5-1 pre-set in-kind distribution plan adopted on June 12, 2026.</footnote>
+        <footnote id="F2">The reported securities are held of record by the following entities: (i) CV Consortio A LLC, (ii) CV Consortio F LLC, (iii) CV Consortio G LLC, (iv) CV Consortio M LLC, (v) CV Consortio N LLC, (vi) KVSX I L.P., (vii) TM33 Partner Holdings LLC, (viii) Valor Equity Partners Opportunity Fund I L.P., (ix) Valor Equity Partners Opportunity Fund I-A L.P., (x) Valor Equity Partners Opportunity Fund I-B L.P., (xi) Valor Equity Partners VI L.P., (xii) Valor Equity Partners VI-A L.P., (xiii) Valor Equity Partners VI-B L.P., (xiv) Valor IV Space Holdings, LLC, (xv) Valor M33 II L.P., (xvi) Valor M33 IV L.P., (xvii) Valor M33 V L.P., (xviii) Valor M33 VI L.P., (xix) Valor M33 L.P., (xx) Valor R&amp;D Series LLC,</footnote>
+        <footnote id="F3">(continue from footnote 2) (xxi) Valor Space Holdings, LLC, (xxii) Valor V Space Holdings, L.P., (xxiii) Valor VII Space Holdings, L.P., (xxiv) VG 1.0 L.P., (xxv) VG 2.0 L.P., (xxvi) VG AI Holdings L.P., (xxvii) VGX 1.0 L.P., (xxviii) VOF Space Holdings L.P., (xxix) VSV II XAI Holdings L.P., and (xxx) VX Holdings L.P. (collectively, &quot;Valor Entities&quot;).</footnote>
+        <footnote id="F4">By virtue of the Reporting Person's position with the Valor Entities or the general partners of the Valor Entities, the Reporting Person may be deemed to have beneficial ownership of the shares held of record by the Valor Entities. The Reporting Person disclaims beneficial ownership of the shares held of record by each of the Valor Entities, except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F5">Represents shares of Class A Common Stock received by the Reporting Person as pro rata distributions in kind, without consideration, on various dates from August 5, 2026 to September 9, 2026, from non-affiliated third parties. Such pro rata distributions in-kind were made in accordance with the exemption afforded by Rule 16a-9 of the Securities Exchange Act of 1934, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Antonio J. Gracias</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

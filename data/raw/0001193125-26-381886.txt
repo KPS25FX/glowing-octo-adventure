@@ -1,0 +1,147 @@
+<SEC-DOCUMENT>0001193125-26-381886.txt : 20260903
+<SEC-HEADER>0001193125-26-381886.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903160849
+ACCESSION NUMBER:		0001193125-26-381886
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Egan Mary
+		CENTRAL INDEX KEY:			0001713652
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22754
+		FILM NUMBER:		261358441
+
+	MAIL ADDRESS:	
+		STREET 1:		520 ZANG STREET
+		STREET 2:		SUITE D
+		CITY:			BROOMFIELD
+		STATE:			CO
+		ZIP:			80021
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			URBAN OUTFITTERS INC
+		CENTRAL INDEX KEY:			0000912615
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				232003332
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5000 SOUTH BROAD STREET
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19112
+		BUSINESS PHONE:		2154545500
+
+	MAIL ADDRESS:	
+		STREET 1:		5000 SOUTH BROAD STREET
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000912615</issuerCik>
+        <issuerName>URBAN OUTFITTERS INC</issuerName>
+        <issuerTradingSymbol>URBN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001713652</rptOwnerCik>
+            <rptOwnerName>Egan Mary</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5000 SOUTH BROAD STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19112</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>650</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>78.48</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Mary C. Egan</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0000100885-26-000269.txt : 20260911
+<SEC-HEADER>0000100885-26-000269.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911141107
+ACCESSION NUMBER:		0000100885-26-000269
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jalali Rahul
+		CENTRAL INDEX KEY:			0001980217
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06075
+		FILM NUMBER:		261373809
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 DOUGLAS STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68179
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNION PACIFIC CORP
+		CENTRAL INDEX KEY:			0000100885
+		STANDARD INDUSTRIAL CLASSIFICATION:	RAILROADS, LINE-HAUL OPERATING [4011]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				132626465
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1400 DOUGLAS STREET
+		STREET 2:		STOP 0310
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68179
+		BUSINESS PHONE:		402 544 6763
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 DOUGLAS STREET
+		STREET 2:		STOP 0310
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68179
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000100885</issuerCik>
+        <issuerName>UNION PACIFIC CORP</issuerName>
+        <issuerTradingSymbol>UNP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001980217</rptOwnerCik>
+            <rptOwnerName>Jalali Rahul</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1400 DOUGLAS STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68179</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP &amp; CHIEF INFORMATION OFFICE</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5.123</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>285.78</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33136.081</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Purchase pursuant to the 2021 Employee Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Trevor L. Kingston, Attorney-in-Fact For: Rahul Jalali</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001193125-26-392093.txt : 20260915
+<SEC-HEADER>0001193125-26-392093.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915165935
+ACCESSION NUMBER:		0001193125-26-392093
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ben Yong
+		CENTRAL INDEX KEY:			0001967669
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37348
+		FILM NUMBER:		261381557
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BRIDGEBIO ONCOLOGY THERAPEUTICS, INC
+		STREET 2:		256 E. GRAND AVENUE, SUITE 104
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Corbus Pharmaceuticals Holdings, Inc.
+		CENTRAL INDEX KEY:			0001595097
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				464348039
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 RIVER RIDGE DRIVE
+		CITY:			NORWOOD
+		STATE:			MA
+		ZIP:			02062
+		BUSINESS PHONE:		617-963-0103
+
+	MAIL ADDRESS:	
+		STREET 1:		500 RIVER RIDGE DRIVE
+		CITY:			NORWOOD
+		STATE:			MA
+		ZIP:			02062
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAV Acquisition Corp
+		DATE OF NAME CHANGE:	20131220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001595097</issuerCik>
+        <issuerName>Corbus Pharmaceuticals Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>CRBP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001967669</rptOwnerCik>
+            <rptOwnerName>Ben Yong</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CORBUS PHARMACEUTICALS HOLDINGS, INC</rptOwnerStreet1>
+            <rptOwnerStreet2>500 RIVER RIDGE DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>NORWOOD</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02062</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.8415</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9383</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 12, 2026.</footnote>
+        <footnote id="F2">The price reported in column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $7.80 to $7.90. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F3">This amount includes 3,800 unvested RSUs subject to each grant's vesting schedule as previously reported.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Meghan Houghton, attorney-in-fact for Yong Ben</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

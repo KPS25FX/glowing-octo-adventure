@@ -1,0 +1,259 @@
+<SEC-DOCUMENT>0001105838-26-000010.txt : 20260918
+<SEC-HEADER>0001105838-26-000010.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918164120
+ACCESSION NUMBER:		0001105838-26-000010
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROBOTTI ROBERT
+		CENTRAL INDEX KEY:			0001105838
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06311
+		FILM NUMBER:		261391448
+
+	MAIL ADDRESS:	
+		STREET 1:		125 PARK AVENUE
+		STREET 2:		SUITE 1607
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIDEWATER INC
+		CENTRAL INDEX KEY:			0000098222
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER TRANSPORTATION [4400]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				720487776
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		842 WEST SAM HOUSTON PARKWAY NORTH
+		STREET 2:		SUITE 400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+		BUSINESS PHONE:		(713) 470-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		842 WEST SAM HOUSTON PARKWAY NORTH
+		STREET 2:		SUITE 400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIDEWATER MARINE SERVICE INC
+		DATE OF NAME CHANGE:	19780724
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-09-17</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000098222</issuerCik>
+        <issuerName>TIDEWATER INC</issuerName>
+        <issuerTradingSymbol>TDW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001105838</rptOwnerCik>
+            <rptOwnerName>ROBOTTI ROBERT</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>125 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1607</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.001 Par Value Per Share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1951</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2212990</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.001 Par Value Per Share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6695</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>89.8494</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2206295</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.001 Par Value Per Share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3605</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>89.8494</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2202690</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This amendment is being filed to correct the filing code with respect to the first transaction reported and footnote 1 of the Form 4 filed on September 17, 2026.</footnote>
+        <footnote id="F2">This represents the gift by the client of Common Stock directly beneficially owned by the client, a performance fee-paying advisory client of Robotti &amp; Company Advisors, LLC, an investment adviser registered under the Investment Advisers Act of 1940, as amended (&quot;Robotti Advisors&quot;), from the client's advisory account with Robotti Advisors. The gift terminated Robotti Advisors' investment advisory relationship in respect of such shares.</footnote>
+        <footnote id="F3">This amount includes 112,444 shares of the Common Stock directly beneficially owned by the performance-fee paying advisory clients of Robotti Advisors, 1,143,117 shares of the Common Stock directly beneficially owned by The Ravenswood Investment Company, LP (&quot;RIC&quot;), 763,757 shares of the Common Stock directly beneficially owned by Ravenswood Investments III, L.P. (&quot;RI&quot;), 3,000 shares of the Common Stock directly beneficially owned by Suzanne and Robert Robotti Foundation, Inc. (&quot;Robotti Foundation&quot;), 58,500 shares of the Common Stock directly beneficially owned by Suzanne Robotti (&quot;Su Robotti&quot;), wife of Robert Robotti, and 132,172 shares of the Common Stock, directly beneficially owned by Robert Robotti.</footnote>
+        <footnote id="F4">This amount includes 112,444 shares of the Common Stock directly beneficially owned by the performance-fee paying advisory clients of Robotti Advisors, 1,136,422 shares of the Common Stock directly beneficially owned by RIC, 763,757 shares of the Common Stock directly beneficially owned by RI, 3,000 shares of the Common Stock directly beneficially owned by Robotti Foundation, 58,500 shares of the Common Stock directly beneficially owned by Su Robotti, wife of Robert Robotti, and 132,172 shares of the Common Stock, directly beneficially owned by Robert Robotti.</footnote>
+        <footnote id="F5">This amount includes 112,444 shares of the Common Stock directly beneficially owned by the performance-fee paying advisory clients of Robotti Advisors, 1,136,422 shares of the Common Stock directly beneficially owned by RIC, 760,152 shares of the Common Stock directly beneficially owned by RI, 3,000 shares of the Common Stock directly beneficially owned by Robotti Foundation, 58,500 shares of the Common Stock directly beneficially owned by Su Robotti, wife of Robert Robotti, and 132,172 shares of the Common Stock, directly beneficially owned by Robert Robotti.</footnote>
+        <footnote id="F6">Mr. Robotti may be deemed to beneficially own (solely for the purpose of Rule 16a-1(a)(2) under the Securities Exchange Act of 1934, as amended (&quot;Exchange Act&quot;)) certain of the shares of Common Stock set forth in this Form 4 through his indirect proportionate ownership of Robotti Advisors, as managing director of Ravenswood Management Company, LLC, which serves as the general partner of RIC and RI and through his marriage to Su Robotti.  Mr. Robotti disclaims beneficial ownership of all securities reported herein except to the extent of his pecuniary interest therein, if any.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert E. Robotti</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

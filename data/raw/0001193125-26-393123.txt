@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001193125-26-393123.txt : 20260916
+<SEC-HEADER>0001193125-26-393123.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916163004
+ACCESSION NUMBER:		0001193125-26-393123
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MUSA OSAMA M
+		CENTRAL INDEX KEY:			0001759443
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-211719
+		FILM NUMBER:		261384066
+
+	MAIL ADDRESS:	
+		STREET 1:		ASHLAND GLOBAL HOLDINGS INC
+		STREET 2:		1005 ROUTE 202/206
+		CITY:			BRIDGEWATER
+		STATE:			NJ
+		ZIP:			08807
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASHLAND INC.
+		CENTRAL INDEX KEY:			0001674862
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-CHEMICALS & ALLIED PRODUCTS [5160]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				812587835
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8145 BLAZER DRIVE
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19808
+		BUSINESS PHONE:		304-995-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		8145 BLAZER DRIVE
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19808
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASHLAND GLOBAL HOLDINGS INC
+		DATE OF NAME CHANGE:	20160517
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001674862</issuerCik>
+        <issuerName>ASHLAND INC.</issuerName>
+        <issuerTradingSymbol>ASH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001759443</rptOwnerCik>
+            <rptOwnerName>MUSA OSAMA M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>8145 BLAZER DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>DE</rptOwnerState>
+            <rptOwnerZipCode>19808</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP and CTO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14230</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>14230</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14230</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit (RSU) represents a right to receive one (1) share of Ashland common stock upon vesting.</footnote>
+        <footnote id="F2">Restricted Stock Units were granted on September 15, 2026, pursuant to Ashland's incentive plan as approved by the shareholders and exempt pursuant to Rule 16b-3. The Restricted Stock Units in this grant will vest in one installment three years from the date of grant on September 15, 2029, provided that the Reporting Person remains in continuous employment with the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Serena S. Kenost, Attorney-In-Fact for Osama M. Musa</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

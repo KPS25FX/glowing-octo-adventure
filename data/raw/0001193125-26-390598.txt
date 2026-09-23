@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001193125-26-390598.txt : 20260914
+<SEC-HEADER>0001193125-26-390598.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914161505
+ACCESSION NUMBER:		0001193125-26-390598
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Becker Jaime Faye
+		CENTRAL INDEX KEY:			0002005233
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35392
+		FILM NUMBER:		261377520
+
+	MAIL ADDRESS:	
+		STREET 1:		TRITON TOWERS TWO
+		STREET 2:		700 S. RENTON VILLAGE PL 7TH FL
+		CITY:			RENTON
+		STATE:			WA
+		ZIP:			98057
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RADIANT LOGISTICS, INC
+		CENTRAL INDEX KEY:			0001171155
+		STANDARD INDUSTRIAL CLASSIFICATION:	ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO [4731]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				043625550
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 S RENTON VILLAGE PLACE
+		STREET 2:		SEVENTH FLOOR
+		CITY:			RENTON
+		STATE:			WA
+		ZIP:			98057
+		BUSINESS PHONE:		425-462-1094
+
+	MAIL ADDRESS:	
+		STREET 1:		700 S RENTON VILLAGE PLACE
+		STREET 2:		SEVENTH FLOOR
+		CITY:			RENTON
+		STATE:			WA
+		ZIP:			98057
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLF TWO INC
+		DATE OF NAME CHANGE:	20020415
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001171155</issuerCik>
+        <issuerName>RADIANT LOGISTICS, INC</issuerName>
+        <issuerTradingSymbol>RLGT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002005233</rptOwnerCik>
+            <rptOwnerName>Becker Jaime Faye</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>700 S RENTON VILLAGE PLACE</rptOwnerStreet1>
+            <rptOwnerStreet2>SEVENTH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>RENTON</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98057</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11962</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-09-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11962</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11962</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of common stock.</footnote>
+        <footnote id="F2">The restricted stock units vest on September 10, 2029. Vested shares will be delivered to the reporting person as soon as practicable, but not more than 30 days after vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Jaime Becker</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

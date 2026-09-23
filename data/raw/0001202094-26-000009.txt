@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001202094-26-000009.txt : 20260918
+<SEC-HEADER>0001202094-26-000009.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918162227
+ACCESSION NUMBER:		0001202094-26-000009
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260603
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MANHARD KIMBERLY
+		CENTRAL INDEX KEY:			0001202094
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42031
+		FILM NUMBER:		261391142
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HERON THERAPEUTICS, INC
+		STREET 2:		4242 CAMPUS POINT COURT, SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Inhibrx Biosciences, Inc.
+		CENTRAL INDEX KEY:			0002007919
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				990613523
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11025 N. TORREY PINES ROAD, SUITE 140
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+		BUSINESS PHONE:		(858) 795-4220
+
+	MAIL ADDRESS:	
+		STREET 1:		11025 N. TORREY PINES ROAD, SUITE 140
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ibex SpinCo, Inc.
+		DATE OF NAME CHANGE:	20240111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>wk-form4a_1789762944.xml
+<DESCRIPTION>FORM 4/A
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-06-03</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-06-04</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002007919</issuerCik>
+        <issuerName>Inhibrx Biosciences, Inc.</issuerName>
+        <issuerTradingSymbol>INBX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001202094</rptOwnerCik>
+            <rptOwnerName>MANHARD KIMBERLY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O INHIBRX BIOSCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11025 NORTH TORREY PINES ROAD, SUITE 140</rptOwnerStreet2>
+            <rptOwnerCity>LA JOLLA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92037</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>95.22</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-06-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2027-06-03</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-06-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This stock option will be fully exercisable on June 3, 2027, subject to the reporting person's continued service through such date.</footnote>
+    </footnotes>
+
+    <remarks>This Amended Form 4 restates the original Form 4 filed on June 4, 2026 in its entirety to correct the number of options granted to the Reporting Person due to an administrative error.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kelly D. Deck, as attorney-in-fact for Kimberly Manhard</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

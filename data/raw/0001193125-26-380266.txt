@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001193125-26-380266.txt : 20260902
+<SEC-HEADER>0001193125-26-380266.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902163008
+ACCESSION NUMBER:		0001193125-26-380266
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260831
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Yal Ural
+		CENTRAL INDEX KEY:			0002044117
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41867
+		FILM NUMBER:		261355279
+
+	MAIL ADDRESS:	
+		STREET 1:		530 TECHNOLOGY DRIVE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Shimmick Corp
+		CENTRAL INDEX KEY:			0001887944
+		STANDARD INDUSTRIAL CLASSIFICATION:	HEAVY CONSTRUCTION OTHER THAN BUILDING CONST - CONTRACTORS [1600]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				843749368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		530 TECHNOLOGY DRIVE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		949.333.1500
+
+	MAIL ADDRESS:	
+		STREET 1:		530 TECHNOLOGY DRIVE
+		STREET 2:		SUITE 300
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCCI National Holdings, Inc.
+		DATE OF NAME CHANGE:	20211013
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-31</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001887944</issuerCik>
+        <issuerName>Shimmick Corp</issuerName>
+        <issuerTradingSymbol>SHIM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002044117</rptOwnerCik>
+            <rptOwnerName>Yal Ural</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>530 TECHNOLOGY DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92618</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>311615</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per sharere</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>311615</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>491795</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">RSUs convert into common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The RSUs will vest in full and settle into shares of common stock in three equal installments on April 2, 2027, April 3, 2028 and April 2, 2029, subject to Reporting Person's continued employment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Ural Yal</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,228 @@
+<SEC-DOCUMENT>0001178913-26-004409.txt : 20260903
+<SEC-HEADER>0001178913-26-004409.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903161017
+ACCESSION NUMBER:		0001178913-26-004409
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gruber Dafna
+		CENTRAL INDEX KEY:			0001971695
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28584
+		FILM NUMBER:		261358461
+
+	MAIL ADDRESS:	
+		STREET 1:		94 SHLOMO SHMELZER ROAD
+		CITY:			PETAH TIKVA
+		STATE:			L3
+		ZIP:			4970602
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHECK POINT SOFTWARE TECHNOLOGIES LTD
+		CENTRAL INDEX KEY:			0001015922
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				943229135
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		5 SHLOMO KAPLAN STREET
+		CITY:			TEL AVIV, ISRAEL
+		PROVINCE COUNTRY:   	L3
+		ZIP:			6789159
+		BUSINESS PHONE:		650-628-2050
+
+	MAIL ADDRESS:	
+		STREET 1:		100 ORACLE PKWY
+		STREET 2:		SUITE 800
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001015922</issuerCik>
+        <issuerName>CHECK POINT SOFTWARE TECHNOLOGIES LTD</issuerName>
+        <issuerTradingSymbol>CHKP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>CHKP</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001971695</rptOwnerCik>
+            <rptOwnerName>Gruber Dafna</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5 SHLOMO KAPLAN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TEL AVIV</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode>6789159</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares, NIS 0.01 Per Share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1120</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3057</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>133.89</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>133.89</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-09-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5000</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person was granted by the Issuer 1,120 Restricted Share Units (RSUs) that are scheduled to vest as follows:
+560 on March 2, 2027,
+280 on June 2, 2027,
+280 on September 2, 2027, subject to the Reporting Person's continued service as a Service Provider of the Issuer on each vesting date. Each RSU represents the right to receive one Ordinary Share of the Issuer upon vesting and settlement.</footnote>
+        <footnote id="F2">Includes 1,985 RSUs that are scheduled to vest as follows: 289 on October 31, 2026, 560 on March 2, 2027, 280 on June 2, 2027, 280 on September 2, 2027, 288 on October 31, 2027, 288 on October 31, 2028, subject to the Reporting Person's continued service as a Service Provider of the Issuer on each vesting date. Each RSU represents the right to receive one Ordinary Share of the Issuer upon vesting and settlement.</footnote>
+        <footnote id="F3">The Reporting Person was granted by the Issuer options to purchase 5,000 Ordinary Shares that are scheduled to vest as follows:
+2,500 on March 2, 2027,
+1,250 on June 2, 2027,
+1,250 on September 2, 2027, subject to the Reporting Person's continued service as a Service Provider of the Issuer on each vesting date.</footnote>
+        <footnote id="F4">In addition, there are 30,000 Ordinary Shares underlying options held by the Reporting Person, of which 11,250 are vested as of September 3, 2026, and the remaining 18,750 Ordinary Shares underlying the option will vest as follows:
+6,250 options on October 31, 2026,
+6,250 options on October 31, 2027, and
+6,250 options on October 31, 2028, subject to the Reporting Person's continued service as a Service Provider of the Issuer on the vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/S/ Shira Yashar - Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

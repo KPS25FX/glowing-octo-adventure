@@ -1,0 +1,203 @@
+<SEC-DOCUMENT>0001193125-26-392319.txt : 20260915
+<SEC-HEADER>0001193125-26-392319.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915213004
+ACCESSION NUMBER:		0001193125-26-392319
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STAAB THOMAS R II
+		CENTRAL INDEX KEY:			0001230708
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34600
+		FILM NUMBER:		261382234
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O INSPIRE PHARMACEUTICALS, INC.
+		STREET 2:		4222 EMPEROR BLVD., SUITE 200
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27703
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TENAX THERAPEUTICS, INC.
+		CENTRAL INDEX KEY:			0000034956
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				262593535
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 GLEN LENNOX DRIVE
+		STREET 2:		SUITE 300
+		CITY:			CHAPEL HILL
+		STATE:			NC
+		ZIP:			27517
+		BUSINESS PHONE:		919-855-2100
+
+	MAIL ADDRESS:	
+		STREET 1:		101 GLEN LENNOX DRIVE
+		STREET 2:		SUITE 300
+		CITY:			CHAPEL HILL
+		STATE:			NC
+		ZIP:			27517
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OXYGEN BIOTHERAPEUTICS, INC.
+		DATE OF NAME CHANGE:	20080703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SYNTHETIC BLOOD INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SINEQUANON CORP
+		DATE OF NAME CHANGE:	19901219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000034956</issuerCik>
+        <issuerName>TENAX THERAPEUTICS, INC.</issuerName>
+        <issuerTradingSymbol>TENX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001230708</rptOwnerCik>
+            <rptOwnerName>STAAB THOMAS R II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>101 GLEN LENNOX DRIVE, SUITE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHAPEL HILL</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>27517</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5675</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.935</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15675</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.95</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-05-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>450000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>450000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was executed in multiple trades at prices ranging from $1.90 to $1.95. The price reported in Column 4 is a weighted average price. The Reporting Person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transactions were effected.</footnote>
+        <footnote id="F2">The options vest and become exercisable as follows: 25% vest on May 11, 2027, and thereafter, the remainder vest in substantially equal  installments on each monthly anniversary of the grant date for a period of 36 months, subject to the Reporting Person's continued employment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ S. Halle Vakani, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

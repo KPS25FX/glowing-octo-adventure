@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-394621.txt : 20260917
+<SEC-HEADER>0001193125-26-394621.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917180008
+ACCESSION NUMBER:		0001193125-26-394621
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kundich Ronald
+		CENTRAL INDEX KEY:			0001796095
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39958
+		FILM NUMBER:		261387947
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TRINITY CAPITAL INC.
+		STREET 2:		1 N 1ST STREET, STE 302
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Trinity Capital Inc.
+		CENTRAL INDEX KEY:			0001786108
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+		BUSINESS PHONE:		480.374.5350
+
+	MAIL ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001786108</issuerCik>
+        <issuerName>Trinity Capital Inc.</issuerName>
+        <issuerTradingSymbol>TRIN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001796095</rptOwnerCik>
+            <rptOwnerName>Kundich Ronald</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O TRINITY CAPITAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1 N. 1ST STREET, SUITE 302</rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Credit Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3981</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.79</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>230325</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld to satisfy the reporting person's tax obligations in connection with vesting of restricted shares on September 15, 2026. Transaction exempt from Section 16(b) pursuant to Rule 16b3.</footnote>
+    </footnotes>
+
+    <remarks>Sarah Stanton is signing on behalf of Mr. Kundich pursuant to the power of attorney dated September 17, 2021, which was previously filed with the Securities and Exchange Commission as an exhibit to the Form 4 Mr. Kundich filed on September 17, 2021.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sarah Stanton, on behalf of Ronald Kundich</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

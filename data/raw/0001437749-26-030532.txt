@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001437749-26-030532.txt : 20260916
+<SEC-HEADER>0001437749-26-030532.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916145442
+ACCESSION NUMBER:		0001437749-26-030532
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wilkins Aaron
+		CENTRAL INDEX KEY:			0001685213
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27140
+		FILM NUMBER:		261383402
+
+	MAIL ADDRESS:	
+		STREET 1:		201 NE PARK PLAZA DRIVE
+		STREET 2:		SUITE 100
+		CITY:			VANCOUVER
+		STATE:			WA
+		ZIP:			98684
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NWPX Infrastructure, Inc.
+		CENTRAL INDEX KEY:			0001001385
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL PIPE & TUBES [3317]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				930557988
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 NE PARK PLAZA DRIVE
+		STREET 2:		SUITE 100
+		CITY:			VANCOUVER
+		STATE:			WA
+		ZIP:			98684
+		BUSINESS PHONE:		3603976250
+
+	MAIL ADDRESS:	
+		STREET 1:		201 NE PARK PLAZA DRIVE
+		STREET 2:		SUITE 100
+		CITY:			VANCOUVER
+		STATE:			WA
+		ZIP:			98684
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHWEST PIPE CO
+		DATE OF NAME CHANGE:	19950925
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001001385</issuerCik>
+        <issuerName>NWPX Infrastructure, Inc.</issuerName>
+        <issuerTradingSymbol>NWPX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001685213</rptOwnerCik>
+            <rptOwnerName>Wilkins Aaron</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>201 NE PARK PLAZA DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>VANCOUVER</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98684</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1950</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>100.6813</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22448</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4283</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4283</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Performance Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12848</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12848</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Adoption date of referenced 10b5-1(c) plan is: 05/05/2026</footnote>
+        <footnote id="F2">This transaction was executed in multiple trades at prices ranging from $100.1000 to $101.0999 per share. The price reported reflects the weighted average sale price. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or to the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F3">Each Restricted Stock Unit represents a contingent right to receive one share of NWPX common stock.</footnote>
+        <footnote id="F4">The Restricted Stock Units vest in installments in January of 2027, 2028 and 2029.</footnote>
+        <footnote id="F5">Performance Shares vest in an amount ranging from 0-200% to the extent such Performance Shares are earned. Performance Shares are earned based on NWPX's total EBITDA margin over the measurement period.</footnote>
+        <footnote id="F6">The Performance Shares vest in installments in March of 2027, 2028 and 2029.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Aaron Wilkins</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

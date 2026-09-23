@@ -1,0 +1,288 @@
+<SEC-DOCUMENT>0000752642-26-000105.txt : 20260917
+<SEC-HEADER>0000752642-26-000105.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917151811
+ACCESSION NUMBER:		0000752642-26-000105
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mitchell William Edward
+		CENTRAL INDEX KEY:			0001782938
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12690
+		FILM NUMBER:		261386581
+
+	MAIL ADDRESS:	
+		STREET 1:		3499 ROUTE 9 NORTH, SUITE 3C
+		CITY:			FREEHOLD
+		STATE:			NJ
+		ZIP:			07728
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UMH PROPERTIES, INC.
+		CENTRAL INDEX KEY:			0000752642
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				221890929
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3499 ROUTE 9 N, SUITE 3-C
+		STREET 2:		JUNIPER BUSINESS PLAZA
+		CITY:			FREEHOLD
+		STATE:			NJ
+		ZIP:			07728
+		BUSINESS PHONE:		7325779997
+
+	MAIL ADDRESS:	
+		STREET 1:		3499 ROUTE 9 N, SUITE 3-C
+		STREET 2:		JUNIPER BUSINESS PLAZA
+		CITY:			FREEHOLD
+		STATE:			NJ
+		ZIP:			07728
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED MOBILE HOMES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000752642</issuerCik>
+        <issuerName>UMH PROPERTIES, INC.</issuerName>
+        <issuerTradingSymbol>UMH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001782938</rptOwnerCik>
+            <rptOwnerName>Mitchell William Edward</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3499 US HIGHWAY 9, SUITE 3C</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FREEHOLD</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07728</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>UMH Properties, Inc.</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1264</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35528.50</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>UMH Properties, Inc.</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>15.8</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2025-01-10</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2034-01-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>UMH Properties, Inc.</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>UMH Properties, Inc.</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>14.36</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2024-03-21</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>UMH Properties, Inc.</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>UMH Properties, Inc.</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>16.86</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2026-06-16</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2035-06-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>UMH Properties, Inc.</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>UMH Properties, Inc.</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>16.15</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2027-01-21</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-01-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>UMH Properties, Inc.</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Stock award for Directors.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Nelli Madden</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

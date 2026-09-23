@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001193125-26-390544.txt : 20260914
+<SEC-HEADER>0001193125-26-390544.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914160507
+ACCESSION NUMBER:		0001193125-26-390544
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SKULE JEREMY
+		CENTRAL INDEX KEY:			0001736565
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38855
+		FILM NUMBER:		261377351
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE LIBERTY PLAZA
+		CITY:			NEW YORK
+		STATE:			MD
+		ZIP:			20850
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NASDAQ, INC.
+		CENTRAL INDEX KEY:			0001120193
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				521165937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		151 W. 42ND STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		1 212 401 8700
+
+	MAIL ADDRESS:	
+		STREET 1:		151 W. 42ND STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NASDAQ OMX GROUP, INC.
+		DATE OF NAME CHANGE:	20080227
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NASDAQ STOCK MARKET INC
+		DATE OF NAME CHANGE:	20010423
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001120193</issuerCik>
+        <issuerName>NASDAQ, INC.</issuerName>
+        <issuerTradingSymbol>NDAQ</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001736565</rptOwnerCik>
+            <rptOwnerName>SKULE JEREMY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>151 W. 42ND STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, CSO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1125</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>94.22</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>101198</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported sale was effected pursuant to a Rule 10b5-1(c) trading plan adopted on May 7, 2026.</footnote>
+        <footnote id="F2">Represents (i) 35,511 shares or units of restricted stock, of which 9,551 are vested, (ii) 61,968 shares of Common Stock underlying PSUs, 53,942 of which are vested, and (iii) 3,719 shares of Common Stock purchased under the Issuer's Employee Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Alex Kogan, by power of attorney</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

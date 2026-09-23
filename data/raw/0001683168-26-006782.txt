@@ -1,0 +1,237 @@
+<SEC-DOCUMENT>0001683168-26-006782.txt : 20260828
+<SEC-HEADER>0001683168-26-006782.hdr.sgml : 20260828
+<ACCEPTANCE-DATETIME>20260828163122
+ACCESSION NUMBER:		0001683168-26-006782
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260101
+FILED AS OF DATE:		20260828
+DATE AS OF CHANGE:		20260828
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KYTE CECIL BOND
+		CENTRAL INDEX KEY:			0001354002
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-29185
+		FILM NUMBER:		261340808
+
+	MAIL ADDRESS:	
+		STREET 1:		5125 LANKERSHIM BOULEVARD
+		CITY:			NORTH HOLLYWOOD
+		STATE:			CA
+		ZIP:			91601
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	KYTE CECIL
+		DATE OF NAME CHANGE:	20060221
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QS Energy, Inc.
+		CENTRAL INDEX KEY:			0001103795
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL & GAS FILED MACHINERY & EQUIPMENT [3533]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				522088326
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		23902 FM 2978
+		CITY:			TOMBALL
+		STATE:			TX
+		ZIP:			77375
+		BUSINESS PHONE:		775-300-7647
+
+	MAIL ADDRESS:	
+		STREET 1:		23902 FM 2978
+		CITY:			TOMBALL
+		STATE:			TX
+		ZIP:			77375
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAVE THE WORLD AIR INC
+		DATE OF NAME CHANGE:	20000120
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-01-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001103795</issuerCik>
+        <issuerName>QS Energy, Inc.</issuerName>
+        <issuerTradingSymbol>QSEP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001354002</rptOwnerCik>
+            <rptOwnerName>KYTE CECIL BOND</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>23902 FM 2978</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TOMBALL</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77375</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.15</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-01-01</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-01-01</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>333333</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-01-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-01-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>333333</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31869583</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.15</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-01-01</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2026-01-01</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>166667</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-01-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-01-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>166667</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32036250</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These stock options for the calendar year 2026 vest at the rate of 1/12 per month, effective 1/1/2026, with full vesting on 12/31/2026, and were issued in accordance with the Company's Director Compensation Policy.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cecil Kyte</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

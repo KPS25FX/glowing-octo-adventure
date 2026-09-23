@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001193125-26-380396.txt : 20260902
+<SEC-HEADER>0001193125-26-380396.hdr.sgml : 20260902
+<ACCEPTANCE-DATETIME>20260902165520
+ACCESSION NUMBER:		0001193125-26-380396
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260902
+DATE AS OF CHANGE:		20260902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kinney Shannon Browning
+		CENTRAL INDEX KEY:			0001987164
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32395
+		FILM NUMBER:		261355709
+
+	MAIL ADDRESS:	
+		STREET 1:		1001 FANNIN STREET
+		STREET 2:		SUITE 1500
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONOCOPHILLIPS
+		CENTRAL INDEX KEY:			0001163165
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				010562944
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		925 N. ELDRIDGE PARKWAY
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+		BUSINESS PHONE:		281-293-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		SHIPPING & RECEIVING CENTER
+		STREET 2:		16930 PARK ROW DR.
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77084
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CORVETTEPORSCHE CORP
+		DATE OF NAME CHANGE:	20011204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001163165</issuerCik>
+        <issuerName>CONOCOPHILLIPS</issuerName>
+        <issuerTradingSymbol>COP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001987164</rptOwnerCik>
+            <rptOwnerName>Kinney Shannon Browning</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>16930 PARK ROW DR.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77084</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP &amp; General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>24080</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-09-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>24080</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>24080</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock units represent ConocoPhillips common stock on a 1-for-1 basis.</footnote>
+        <footnote id="F2">The stock units grant settles in three installments with half settling on September 1, 2027, one quarter on September 1, 2028 and the remainder on September 1, 2029, subject to earlier or partial settlement upon termination of employment due to layoff, death or disability, or a change in control.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Monica E. White, Attorney in Fact</signatureName>
+        <signatureDate>2026-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

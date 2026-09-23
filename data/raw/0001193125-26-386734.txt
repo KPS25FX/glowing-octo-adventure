@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-386734.txt : 20260909
+<SEC-HEADER>0001193125-26-386734.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909183003
+ACCESSION NUMBER:		0001193125-26-386734
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260906
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reed Kendal
+		CENTRAL INDEX KEY:			0002025606
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13439
+		FILM NUMBER:		261369199
+
+	MAIL ADDRESS:	
+		STREET 1:		19120 KENSWICK DRIVE
+		CITY:			HUMBLE
+		STATE:			TX
+		ZIP:			77338
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Innovex International, Inc.
+		CENTRAL INDEX KEY:			0001042893
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL & GAS FILED MACHINERY & EQUIPMENT [3533]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				742162088
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19120 KENSWICK DRIVE
+		CITY:			HUMBLE
+		STATE:			TX
+		ZIP:			77338
+		BUSINESS PHONE:		3463980000
+
+	MAIL ADDRESS:	
+		STREET 1:		19120 KENSWICK DRIVE
+		CITY:			HUMBLE
+		STATE:			TX
+		ZIP:			77338
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DRIL-QUIP INC
+		DATE OF NAME CHANGE:	19970723
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-06</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001042893</issuerCik>
+        <issuerName>Innovex International, Inc.</issuerName>
+        <issuerTradingSymbol>INVX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002025606</rptOwnerCik>
+            <rptOwnerName>Reed Kendal</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O INNOVEX INTERNATIONAL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>19120 KENSWICK DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>HUMBLE</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77338</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5049</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>209434</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Shares are withheld at the election of the Reporting Person to satisfy tax withholding obligations with the release of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matt Steinheider, Attorney-in-Fact for Kendal Reed</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

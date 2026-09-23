@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001683168-26-007159.txt : 20260915
+<SEC-HEADER>0001683168-26-007159.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915160029
+ACCESSION NUMBER:		0001683168-26-007159
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260911
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bitterman Robert J
+		CENTRAL INDEX KEY:			0001304395
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36304
+		FILM NUMBER:		261380745
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RXI PHARMACEUTICALS CORPORATION
+		STREET 2:		1500 WEST PARK DRIVE, SUITE 210
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Phio Pharmaceuticals Corp.
+		CENTRAL INDEX KEY:			0001533040
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				453215903
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		411 SWEDELAND ROAD
+		STREET 2:		SUITE 23-1080
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406
+		BUSINESS PHONE:		(508) 767-3861
+
+	MAIL ADDRESS:	
+		STREET 1:		411 SWEDELAND ROAD
+		STREET 2:		SUITE 23-1080
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RXi Pharmaceuticals Corp
+		DATE OF NAME CHANGE:	20111019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001533040</issuerCik>
+        <issuerName>Phio Pharmaceuticals Corp.</issuerName>
+        <issuerTradingSymbol>PHIO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001304395</rptOwnerCik>
+            <rptOwnerName>Bitterman Robert J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PHIO PHARMACEUTICALS CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>411 SWEDELAND RD., STE 23-1080</rptOwnerStreet2>
+            <rptOwnerCity>KING OF PRUSSIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>01581</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman, Pres. &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $.0001 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>68550</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.03</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>362871</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction represents the withholding of shares by the issuer to satisfy the reporting person's tax withholding obligations in connection with the vesting of restricted stock units. No shares were sold.</footnote>
+        <footnote id="F2">Includes shares of common stock underlying unvested restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lisa C. Carson, Attorney-in-fact</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

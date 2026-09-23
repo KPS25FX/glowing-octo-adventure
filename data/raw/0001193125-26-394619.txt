@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001193125-26-394619.txt : 20260917
+<SEC-HEADER>0001193125-26-394619.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917180005
+ACCESSION NUMBER:		0001193125-26-394619
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NELSON TODD S
+		CENTRAL INDEX KEY:			0001237505
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23245
+		FILM NUMBER:		261387945
+
+	MAIL ADDRESS:	
+		STREET 1:		PERDOCEO EDUCATION CORPORATION
+		STREET 2:		1750 E. GOLF ROAD
+		CITY:			SCHAUMBURG
+		STATE:			IL
+		ZIP:			60173
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PERDOCEO EDUCATION Corp
+		CENTRAL INDEX KEY:			0001046568
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EDUCATIONAL SERVICES [8200]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				363932190
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1750 E. GOLF ROAD
+		CITY:			SCHAUMBURG
+		STATE:			IL
+		ZIP:			60173
+		BUSINESS PHONE:		847-781-3600
+
+	MAIL ADDRESS:	
+		STREET 1:		1750 E. GOLF ROAD
+		CITY:			SCHAUMBURG
+		STATE:			IL
+		ZIP:			60173
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAREER EDUCATION CORP
+		DATE OF NAME CHANGE:	19970923
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001046568</issuerCik>
+        <issuerName>PERDOCEO EDUCATION Corp</issuerName>
+        <issuerTradingSymbol>PRDO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001237505</rptOwnerCik>
+            <rptOwnerName>NELSON TODD S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1750 E. GOLF ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 350</rptOwnerStreet2>
+            <rptOwnerCity>SCHAUMBURG</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60173</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>46199</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>32.89</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>301782</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on May 14, 2026.</footnote>
+        <footnote id="F2">This transaction was executed in multiple trades at prices ranging from $32.34 to $33.13. This price reported in Column 4 reflects the weighted average sale prices. The Reporting Person hereby undertakes to provide, upon written request, to the SEC staff, the Issuer, or a security holder of the Issuer, full information regarding the number of shares and prices at which the transaction were effected.</footnote>
+        <footnote id="F3">Includes 297,899 unvested restricted stock units granted pursuant to Issuer's 2016 Incentive Compensation Plan, with each unit representing the contingent right to receive one share of Issuer's common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Todd S. Nelson by POA: Andrew Terry</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

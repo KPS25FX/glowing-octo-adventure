@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0002118015-26-000004.txt : 20260908
+<SEC-HEADER>0002118015-26-000004.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908192245
+ACCESSION NUMBER:		0002118015-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Berho Carranza Diego
+		CENTRAL INDEX KEY:			0002118015
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41730
+		FILM NUMBER:		261366266
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		PASEO DE LOS TAMARINDOS NO. 90, TORRE 2
+		STREET 2:		PISO 28, COL. BOSQUES DE LAS LOMAS
+		CITY:			CUAJIMALPA
+		NON US STATE TERRITORY:  	MEXICO
+		PROVINCE COUNTRY:   	O5
+		ZIP:			CP 05120
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vesta Real Estate Corporation, S.A.B. de C.V.
+		CENTRAL INDEX KEY:			0001969373
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				000000000
+		STATE OF INCORPORATION:			O5
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PASEO DE TAMARINDOS # 90 TORRE 2 PISO 28
+		STREET 2:		COL. BOSQUES DE LAS LOMAS, CUAJIMALPA CP
+		CITY:			MEXICO CITY
+		STATE:			O5
+		ZIP:			05210
+		BUSINESS PHONE:		52 (55) 5950-0070
+
+	MAIL ADDRESS:	
+		STREET 1:		PASEO DE TAMARINDOS # 90 TORRE 2 PISO 28
+		STREET 2:		COL. BOSQUES DE LAS LOMAS, CUAJIMALPA CP
+		CITY:			MEXICO CITY
+		STATE:			O5
+		ZIP:			05210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001969373</issuerCik>
+        <issuerName>Vesta Real Estate Corporation, S.A.B. de C.V.</issuerName>
+        <issuerTradingSymbol>VTMX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>VESTA</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002118015</rptOwnerCik>
+            <rptOwnerName>Berho Carranza Diego</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>PASEO DE LOS TAMARINDOS NO. 90, TORRE 2</rptOwnerStreet1>
+            <rptOwnerStreet2>PISO 28, COL. BOSQUES DE LAS LOMAS</rptOwnerStreet2>
+            <rptOwnerCity>CUAJIMALPA</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>MEXICO</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>O5</rptOwnerCountry>
+            <rptOwnerZipCode>CP 05120</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Portfolio Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>ORDINARY SHARES</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6219</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.48</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1715475</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">exercise price represents a per ordinary share sale price of mxn$59.00</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>DIEGO BERHO CARRANZA</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

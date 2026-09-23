@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0000929638-26-003522.txt : 20260914
+<SEC-HEADER>0000929638-26-003522.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914161912
+ACCESSION NUMBER:		0000929638-26-003522
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260710
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wynn Andrew Charles
+		CENTRAL INDEX KEY:			0002120164
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42797
+		FILM NUMBER:		261377589
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BULLISH US LLC
+		STREET 2:		61 9TH AVE 5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bullish
+		CENTRAL INDEX KEY:			0001872195
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		P.O. BOX 309, UGLAND HOUSE
+		CITY:			GEORGE TOWN
+		PROVINCE COUNTRY:   	E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		852-3761-9140
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		P.O. BOX 309, UGLAND HOUSE
+		CITY:			GEORGE TOWN
+		PROVINCE COUNTRY:   	E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-07-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001872195</issuerCik>
+        <issuerName>Bullish</issuerName>
+        <issuerTradingSymbol>BLSH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002120164</rptOwnerCik>
+            <rptOwnerName>Wynn Andrew Charles</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>BULLISH, UNIT B1,</rptOwnerStreet1>
+            <rptOwnerStreet2>THE GROVE TOO, ESTERLEY TIBBETTS HIGHWAY</rptOwnerStreet2>
+            <rptOwnerCity>GRAND CAYMAN</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>E9</rptOwnerCountry>
+            <rptOwnerZipCode>KY1-9006</rptOwnerZipCode>
+            <rptOwnerStateDescription>CAYMAN ISLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-07-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2063</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12410</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5877</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18287</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 2,063 restricted share units (&quot;RSUs&quot;) granted to the Reporting Person pursuant to the Bullish 2025 Omnibus Incentive Plan. The RSUs vest in full on June 1, 2027. Each RSU represents a right to receive one ordinary share of Bullish upon vesting.</footnote>
+        <footnote id="F2">Represents 5,877 restricted share units (&quot;RSUs&quot;) granted to the Reporting Person pursuant to the Bullish 2025 Omnibus Incentive Plan. The RSUs vest in full on September 1, 2027. Each RSU represents a right to receive one ordinary share of Bullish upon vesting.</footnote>
+    </footnotes>
+
+    <remarks>Due to the issuer's status as a foreign private issuer pursuant to Rule 3a12-3(b) under the Securities Exchange Act of 1934 (the &quot;Act&quot;), the Reporting Person's transactions in the issuer's equity securities are exempt from Sections 16(b) and 16(c) of the Act.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew C. Wynn</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

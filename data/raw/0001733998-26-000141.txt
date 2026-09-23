@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001733998-26-000141.txt : 20260903
+<SEC-HEADER>0001733998-26-000141.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903173736
+ACCESSION NUMBER:		0001733998-26-000141
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kaszuba Raymond J III
+		CENTRAL INDEX KEY:			0001649589
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38681
+		FILM NUMBER:		261359451
+
+	MAIL ADDRESS:	
+		STREET 1:		7200 WISCONSIN AVE
+		STREET 2:		SUITE 1000
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Northwest Natural Holding Co
+		CENTRAL INDEX KEY:			0001733998
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS DISTRIBUTION [4924]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				824710680
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 SW TAYLOR STREET
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97204
+		BUSINESS PHONE:		503-226-4211
+
+	MAIL ADDRESS:	
+		STREET 1:		250 SW TAYLOR STREET
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001733998</issuerCik>
+        <issuerName>Northwest Natural Holding Co</issuerName>
+        <issuerTradingSymbol>NWN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001649589</rptOwnerCik>
+            <rptOwnerName>Kaszuba Raymond J III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>250 SW TAYLOR ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PORTLAND</rptOwnerCity>
+            <rptOwnerState>OR</rptOwnerState>
+            <rptOwnerZipCode>97204</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP &amp; Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>705</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>49.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7234</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were withheld by Issuer to cover withholding taxes on issuance of shares due to vesting of time-based restricted stock units on September 1, 2026.</footnote>
+        <footnote id="F2">Includes 2,605 time-based restricted stock units granted under Issuers Long Term Incentive Plan.  The restricted stock units vest in one installment on September 1, 2027.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Molly J. Wilcox, Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

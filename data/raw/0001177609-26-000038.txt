@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001177609-26-000038.txt : 20260911
+<SEC-HEADER>0001177609-26-000038.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911173016
+ACCESSION NUMBER:		0001177609-26-000038
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gellerman Maureen Marie
+		CENTRAL INDEX KEY:			0002031818
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35600
+		FILM NUMBER:		261375309
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FIVE BELOW, INC.
+		STREET 2:		701 MARKET STREET, SUITE 300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIVE BELOW, INC
+		CENTRAL INDEX KEY:			0001177609
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				753000378
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 MARKET STREET
+		STREET 2:		SUITE 300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+		BUSINESS PHONE:		215 546 7909
+
+	MAIL ADDRESS:	
+		STREET 1:		701 MARKET STREET
+		STREET 2:		SUITE 300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIVE BELOW INC
+		DATE OF NAME CHANGE:	20030305
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHEAP HOLDINGS INC
+		DATE OF NAME CHANGE:	20020717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001177609</issuerCik>
+        <issuerName>FIVE BELOW, INC</issuerName>
+        <issuerTradingSymbol>FIVE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002031818</rptOwnerCik>
+            <rptOwnerName>Gellerman Maureen Marie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O FIVE BELOW, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>701 MARKET STREET, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19106</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CHRO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1610</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>248.94</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8804</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $248.93 to $249.04, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the footnote of this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christos G. Yatrakis, Attorney-in-Fact for Maureen Gellerman</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

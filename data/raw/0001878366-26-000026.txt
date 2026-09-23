@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0001878366-26-000026.txt : 20260826
+<SEC-HEADER>0001878366-26-000026.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826215902
+ACCESSION NUMBER:		0001878366-26-000026
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260811
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Aljomaih Automotive Co.
+		CENTRAL INDEX KEY:			0001878366
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			T0
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39598
+		FILM NUMBER:		261324826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 224, KING KHALID STREET
+		STREET 2:		ALJOMAIH BUILDING, 1ST FLOOR
+		CITY:			DAMMAM
+		STATE:			T0
+		ZIP:			31411
+		BUSINESS PHONE:		966555520120
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 224, KING KHALID STREET
+		STREET 2:		ALJOMAIH BUILDING, 1ST FLOOR
+		CITY:			DAMMAM
+		STATE:			T0
+		ZIP:			31411
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Xos, Inc.
+		CENTRAL INDEX KEY:			0001819493
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				981550505
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3550 TYBURN STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90065
+		BUSINESS PHONE:		(818) 316-1890
+
+	MAIL ADDRESS:	
+		STREET 1:		3550 TYBURN STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NextGen Acquisition Corp
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001819493</issuerCik>
+        <issuerName>Xos, Inc.</issuerName>
+        <issuerTradingSymbol>XOS</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001878366</rptOwnerCik>
+            <rptOwnerName>Aljomaih Automotive Co.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O XOS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3550 TYBURN STREET, UNIT 100</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90065</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Convertible Note</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>12</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1500000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1500000</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>125000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1166666</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On August 11, 2026, the issuer made a scheduled repayment of $1.5 million principal amount of the Convertible Note.</footnote>
+        <footnote id="F2">The $1.5 million principal amount repaid was convertible into an aggregate of 125,000 shares of common stock, par value $0.0001 per share, of the issuer.</footnote>
+        <footnote id="F3">The principal amount plus any accrued and unpaid interest was convertible at the holder's election after November 9, 2022.</footnote>
+        <footnote id="F4">$1.5 million principal amount of the Convertible Note was repaid and extinguished for face value.</footnote>
+        <footnote id="F5">The $14,000,000 principal amount of Convertible Notes outstanding immediately following the transaction was convertible into 1,166,666 shares of Common Stock at $12.00 per share. Column 9 does not include any interest accrued on the Convertible Note since August 11, 2025 (at a rate of 10% per annum), which may be converted into Interest Shares at the 10-day VWAP on the date of payment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ibrahim M. Aljomaih, President and Director</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

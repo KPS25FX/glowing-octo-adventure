@@ -1,0 +1,249 @@
+<SEC-DOCUMENT>0001493152-26-040207.txt : 20260826
+<SEC-HEADER>0001493152-26-040207.hdr.sgml : 20260826
+<ACCEPTANCE-DATETIME>20260826142029
+ACCESSION NUMBER:		0001493152-26-040207
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260826
+FILED AS OF DATE:		20260826
+DATE AS OF CHANGE:		20260826
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pershing Edward
+		CENTRAL INDEX KEY:			0001689739
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36457
+		FILM NUMBER:		261321020
+
+	MAIL ADDRESS:	
+		STREET 1:		2220 SOUTHERLAND AVE
+		CITY:			KNOXVILLE
+		STATE:			TN
+		ZIP:			37919
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PROVECTUS BIOPHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0000315545
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				900031917
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 S. GAY STREET
+		STREET 2:		SUITE 1610
+		CITY:			KNOXVILLE
+		STATE:			TN
+		ZIP:			37929
+		BUSINESS PHONE:		(866) 594-5999
+
+	MAIL ADDRESS:	
+		STREET 1:		800 S. GAY STREET
+		STREET 2:		SUITE 1610
+		CITY:			KNOXVILLE
+		STATE:			TN
+		ZIP:			37929
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROVECTUS PHARMACEUTICALS INC
+		DATE OF NAME CHANGE:	20020417
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZAMAGE DIGITAL IMAGING INC
+		DATE OF NAME CHANGE:	20011126
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPM GROUP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000315545</issuerCik>
+        <issuerName>PROVECTUS BIOPHARMACEUTICALS, INC.</issuerName>
+        <issuerTradingSymbol>PVCT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001689739</rptOwnerCik>
+            <rptOwnerName>Pershing Edward</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>800 S. GAY STREET,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1610</rptOwnerStreet2>
+            <rptOwnerCity>KNOXVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37929</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>8% Unsecured Convertible Promissory Note</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.862</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>30000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2025-08-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-08-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series D-1 Convertible Preferred Stock</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11328</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>840000</value>
+                    <footnoteId id="F6"/>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series D-1 Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11328</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-08-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>113280</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2924949</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Series D-1 Preferred Stock is convertible into 10 shares of the Issuer's common stock, par value $0.001 per share (&quot;Common Stock&quot;).</footnote>
+        <footnote id="F2">The Series D-1 Convertible Preferred Stock will automatically convert into Common Stock on December 31, 2028, unless earlier converted into Common Stock in accordance with the terms of the Certificate of Designation for the Series D-1 Convertible Preferred Stock.</footnote>
+        <footnote id="F3">The Reporting Person could have voluntarily elected to convert the outstanding principal and interest of the 8% unsecured convertible promissory note (the &quot;2025 Note&quot;) at any time while the 2025 Note was outstanding into shares of Series D-1 Convertible Preferred Stock at a price per share equal to $2.862. The outstanding principal and interest of the 2025 Note automatically converted into shares of Series D-1 Preferred Stock at a price per share equal to $2.862 on the date which is twelve months after the issue date of the 2025 Note. The 2025 Note was issued pursuant to the Issuer's 2025 Financing.</footnote>
+        <footnote id="F4">On August 26, 2026, the 2025 Note converted into 11,328 shares of Series D-1 Preferred Stock.</footnote>
+        <footnote id="F5">The amount reported reflects an adjustment to correct a typographical error in a previously filed Form 4. This adjustment does not reflect a transaction by the Reporting Person.</footnote>
+        <footnote id="F6">The amount reported reflects an adjustment to correct a typographical error in a previously filed Form 4. This adjustment does not reflect a transaction by the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ed Pershing</signatureName>
+        <signatureDate>2026-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

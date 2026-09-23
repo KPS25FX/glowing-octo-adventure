@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001225208-26-007699.txt : 20260908
+<SEC-HEADER>0001225208-26-007699.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908160730
+ACCESSION NUMBER:		0001225208-26-007699
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GAMBLE JOHN W JR
+		CENTRAL INDEX KEY:			0001222712
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06605
+		FILM NUMBER:		261365122
+
+	MAIL ADDRESS:	
+		STREET 1:		EQUIFAX INC
+		STREET 2:		1550 PEACHTREE STREET NW
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30309
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EQUIFAX INC
+		CENTRAL INDEX KEY:			0000033185
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CONSUMER CREDIT REPORTING, COLLECTION AGENCIES [7320]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				580401110
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1550 PEACHTREE ST NW
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30302
+		BUSINESS PHONE:		4048858000
+
+	MAIL ADDRESS:	
+		STREET 1:		1550 PEACHTREE ST NW
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RETAIL CREDIT CO
+		DATE OF NAME CHANGE:	19760222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000033185</issuerCik>
+        <issuerName>EQUIFAX INC</issuerName>
+        <issuerTradingSymbol>EFX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001222712</rptOwnerCik>
+            <rptOwnerName>GAMBLE JOHN W JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1550 PEACHTREE STREET, N.W.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30309</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP, CFO &amp; COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4500.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>187.9600</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>69055.0000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 5/28/2026.</footnote>
+        <footnote id="F2">Includes accrued dividend equivalent units for dividends reinvested in corresponding restricted stock units through the Company's last dividend payment date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Lisa Stockard as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

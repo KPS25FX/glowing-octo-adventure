@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001977812-26-000011.txt : 20260909
+<SEC-HEADER>0001977812-26-000011.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909160629
+ACCESSION NUMBER:		0001977812-26-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260908
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hickey Toni
+		CENTRAL INDEX KEY:			0001977812
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31429
+		FILM NUMBER:		261368201
+
+	MAIL ADDRESS:	
+		STREET 1:		26 CENTURY BOULEVARD
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37214
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VALMONT INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000102729
+		STANDARD INDUSTRIAL CLASSIFICATION:	FABRICATED STRUCTURAL METAL PRODUCTS [3440]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				470351813
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15000 VALMONT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68154
+		BUSINESS PHONE:		402-963-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		15000 VALMONT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VALLEY MANUFACTURING CO
+		DATE OF NAME CHANGE:	19680822
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-08</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000102729</issuerCik>
+        <issuerName>VALMONT INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>VMI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001977812</rptOwnerCik>
+            <rptOwnerName>Hickey Toni</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>VALMONT INDUSTRIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>15000 VALMONT PLAZA</rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CLO and Corporate Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>310</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>310</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock unit award which vests in three equal annual installments commencing September 8, 2027.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ William Eric Johnson, by power of attorney</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

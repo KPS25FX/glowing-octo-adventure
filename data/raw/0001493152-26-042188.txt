@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001493152-26-042188.txt : 20260910
+<SEC-HEADER>0001493152-26-042188.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910163026
+ACCESSION NUMBER:		0001493152-26-042188
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Perez Dana Eschenburg
+		CENTRAL INDEX KEY:			0001892454
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41962
+		FILM NUMBER:		261371487
+
+	MAIL ADDRESS:	
+		STREET 1:		2335 BELLAROSA CIRCLE
+		CITY:			ROYAL PALM BEACH
+		STATE:			FL
+		ZIP:			33411
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sharplink, Inc.
+		CENTRAL INDEX KEY:			0001981535
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 S. BISCAYNE BOULEVARD
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+		BUSINESS PHONE:		(612) 293-0619
+
+	MAIL ADDRESS:	
+		STREET 1:		200 S. BISCAYNE BOULEVARD
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SharpLink Gaming, Inc.
+		DATE OF NAME CHANGE:	20230614
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001981535</issuerCik>
+        <issuerName>Sharplink, Inc.</issuerName>
+        <issuerTradingSymbol>SBET</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001892454</rptOwnerCik>
+            <rptOwnerName>Perez Dana Eschenburg</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SHARPLINK, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 S. BISCAYNE BOULEVARD</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2841</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.54</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>63612</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of the Registrant's common stock withheld to satisfy tax withholding obligations upon the vesting and settlement of restricted stock units (&quot;RSUs&quot;).</footnote>
+        <footnote id="F2">Includes: (i) 54,722 unvested RSUs, and (ii) 8,890 shares of the Registrant's common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Dana E. Perez</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

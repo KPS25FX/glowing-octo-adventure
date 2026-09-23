@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001839111-26-000004.txt : 20260903
+<SEC-HEADER>0001839111-26-000004.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903171100
+ACCESSION NUMBER:		0001839111-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alger Jason
+		CENTRAL INDEX KEY:			0001839111
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38993
+		FILM NUMBER:		261359256
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HEALTH CATALYST
+		STREET 2:		3165 MILLROCK DR #400
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Health Catalyst, Inc.
+		CENTRAL INDEX KEY:			0001636422
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				453337483
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10897 SOUTH RIVER FRONT PARKWAY, #300
+		CITY:			SOUTH JORDAN
+		STATE:			UT
+		ZIP:			84095
+		BUSINESS PHONE:		801-708-6800
+
+	MAIL ADDRESS:	
+		STREET 1:		10897 SOUTH RIVER FRONT PARKWAY, #300
+		CITY:			SOUTH JORDAN
+		STATE:			UT
+		ZIP:			84095
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HQC Holdings, Inc.
+		DATE OF NAME CHANGE:	20150312
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001636422</issuerCik>
+        <issuerName>Health Catalyst, Inc.</issuerName>
+        <issuerTradingSymbol>HCAT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001839111</rptOwnerCik>
+            <rptOwnerName>Alger Jason</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O HEALTH CATALYST, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>10897 SOUTH RIVER FRONT PARKWAY, #300</rptOwnerStreet2>
+            <rptOwnerCity>SOUTH JORDAN</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84095</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17973.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.7036</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>704867.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of Issuer's Restricted Stock Units. This sale is mandated by the Issuer's election under its equity incentive plans to require the satisfaction of tax withholding obligations to be funded by a &quot;sell to cover&quot; transaction and does not represent a discretionary trade by the Reporting Person.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Benjamin Landry, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000008818-26-000150.txt : 20260916
+<SEC-HEADER>0000008818-26-000150.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916162148
+ACCESSION NUMBER:		0000008818-26-000150
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260915
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Colisto Nicholas
+		CENTRAL INDEX KEY:			0001565131
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07685
+		FILM NUMBER:		261383990
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AVERY DENNISON CORPORATION
+		STREET 2:		207 GOODE AVE
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Avery Dennison Corp
+		CENTRAL INDEX KEY:			0000008818
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				951492269
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8080 NORTON PARKWAY
+		CITY:			MENTOR
+		STATE:			OH
+		ZIP:			44060
+		BUSINESS PHONE:		440-534-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		8080 NORTON PARKWAY
+		CITY:			MENTOR
+		STATE:			OH
+		ZIP:			44060
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AVERY DENNISON CORPORATION
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AVERY INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19901030
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AVERY PRODUCTS CORP
+		DATE OF NAME CHANGE:	19760518
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000008818</issuerCik>
+        <issuerName>Avery Dennison Corp</issuerName>
+        <issuerTradingSymbol>AVY</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001565131</rptOwnerCik>
+            <rptOwnerName>Colisto Nicholas</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>8080 NORTON PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENTOR</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44060</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP &amp; CIO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3886</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>170.6805</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7126</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Transaction executed in multiple trades at prices ranging from $170.360 - $170.995. The price reported reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer, or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effectuated.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Vikas Arora attorney-in-fact for Nicholas Colisto</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

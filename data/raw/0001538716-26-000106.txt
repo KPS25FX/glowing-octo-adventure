@@ -1,0 +1,217 @@
+<SEC-DOCUMENT>0001538716-26-000106.txt : 20260914
+<SEC-HEADER>0001538716-26-000106.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914180839
+ACCESSION NUMBER:		0001538716-26-000106
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rowles Sean A
+		CENTRAL INDEX KEY:			0002140658
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39050
+		FILM NUMBER:		261378607
+
+	MAIL ADDRESS:	
+		STREET 1:		1825 SOUTH GRANT STREET, SUITE 850
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Oportun Financial Corp
+		CENTRAL INDEX KEY:			0001538716
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				453361983
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1825 SOUTH GRANT STREET, SUITE 850
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+		BUSINESS PHONE:		(650) 810-8823
+
+	MAIL ADDRESS:	
+		STREET 1:		1825 SOUTH GRANT STREET, SUITE 850
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Progreso Financiero Holdings, Inc.
+		DATE OF NAME CHANGE:	20120104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1789423715.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001538716</issuerCik>
+        <issuerName>Oportun Financial Corp</issuerName>
+        <issuerTradingSymbol>OPRT</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002140658</rptOwnerCik>
+            <rptOwnerName>Rowles Sean A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>OPORTUN FINANCIAL CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>1825 SOUTH GRANT STREET, SUITE 850</rptOwnerStreet2>
+            <rptOwnerCity>SAN MATEO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Risk Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>382653</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>382653</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>127551</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2029-03-10</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>127551</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>127551</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Restricted Stock Units (RSU) vest over 3 years, 33.33% will vest on the first anniversary of the grant date and 8 quarterly installments thereafter, subject to the continued service of the Reporting Person on each vesting date.</footnote>
+        <footnote id="F2">Each RSU represents the right to receive, at settlement, one share of common stock.</footnote>
+        <footnote id="F3">Represents PSUs that are eligible to vest based on a one-year performance period for Economic ROA (as defined in the PSU Award Agreement). Earned PSUs will be deferred until the end of year three, at which point they will be subject to a modifier based on the Issuer's relative total shareholder return (rTSR) performance against the Russell 3000 Index before vesting. The rTSR performance period spans three (3) years covering calendar years 2026 through 2028. The number of PSUs reported in the table reflects the number of units subject to the award at target achievement. Actual vesting will be based on percentile performance, with potential payout ranging from 0% to 156% of the target units. In addition to such performance requirements, the PSUs are subject to satisfying service-based requirements and any PSUs that become Eligible Units (as defined in the PSU Award Agreement) will be scheduled to vest on March 10, 2029.</footnote>
+        <footnote id="F4">Each Performance-Based RSU (PSU) represents the right to receive, at settlement, one share of common stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Kathleen Layton (Attorney-in-Fact)</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001213900-26-101531.txt : 20260918
+<SEC-HEADER>0001213900-26-101531.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918181113
+ACCESSION NUMBER:		0001213900-26-101531
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dillon James JD
+		CENTRAL INDEX KEY:			0001977198
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40710
+		FILM NUMBER:		261391910
+
+	MAIL ADDRESS:	
+		STREET 1:		655 CAMPBELL TECHNOLOGY PARKWAY
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGO ENERGY, INC.
+		CENTRAL INDEX KEY:			0001855447
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		983 UNIVERSITY AVENUE
+		STREET 2:		SUITE B
+		CITY:			LOS GATOS
+		STATE:			CA
+		ZIP:			95032
+		BUSINESS PHONE:		(408) 402-0802
+
+	MAIL ADDRESS:	
+		STREET 1:		983 UNIVERSITY AVENUE
+		STREET 2:		SUITE B
+		CITY:			LOS GATOS
+		STATE:			CA
+		ZIP:			95032
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Roth CH Acquisition IV Co.
+		DATE OF NAME CHANGE:	20210406
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001855447</issuerCik>
+        <issuerName>TIGO ENERGY, INC.</issuerName>
+        <issuerTradingSymbol>TYGO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001977198</rptOwnerCik>
+            <rptOwnerName>Dillon James JD</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>983 UNIVERSITY AVENUE, SUITE B</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOS GATOS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95032</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Marketing Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11633</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.03</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>229775</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of common stock, par value $0.0001 per share (&quot;Common Stock&quot;) withheld in an exempt disposition to the Issuer under Rule 16b-3(e) to satisfy tax withholding obligations of the reporting person arising out of the vesting of previously reported restricted stock units (&quot;RSUs&quot;).</footnote>
+        <footnote id="F2">Includes 23,798 shares of Common Stock underlying RSUs granted to the reporting person on September 16, 2024 (the &quot;September 2024 Grant Date&quot;), 51,503 shares of Common Stock underlying RSUs granted to the reporting person on August 1, 2025 (the &quot;August 2025 Grant Date&quot;), and 62,000 shares of Common Stock underlying RSUs granted to the reporting person on August 7, 2026 (the &quot;August 2026 Grant Date&quot;), in each case, pursuant to the Issuer's 2023 Incentive Plan.</footnote>
+        <footnote id="F3">(Continuation of the Footnote (2)) One-Third (1/3) of the RSUs granted to the reporting person on September 16, 2024 vested and an equal number of shares of Common Stock were delivered to the reporting person on each of September 16, 2025 and September 16, 2026. One-third (1/3) of the RSUs subject to the grant shall vest, and an equal number of shares of Common Stock will be deliverable to the reporting person, on the third anniversary of the September 2024 Grant Date, subject to continued service through each such vesting date.</footnote>
+        <footnote id="F4">(Continuation of the Footnote (2)) One-Third (1/3) of the RSUs granted to the reporting person on August 1, 2025 vested and an equal number of shares of Common Stock were delivered to the reporting person on August 1, 2026, and one-third of the RSUs subject to the grant shall vest, and an equal number of shares of Common Stock will be deliverable to the reporting person, on each of the second and third anniversaries of the August 2025 Grant Date, subject to continued service through each such vesting date. One-Third (1/3) of the RSUs granted to the reporting person on August 7, 2026 shall vest, and an equal number of shares of Common Stock will be deliverable to the reporting person, on each of the first three anniversaries of the August 2026 Grant Date, subject to continued service through each such vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Bill Roeschlein, as attorney-in-fact</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,378 @@
+<SEC-DOCUMENT>0001193125-26-391030.txt : 20260914
+<SEC-HEADER>0001193125-26-391030.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914203004
+ACCESSION NUMBER:		0001193125-26-391030
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Zahr Marc
+		CENTRAL INDEX KEY:			0001901889
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39653
+		FILM NUMBER:		261378949
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BLUE OWL CAPITAL INC.
+		STREET 2:		399 PARK AVENUE, 37TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLUE OWL CAPITAL INC.
+		CENTRAL INDEX KEY:			0001823945
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				863906032
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE, 37TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 419-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE, 37TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALTIMAR ACQUISITION CORP.
+		DATE OF NAME CHANGE:	20200909
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001823945</issuerCik>
+        <issuerName>BLUE OWL CAPITAL INC.</issuerName>
+        <issuerTradingSymbol>OWL</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001901889</rptOwnerCik>
+            <rptOwnerName>Zahr Marc</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>399 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>37TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Co-President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class C Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4550777</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6543145</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class C Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>45507772</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Blue Owl Operating Group Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4550777</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4550777</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6543145</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Derivatives Contract</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>true</equitySwapInvolved>
+                <footnoteId id="F7"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1</value>
+                    <footnoteId id="F7"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6543145</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                    <footnoteId id="F7"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Blue Owl Operating Group Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>45507772</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>45507772</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Derivatives Contract</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F7"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6543145</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                    <footnoteId id="F7"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">For estate planning purposes, the reporting person transferred his remaining units of Augustus, LLC (&quot;Augustus&quot;), an investment vehicle controlled by the reporting person, to the Zahr Family Gift Trust (the &quot;Trust&quot;), with James J. Hennessey, as trustee (the &quot;Trustee&quot;) of the Trust, and the reporting person, as investment trustee (the &quot;Investment Trustee&quot;) of the Trust. As of the date hereof and after giving effect to such transfer, OSREC Feeder, LP (&quot;OSREC&quot;) holds 45,507,772 common units of Blue Owl Capital Holdings LP (&quot;Blue Owl Holdings&quot;), a Delaware limited partnership (&quot;Blue Owl Operating Group Units&quot;), and an equal number of shares of Class C common stock of the Issuer (&quot;Class C Shares&quot;) on behalf of Augustus, with 100% of such securities indirectly held by Augustus on behalf of the Trust.</footnote>
+        <footnote id="F2">Consists of 6,543,145 Blue Owl Operating Group Units and an equal number of Class C Shares issued or to be issued in respect of Class P Units of Blue Owl Holdings issued to Blue Owl Management Vehicle LP (&quot;Blue Owl Management Vehicle&quot;) on behalf of the reporting person. The reporting person holds Incentive Units of Blue Owl Management Vehicle, which correspond to the Class P Units and the resulting Blue Owl Operating Group Units and Class C Shares on a 1-for-1 basis.</footnote>
+        <footnote id="F3">The Blue Owl Operating Group Units and an equal number of Class C Shares held directly by OSREC on behalf of Augustus, corresponding to the Trust's holdings of 100% of the units in Augustus, following the transfer of Augustus units described in footnote 1 above, are indirectly held by the Trust.</footnote>
+        <footnote id="F4">The reporting person disclaims beneficial ownership of the securities held by the Trust, except to the extent of his pecuniary interest therein, and disclaims that the transaction reported herein represents a change in beneficial ownership. The Trust is maintained for the benefit of immediate family members sharing the same household of the reporting person.</footnote>
+        <footnote id="F5">After the cancellation of an equal number of Class C Shares (and, in the case of the Incentive Units, the expiration of a one-year lock up from the grant date), Blue Owl Operating Group Units may be exchanged from time to time at the request of the reporting person for an equal number of newly issued shares of the Issuer's Class A common stock (&quot;Class A Shares&quot;) (or at the election of an exchange committee of the general partner of Blue Owl Holdings, a cash payment equal to the five-day volume weighted average price of shares of Class A Shares immediately prior to the applicable exchange date). Blue Owl Operating Group Units do not expire.</footnote>
+        <footnote id="F6">On September 14, 2026, the reporting person entered into a derivative agreement (the &quot;Agreement&quot;) for estate planning purposes with the Investment Trustee of the Trust pursuant to which the reporting person sold the Investment Trustee a derivative for an aggregate amount equal to $14,866,651. The settlement date is September 14, 2033 or, if earlier, the date of the reporting person's death (the &quot;Settlement Date&quot;). Within 120 days after the Settlement Date, an amount equal to the fair market value of the Blue Owl Interests (as defined below) as of the Settlement Date less $100,000 (the &quot;Hurdle Amount&quot;) shall be determined. If such amount is greater than zero, the Reporting Person shall pay such amount to the Investment Trustee within thirty days.</footnote>
+        <footnote id="F7">The Agreement provides the Trust with a right to receive a future payment that represents the increase in value over the Hurdle Amount of the following (&quot;Blue Owl Interests&quot;), defined as: (i) 4,268,577 Blue Owl Operating Group Units and an equal number of Class C Shares to be issued in respect of Incentive Units of Blue Owl Management Vehicle held by the reporting person, (ii) 2,274,568 Blue Owl Operating Group Units and an equal number of Class C Shares issued in respect of Incentive Units of Blue Owl Management Vehicle held by the reporting person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Neena A. Reddy, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

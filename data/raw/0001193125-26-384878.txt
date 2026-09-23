@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001193125-26-384878.txt : 20260908
+<SEC-HEADER>0001193125-26-384878.hdr.sgml : 20260908
+<ACCEPTANCE-DATETIME>20260908122952
+ACCESSION NUMBER:		0001193125-26-384878
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260903
+FILED AS OF DATE:		20260908
+DATE AS OF CHANGE:		20260908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Huizenga Theodore Alan
+		CENTRAL INDEX KEY:			0001603347
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36276
+		FILM NUMBER:		261364230
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ULTRAGENYX PHARMACEUTICAL INC.
+		STREET 2:		60 LEVERONI COURT
+		CITY:			NOVATO
+		STATE:			CA
+		ZIP:			94949
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ultragenyx Pharmaceutical Inc.
+		CENTRAL INDEX KEY:			0001515673
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				272546083
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		60 LEVERONI COURT
+		CITY:			NOVATO
+		STATE:			CA
+		ZIP:			94949
+		BUSINESS PHONE:		415-483-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		60 LEVERONI COURT
+		CITY:			NOVATO
+		STATE:			CA
+		ZIP:			94949
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001515673</issuerCik>
+        <issuerName>Ultragenyx Pharmaceutical Inc.</issuerName>
+        <issuerTradingSymbol>RARE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001603347</rptOwnerCik>
+            <rptOwnerName>Huizenga Theodore Alan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ULTRAGENYX PHARMACEUTICAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>60 LEVERONI COURT</rptOwnerStreet2>
+            <rptOwnerCity>NOVATO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94949</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP, Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>161</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.99</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>69146</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares sold to pay required tax withholdings due to the vesting of RSUs.</footnote>
+        <footnote id="F2">Includes 396 shares acquired under the Company's Amended and Restated Employee Stock Purchase Place on April 30, 2026.</footnote>
+        <footnote id="F3">Includes previously reported shares of common stock underlying RSUs granted to the Reporting Person, which are subject to certain vesting conditions.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Karah Parschauer, attorney-in-fact</signatureName>
+        <signatureDate>2026-09-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

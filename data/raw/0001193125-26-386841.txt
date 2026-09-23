@@ -1,0 +1,228 @@
+<SEC-DOCUMENT>0001193125-26-386841.txt : 20260909
+<SEC-HEADER>0001193125-26-386841.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909205554
+ACCESSION NUMBER:		0001193125-26-386841
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260905
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wilterding Mark
+		CENTRAL INDEX KEY:			0002107187
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40690
+		FILM NUMBER:		261369447
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RXSIGHT, INC.
+		STREET 2:		100 COLUMBIA
+		CITY:			ALISO VIEJO
+		STATE:			CA
+		ZIP:			92656
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RxSight, Inc.
+		CENTRAL INDEX KEY:			0001111485
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPHTHALMIC GOODS [3851]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				943268801
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 COLUMBIA STREET
+		STREET 2:		SUITE 120
+		CITY:			ALISO VIEJO
+		STATE:			CA
+		ZIP:			92656
+		BUSINESS PHONE:		949-521-7822
+
+	MAIL ADDRESS:	
+		STREET 1:		100 COLUMBIA STREET
+		STREET 2:		SUITE 120
+		CITY:			ALISO VIEJO
+		STATE:			CA
+		ZIP:			92656
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CALHOUN VISION INC
+		DATE OF NAME CHANGE:	20000410
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001111485</issuerCik>
+        <issuerName>RxSight, Inc.</issuerName>
+        <issuerTradingSymbol>RXST</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002107187</rptOwnerCik>
+            <rptOwnerName>Wilterding Mark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>100 COLUMBIA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ALISO VIEJO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92656</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>10.09</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>258770</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-01-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>258770</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>6.375</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>258770</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-09-04</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>258770</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>258770</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Subject to the Reporting Person continuing to be a Service Provider (as defined in the Issuer's 2021 Equity Incentive Plan) through each applicable date, twenty five percent (25%) of the shares subject to the option shall vest on the one-year anniversary of January 11, 2026 (the &quot;Vesting Commencement Date&quot;), and the remaining shares subject to the options shall vesting equally monthly on the same day of the month as the Vesting Commencement Date (and if there is no corresponding day, on the last day of the month) over the following three years, such that all of the shares subject to the option shall be fully vested four years from the Vesting Commencement Date.</footnote>
+        <footnote id="F2">On September 5, 2026, in connection with the Issuer's option exchange program, the Issuer exchanged the Reporting Person's outstanding option on a 1:1 basis with a post-exchange exercise price of $6.375 per share.</footnote>
+        <footnote id="F3">Subject to the Reporting Person continuing to be a Service Provider (as defined in the Issuer's 2021 Equity Incentive Plan) through each applicable date, one twenty-fourth (1/24th) of the shares subject to the option will vest on February 28, 2027 and in equal monthly installments thereafter.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jim Schindler, as Attorney-in-Fact</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

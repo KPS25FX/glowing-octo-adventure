@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001193125-26-386114.txt : 20260909
+<SEC-HEADER>0001193125-26-386114.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909113059
+ACCESSION NUMBER:		0001193125-26-386114
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260803
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Harrington Cordia
+		CENTRAL INDEX KEY:			0001639126
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56409
+		FILM NUMBER:		261367277
+
+	MAIL ADDRESS:	
+		STREET 1:		2975 ARMORY DRIVE
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37204
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Global Crossing Airlines Group Inc.
+		CENTRAL INDEX KEY:			0001846084
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				981350261
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4200 NW 36TH STREET, BUILDING 5A
+		STREET 2:		MIAMI INT'L AIRPORT, 4TH FLOOR
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33166
+		BUSINESS PHONE:		7867518503
+
+	MAIL ADDRESS:	
+		STREET 1:		4200 NW 36TH STREET, BUILDING 5A
+		STREET 2:		MIAMI INT'L AIRPORT, 4TH FLOOR
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33166
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-03</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001846084</issuerCik>
+        <issuerName>Global Crossing Airlines Group Inc.</issuerName>
+        <issuerTradingSymbol>JETMF</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001639126</rptOwnerCik>
+            <rptOwnerName>Harrington Cordia</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>4200 NW 36TH ST, BLDG. 5A 4TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33166</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>215000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>514967</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reporting person owns only shares of issuer common stock and does not own any shares of Class A common stock or Class B common stock.</footnote>
+        <footnote id="F2">Shares of common stock were acquired upon vesting and therefore conversion of an equal number of RSUs.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cordia Harrington</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

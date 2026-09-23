@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001493152-26-042217.txt : 20260910
+<SEC-HEADER>0001493152-26-042217.hdr.sgml : 20260910
+<ACCEPTANCE-DATETIME>20260910170417
+ACCESSION NUMBER:		0001493152-26-042217
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260910
+DATE AS OF CHANGE:		20260910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Theofilos James Charles
+		CENTRAL INDEX KEY:			0002076440
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38538
+		FILM NUMBER:		261371886
+
+	MAIL ADDRESS:	
+		STREET 1:		300 VILLAGE SQUARE CROSSING
+		STREET 2:		SUITE 102
+		CITY:			PALM BEACH GARDENS
+		STATE:			FL
+		ZIP:			33410
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			electroCore, Inc.
+		CENTRAL INDEX KEY:			0001560258
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				203454976
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 FORGE WAY
+		STREET 2:		SUITE 205
+		CITY:			ROCKAWAY
+		STATE:			NJ
+		ZIP:			07866
+		BUSINESS PHONE:		973-290-0097
+
+	MAIL ADDRESS:	
+		STREET 1:		200 FORGE WAY
+		STREET 2:		SUITE 205
+		CITY:			ROCKAWAY
+		STATE:			NJ
+		ZIP:			07866
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ElectroCore, LLC
+		DATE OF NAME CHANGE:	20121012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001560258</issuerCik>
+        <issuerName>electroCore, Inc.</issuerName>
+        <issuerTradingSymbol>ECOR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002076440</rptOwnerCik>
+            <rptOwnerName>Theofilos James Charles</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ELECTROCORE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 FORGE WAY, SUITE 205</rptOwnerStreet2>
+            <rptOwnerCity>ROCKAWAY</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07866</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11123</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34670</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of Restricted Stock Units (&quot;RSUs&quot;) as a part of an annual director award which vest in 12 equal monthly installments from the grant date; provided, however, that the RSUs shall vest in full on the earlier of (i) the close of business one business day prior to the Issuer's next annual stockholder meeting following the grant date, and (ii) the date immediately prior to a change of control, in each case, provided that the Reporting Person remains in continuous service with the Issuer or an affiliate through the applicable vesting date.</footnote>
+        <footnote id="F2">Includes 7,385 vested RSUs, 25,894 unvested RSUs and 1,391 shares of common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James C. Theofilos</signatureName>
+        <signatureDate>2026-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

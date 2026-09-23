@@ -1,0 +1,204 @@
+<SEC-DOCUMENT>0001213900-26-098412.txt : 20260909
+<SEC-HEADER>0001213900-26-098412.hdr.sgml : 20260909
+<ACCEPTANCE-DATETIME>20260909163031
+ACCESSION NUMBER:		0001213900-26-098412
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260904
+FILED AS OF DATE:		20260909
+DATE AS OF CHANGE:		20260909
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Anderson William James
+		CENTRAL INDEX KEY:			0001984868
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40117
+		FILM NUMBER:		261368503
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O COMPLETE SOLARIA, INC.
+		STREET 2:		3000 EXECUTIVE PARKWAY, SUITE 504
+		CITY:			SAN RAMON
+		STATE:			CA
+		ZIP:			94583
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SunPower Inc.
+		CENTRAL INDEX KEY:			0001838987
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		EIN:				932279786
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1403 N RESEARCH WAY
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84097
+		BUSINESS PHONE:		(877) 299-4943
+
+	MAIL ADDRESS:	
+		STREET 1:		1403 N RESEARCH WAY
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84097
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Complete Solaria, Inc.
+		DATE OF NAME CHANGE:	20230721
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Freedom Acquisition I Corp.
+		DATE OF NAME CHANGE:	20210105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001838987</issuerCik>
+        <issuerName>SunPower Inc.</issuerName>
+        <issuerTradingSymbol>SPWR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001984868</rptOwnerCik>
+            <rptOwnerName>Anderson William James</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SUNPOWER INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1403 N. RESEARCH WAY</rptOwnerStreet2>
+            <rptOwnerCity>OREM</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84097</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1180637</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.2541</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1180637</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1076828</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48296</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On 9/4/2026, SameDay Solar, Inc. (&quot;Purchaser&quot;) purchased shares of common stock pursuant to a Securities Purchase Agreement dated 9/2/2026 between the Issuer and Purchaser. The Reporting Person is a stockholder and a director of Purchaser. The Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein, and the filing of this report is not an admission that the Reporting Person is the beneficial owner of these securities for the purpose of Section 16 or for any other purpose.</footnote>
+        <footnote id="F2">Held by Risk Allocations Systems, Inc., of which the Reporting Person is a stockholder. The Reporting Person disclaims beneficial ownership of these securities, and the filing of this report is not an admission that the Reporting Person is the beneficial owner of these securities for the purpose of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Penney, Attorney-in-Fact for William J. Anderson</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

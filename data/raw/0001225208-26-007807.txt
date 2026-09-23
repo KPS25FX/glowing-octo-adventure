@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001225208-26-007807.txt : 20260914
+<SEC-HEADER>0001225208-26-007807.hdr.sgml : 20260914
+<ACCEPTANCE-DATETIME>20260914172342
+ACCESSION NUMBER:		0001225208-26-007807
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260910
+FILED AS OF DATE:		20260914
+DATE AS OF CHANGE:		20260914
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Joachimczyk Paul
+		CENTRAL INDEX KEY:			0001689220
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11261
+		FILM NUMBER:		261378348
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TOPBUILD CORP.
+		STREET 2:		260 JIMMY ANN DRIVE
+		CITY:			DAYTONA BEACH
+		STATE:			FL
+		ZIP:			32114
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SONOCO PRODUCTS CO
+		CENTRAL INDEX KEY:			0000091767
+		STANDARD INDUSTRIAL CLASSIFICATION:	PAPERBOARD CONTAINERS & BOXES [2650]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				570248420
+		STATE OF INCORPORATION:			SC
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE NORTH SECOND ST
+		STREET 2:		P O BOX 160
+		CITY:			HARTSVILLE
+		STATE:			SC
+		ZIP:			29551-0160
+		BUSINESS PHONE:		8433837000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE N. SECOND STREET
+		CITY:			HARTSVILLE
+		STATE:			SC
+		ZIP:			29550
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000091767</issuerCik>
+        <issuerName>SONOCO PRODUCTS CO</issuerName>
+        <issuerTradingSymbol>SON</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001689220</rptOwnerCik>
+            <rptOwnerName>Joachimczyk Paul</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>ONE NORTH SECOND ST</rptOwnerStreet1>
+            <rptOwnerStreet2>P O BOX 160</rptOwnerStreet2>
+            <rptOwnerCity>HARTSVILLE</rptOwnerCity>
+            <rptOwnerState>SC</rptOwnerState>
+            <rptOwnerZipCode>29551-0160</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Dividend Equivalents on Restricted Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0000</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55.9000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>48.4300</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>55.9000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>167.8000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Dividend equivalents on Restricted Stock units is the economic equivalent of one share of Sonoco Products Company common stock</footnote>
+        <footnote id="F2">Acquired quarterly dividend equivalent rights on Restricted Stock which will be settled upon the reporting person's retirement or other termination of service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By:Elizabeth R Kremer-Power of Attorney for Paul Joachimczyk</signatureName>
+        <signatureDate>2026-09-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

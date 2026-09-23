@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0002154205-26-000008.txt : 20260917
+<SEC-HEADER>0002154205-26-000008.hdr.sgml : 20260917
+<ACCEPTANCE-DATETIME>20260917165318
+ACCESSION NUMBER:		0002154205-26-000008
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260917
+DATE AS OF CHANGE:		20260917
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Piche Sean Adam
+		CENTRAL INDEX KEY:			0002154205
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39139
+		FILM NUMBER:		261387540
+
+	MAIL ADDRESS:	
+		STREET 1:		29 STONEHAM DRIVE
+		CITY:			LIVINGSTON
+		STATE:			NJ
+		ZIP:			07039
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CuriosityStream Inc.
+		CENTRAL INDEX KEY:			0001776909
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MOTION PICTURE & VIDEO TAPE PRODUCTION [7812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8484 GEORGIA AVE.
+		STREET 2:		SUITE 700
+		CITY:			SILVER SPRING
+		STATE:			MD
+		ZIP:			20910
+		BUSINESS PHONE:		301-755-2050
+
+	MAIL ADDRESS:	
+		STREET 1:		8484 GEORGIA AVE.
+		STREET 2:		SUITE 700
+		CITY:			SILVER SPRING
+		STATE:			MD
+		ZIP:			20910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Software Acquisition Group Inc.
+		DATE OF NAME CHANGE:	20190515
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>wk-form4a_1789678396.xml
+<DESCRIPTION>FORM 4/A
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <dateOfOriginalSubmission>2026-09-16</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001776909</issuerCik>
+        <issuerName>CuriosityStream Inc.</issuerName>
+        <issuerTradingSymbol>CURI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002154205</rptOwnerCik>
+            <rptOwnerName>Piche Sean Adam</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>8484 GEORGIA AVENUE,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 700</rptOwnerStreet2>
+            <rptOwnerCity>SILVER SPRING</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20910</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>150000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>150000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>150000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 1, 2026, the Company granted Mr. Piche 150,000 RSUs under the Company's Inducement Equity Incentive Plan. The RSUs will vest in four tranches of 75,000 on the first anniversary of the grant date, and 25,000 each on the second, third and fourth anniversaries of the grant date.</footnote>
+    </footnotes>
+
+    <remarks>This Form 4/A is  filed to correct a typographical error in the original Form 4.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Tia Cudahy, Attorney-in-Fact for Sean Piche</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

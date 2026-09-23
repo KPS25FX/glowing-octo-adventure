@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001214659-26-011395.txt : 20260903
+<SEC-HEADER>0001214659-26-011395.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903115219
+ACCESSION NUMBER:		0001214659-26-011395
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ZURAITIS MARITA
+		CENTRAL INDEX KEY:			0001198960
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10890
+		FILM NUMBER:		261357326
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O HORACE MANN EDUCATORS CORPORATION
+		STREET 2:		1 HORACE MANN PLAZA
+		CITY:			SPRINGFIELD
+		STATE:			IL
+		ZIP:			62715
+		BUSINESS PHONE:		217-788-5710
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HORACE MANN EDUCATORS CORPORATION
+		STREET 2:		1 HORACE MANN PLAZA
+		CITY:			SPRINGFIELD
+		STATE:			IL
+		ZIP:			62715
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HORACE MANN EDUCATORS CORP /DE/
+		CENTRAL INDEX KEY:			0000850141
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				370911756
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 HORACE MANN PLZ
+		CITY:			SPRINGFIELD
+		STATE:			IL
+		ZIP:			62715-0001
+		BUSINESS PHONE:		2177892500
+
+	MAIL ADDRESS:	
+		STREET 1:		1 HORACE MANN PLZ
+		CITY:			SPRINGFIELD
+		STATE:			IL
+		ZIP:			62715-0001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HORACE MANN EDUCATORS CORP
+		DATE OF NAME CHANGE:	19920108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-73923.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000850141</issuerCik>
+        <issuerName>HORACE MANN EDUCATORS CORP /DE/</issuerName>
+        <issuerTradingSymbol>HMN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001198960</rptOwnerCik>
+            <rptOwnerName>ZURAITIS MARITA</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1 HORACE MANN PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SPRINGFIELD</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>62715</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>50.990</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>299629.305</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported in this Form 4 was effected by a Rule 10b5-1 trading plan adopted by the Reporting Person on December 23, 2025.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $50.62 to $51.25.</footnote>
+        <footnote id="F3">Represents 217,395.305 vested restricted stock units and 82,234 shares of Common Stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Linea K. Crouse, Attorney in Fact for Marita Zuraitis</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

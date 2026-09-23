@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001193125-26-391991.txt : 20260915
+<SEC-HEADER>0001193125-26-391991.hdr.sgml : 20260915
+<ACCEPTANCE-DATETIME>20260915163121
+ACCESSION NUMBER:		0001193125-26-391991
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260912
+FILED AS OF DATE:		20260915
+DATE AS OF CHANGE:		20260915
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Conacher Lionel F.
+		CENTRAL INDEX KEY:			0001417326
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34219
+		FILM NUMBER:		261381180
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DESTINATION XL GROUP, INC.
+		STREET 2:		555 TURNPIKE STREET
+		CITY:			CANTON
+		STATE:			MA
+		ZIP:			02021
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DESTINATION XL GROUP, INC.
+		CENTRAL INDEX KEY:			0000813298
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				042623104
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 TURNPIKE STREET
+		CITY:			CANTON
+		STATE:			MA
+		ZIP:			02021
+		BUSINESS PHONE:		7818289300
+
+	MAIL ADDRESS:	
+		STREET 1:		555 TURNPIKE STREET
+		CITY:			CANTON
+		STATE:			MA
+		ZIP:			02021
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CASUAL MALE RETAIL GROUP INC
+		DATE OF NAME CHANGE:	20020821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DESIGNS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-12</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000813298</issuerCik>
+        <issuerName>DESTINATION XL GROUP, INC.</issuerName>
+        <issuerTradingSymbol>DXLG</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001417326</rptOwnerCik>
+            <rptOwnerName>Conacher Lionel F.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O DESTINATION XL GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>555 TURNPIKE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CANTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02021</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Interim CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.01 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>23437</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.64</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>461676</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares issued as compensation for service as Interim Chief Executive Officer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Peter H. Stratton, Jr., Attorney-In-Fact for Lionel F. Conacher</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

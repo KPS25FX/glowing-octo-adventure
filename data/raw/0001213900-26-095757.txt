@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001213900-26-095757.txt : 20260831
+<SEC-HEADER>0001213900-26-095757.hdr.sgml : 20260831
+<ACCEPTANCE-DATETIME>20260831163015
+ACCESSION NUMBER:		0001213900-26-095757
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260828
+FILED AS OF DATE:		20260831
+DATE AS OF CHANGE:		20260831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gold Steven Brian
+		CENTRAL INDEX KEY:			0002108274
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-43094
+		FILM NUMBER:		261346974
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		3-1136 CENTRE STREET
+		CITY:			THORNHILL
+		PROVINCE COUNTRY:   	A6
+		ZIP:			L4J 3M8
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jaguar Uranium Corp.
+		CENTRAL INDEX KEY:			0002039273
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3-1136 CENTRE STREET
+		STREET 2:		THORNHILL
+		CITY:			ONTARIO
+		STATE:			Z4
+		ZIP:			L4J 3M8
+		BUSINESS PHONE:		416-648-4065
+
+	MAIL ADDRESS:	
+		STREET 1:		3-1136 CENTRE STREET
+		STREET 2:		THORNHILL
+		CITY:			ONTARIO
+		STATE:			Z4
+		ZIP:			L4J 3M8
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002039273</issuerCik>
+        <issuerName>Jaguar Uranium Corp.</issuerName>
+        <issuerTradingSymbol>JAGU</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002108274</rptOwnerCik>
+            <rptOwnerName>Gold Steven Brian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3-1136 CENTRE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>THORNHILL</rptOwnerStreet2>
+            <rptOwnerCity>TORONTO</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory>A6</rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>A6</rptOwnerCountry>
+            <rptOwnerZipCode>L4J 3M8</rptOwnerZipCode>
+            <rptOwnerStateDescription>ONTARIO, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President, CEO, and Director</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Steven Gold</signatureName>
+        <signatureDate>2026-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

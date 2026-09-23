@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001718133-26-000004.txt : 20260903
+<SEC-HEADER>0001718133-26-000004.hdr.sgml : 20260903
+<ACCEPTANCE-DATETIME>20260903130216
+ACCESSION NUMBER:		0001718133-26-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260901
+FILED AS OF DATE:		20260903
+DATE AS OF CHANGE:		20260903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Spence John Yogi
+		CENTRAL INDEX KEY:			0001718133
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22904
+		FILM NUMBER:		261357630
+
+	MAIL ADDRESS:	
+		STREET 1:		321 N. CLARK STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60054
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Evanston Multi-Alpha Fund
+		CENTRAL INDEX KEY:			0001589390
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1560 SHERMAN AVENUE
+		STREET 2:		SUITE 960
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+		BUSINESS PHONE:		847-328-4961
+
+	MAIL ADDRESS:	
+		STREET 1:		1560 SHERMAN AVENUE
+		STREET 2:		SUITE 960
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	North Square Evanston Multi-Alpha Fund
+		DATE OF NAME CHANGE:	20240509
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Evanston Alternative Opportunities Fund
+		DATE OF NAME CHANGE:	20131016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001589390</issuerCik>
+        <issuerName>Evanston Multi-Alpha Fund</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001718133</rptOwnerCik>
+            <rptOwnerName>Spence John Yogi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>321 N. CLARK STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60054</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Vice President</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class I Shares of Beneficial Ownership</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10388.315</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.6263</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10388.315</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Class I Shares of Beneficial Ownership were acquired at net asset value pursuant to the Fund's continuous offering. The Fund is a non-traded, closed-end fund that does not list its shares on any securities exchange, and shares are issued at the per-share net asset value as of the date on which the subscription is accepted.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>John Yogi Spence</signatureName>
+        <signatureDate>2026-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

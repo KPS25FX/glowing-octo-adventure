@@ -1,0 +1,215 @@
+<SEC-DOCUMENT>0001493152-26-043352.txt : 20260918
+<SEC-HEADER>0001493152-26-043352.hdr.sgml : 20260918
+<ACCEPTANCE-DATETIME>20260918161741
+ACCESSION NUMBER:		0001493152-26-043352
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260916
+FILED AS OF DATE:		20260918
+DATE AS OF CHANGE:		20260918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GALLAGHER SCOTT
+		CENTRAL INDEX KEY:			0001166846
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55049
+		FILM NUMBER:		261391102
+
+	MAIL ADDRESS:	
+		STREET 1:		3415 LOGGERHEAD WAY
+		CITY:			WESLEY CHAPEL
+		STATE:			FL
+		ZIP:			33544
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WASTE ENERGY CORP.
+		CENTRAL INDEX KEY:			0001515139
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				273098487
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3250 OAKLAND HILLS COURT
+		CITY:			FAIRFIELD
+		STATE:			CA
+		ZIP:			94534
+		BUSINESS PHONE:		424-570-9446
+
+	MAIL ADDRESS:	
+		STREET 1:		3250 OAKLAND HILLS COURT
+		CITY:			FAIRFIELD
+		STATE:			CA
+		ZIP:			94534
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	METAWORKS PLATFORMS, INC.
+		DATE OF NAME CHANGE:	20220825
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CurrencyWorks Inc.
+		DATE OF NAME CHANGE:	20190905
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ICOX INNOVATIONS INC.
+		DATE OF NAME CHANGE:	20180215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001515139</issuerCik>
+        <issuerName>WASTE ENERGY CORP.</issuerName>
+        <issuerTradingSymbol>WAST</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001166846</rptOwnerCik>
+            <rptOwnerName>GALLAGHER SCOTT</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>3250 OAKLAND HILLS COURT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FAIRFIELD</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94534</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman and CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7500000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.005</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>9280714</value>
+                    <footnoteId id="F4"/>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>24280714</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 221 Cap, LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 15,000,000 restricted shares of common stock issued to 221 Cap, LLC pursuant to the Executive Consulting and Management Services Agreement effective September 1, 2026. The Reporting Person controls 221 Cap, LLC and is deemed to beneficially own the shares held by that entity. The award vests 5,000,000 shares on September 1, 2026, 5,000,000 shares on September 1, 2027 and 5,000,000 shares on September 1, 2028. Unvested shares are subject to transfer restrictions, forfeiture and cancellation under the agreement.</footnote>
+        <footnote id="F2">Represents 7,500,000 restricted shares of common stock issued directly to the Reporting Person in satisfaction of $37,500 of accrued and unpaid compensation or other amounts owed by the Issuer, based on an agreed conversion value of $0.005 per share. No cash consideration was paid by the Reporting Person in connection with the acquisition.</footnote>
+        <footnote id="F3">Following the September 17, 2026 transaction, the Reporting Person beneficially owned an aggregate of 24,230,714 shares: 9,230,714 shares held directly and 15,000,000 shares held indirectly through 221 Cap, LLC, an entity controlled by the Reporting Person.</footnote>
+        <footnote id="F4">The transactions reported above were approved by the Board of Directors of the Issuer and are reported as acquisitions pursuant to Rule 16b-3(d).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Scott Gallagher</signatureName>
+        <signatureDate>2026-09-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

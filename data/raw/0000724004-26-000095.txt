@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0000724004-26-000095.txt : 20260911
+<SEC-HEADER>0000724004-26-000095.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911140207
+ACCESSION NUMBER:		0000724004-26-000095
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alltoft Jennifer Sadie
+		CENTRAL INDEX KEY:			0001769053
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11740
+		FILM NUMBER:		261373773
+
+	MAIL ADDRESS:	
+		STREET 1:		12100 W. 6TH AVENUE
+		CITY:			LAKEWOOD
+		STATE:			CO
+		ZIP:			80228
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MESA LABORATORIES INC /CO/
+		CENTRAL INDEX KEY:			0000724004
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				840872291
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12100 W 6TH AVE
+		CITY:			LAKEWOOD
+		STATE:			CO
+		ZIP:			80228
+		BUSINESS PHONE:		3039878000
+
+	MAIL ADDRESS:	
+		STREET 1:		12100 W 6TH AVE
+		CITY:			LAKEWOOD
+		STATE:			CO
+		ZIP:			80228
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MESA LABORATORIES INC /CO
+		DATE OF NAME CHANGE:	19951117
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MESA MEDICAL INC
+		DATE OF NAME CHANGE:	19921123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000724004</issuerCik>
+        <issuerName>MESA LABORATORIES INC /CO/</issuerName>
+        <issuerTradingSymbol>MLAB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001769053</rptOwnerCik>
+            <rptOwnerName>Alltoft Jennifer Sadie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>12100 W. 6TH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAKEWOOD</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80228</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units - 10</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2009-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1774</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1774</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1774</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each RSU represents a contingent right to receive one share of the Issuer's common stock</footnote>
+        <footnote id="F2">RSUs that vest September 9, 2027</footnote>
+        <footnote id="F3">Not Applicable</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>John Sakys under Power of Attorney by Jenny Alltoft</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,234 @@
+<SEC-DOCUMENT>0001937040-26-000003.txt : 20260911
+<SEC-HEADER>0001937040-26-000003.hdr.sgml : 20260911
+<ACCEPTANCE-DATETIME>20260911190320
+ACCESSION NUMBER:		0001937040-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260909
+FILED AS OF DATE:		20260911
+DATE AS OF CHANGE:		20260911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hernandez Jacinto J
+		CENTRAL INDEX KEY:			0001937040
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40579
+		FILM NUMBER:		261375538
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O COTERRA ENERGY INC.
+		STREET 2:		840 GESSNER ROAD, SUITE 1400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CADIZ INC
+		CENTRAL INDEX KEY:			0000727273
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER SUPPLY [4941]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				770313235
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		550 SOUTH HOPE STREET
+		STREET 2:		SUITE 2850
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+		BUSINESS PHONE:		213-271-1600
+
+	MAIL ADDRESS:	
+		STREET 1:		550 SOUTH HOPE STREET
+		STREET 2:		SUITE 2850
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CADIZ LAND CO INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC AGRICULTURAL HOLDINGS INC
+		DATE OF NAME CHANGE:	19920602
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARIDTECH INC
+		DATE OF NAME CHANGE:	19880523
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000727273</issuerCik>
+        <issuerName>CADIZ INC</issuerName>
+        <issuerTradingSymbol>CDZI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001937040</rptOwnerCik>
+            <rptOwnerName>Hernandez Jacinto J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CADIZ INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>550 S. HOPE ST., 2850</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90071</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>800000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>800000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Rights</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>800000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-07-27</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>800000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>800000</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of Cadiz Inc. (the &quot;Company&quot;) common stock underlying a like number of restricted stock units (&quot;RSUs&quot;) granted to the Reporting Person on September 9, 2026 (&quot;Grant Date&quot;). These RSUs shall vest ratably (a) 200,000 on the Grant Date and (b) in twelve equal quarterly installments of 50,000 each on the final day of each fiscal quarter of the Company commencing with the fiscal quarter ending September 30, 2026, subject to the Reporting Person's continuous service as of each applicable vesting date. The RSUs were granted to the Reporting Person as an employment inducement award pursuant to Nasdaq Listing Rule 5635(c)(4). All RSUs that vest shall be settled by delivery of one share of the Company's common stock per vested RSU on the earlier to occur of (a) the fifth anniversary of the Grant Date or (b) the Reporting Person's &quot;separation from service&quot;, as defined in Section 209A of the Internal Revenue Code of 1986, as amended.</footnote>
+        <footnote id="F2">The Reporting Person disclaims beneficial ownership of these securities until such time, and to the extent, that ownership of the securities has vested.</footnote>
+        <footnote id="F3">Each Performance Right (&quot;PSU&quot;) represents a contingent right to receive one share of the Company's common stock. The PSUs were granted to the Reporting Person as an employment inducement award pursuant to Nasdaq Listing Rule 5635(c)(4). The Reporting Person disclaims beneficial ownership of these securities until such time, and to the extent, that ownership of the securities has vested.</footnote>
+        <footnote id="F4">Of the 800,000 PSUs granted to the Reporting Person, 200,000 PSUs vest upon the Company's common stock achieving a price hurdle of $6.00 per share, 200,000 PSUs vest upon the Company's common stock achieving a price hurdle of $8.00 per share, 200,000 PSUs vest upon the Company's common stock achieving a price hurdle of $10.00 per share, and 200,000 PSUs vest upon the Company's common stock achieving a price hurdle of $12.00 per share, subject to the Reporting Person's continuous service as of each applicable vesting date. All PSUs that vest shall be settled by delivery of one share of the Company's common stock per vested PSU on the earlier to occur of (a) the fifth anniversary of the Grant Date or (b) the Reporting Person's &quot;separation from service&quot;, as defined in Section 209A of the Internal Revenue Code of 1986, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jacinto J. Hernandez</signatureName>
+        <signatureDate>2026-09-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

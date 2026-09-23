@@ -1,0 +1,194 @@
+<SEC-DOCUMENT>0001493152-26-040467.txt : 20260827
+<SEC-HEADER>0001493152-26-040467.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827195958
+ACCESSION NUMBER:		0001493152-26-040467
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Monaco Donald P
+		CENTRAL INDEX KEY:			0001563607
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38015
+		FILM NUMBER:		261332460
+
+	MAIL ADDRESS:	
+		STREET 1:		2690 WESTON ROAD, SUITE 200
+		CITY:			WESTON
+		STATE:			FL
+		ZIP:			3331
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NextTrip, Inc.
+		CENTRAL INDEX KEY:			0000788611
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRANSPORTATION SERVICES [4700]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				271865814
+		FISCAL YEAR END:			0228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1560 SAWGRASS CORPORATE PARKWAY
+		STREET 2:		SUITE 400
+		CITY:			SUNRISE
+		STATE:			FL
+		BUSINESS PHONE:		(954) 526-9688
+
+	MAIL ADDRESS:	
+		STREET 1:		1560 SAWGRASS CORPORATE PARKWAY
+		STREET 2:		SUITE 400
+		CITY:			SUNRISE
+		STATE:			FL
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SIGMA ADDITIVE SOLUTIONS, INC.
+		DATE OF NAME CHANGE:	20220812
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SIGMA LABS, INC.
+		DATE OF NAME CHANGE:	20101014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FRAMEWAVES INC
+		DATE OF NAME CHANGE:	20010130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000788611</issuerCik>
+        <issuerName>NextTrip, Inc.</issuerName>
+        <issuerTradingSymbol>NTRP</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001563607</rptOwnerCik>
+            <rptOwnerName>Monaco Donald P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1560 SAWGRASS CORPORATE PARKWAY,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 400</rptOwnerStreet2>
+            <rptOwnerCity>SUNRISE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33323</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series B Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3612</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>930927</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3612</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Monaco Investment Partners II, LP</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">At the election of the Reporting Person, each outstanding share of Series B Preferred Stock (the &quot;Series B Preferred&quot;) may be converted to the number of shares of Issuer common stock equal to the quotient obtained by dividing (i) the price per share of Series B Preferred of $1,000, plus accrued and unpaid dividends thereon by (ii) an initial conversion price of $3.88, subject to adjustment under certain limited circumstances, subject to beneficial ownership limitations and rounded down to the nearest whole share.</footnote>
+        <footnote id="F2">The Series B Preferred was acquired from the Issuer in a privately negotiated exchange pursuant to an exchange agreement, in exchange for the cancellation of $3,612,000 aggregate principal amount of non-convertible indebtedness, together with accrued and unpaid interest thereon. The Series B Preferred has a stated value of $1,000 per share.</footnote>
+        <footnote id="F3">The Series B Preferred Stock is immediately convertible at the election of the Reporting Person.</footnote>
+        <footnote id="F4">The Series B Preferred does not expire.</footnote>
+        <footnote id="F5">The shares are beneficially owned by Monaco Investment Partners II, LP (&quot;MI Partners II&quot;). The Reporting Person is the managing general partner of MI Partners II. As such, the Reporting Person is deemed to beneficially own the securities held by the MI Partners II. The Reporting Person disclaims Section 16 beneficial ownership in the securities held by MI Partners II, except to the extent of his pecuniary interest therein, if any, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of such securities for Section 16 or any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Donald Monaco</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

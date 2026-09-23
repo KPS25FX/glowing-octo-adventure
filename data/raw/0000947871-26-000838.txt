@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0000947871-26-000838.txt : 20260827
+<SEC-HEADER>0000947871-26-000838.hdr.sgml : 20260827
+<ACCEPTANCE-DATETIME>20260827110013
+ACCESSION NUMBER:		0000947871-26-000838
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260825
+FILED AS OF DATE:		20260827
+DATE AS OF CHANGE:		20260827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Imura Takahiro
+		CENTRAL INDEX KEY:			0002119480
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14948
+		FILM NUMBER:		261326601
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		1 TOYOTA CHO
+		CITY:			TOYOTA CITY
+		NON US STATE TERRITORY:  	AICHI PREFECTURE
+		PROVINCE COUNTRY:   	M0
+		ZIP:			471-8571
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOYOTA MOTOR CORP/
+		CENTRAL INDEX KEY:			0001094517
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			M0
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 TOYOTA CHO TOYOTA CITY
+		STREET 2:		AICHI PREFECTURE 471-8571
+		CITY:			JAPAN
+		STATE:			M0
+		ZIP:			00000
+		BUSINESS PHONE:		81-565-28-2121
+
+	MAIL ADDRESS:	
+		STREET 1:		1 TOYOTA CHO TOYOTA CITY
+		STREET 2:		AICHI PREFECTURE 471-8571
+		CITY:			JAPAN
+		STATE:			M0
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4 - IMURA
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001094517</issuerCik>
+        <issuerName>TOYOTA MOTOR CORP/</issuerName>
+        <issuerTradingSymbol>TM</issuerTradingSymbol>
+        <issuerForeignTradingSymbol>7203</issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002119480</rptOwnerCik>
+            <rptOwnerName>Imura Takahiro</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1 TOYOTA-CHO, TOYOTA CITY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>AICHI PREFECTURE</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>M0</rptOwnerCountry>
+            <rptOwnerZipCode>471-8571</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Operating Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>57</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.53</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8943</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20600</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The purchase was made in Japanese Yen and the price was converted into U.S. dollars based on the foreign currency exchange rate as of August 25, 2026 (at Japanese Yen 1.00 = U.S. dollar .0063).</footnote>
+        <footnote id="F2">These shares are held in trust for the benefit of the Reporting Person under a share-based compensation program.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Yoshihide Moriyama, by PoA from Takahiro Imura</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

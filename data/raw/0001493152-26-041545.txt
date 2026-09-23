@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001493152-26-041545.txt : 20260904
+<SEC-HEADER>0001493152-26-041545.hdr.sgml : 20260904
+<ACCEPTANCE-DATETIME>20260904161521
+ACCESSION NUMBER:		0001493152-26-041545
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260902
+FILED AS OF DATE:		20260904
+DATE AS OF CHANGE:		20260904
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Weinstein Eric David
+		CENTRAL INDEX KEY:			0001898418
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41079
+		FILM NUMBER:		261362274
+
+	MAIL ADDRESS:	
+		STREET 1:		7 PINEWOOD CIRCLE
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10603
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Currenc Group Inc.
+		CENTRAL INDEX KEY:			0001862935
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		410 NORTH BRIDGE ROAD
+		STREET 2:		SPACES CITY HALL
+		CITY:			SINGAPORE
+		PROVINCE COUNTRY:   	U0
+		ZIP:			188726
+		BUSINESS PHONE:		917-519-3948
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		410 NORTH BRIDGE ROAD
+		STREET 2:		SPACES CITY HALL
+		CITY:			SINGAPORE
+		PROVINCE COUNTRY:   	U0
+		ZIP:			188726
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	InFinT Acquisition Corp
+		DATE OF NAME CHANGE:	20210518
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001862935</issuerCik>
+        <issuerName>Currenc Group Inc.</issuerName>
+        <issuerTradingSymbol>CURR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001898418</rptOwnerCik>
+            <rptOwnerName>Weinstein Eric David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>410 NORTH BRIDGE ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SPACES CITY HALL</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>U0</rptOwnerCountry>
+            <rptOwnerZipCode>188726</rptOwnerZipCode>
+            <rptOwnerStateDescription>SINGAPORE</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3720</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.36</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>175221</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a non-employee director grant of ordinary shares of the Issuer, par value $0.0001 (the &quot;Ordinary Shares&quot;) pursuant to the Issuer's 2024 Equity Incentive Plan.</footnote>
+        <footnote id="F2">The Ordinary Shares were granted to the Reporting Person as payment for director fees totaling $12,500 for the three months ended August 31, 2026. The number of shares granted was calculated based on the closing price of the Ordinary Shares on September 1, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric Weinstein, By Wan Lung Eng through Power of Attorney</signatureName>
+        <signatureDate>2026-09-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0002153122-26-000005.txt : 20260916
+<SEC-HEADER>0002153122-26-000005.hdr.sgml : 20260916
+<ACCEPTANCE-DATETIME>20260916133750
+ACCESSION NUMBER:		0002153122-26-000005
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260914
+FILED AS OF DATE:		20260916
+DATE AS OF CHANGE:		20260916
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McCarthy Dennis James
+		CENTRAL INDEX KEY:			0002153122
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15749
+		FILM NUMBER:		261383161
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE RIGHTER PARKWAY
+		STREET 2:		SUITE 100
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BREAD FINANCIAL HOLDINGS, INC.
+		CENTRAL INDEX KEY:			0001101215
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERSONAL CREDIT INSTITUTIONS [6141]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				311429215
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3095 LOYALTY CIRCLE
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43219
+		BUSINESS PHONE:		6147294000
+
+	MAIL ADDRESS:	
+		STREET 1:		3095 LOYALTY CIRCLE
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLIANCE DATA SYSTEMS CORP
+		DATE OF NAME CHANGE:	19991217
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1789580268.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001101215</issuerCik>
+        <issuerName>BREAD FINANCIAL HOLDINGS, INC.</issuerName>
+        <issuerTradingSymbol>BFH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002153122</rptOwnerCik>
+            <rptOwnerName>McCarthy Dennis James</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>ONE RIGHTER PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>DE</rptOwnerState>
+            <rptOwnerZipCode>19803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Chief Revenue Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15.89</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>108.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29546</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were acquired pursuant to a dividend reinvestment feature of Mr. McCarthy's brokerage account.</footnote>
+        <footnote id="F2">This number represents the total amount of shares owned by Mr. McCarthy, rounded to the nearest whole share.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Benjamin L. Morgan, Attorney in Fact</signatureName>
+        <signatureDate>2026-09-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
