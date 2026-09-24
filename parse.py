@@ -8,7 +8,8 @@
 # Rows        Filing = accession, doc_type, period, issuer_cik, issuer_name, ticker?   (1 per file)
 #             Owner  = accession, owner_cik, owner_name, is_director, is_officer,
 #                      is_ten_pct                                                    (1 per reportingOwner)
-#             Line   = accession, line_no, traded, code, shares?, price?            (1 per transaction)
+#             Line   = accession, line_no, traded, code?, shares?, price?           (1 per transaction)
+#             code? : 3 of 10,885 filings omit <transactionCoding> on some lines
 #
 # Readers     text    : Element × Path → Text?   the value at a path; <value> wrappers unwrapped
 #             required: Element × Path → Text    text, where missing is an error
@@ -36,6 +37,7 @@ DocType = Literal["4", "4/A"]
 Code = Literal["P", "S", "V", "A", "D", "F", "I", "M", "C", "E",
                "H", "O", "X", "G", "L", "W", "Z", "J", "K", "U"]
 
+CODE = "transactionCoding/transactionCode"
 TRANSACTION_PATHS = "nonDerivativeTable/nonDerivativeTransaction", "derivativeTable/derivativeTransaction"
 
 
@@ -71,7 +73,7 @@ class Line:
     accession: Accession
     line_no: int
     traded: Day
-    code: Code
+    code: Code | None
     shares: Qty | None
     price: Qty | None
 
@@ -175,7 +177,7 @@ def parse(accession: Accession, root: Element) -> tuple[Filing, list[Owner], lis
             accession=accession,
             line_no=n,
             traded=day(t, "transactionDate"),
-            code=one_of(t, "transactionCoding/transactionCode", Code),
+            code=one_of(t, CODE, Code) if text(t, CODE) else None,
             shares=qty(t, "transactionAmounts/transactionShares"),
             price=qty(t, "transactionAmounts/transactionPricePerShare"),
         )

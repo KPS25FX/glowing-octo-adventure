@@ -53,10 +53,24 @@ JOIN purchases p ON p.cik = d.cik AND p.traded BETWEEN d.traded - (w - 1) AND d.
 GROUP BY d.cik, d.traded;
 
 CREATE MACRO clusters(w, k) AS TABLE
-SELECT c.ticker, c.name, max(b.buyers) AS peak_buyers, max(b.d) AS latest_cluster,
+SELECT c.cik, c.ticker, c.name, max(b.buyers) AS peak_buyers, max(b.d) AS latest_cluster,
        bool_and(b.one_day_one_price) AS one_day_one_price
 FROM buyers(w) b
 JOIN companies c USING (cik)
 WHERE b.buyers >= k
 GROUP BY c.cik, c.ticker, c.name
 ORDER BY peak_buyers DESC, latest_cluster DESC;
+
+-- One row per purchase line of company c, with every owner on its filing.
+CREATE MACRO purchases_of(c) AS TABLE
+SELECT l.traded, string_agg(DISTINCT i.name, '; ') AS insiders,
+       bool_or(o.is_director) AS director, bool_or(o.is_officer) AS officer,
+       bool_or(o.is_ten_pct) AS ten_pct, l.shares, l.price, l.shares * l.price AS value,
+       l.accession
+FROM lines l
+JOIN filings f USING (accession)
+JOIN owners o USING (accession)
+JOIN insiders i ON i.cik = o.owner_cik
+WHERE l.code = 'P' AND f.issuer_cik = c
+GROUP BY l.accession, l.line_no, l.traded, l.shares, l.price
+ORDER BY l.traded DESC, l.accession, l.line_no;
